@@ -1,0 +1,178 @@
+<!-- Menu Hamburger dan Mobile -->
+<div id="mvp-fly-wrap">
+    <div id="mvp-fly-menu-top" class="left relative">
+        <div class="mvp-fly-top-out left relative">
+            <div class="mvp-fly-top-in">
+                <div id="mvp-fly-logo" class="left relative">
+                    <a href="{{ .Site.BaseURL }}">
+                        <img class="lazy" style="height: 40px" data-src="{{ "/asset/logo.png" | absURL }}" alt="{{ .Site.Title }}" data-rjs="2"/>
+                    </a>
+                </div>
+            </div>
+            <div class="mvp-fly-but-wrap mvp-fly-but-menu mvp-fly-but-click">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    <div id="mvp-fly-menu-wrap">
+        <nav class="mvp-fly-nav-menu left relative">
+            <div class="menu-side-menu-new-container">
+                <ul id="menu-side-menu-new" class="menu">
+                    {{ range $name, $items := .Site.Taxonomies.categories }}
+                    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-30635">
+                        <a href="{{ printf "%s/%s" "categories" ($name | urlize | lower) | absURL }}">
+                            {{ $name | humanize | title }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div id="mvp-fly-soc-wrap">
+        <span class="mvp-fly-soc-head">Ikuti Kami</span>
+        <ul class="mvp-fly-soc-list left relative">
+            <li>
+                <a rel="nofollow" href="{{ .Site.Params.fb_page }}" class="fa fa-facebook fa-2" target="_blank"></a>
+            </li>
+            <li>
+                <a rel="nofollow" href="{{ .Site.Params.twitter }}" class="fa fa-twitter fa-2" target="_blank"></a>
+            </li>
+            <li>
+                <a rel="nofollow" href="{{ .Site.Params.fb_page }}" class="fa fa-instagram fa-2" target="_blank"></a>
+            </li>
+            <li>
+                <a rel="nofollow" href="{{ .Site.Params.fb_page }}" class="fa fa-youtube-play fa-2" target="_blank"></a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- End Menu Hamburger dan Mobile -->
+
+<div id="mvp-site" class="left relative">
+
+    <!-- search Box -->
+    <div id="mvp-search-wrap">
+        <div id="mvp-search-box">
+            {{ if site.Params.search }}
+            {{ "<!-- search -->" | safeHTML }}
+            <form method="get" id="searchform" action="{{ .Site.BaseURL }}/search">
+                <input type="text" name="s" id="s"/>
+                <input type="hidden" id="searchsubmit" value="Search"/>
+            </form>
+            {{ end }}
+        </div>
+        <div class="mvp-search-but-wrap mvp-search-click">
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+    <!-- End Search Box -->
+
+
+    <div id="mvp-site-wall" class="left relative">
+        <div id="mvp-site-main" class="left relative">
+
+            <!-- Header & Navigasi Dekstop -->
+            <header id="mvp-main-head-wrap" class="left relative">
+                <nav id="mvp-main-nav-wrap" class="left relative">
+                    <div id="mvp-main-nav-top" class="left relative">
+                        <div class="mvp-main-box">
+                            <div id="mvp-nav-top-wrap" class="left relative">
+                                <div class="mvp-nav-top-right-out left relative">
+                                    <div class="mvp-nav-top-right-in">
+                                        <div class="mvp-nav-top-cont left relative">
+                                            <div class="mvp-nav-top-left-out relative">
+                                                <div class="mvp-nav-top-left">
+                                                    <div class="mvp-nav-soc-wrap">
+                                                        <a href="{{ .Site.Params.fb_page }}" target="_blank" rel="nofollow">
+                                                            <span class="mvp-nav-soc-but fa fa-facebook fa-2"></span>
+                                                        </a>
+                                                        <a href="{{ .Site.Params.twitter }}" target="_blank" rel="nofollow">
+                                                            <span class="mvp-nav-soc-but fa fa-twitter fa-2"></span>
+                                                        </a>
+                                                        <a href="{{ .Site.Params.fb_page }}" target="_blank" rel="nofollow">
+                                                            <span class="mvp-nav-soc-but fa fa-instagram fa-2"></span>
+                                                        </a>
+                                                        <a href="{{ .Site.Params.fb_page }}" target="_blank" rel="nofollow">
+                                                            <span class="mvp-nav-soc-but fa fa-youtube-play fa-2"></span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="mvp-fly-but-wrap mvp-fly-but-click left relative">
+                                                        <span></span>
+                                                        <span></span>
+                                                        <span></span>
+                                                        <span></span>
+                                                    </div>
+                                                </div>
+                                                <div class="mvp-nav-top-left-in">
+                                                    <div class="mvp-nav-top-mid left relative">
+                                                        <a class="mvp-nav-logo-reg" href="{{ .Site.BaseURL }}">
+                                                            <img class="lazy" style="height: 80px" data-src="{{ "/asset/logo-s.png" | absURL }}" alt="{{ .Site.Title }}" data-rjs="2"/>
+                                                        </a>
+                                                        <a class="mvp-nav-logo-small" href="{{ .Site.BaseURL }}">
+                                                            <img class="lazy" data-src="{{ "/asset/logo.png" | absURL }}" alt="{{ .Site.Title }}" data-rjs="2"/>
+                                                        </a>
+                                                        <h1 class="mvp-logo-title">{{ .Site.Title }}</h1>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="mvp-nav-top-right">
+                                        <span class="mvp-nav-search-but fa fa-search fa-2 mvp-search-click"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="mvp-main-nav-bot" class="left relative">
+                        <div id="mvp-main-nav-bot-cont" class="left">
+                            <div class="mvp-main-box">
+                                <div id="mvp-nav-bot-wrap" class="left">
+                                    <div class="mvp-nav-bot-right-out left">
+                                        <div class="mvp-nav-bot-right-in">
+                                            <div class="mvp-nav-bot-cont left">
+                                                <div class="mvp-nav-bot-left-out">
+                                                    <div class="mvp-nav-bot-left left relative">
+                                                        <div class="mvp-fly-but-wrap mvp-fly-but-click left relative">
+                                                            <span></span>
+                                                            <span></span>
+                                                            <span></span>
+                                                            <span></span>
+                                                        </div>
+                                                    </div>
+                                                    <div class="mvp-nav-bot-left-in">
+                                                        <div class="mvp-nav-menu left">
+                                                            <div class="menu-main-menu-new-container">
+                                                                <ul id="menu-main-menu-new" class="menu">
+                                                                    {{ range .Site.Menus.navbar }}
+                                                                    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30629">
+                                                                        <a href="{{ .URL }}">{{ .Name }}</a>
+                                                                    </li>
+                                                                    {{ end }}
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="mvp-nav-bot-right left relative">
+                                            <span class="mvp-nav-search-but fa fa-search fa-2 mvp-search-click"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <!-- End Dekstop -->
+
+        </div>
+    </div>
+</div>

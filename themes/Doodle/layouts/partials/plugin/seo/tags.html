@@ -1,0 +1,99 @@
+<title>Pembahasan menarik tentang {{ .Title }} | {{ .Site.Title }}</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Temukan pembahasan menarik mengenai {{ .Title }} yang dirangkum dari berbagai sumber terpercaya"/>
+<link rel="canonical" href="{{ .Permalink }}" />
+<meta property="og:locale" content="In-Id" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Pembahasan menarik tentang {{ .Title }} | {{ .Site.Title }}" />
+<meta property="og:description" content="Temukan pembahasan menarik mengenai {{ .Title }} yang dirangkum dari berbagai sumber terpercaya" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Temukan pembahasan menarik mengenai {{ .Title }} yang dirangkum dari berbagai sumber terpercaya" />
+<meta name="twitter:title" content="Pembahasan menarik tentang {{ .Title }} | {{ .Site.Title }}"/>
+
+<!-- Id Jsone -->
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>
+{
+    "@context":"https://schema.org",
+    "@graph":[{
+        "@type":"Organization",
+        "@id":"{{ .Site.BaseURL }}#organization",
+        "name":"{{ .Site.Title }}",
+        "url":"{{ .Site.BaseURL }}",
+
+        "logo":{
+            "@type":"ImageObject",
+            "@id":"{{ .Site.BaseURL }}#logo",
+            "url":"{{ .Site.Params.og_image | absURL }}",
+            "caption":"{{ .Site.Title }}"
+        },
+        
+        "image":{
+            "@id":"{{ .Site.BaseURL }}#logo"}
+        },
+        
+        {
+            "@type":"WebSite",
+            "@id":"{{ .Site.BaseURL }}#website",
+            "url":"{{ .Site.BaseURL }}",
+            "name":"{{ .Site.Title }}",
+
+            "publisher":{
+                "@id":"{{ .Site.BaseURL }}#organization"
+            },
+            
+            "potentialAction":{
+                "@type":"SearchAction",
+                "target":"{{ .Site.BaseURL }}?s={search_term_string}",
+                "query-input":"required name=search_term_string"
+            }
+        },
+    
+        {
+            "@type":"CollectionPage",
+            "@id":"{{ .Site.BaseURL }}#webpage",
+            "url":"{{ .Permalink }}",
+            "inLanguage":"In-Id",
+            "name":"Pembahasan menarik tentang {{ .Title }} | {{ .Site.Title }}",
+            "isPartOf":{
+                "@id":"{{ .Site.BaseURL }}#website"
+            },
+            "description":"Temukan pembahasan menarik mengenai {{ .Title }} yang dirangkum dari berbagai sumber terpercaya",
+            "breadcrumb":{
+                "@id":"{{ .Permalink }}#breadcrumb"
+            }
+        },
+    
+        {
+            "@type":"BreadcrumbList",
+            "@id":"{{ .Permalink }}#breadcrumb",
+            "itemListElement":[{
+                "@type":"ListItem",
+                "position":1,
+                "item":{
+                    "@type":"WebPage",
+                    "@id":"{{ .Site.BaseURL }}",
+                    "url":"{{ .Site.BaseURL }}",
+                    "name":"Home"
+                }
+            },
+            
+            {
+                "@type":"ListItem",
+                "position":2,
+                "item":{
+                    "@type":"WebPage",
+                    "@id":"{{ .Permalink }}",
+                    "url":"{{ .Permalink }}",
+                    "name":"{{ .Title }}"
+                }
+            }
+            
+        ]
+    }
+]}
+</script>
+<!-- / Yoast SEO Premium plugin. -->

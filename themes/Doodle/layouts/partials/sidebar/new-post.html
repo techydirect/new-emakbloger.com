@@ -1,0 +1,33 @@
+<section id="mvp_flex_widget-7" class="mvp-side-widget mvp_flex_widget">
+    <div class="mvp-widget-home-head">
+        <h3 class="mvp-widget-home-title">
+            <span class="mvp-widget-home-title">Artikel Terbaru</span>
+        </h3>
+    </div>
+    <div class="mvp-widget-flex-wrap left relative">
+        <div class="mvp-flex-story-wrap left relative">
+            {{ range first 7 ( .Site.RegularPages ) }}
+            <a href="{{ .Permalink }}" rel="bookmark">
+                <div class="mvp-flex-story left relative mvp-flex-row">
+                    <div class="mvp-flex-story-out right relative">
+                        <div class="mvp-flex-story-img left relative">
+                            <img style="width: 100%; height: 2400px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="mvp-reg-img wp-post-image lazy" alt="{{ .Title }}"/>
+                            <img style="width: 100%; height: 80px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="mvp-mob-img wp-post-image lazy" alt="{{ .Title }}"/>
+                        </div>
+                        <div class="mvp-flex-story-in">
+                            <div class="mvp-flex-story-text left relative">
+                                <div class="mvp-cat-date-wrap left relative">
+                                    <span class="mvp-cd-cat left relative">{{ .Params.Categories }}</span>
+                                    <span class="mvp-cd-date left relative">{{ .Date.Format "January, 2006" }}</span>
+                                </div>
+                                <div class="mvp-stand-title">{{ .Title }}</div>
+                                <p>{{ .Params.Description }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>

@@ -1,0 +1,49 @@
+{{ define "meta" }}
+{{ partial "plugin/seo/categories.html" . }}
+{{ end }}
+
+
+{{ define "main" }}
+
+<div id="mvp-site" class="left relative">
+    <div id="mvp-site-wall" class="left relative">
+        <div id="mvp-site-main" class="left relative">
+            <div id="mvp-main-body-wrap" class="left relative">
+                <div id="mvp-home-widget-wrap" class="left relative">
+                    <div class="mvp-feat2-bot-wrap left relative">
+                        <div class="mvp-main-box">
+                            <div class="spanduk">
+                                <span class="mvp-widget-home-title">{{ .Title }}</span>
+                            </div>
+                            <!-- Bagian Konten Grid -->
+                            <div class="grides">
+                                <div class="grid-areas">
+                                    {{ range .Paginator.Pages }}
+                                    <a href="{{ .Permalink }}" rel="bookmark">
+                                        <div class="relative">
+                                            <div class="left relative">
+                                                <img data-src="{{ or .Params.Image .Site.Params.default | absURL }}" class="lazy" alt="{{ .Title }}"/>
+                                            </div>
+                                            <div class="mvp-feat2-bot-text relative">
+                                                <h2>{{ .Title }}</h2>
+                                            </div>
+                                        </div>
+                                    </a>
+                                    {{ end }}
+                                </div>
+                            </div>
+                            <!-- /Bagian Konten Grid -->
+                            <div class="mvp-main-blog-cont left relative">
+                                <div class="spanduk-1">
+                                    {{ template "_internal/pagination.html" . }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}

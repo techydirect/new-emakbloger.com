@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="robots" content="{{ .Site.Params.robots }}">
+    {{ partial "head.html" . }}
+    {{ block "meta" . }} {{ end }}
+    <link data-optimized="2" rel="stylesheet" href="{{ "/css/doodle.css" | absURL }}"/>
+    <link rel="stylesheet" href="{{ "/css/mycss.css" | absURL }}"/>
+    <link rel="stylesheet" id="mvp-fonts-css" href="{{ "/css/g-font.css" | absURL }}" type="text/css" media="all"/>
+    <script type="text/javascript" src="{{ "/js/g-jquery.js" | absURL }}"></script>
+    <link rel="shortcut icon" href="{{ "/asset/favicon.png" | absURL }}"/>
+</head>
+<body>
+    <header>
+        {{ partial "header.html" . }}
+    </header>
+        {{ block "main" . }} {{ end }}
+    <footer>
+        {{ partial "footer.html" . }}
+    </footer>
+    {{ partial "plugin/insert/footer.html" . }}
+</body>
+</html>

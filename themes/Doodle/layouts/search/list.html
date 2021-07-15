@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+<div id="mvp-site" class="left relative">
+    <div id="mvp-site-wall" class="left relative">
+        <div id="mvp-site-main" class="left relative">
+            <div id="mvp-main-body-wrap" class="left relative">
+                <div id="mvp-home-widget-wrap" class="left relative">
+                    <div class="mvp-feat2-bot-wrap left relative">
+                        <div class="mvp-main-box">
+                            <div class="spanduk">
+                                <span class="mvp-widget-home-title">{{ .Title }}</span>
+                            </div>
+                            <!-- Bagian Konten Grid -->
+                            <div class="grides">
+                                <div id="search-results" class="grid-areas">
+                                    <script id="search-result-template" type="text/x-js-template">
+                                        <a href="${link}" rel="bookmark">
+                                            <div class="relative">
+                                                <div class="mvp-feat2-bot-text relative">
+                                                        <p class="mvp-cd-date">${ isset categories }${categories}${ end }</p>
+                                                    <h2>${title}</h2>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </script>
+                                </div>
+                            </div>
+                            <!-- /Bagian Konten Grid -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ "<!-- Search index -->" | safeHTML }}
+<script>
+    var indexURL = {{ "index.json" | absURL }}
+</script>
+
+
+{{ end }}

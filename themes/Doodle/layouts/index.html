@@ -1,0 +1,27 @@
+{{ define "meta" }}
+{{ partial "plugin/seo/home.html" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<div id="mvp-site" class="left relative">
+    <div id="mvp-site-wall" class="left relative">
+        <div id="mvp-site-main" class="left relative">
+            <div id="mvp-main-body-wrap" class="left relative">
+                <div id="mvp-home-widget-wrap" class="left relative">
+                    {{ partial "indexing/section-1.html" . }}
+                    {{ partial "indexing/section-2.html" . }}
+                    {{ partial "indexing/section-3.html" . }}
+                    {{ partial "indexing/section-4.html" . }}
+                </div>
+                <div class="mvp-main-blog-wrap left relative">
+                    <div class="mvp-main-box">
+                        {{ partial "indexing/all.html" . }}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}

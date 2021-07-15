@@ -1,0 +1,102 @@
+<footer id="mvp-foot-wrap" class="left relative">
+    <div id="mvp-foot-top" class="left relative">
+        <div class="mvp-main-box">
+            <div id="mvp-foot-soc" class="left relative">
+                <ul class="mvp-foot-soc-list left relative">
+                    <li>
+                        <a rel="nofollow" href="{{ .Site.Params.fb_page }}" target="_blank" class="fa fa-facebook fa-2"></a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="{{ .Site.Params.twitter }}" target="_blank" class="fa fa-twitter fa-2"></a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="{{ .Site.Params.fb_page }}" target="_blank" class="fa fa-instagram fa-2"></a>
+                    </li>
+                    <li>
+                        <a rel="nofollow" href="{{ .Site.Params.fb_page }}" target="_blank" class="fa fa-youtube-play fa-2"></a>
+                    </li>
+                </ul>
+            </div>
+            <div id="mvp-foot-menu-wrap" class="left relative">
+                <div id="mvp-foot-menu" class="left relative">
+                    <div class="menu-footer-menu-new-container">
+                        <ul id="menu-footer-menu-new" class="menu">
+                            {{ range .Site.Menus.navbar }}
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30646">
+                                <a href="{{ .URL }}">{{ .Name }}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="mvp-foot-bot" class="left relative">
+        <div class="mvp-main-box">
+            <div id="mvp-foot-copy" class="left relative">
+                <p>
+                    Design By: {{ .Site.Title }}
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle1.js" | absURL }}"></script>
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle2.js" | absURL }}"></script>
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle3.js" | absURL }}"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@17.4.0/dist/lazyload.min.js"></script>
+<script>
+    const myLazyLoad = new LazyLoad({
+        elements_selector: ".lazy"
+    })
+</script>
+
+<script type='text/javascript'>
+    jQuery(document).ready(function($) {
+        $(window).load(function() {
+            var leaderHeight = $("#mvp-leader-wrap").outerHeight();
+            $("#mvp-site-main").css("margin-top", leaderHeight);
+        });
+    
+        $(window).resize(function() {
+            var leaderHeight = $("#mvp-leader-wrap").outerHeight();
+            $("#mvp-site-main").css("margin-top", leaderHeight);
+        });
+    
+    });
+    
+    jQuery(document).ready(function($) {
+        $(".menu-item-has-children a").click(function(event) {
+            event.stopPropagation();
+            location.href = this.href;
+        });
+    
+        $(".menu-item-has-children").click(function() {
+            $(this).addClass("toggled");
+            if ($(".menu-item-has-children").hasClass("toggled")) {
+                $(this).children("ul").toggle();
+                $(".mvp-fly-nav-menu").getNiceScroll().resize();
+            }
+            $(this).toggleClass("tog-minus");
+            return false;
+        });
+    
+        // Main Menu Scroll
+        $(window).load(function() {
+            $(".mvp-fly-nav-menu").niceScroll({
+                cursorcolor: "#888",
+                cursorwidth: 7,
+                cursorborder: 0,
+                zindex: 999999
+            });
+        });
+    });
+</script>
+
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle4.js" | absURL }}"></script>
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle5.js" | absURL }}"></script>
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle6.js" | absURL }}"></script>
+<script data-optimized="1" type="text/javascript" src="{{ "/js/doodle7.js" | absURL }}"></script>

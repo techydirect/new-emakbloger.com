@@ -1,0 +1,182 @@
+<!-- Data optimasi SEO page Artikel Meta Yoast -->
+
+<title>{{ .Title }} | {{ .Site.Title }}</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="description" content="{{ .Params.Description }}"/>
+<link rel="canonical" href="{{ .Permalink }}"/>
+<meta property="og:locale" content="In-Id" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}"/>
+<meta property="og:description" content="{{ .Params.Description }}"/>
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="article:publisher" content="{{ .Site.Params.fb_page }}" />
+<meta property="article:author" content="{{ .Site.Params.fb_page }}" />
+<meta property="article:section" content="{{ .Params.Categories }}" />
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}" />
+<meta property="og:image" content="{{ .Params.Image | absURL }}" />
+<meta property="og:image:secure_url" content="{{ .Params.Image | absURL }}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="{{ .Params.Description }}" />
+<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+<meta name="twitter:site" content="{{ .Site.Params.twitter_site }}" />
+<meta name="twitter:image" content="{{ .Params.Image | absURL }}" />
+<meta name="twitter:creator" content="{{ .Site.Params.twitter_site }}" />
+
+<!-- Id Json -->
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>
+    {
+        "@context":"https://schema.org",
+        "@graph":[
+        {"@type":"Organization",
+        "@id":"{{ .Site.BaseURL }}#organization",
+        "name":"{{ .Site.Title }}",
+        "url":"{{ .Site.BaseURL }}",
+        "sameAs":[
+        "{{ .Site.Params.fb_page }}",
+        "{{ .Site.Params.instagram }}",
+        "{{ .Site.Params.linkedin }}",
+        "{{ .Site.Params.youtube }}",
+        "{{ .Site.Params.pinterest }}",
+        "{{ .Site.Params.twitter }}"
+        ],
+        
+        "logo":{
+            "@type":"ImageObject",
+            "@id":"{{ .Site.BaseURL }}#logo",
+            "url":"{{ .Site.Params.og_image | absURL }}",
+            "caption":"GADGET IDN"
+        },
+        
+        "image":{
+            "@id":"https://www.gadgetidn.com/#logo"
+        }
+    },
+    
+        {
+            "@type":"WebSite",
+            "@id":"{{ .Site.BaseURL }}#website",
+            "url":"{{ .Site.BaseURL }}",
+            "name":"{{ .Site.Title }}",
+            
+            "publisher":{
+                "@id":"{{ .Site.BaseURL }}#organization"
+            },
+            
+            "potentialAction":{
+                "@type":"SearchAction",
+                "target":"{{ .Site.BaseURL }}?s={search_term_string}",
+                "query-input":"required name=search_term_string"
+            }
+        },
+    
+        {
+            "@type":"WebPage",
+            "@id":"{{ .Permalink }}#webpage",
+            "url":"{{ .Permalink }}",
+            "inLanguage":"In-Id",
+            "name":"{{ .Title }} | {{ .Site.Title }}",
+            
+            "isPartOf":{
+                "@id":"{{ .Site.BaseURL }}#website"
+            },
+
+            "image":{
+                "@type":"ImageObject",
+                "@id":"{{ .Params.Image | absURL }}#primaryimage",
+                "url":"{{ .Params.Image | absURL }}",
+                "caption":"{{ or .Params.Key .Title | lower }}"
+            },
+            
+            "primaryImageOfPage":{
+                "@id":"{{ .Params.Image | absURL }}#primaryimage"
+            },
+            
+            "datePublished":"{{ .Date.Format "2006-01-02" }}",
+            "dateModified":"{{ .Lastmod.Format "2006-01-02" }}",
+            "description":"{{ .Params.Description }}",
+            
+            "breadcrumb":{
+                "@id":"{{ .Permalink }}#breadcrumb"
+            }
+        },
+    
+        {
+            "@type":"BreadcrumbList",
+            "@id":"{{ .Permalink }}#breadcrumb",
+            "itemListElement":[
+            {
+                "@type":"ListItem",
+                "position":1,"item":{
+                    "@type":"WebPage",
+                    "@id":"{{ .Site.BaseURL }}",
+                    "url":"{{ .Site.BaseURL }}",
+                    "name":"Home"
+                }
+            },
+            
+            {
+                "@type":"ListItem",
+                "position":2,"item":{
+                    "@type":"WebPage",
+                    "@id":"{{ .Permalink }}",
+                    "url":"{{ .Permalink }}",
+                    "name":"{{ .Title }}"
+                    }
+                }
+            ]
+        },
+
+        {
+            "@type":"NewsArticle",
+            "@id":"{{ .Permalink }}#article",
+            "isPartOf":{
+                "@id":"{{ .Permalink }}#webpage"
+            },
+            
+            "author":{
+                "@id":"{{ .Site.BaseURL }}author/{{ .Params.Author | urlize | lower }}#author"
+            },
+            
+            "headline":"{{ .Title }}",
+            "datePublished":"{{ .Date.Format "2006-01-02" }}",
+            "dateModified":"{{ .Lastmod.Format "2006-01-02" }}",
+            "commentCount":false,
+            
+            "mainEntityOfPage":{
+                "@id":"{{ .Permalink }}#webpage"
+            },
+            
+            "publisher":{
+                "@id":"{{ .Site.Title }}#organization"
+            },
+            
+            "image":{
+                "@id":"{{ .Params.Image | absURL }}#primaryimage"
+            },
+            
+            "keywords":"{{ .Params.Tags }}",
+            "articleSection":"{{ .Params.Categories }}",
+            "copyrightHolder":{
+                "@id":"{{ .Site.BaseURL }}#organization"
+            }
+        },
+
+        {
+            "@type":["Person"],
+            "@id":"{{ .Site.BaseURL }}#author",
+            "name":"{{ .Params.Author }}",
+            "image":{
+                "@type":"ImageObject",
+                "@id":"{{ .Site.BaseURL }}#authorlogo",
+                "url":"{{ .Params.Author_image | absURL }}",
+                "caption":"{{ .Params.Author }}"
+            }
+        }
+    ]
+}
+</script>
+<!-- end -->
+<!-- / Yoast SEO Premium plugin. -->
+
+<!-- End -->

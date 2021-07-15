@@ -1,0 +1,65 @@
+baseURL = "https://www.emakbloger.com/"
+languageCode = "en-us"
+title = "Emak Bloger"
+theme = "Doodle"
+paginate = 8
+
+[permalinks]
+  blog = "/:slug"
+
+[params]
+  robots = "index, follow"
+  dns_prefetch = "//www.emakbloger.com/"
+  # pencarian
+  search = false
+  # Default Thumnail
+  default = "asset/default.png"
+  # Tagline
+  tagLine = "Review Asuransi, Pijaman Online, Keuangan Parenting"
+  description = "Emakbloger.com merupakan blog yang membahas seputar Finansial, Asuransi, Pinjaman online, Parenting dan dan tips lainnya yang dirangkum dari berbagai sumber terpercaya"
+  og_image = "/asset/finantku.jpg"
+  # sosmed
+  fb_page = "https://www.facebook.com/emakbloger/"
+  fb_app_id = "740866486554050"
+  instagram = "https://www.instagram.com/"
+  linkedin = "https://www.linkedin.com/"
+  youtube = "https://www.youtube.com/"
+  pinterest = "https://id.pinterest.com/"
+  twitter = "https://twitter.com/emakbloger"
+  twitter_author = "https://twitter.com/emakbloger"
+  twitter_site = "@emakbloger"
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+[menu]
+# MENU NAVBAR
+  [[menu.navbar]]
+  name = "Tentang"
+  url = "/tentang"
+  weight = 1
+
+  [[menu.navbar]]
+  name = "Privasi"
+  url = "/privasi"
+  weight = 2
+
+  [[menu.navbar]]
+  name = "Term of Service"
+  url = "/tos"
+  weight = 3
+
+  [[menu.navbar]]
+  name = "Hunungi Kami"
+  url = "/kontak"
+  weight = 4
