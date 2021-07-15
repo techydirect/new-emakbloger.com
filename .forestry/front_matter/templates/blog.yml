@@ -2,87 +2,87 @@
 label: blog
 hide_body: false
 fields:
-  - name: author
-    type: select
-    default: Amanda
-    config:
-      required: false
-      options:
-        - Amanda
-        - Aji Pamungkas
-        - Febry
-        - Rindy Ariani
-      source:
-        type: simple
-        section:
-        file:
-        path:
-    label: author
-  - name: author_image
-    type: select
-    default: "/author/amanda.jpg"
-    config:
-      required: false
-      options:
-        - "/author/amanda.jpg"
-        - "/author/aji.jpg"
-        - "/author/febry.jpg"
-        - "/author/rindi.jpg"
-      source:
-        type: simple
-        section:
-        file:
-        path:
-    label: author_image
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Judul Artikel
-  - name: description
-    type: text
-    config:
-      required: false
-    label: description
-  - name: date
-    type: datetime
-    label: date
-    description: ""
-    config:
-      required: false
-      date_format:
-      time_format:
-      display_utc: false
-    default: now
-  - name: categories
-    type: select
-    default: ""
-    config:
-      required: false
-      options:
-        - asuransi
-        - keuangan
-        - bisnis
-        - pinjol
-        - tips
-        - parenting
-      source:
-        type: simple
-        section: ""
-        file:
-        path:
-    label: categories
-  - name: tags
-    type: tag_list
-    default: []
-    label: tags
-  - name: image
-    type: file
-    config:
-      maxSize: 64
-    label: image
-  - name: Permalink
-    type: text
-    config:
-      required: false
-    label: slug
+- name: author
+  type: select
+  default: Amanda
+  config:
+    required: false
+    options:
+    - Amanda
+    - Aji Pamungkas
+    - Febry
+    - Rindy Ariani
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
+- name: author_image
+  type: select
+  default: "/author/amanda.jpg"
+  config:
+    required: false
+    options:
+    - "/author/amanda.jpg"
+    - "/author/aji.jpg"
+    - "/author/febry.jpg"
+    - "/author/rindi.jpg"
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author_image
+- name: title
+  type: text
+  config:
+    required: false
+  label: Judul Artikel
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: categories
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - asuransi
+    - keuangan
+    - bisnis
+    - pinjol
+    - tips
+    - parenting
+    source:
+      type: simple
+      section: ''
+      file: 
+      path: 
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: Permalink
+  type: text
+  config:
+    required: false
+  label: slug
