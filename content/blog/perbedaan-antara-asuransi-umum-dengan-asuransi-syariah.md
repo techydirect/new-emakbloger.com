@@ -5,8 +5,7 @@ author_image = "/author/amanda.jpg"
 categories = "asuransi"
 date = 2021-07-16T08:38:34Z
 description = "yuk, pahami terlebih dalulu perbedaan antara asuransi umum (konvensional) dengan asuransi syariah sebelum menentukan produk asuransi mana yang tepat bagi Anda."
-draft = true
-image = ""
+image = "/wp-image/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah-2021-07-16.jpg"
 tags = ["asuransi umum", "asuransi syariah", "asuransi konvensional"]
 title = "Perbedaan Antara Asuransi Umum dengan Asuransi Syariah"
 
