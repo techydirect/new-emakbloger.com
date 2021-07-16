@@ -1,5 +1,5 @@
 +++
-Permalink = "/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/07/16/2021"
+Permalink = "/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah"
 author = "Amanda"
 author_image = "/author/amanda.jpg"
 categories = "asuransi"
