@@ -1,11 +1,12 @@
 ---
-title: "Hubungi kami"
-description: "Jika ada pertanyaan mengenai website kami ataupun yang berhubungan dengan itu, silahkan hubungi kami disini"
+title: Hubungi kami
+description: Jika ada pertanyaan mengenai website kami ataupun yang berhubungan dengan
+  itu, silahkan hubungi kami disini
 url: "/kontak"
-type: "webpage"
----
+type: webpage
 
-Terlepas dari kesempurnaan, kami menyadari bahwa masih ada banyak yang kurang dari website kami. Jika da pertanyaa, keritikan, atau pun saran yang ingin Anda sampaikan, Silahkan hubungi kami melalui detai kontak yang ada di bawah ini mengenai prihal yang ingin Anda sampaikan:
+---
+Terlepas dari kesempurnaan, kami menyadari bahwa masih ada banyak yang kurang dari website kami. Jika ada pertanyaa, keritikan, atau pun saran yang ingin Anda sampaikan, Silahkan hubungi kami melalui detai kontak yang ada di bawah ini mengenai prihal yang ingin Anda sampaikan:
 
 - [x] Organisasi: Emak Bloger
 - [x] Alamat: Sleman, Daerah Istimewa Yogyakarta - Indonesia.
