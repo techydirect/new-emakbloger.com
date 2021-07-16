@@ -86,3 +86,5 @@ fields:
   config:
     required: false
   label: slug
+pages:
+- content/blog/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah.md
