@@ -6,6 +6,8 @@ categories = "asuransi"
 date = 2021-07-16T08:38:34Z
 description = "yuk, pahami terlebih dalulu perbedaan antara asuransi umum (konvensional) dengan asuransi syariah sebelum menentukan produk asuransi mana yang tepat bagi Anda."
 image = "/wp-image/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah-2021-07-16.jpg"
+slug = ""
+stt2 = "perbedaan asuransi umum dan syariah, beda asuransi konvernsional dengan asuransi syariah, asuransi konvensional adalah, contoh asuransi syariah, persamaan asuransi syariah dan konvensional, asuransi umum menggunakan premi, sedang asuransi syariah tidak, salah satu perbedaan antara asuransi umum dengan asuransi syariah adalah brainly, salah satu perbedaan antara asuransi umum dengan asuransi syariah adalah quizizz"
 tags = ["asuransi umum", "asuransi syariah", "asuransi konvensional"]
 title = "Perbedaan Antara Asuransi Umum dengan Asuransi Syariah"
 
