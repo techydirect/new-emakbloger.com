@@ -7,6 +7,7 @@ date = 2021-07-16T16:46:45Z
 description = "Selain cara kalim asuransi Qoala yang terbilang mudah, produk yang ditawarkan juga bermaca - macam. Mulai dari asuransi Mobil, Jiwa, Kesehatan, dll."
 image = "/wp-image/cara-klaim-asuransi-qoala-2021-07-16.jpg"
 slug = "/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah"
+stt2 = "cara klaim asuransi qoala, cara berhenti asuransi qoala, cara klaim asuransi qoala alodokter, cara aktivasi asuransi qoala, review asuransi qoala, contoh klaim asuransi qoala, cara mengajukan klaim asuransi di qoala, jenis klaim asuransi jiwa qoala, klaim asuransi meninggal dunia qoala"
 tags = ["asuransi qoala", "asuransi jiwa", "asuransi kesehatan", "asuransi mobil", "cara klaim"]
 title = "Tips dan Cara Klaim Asuransi Qoala dengan Mudah"
 
