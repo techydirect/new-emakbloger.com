@@ -6,6 +6,7 @@ date = 2021-07-17T16:10:40Z
 description = "Bagi anda yang belum mengetahui apa saja manfaat asuransi jiwa seumur hidup jika dibandingkan dengan jenis asuransi jiwa berjangka, yuk simak ulasan selengkapnya dibawah ini."
 image = "/wp-image/manfaat-asuransi-jiwa-seumur-hidup-2021-07-17.jpg"
 slug = "/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup"
+stt2 = "jenis fitur asuransi jiwa seumur hidup, contoh+produk+asuransi+jiwa, contoh asuransi jiwa, pengertian asuransi jiwa dan contohnya, 5 jenis produk asuransi jiwa seumur hidup, asuransi jiwa seumur hidup juga dikenal sebagai, manfaat asuransi jiwa seumur hidup, pengertian asuransi jiwa seumur hidup, asuransi jiwa seumur hidup terbaik"
 tags = ["asuransi jiwa", "asuransi seumur hidup", "manfaat asuransi"]
 title = "Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup"
 
