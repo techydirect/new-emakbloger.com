@@ -44,6 +44,18 @@ fields:
   config:
     required: false
   label: description
+- name: stt2
+  type: text
+  config:
+    required: false
+  label: Kata kunci Terkait
+  description: Masukkan kata kunci sebanyak banyaknya pisahkan dengan "," (tanpa tanda
+    petik)
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Permalink
 - name: date
   type: datetime
   label: date
@@ -81,11 +93,6 @@ fields:
   config:
     maxSize: 64
   label: image
-- name: slug
-  type: text
-  config:
-    required: false
-  label: Permalink
 pages:
 - content/blog/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah.md
 - content/blog/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah.md
