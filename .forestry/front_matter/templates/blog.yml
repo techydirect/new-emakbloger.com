@@ -94,6 +94,7 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/blog/7-perbedaan-asuransi-syariah-dan-asuransi-konvensional.md
 - content/blog/asuransi-mobil-all-risk-dan-tlo-apa-saja-perbedaannya.md
 - content/blog/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah.md
 - content/blog/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah.md
