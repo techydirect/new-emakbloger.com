@@ -23,7 +23,7 @@ Asuransi mobil terbaik pertama yang menjadi [rekomendasi kami adalah Asuransi mo
 
 Asuransi mobil jenis All risk dan Total Loss Only (TLO) tentu mempunyai perbedaan dan cara klaim yang berbeda beda. Nah, mengenai ringkasan dari asuransi Sinarmas, Anda bisa simak bibawah ini:
 
-* [x]Premi Perbulan: Mulai dari 781.600 rupiah saja.
+* [x]Premi: Mulai dari 781.600 rupiah saja pertahun.
 * [x]Bengkel Renakan: 584 unit rekan bengkel.
 * [x]Cara Klaim: Lewat aplikasi.
 * [x]Usia masksimal Mobil: 12 Tahun.
@@ -37,7 +37,7 @@ Asuransi mobil terbaik selanjutnya yang bisa anda jadikan pilhan masih ada [asur
 
 Jika anda berencara mengesuransikan mobil anda pada Adira Syariah. Yuk simak terlebih dahulu ringkasan informasi mengenai asuransi Adira Syariah seperti dibawah ini:
 
-* [x]Biaya premi bulanan: Mulai dari 863.940 rupiah setiap bulannya.
+* [x]Biaya premi: Mulai dari 863.940 rupiah pertahun.
 * [x]Bengkel rekanan: Memiliki rekanan bengkel lebih dari 300 unit.
 * [x]Cara klaim: Lewat aplikasi (1 hari).
 * [x]Usia mobil maksimal: 10 tahun.
@@ -47,7 +47,7 @@ Jika anda berencara mengesuransikan mobil anda pada Adira Syariah. Yuk simak ter
 
 Dari pilihan asuransi mobil terbaik, nama Adira Autocillin juga masuk dalam jajarannya. Jenis asuransi mobil yang satu ini merupakan kebalikan dari asaruransi [Adira Syariah](/tags/asuransi-mobil) sebelumnya. Nah, jika Anda tertarik untuk mengasuransikan mobil anda pada Adira Autocillin, simak terlebih dahulu sekilas informasi mengenai Adira Autocillin dibawah ini:
 
-* [x]Premi: Mulai dari Rp863.940 per tahun
+* [x]Premi: Mulai dari Rp863.940 per tahun.
 * [x]Bengkel rekanan: Lebih dari 300 bengkel
 * [x]Cara klaim: Lewat aplikasi (1 hari)
 * [x]Usia mobil maksimal: 1o tahun
