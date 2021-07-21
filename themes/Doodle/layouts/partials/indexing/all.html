@@ -68,7 +68,7 @@
                                             <div class="mvp-feat1-list-text">
                                                 <div class="mvp-cat-date-wrap left relative">
                                                     <span class="mvp-cd-cat left relative">{{ .Params.Categories }}</span>
-                                                    <span class="mvp-cd-date left relative">Tanggal Publish</span>
+                                                    <span class="mvp-cd-date left relative">{{ .Date.Format "January, 2006" }}</span>
                                                 </div>
                                                 <div>{{ .Title }}</div>
                                             </div>
