@@ -31,6 +31,8 @@ Visi dan misi yang ingin dicapai AXA Mandiri bagi kliennya adalah memberikan per
 
 Untuk itu, AXA Mandiri terus fokus memberikan solusi kepada klien sesuai dengan kebutuhannya, baik dalam hal layanan keuangan, investasi maupun perlindungan jiwa dan aset.
 
+**Terkait:** [**12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021**](https://www.emakbloger.com/07212021/asuransi-jiwa-terbaik-dan-terpercaya/)
+
 ## Produk Asuransi Jiwa AXA Mandiri
 
 Asuransi Jiwa AXA Mandiri memberikan perlindungan dan pertanggungan kepada nasabah jika terjadi risiko meninggal dunia, cacat tetap dan kecelakaan diri. Perlindungan yang Anda dapatkan tergantung pada produk yang Anda pilih dan berapa premi yang Anda bayarkan setiap bulannya.
@@ -54,6 +56,8 @@ Mandiri Legacy Plan Titanium Insurance tetap menjadi induk dari Mandiri Legacy P
 
 Untuk Mandiri Legacy Plan Titanium Insurance, premi yang akan dikeluarkan mulai dari Rp 120 juta per tahun jumlah awal pertanggungan. Bonus loyalitas 5 miliar hingga 125%, dan jatah investasi 5% dari premi yang dibayarkan.
 
+**Baca Juga:** [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
+
 ### 3. Mandiri Perlindungan Sejahtera
 
 Produk selanjutnya dari asuransi jiwa AXA Mandiri Life Insurance adalah Mandiri Life Protection Sejahtera. Asuransi ini memberikan perlindungan kepada nasabah apabila terjadi risiko kematian karena sebab apapun. Manfaat asuransi ini antara lain:
@@ -75,6 +79,8 @@ Tidak hanya itu, nasabah juga akan mendapatkan manfaat tunai yang ditawarkan sel
 Fitur yang ditawarkan oleh Mandiri Syariah Proteksi sejahtera hampir sama dengan Asuransi Proteksi Mandiri Makmur. Asuransi jiwa AXA Mandiri Syariah ini juga menawarkan perlindungan jiwa hingga usia 100 tahun dengan bonus loyalitas seumur hidup dari 7 tahun hingga 100 tahun.
 
 Namun yang membedakan adalah adanya tambahan keuntungan penjaminan (sesuai ketentuan polis) selain manfaat wakaf pada Asuransi Perlindungan Sejahtera Mandiri Syariah karena mengelola asuransi jiwa sesuai prinsip Syariah.
+
+**Baca Juga:** [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
 
 ### 6. Mandiri Investasi Prestige
 
@@ -109,6 +115,8 @@ Manfaat yang ditawarkan antara lain santunan kematian, cacat total tetap dan san
 Nah, jika Anda sudah mengetahui jenis produk asuransi dari AXA Mandiri, tentu jug anda harus mengetahui lebih jelas mengenai manfaat yang di tawarkan oleh AXA Mandiri. Berikut ringkasannya:
 
 Perlindungan dan kompensasi penuh dan komprehensif; Mendapatkan perlindungan jiwa dan santunan kematian yang disebabkan oleh sebab apapun, baik karena sakit maupun kecelakaan.
+
+**Baca Juga:** [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
 
 * Usia pertanggungan yang panjang; Dapatkan perlindungan dan proteksi hingga usia 100 tahun.
 * Pilihan produk yang beragam; Berbagai macam produk asuransi dan premium yang dapat disesuaikan dengan kebutuhan dan kemampuan Anda.
