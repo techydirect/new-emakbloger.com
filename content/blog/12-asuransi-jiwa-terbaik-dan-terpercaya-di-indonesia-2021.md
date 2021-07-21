@@ -33,6 +33,12 @@ Pada tahun 2007, Prudential memperkenalkan layanan asuransi berbasis Syariah yan
 
 Untuk itu Prudential wajib masuk dalam jajaran asuransi jiwa terbaik di Indonesia 2020 hingga sekarang (2021). Dari berbagai 3 produk asuransi jiwa yang di tawarkan Prudential meliputi:
 
+**Terkait:**
+
+* [**Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim**](https://www.emakbloger.com/07212021/asuransi-jiwa-axa-mandiri/)
+* [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
+* [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
+
 ### a). Asuransi Jiwa PRUCinta
 
 Produk asuransi PRUCinta merupakan asuransi jiwa dengan kontek syariah yang memberikan masa perlindungan hingga 20 tahun dengan premi minimal Rp 300.000 hingga Rp 3,3 juta. Asuransi ini memberikan perlindungan menyeluruh selama 20 tahun kepesertaan terhadap risiko kematian, baik karena sakit maupun kecelakaan.
@@ -56,6 +62,10 @@ Beberapa manfaat perlindungan yang ditawarkan oleh produk PRUmy Child antara lai
 PRU Critical Benefit 88 adalah jenis asuransi jiwa yang memberikan perlindungan maksimal untuk kondisi kritis atau meninggal dunia hingga usia 88 tahun. Asuransi ini juga memberikan layanan perawatan angioplasti yang akan dibayarkan dengan 10% (maksimal 200 juta) dari uang pertanggungan pada saat tertanggung menjalani perawatan tanpa mengurangi manfaat dari asuransi ini.
 
 Namun, pertanggungan akan tetap dibayarkan pada akhir pertanggungan asuransi jika tertanggung masih hidup atau belum mengajukan klaim dalam salah satu dari 60 kondisi kritis dan selama polis masih aktif.
+
+**Terkait:**
+
+* [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
 
 ## 2. Asuransi Jiwa Terbaik Allianz
 
