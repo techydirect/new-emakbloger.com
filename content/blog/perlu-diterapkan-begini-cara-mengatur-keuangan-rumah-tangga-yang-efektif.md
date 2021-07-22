@@ -4,8 +4,7 @@ author_image = "/author/aji.jpg"
 categories = "keuangan"
 date = 2021-07-22T19:45:57Z
 description = "Ada beberapa metode mengenai tata cara mengatur keuangan keluarga yang dapat anda terapkan pada kehidupan sehari - hari. Yuk Simak selengkapnya dibawah ini"
-draft = true
-image = ""
+image = "/wp-image/cara-mengatur-keuangan-rumah-tangga-1-2021-07-22.jpg"
 slug = "/07232021/cara-mengatur-keuangan-rumah-tangga"
 stt2 = ""
 tags = ["keuangan rumah tangga", "cara berhemat", "manajemen keuangan"]
@@ -22,11 +21,11 @@ Lalu bagaimana cara mengatur keuangan rumah tangga dengan baik dan benar, adakah
 
 **Terkait:**
 
-* **Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**
-* **Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**
-* **8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**
+* [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
+* [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
+* [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
 
-1\. Bedakan Kebutuhan & Keinginan
+## 1. Bedakan Kebutuhan & Keinginan
 
 Dalam tata cara mengatur keuangan rumah tangga yang benar adalah memahami perbedaan antara kebutuhan dan keinginan. Saat anda sudah berumah tangga, tentu ada kebutuhan yang harus dipenuhi. Misalnya kebutuhan sehari - hari seperti makan, mengalokasikan pendidikan jika sudah memiliki anak.
 
@@ -38,13 +37,13 @@ Meskipun semua hal tersebut boleh boleh saja. Tapi pada intinya anda harus tetap
 
 Jadi, bagaimana sebenarnya cara mengatur keuangan rumah tangga?, hal pertama yang perlu Anda lakukan adalah memahami perbedaan antara kebutuhan dan keinginan. Memuaskan kebutuhan keluarga terlebih dahulu, kemudian mengalokasikan sumber keuangan untuk keinginan pribadi.
 
-2\. Menghitung Semua Pendapatan
+## 2. Menghitung Semua Pendapatan
 
 Untuk mengelola keuangan rumah tangga secara efektif, yang harus Anda lakukan adalah menghitung pendapatan penuh yang masuk selama satu bulan. Pendapatan yang dimaksud di sini tidak hanya dari pendapatan gaji bulanan Anda, tetapi juga termasuk insentif yang Anda dapatkan ketika Anda menerima uang lembur untuk penghasilan saat Anda berinvestasi.
 
 Hal ini penting dilakukan agar Anda dapat membagi alokasi pendapatan Anda menjadi kebutuhan yang harus Anda penuhi. Ingatlah bahwa hal pertama yang harus dipenuhi adalah kebutuhan dasar rumah tangga. Dengan menghitung semua pendapatan, mengelola keuangan rumah tangga menjadi lebih mudah.
 
-3\. Buat Daftar Pengeluaran
+## 3. Buat Daftar Pengeluaran
 
 Cara mengatur keuangan rumah tangga selanjutnya adalah membuat daftar pengeluaran prioritas untuk bulan tersebut. Daftar ini membantu Anda dalam mengelola keuangan secara efektif. Dengan membuat daftar prioritas, alokasi dan pengeluaran uang menjadi lebih teratur.
 
@@ -52,7 +51,7 @@ Pengeluaran rumah tangga yang masuk dalam daftar prioritas antara lain biaya mak
 
 Selain membantu mengatur keuangan rumah tangga anda, daftar ini akan menjadi pengingat bahwa kebutuhan prioritas harus dipenuhi terlebih dahulu baru kemudian dapat dialokasikan untuk kebutuhan sekunder dan dan keinginan anda.
 
-4\. Mempersiapkan Dana Darurat
+## 4. Mempersiapkan Dana Darurat
 
 Cara mengatur keuangan keluarga selanjutnya adalah dengan menyiapkan dana darurat. Dalam kehidupan berumah tangga, tidak semuanya bisa berjalan mulus sesuai rencana. Banyak hal terjadi secara tiba-tiba dan tidak direncanakan.
 
@@ -62,7 +61,7 @@ Oleh karena itu, sebagai cara mengatur keuangan keluarga dengan baik, penting ba
 
 Jumlahnya relatif bisa 10 - 30 persen dari penghasilan yang Anda terima setiap bulannya. Ingatlah bahwa uang yang Anda sisihkan setiap bulannya adalah untuk dana darurat yang hanya digunakan sesekali atau dalam keadaan darurat.
 
-5\. Rasio Hutang
+## 5. Rasio Hutang
 
 Untuk mengatur keuangan rumah tangga, sebenarnya lebih baik menghindari hutang. Karena tagihan dan kewajiban hutang bisa menjadi beban yang mengganggu keuangan rumah tangga anda. Namun, ada sejumlah faktor yang mau tidak mau membuat Anda berhutang.
 
@@ -70,13 +69,12 @@ Sebagai saran, jika memang harus berhutang, gunakan untuk hal-hal yang merupakan
 
 Selain itu, yang harus Anda lakukan untuk mengelola keuangan yang baik adalah dengan menjaga rasio hutang Anda. Sebisa mungkin, pastikan komitmen pembayaran utang Anda tidak melebihi 30 persen dari penghasilan Anda. Lebih dari itu, keuangan rumah tangga Anda bisa terganggu.
 
-Terkait:
+**Terkait:**
 
-⦁	10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros
+* [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
+* [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
 
-⦁	Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim
-
-6\. Tabungan, Asuransi, dan Investasi
+## 6. Tabungan, Asuransi, dan Investasi
 
 Selain mengalokasikan pendapatan untuk cadangan atau dana darurat, Anda juga perlu menyisihkan pendapatan untuk keperluan selain kebutuhan rutin. Ini termasuk pengeluaran untuk tabungan, asuransi dan investasi. Ketiganya termasuk dalam seberapa baik keuangan dikelola.
 
