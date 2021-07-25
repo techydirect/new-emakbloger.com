@@ -78,6 +78,7 @@ fields:
     - pinjol
     - tips
     - parenting
+    - perbankan
     source:
       type: simple
       section: ''
@@ -94,12 +95,24 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/blog/10-cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros.md
 - content/blog/12-asuransi-jiwa-terbaik-dan-terpercaya-di-indonesia-2021.md
+- content/blog/12-bisnis-rumahan-tanpa-modal-besar-menguntungkan.md
+- content/blog/12-bisnis-rumahan-yang-menjanjikan-tanpa-modal-besar.md
+- content/blog/7-aplikasi-pinjaman-uang-online-2021.md
 - content/blog/7-asuransi-mobil-terbaik-dan-murah-2021.md
+- content/blog/7-cara-berbisnis-online-yang-patut-anda-coba.md
 - content/blog/7-perbedaan-asuransi-syariah-dan-asuransi-konvensional.md
+- content/blog/8-cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta.md
+- content/blog/9-daftar-aplikasi-pinjaman-uang-online-terpercaya.md
 - content/blog/asuransi-mobil-all-risk-dan-tlo-apa-saja-perbedaannya.md
+- content/blog/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim.md
 - content/blog/jenis-produk-asuransi-jiwa-axa-mandiri-cara-beli-klaim.md
+- content/blog/paling-efektif-begini-cara-mengatur-keuangan-pribadi-yang-perlu-anda-ketahui.md
 - content/blog/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah.md
+- content/blog/perlu-diterapkan-begini-cara-mengatur-keuangan-rumah-tangga-yang-efektif.md
+- content/blog/tabunganku-bni-keuntungan-bunga-cara-buka-rekening.md
 - content/blog/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah.md
 - content/blog/yuk-intip-5-asuransi-mobil-terbaik-2021.md
 - content/blog/yuk-pahami-manfaat-asuransi-jiwa-seumur-hidup.md
+- content/blog/yuk-simak-4-cara-mengatur-keuangan-dengan-metode-tepat.md
