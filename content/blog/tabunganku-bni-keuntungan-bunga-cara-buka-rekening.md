@@ -1,7 +1,7 @@
 +++
 author = "Amanda"
 author_image = "/author/amanda.jpg"
-categories = "tips"
+categories = "perbankan"
 date = 2021-07-23T10:12:31Z
 description = "Yuk intip pembahasan menarik tentang Tabunganku BNI, keunggulan, cara membuat, bunga hingga simulasinya. Yuk simak selengkapnya dibawah ini!"
 image = "/wp-image/tabunganku-bni-2021-07-23.jpg"
@@ -11,6 +11,7 @@ tags = ["tabungan", "rekening", "bni"]
 title = "Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening"
 
 +++
+
 [**Emakbloger.com**](/) - TabunganKu BNI merupakan produk tabungan konsumer dengan persyaratan mudah dan ringan. Produk bernama TabunganKu ini tidak hanya diluncurkan oleh BNI, tetapi juga oleh sejumlah perusahaan perbankan yang ada Indonesia lainnya.
 
 Tujuannya untuk menumbuhkan budaya menabung yang diharapkan dapat meningkatkan kesejahteraan masyarakat. Lalu, apa saja keunggulan TabunganKu BNI? Simak serba - serbi lengkapnya tentang produk-produk berikut ini!
@@ -25,11 +26,11 @@ Saldo harian di atas Rp 500.000 - Rp 1 juta dengan bunga 0,25% per tahun. Untuk 
 
 TabunganKu BNI merupakan jenis tabungan yang banyak digandrungi saat ini, karena berbagai manfaat dan keunggulan yang di tawarkannya. Contohnya seperti:
 
-* Saldo minimum setelah penarikan adalah Rp 20 ribu, berbeda dengan produk tabungan lainnya antara Rp 50 hingga 100 ribu.
-* Minimal penarikan dari teller adalah Rp 100.000
-* Bebas biaya administrasi
-* Setoran awal ringan hanya Rp. 20 ribu
-* Transaksi tarik tunai, setor tunai dan pemindahbukuan dapat dilakukan melalui money changer di kantor cabang BNI
+- Saldo minimum setelah penarikan adalah Rp 20 ribu, berbeda dengan produk tabungan lainnya antara Rp 50 hingga 100 ribu.
+- Minimal penarikan dari teller adalah Rp 100.000
+- Bebas biaya administrasi
+- Setoran awal ringan hanya Rp. 20 ribu
+- Transaksi tarik tunai, setor tunai dan pemindahbukuan dapat dilakukan melalui money changer di kantor cabang BNI
 
 Meskipun standar yang diberikan oleh Bank Indonesia (BI) adalah bahwa tabungan ini diterbitkan tanpa ATM, TabunganKu BNI juga memiliki fitur opsional atau dapat disesuaikan yang dapat ditawarkan oleh bank dalam mengimplementasikan program BNI TabunganKu.
 
@@ -39,17 +40,17 @@ Salah satu fitur tersebut adalah kartu ATM dan layanan lainnya dengan potongan b
 
 Setiap perbankan pastinya memiliki standar persyaratan tertentu, salah satunya Bank BNI. Nah, untuk syarat agar bisa mengajukan buka rekening di Tabunganku BNI, berikut kami telah merangkumnya.
 
-* KTP Asli (harus berisi KTP elektronik)
-* Minimal uang tunai Rp 20.000 sebagai setoran awal.
-* Tidak membutuhkan Nomor pokok wajib pajak (NPWP).
+- KTP Asli (harus berisi KTP elektronik)
+- Minimal uang tunai Rp 20.000 sebagai setoran awal.
+- Tidak membutuhkan Nomor pokok wajib pajak (NPWP).
 
 ## Cara Buka rekening TabunganKu BNI
 
 Nah, buat anda yang belum mengetahui cara membuka rekening di tabunganku BNI, Anda tidak perlu khawatir karena caranya tidak jauh berbeda saat membuka rekening bank lainnya. Berikut langkah - langkah cara membuatnya.
 
-* Pilih bank dengan TabunganKu sebagai BNI.
-* Kemudian pergi ke kantor cabang terdekat dan tentukan tujuan pembukaan rekening. Biasanya ada nomor daftar tunggu yang harus Anda ambil.
-* Selanjutnya Anda akan mendapatkan penjelasan mengenai fitur dan software TabunganKu BNI. Anda harus memberikan dua kondisi yang disebutkan sebelumnya kepada departemen layanan pelanggan.
+- Pilih bank dengan TabunganKu sebagai BNI.
+- Kemudian pergi ke kantor cabang terdekat dan tentukan tujuan pembukaan rekening. Biasanya ada nomor daftar tunggu yang harus Anda ambil.
+- Selanjutnya Anda akan mendapatkan penjelasan mengenai fitur dan software TabunganKu BNI. Anda harus memberikan dua kondisi yang disebutkan sebelumnya kepada departemen layanan pelanggan.
 
 Jangan lupa untuk mengisi Formulir Pembukaan Rekening BNI TabunganKu dan membayar setoran awal di teller! Setelah semua proses ini selesai, rekening TabunganKu Anda dapat dibawa pulang dan Anda dapat memulai program tabungan Anda sendiri.
 
