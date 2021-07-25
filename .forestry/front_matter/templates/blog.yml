@@ -78,6 +78,7 @@ fields:
     - pinjol
     - tips
     - parenting
+    - perbankan
     source:
       type: simple
       section: ''
