@@ -23,7 +23,7 @@ Selain itu, hasilnya juga tidak kalah menguntungkan jika dibandingkan dengan mem
 
 Membuka toko online memang mudah, namun Anda tetap harus memikirkan sistem operasi bisnisnya agar tidak bingung nantinya dalam melakukan pemesanan. Hal ini dapat anda jadikan sebagai ide toko online dan memulai usaha online shop terlaris anda.
 
-Sebelum memantapkan diri untuk memulai ide jualan online shop, sebaiknya pikirkan produk yang akan dijual. Tidak perlu bingung mencari ide toko online, berikut 16 produk yang terbukti banyak dibeli orang secara online. Sudah siapkan anda membangun usaha online shop terlaris?
+Sebelum memantapkan diri untuk memulai ide jualan online shop, sebaiknya pikirkan produk yang akan dijual. Tidak perlu bingung mencari ide toko online, berikut 12 produk yang terbukti banyak dibeli orang secara online. Sudah siapkan anda membangun usaha online shop terlaris?
 
 ### 1. Busana muslim
 
@@ -35,7 +35,7 @@ Untuk mengetahui apakah suatu produk cocok untuk dijual secara online dan banyak
 
 Ide toko online selanjutnya yakni makanan yang bisa dijual secara online, bisa berupa produk makanan instan atau pesan antar makanan. Target pasarnya juga cukup beragam. Dari mie instan, spageti dan keripik instan, hingga hidangan utama seperti restoran.
 
-Jika Anda tertarik untuk mulai berjualan online di bidang makanan, tentukan dulu jenis produk makanan yang ingin Anda jual. Sistem GoBiz sendiri terintegrasi dengan GoFood, sehingga Anda dapat dengan mudah melakukan layanan pesan antar makanan.
+Jika Anda tertarik untuk mulai berjualan online di bidang makanan, tentukan dulu jenis produk makanan yang ingin Anda jual.
 
 ### 3. Produk kecantikan
 
