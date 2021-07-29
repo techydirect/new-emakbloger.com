@@ -1,10 +1,49 @@
+{{ define "meta" }}
+    {{ partial "plugin/seo/404.html" . }}
+{{ end }}
+
 {{ define "main" }}
 
 <div id="mvp-site" class="left relative">
     <div id="mvp-site-wall" class="left relative">
         <div id="mvp-site-main" class="left relative">
             <div id="mvp-main-body-wrap" class="left relative">
-                <h2>404</h2>
+                <div style="width: 90%; margin: 0 auto; text-align: center;">
+                    <h2 style="font-size: 70px; color: darkgrey;">404 :(</h2>
+                    <br>
+                    <p style=
+                    "font-size: 20px;
+                    font-family: 'Pt Sans', sans;
+                    line-height: 2em;
+                    color: darkgrey;
+                    ">
+                        Halaman yang ada cari saat ini tidak ditemukan, Lihat artikel lainnya...
+                    </p> <br>
+                    <div id="mvp-post-more-wrap" class="left relative">
+                        <h3 class="mvp-widget-home-title">
+                            <span class="mvp-widget-home-title">Artikel Menarik Lainnya</span>
+                        </h3>
+                        <ul style="box-sizing: border-box;" class="mvp-post-more-list left relative">
+                            {{ range first 4 .Site.RegularPages }}
+                            <a href="{{ .Permalink }}" rel="bookmark">
+                                <li>
+                                    <div class="mvp-post-more-img left relative">
+                                        <img style="width: 100%; height: 150px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="mvp-reg-img wp-post-image lazy" alt="{{ .Title }}"/>
+                                        <img style="width: 100%; height: 80px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="mvp-mob-img wp-post-image lazy" alt="{{ .Title }}"/>
+                                    </div>
+                                    <div class="mvp-post-more-text left relative">
+                                        <div class="mvp-cat-date-wrap left relative">
+                                            <span class="mvp-cd-cat left relative">{{ .Params.Categories }}</span>
+                                            <span class="mvp-cd-date left relative">{{ .Date.Format "January, 2006" }}</span>
+                                        </div>
+                                        <h4>{{ .Title }}</h4>
+                                    </div>
+                                </li>
+                            </a>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
