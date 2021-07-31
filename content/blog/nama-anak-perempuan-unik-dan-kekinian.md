@@ -19,20 +19,6 @@ title = "Nama Anak Perempuan Unik dan Kekinian"
 
 Model ini seringkali masyarakat memilih nama didasarkan pada keindahan dan keunikannya, namun tahukah Anda bahwa sebuah kalimat bisa menjadi doa dan harapan. Apalagi jika sering menjadi sebutan seperti halnya nama. Oleh karenanya perhatikan beberapa hal berikut ini:
 
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-| :----: | :----: | :----: | :-----: |
-| A1 | A2 | A3 | Ap(1-3) |
-| A4 | A5 | A6 | Ap(4-6) |
-| B1 | B2 | B3 | Bp(1-3) |
-| B4 | B5 | B6 | Bp(4-6) |
-
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-| :----: | :----: | :----: | :-----: |
-| A1 | A2 | A3 | Ap(1-3) |
-| A4 | A5 | A6 | Ap(4-6) |
-| B1 | B2 | B3 | Bp(1-3) |
-| B4 | B5 | B6 | Bp(4-6) |
-
 ### Jangan Memberikan Nama yang Buruk
 
 Orang tua tentu memilihkan [nama anak](/tags/nama-anak) dengan makna yang bagus. namun tidak jarang orang memelesetkannya dengan istilah kurang baik. Ada baiknya tidak melakukan tindakan demikian karena dapat menjadi doa apalagi menyakiti hati orang bersangkutan.
