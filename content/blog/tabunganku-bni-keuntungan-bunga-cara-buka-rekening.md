@@ -6,7 +6,7 @@ date = 2021-07-23T10:12:31Z
 description = "Yuk intip pembahasan menarik tentang Tabunganku BNI, keunggulan, cara membuat, bunga hingga simulasinya. Yuk simak selengkapnya dibawah ini!"
 image = "/wp-image/tabunganku-bni-2021-07-23.jpg"
 slug = "/07232021/tabunganku-bni"
-stt2 = ""
+stt2 = "tabunganku bni bisa mobile banking, jenis tabungan bni, tabunganku bca, mandiri tabunganku, bni tabunganku potongan perbulan, tabunganku bni syariah, tabunganku bri, buka rekening bni tabunganku online"
 tags = ["tabungan", "rekening", "bni"]
 title = "Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening"
 
