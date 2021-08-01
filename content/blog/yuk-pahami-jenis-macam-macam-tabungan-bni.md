@@ -1,14 +1,14 @@
 +++
 author = "Amanda"
 author_image = "/author/amanda.jpg"
-categories = ""
+categories = "perbankan"
 date = 2021-08-01T04:12:46Z
 description = ""
 draft = true
 image = ""
-slug = ""
-stt2 = ""
-tags = []
+slug = "/macam-macam-tabungan-bni/08012021/"
+stt2 = "macam macam tabungan bni, tabungan bni tanpa potongan, bni taplus muda, perbedaan bni taplus dan tabunganku, bni tabunganku, potongan bni taplus, jenis tabungan bni syariah, jenis tabungan bni"
+tags = ["bni", "tabungan bni", "jenis tabungan bni"]
 title = "Yuk Pahami Jenis & Macam Macam Tabungan BNI"
 
 +++
@@ -302,7 +302,35 @@ Berikut beberapa fitur yang bisa didapatkan dengan mengikuti Program BNI Simpana
 * Anda akan mendapatkan Layanan BNI SMS Banking
 * Anda dapat mengikuti program hadiah atau undian yang diadakan oleh BNI
 
-## 10. Tabungan BNI Taplus Anggota
+## 10. BNI Taplus Tappa
+
+Ada juga jenis Tabungan BNI untuk Pegawai atau yang biasa disebut dengan Anggota Tapplus (Tappa). Tappa adalah tabungan yang diperuntukkan bagi pegawai atau anggota suatu perusahaan, korporasi, perkumpulan atau organisasi profesi yang bekerja sama dengan BNI. Selain berfungsi sebagai tabungan, kartu ini juga berfungsi sebagai kartu identitas anggota.
+
+#### Keuntungan
+
+Beberapa manfaat dan kelebihan tabungan BNI Tappa akan sangat bermanfaat dan memudahkan kita, mari kita lihat daftarnya di bawah ini:
+
+* Memberikan kartu pegawai/kartu anggota suatu perusahaan, perkumpulan dan organisasi yang dapat digunakan sebagai kartu identitas
+* Dapat membawa kebanggaan di tempat kerja dengan memiliki kartu karyawan atau kartu anggota
+* Kartu pegawai atau kartu anggota dapat digunakan untuk memenuhi berbagai kebutuhan, dan juga dapat digunakan untuk memenuhi kebutuhan berbagai transaksi di berbagai jaringan ATM BNI dan ATM Bersama.
+
+#### Syarat BNI Tappa
+
+Untuk dapat membuka tabungan jenis ini, kita harus terlebih dahulu terdaftar dan menjadi pegawai atau anggota dari suatu perusahaan, korporasi, asosiasi atau organisasi yang telah bekerjasama dengan BNI. Jika tidak, kami tidak dapat mengikuti program tabungan ini. Karena ini adalah batas tabungan bagi yang mengikutinya.
+
+#### Fitur
+
+Berikut fitur menarik dari jenis tabungan ini, yaitu suku bunga yang menarik dan aman. Tingkat bunga tahunan bervariasi untuk setiap saldo yang dimiliki. Berikut adalah tabel suku bunga untuk jenis tabungan BNI ini:
+
+| Saldo BNI Tappa | Suku bunga per tahun |
+| :---: | :---: |
+| Saldo lebih Rp1 juta | 0,00% |
+| Saldo diantara Rp1 juta-Rp10 juta | 0,25% |
+| Saldo diantara Rp10 juta-Rp50 juta | 0,50% |
+| Saldo lebih Rp50 juta-Rp100 juta | 0,75% |
+| Saldo lebih dari Rp100 juta | 1,00% |
+
+## 11. Tabungan BNI Taplus Anggota
 
 Macam macam tabungan BNI selanjutnya adalah Taplus Anggota. Didedikasikan untuk setiap bodyguard dan anggota suatu instansi atau perusahaan yang telah bekerjasama dengan BNI. Ada banyak keuntungan yang bisa kita nikmati dari jenis tabungan ini. Yuk simak pembahasannya di bawah ini.
 
@@ -321,156 +349,101 @@ Namun salah satu syarat untuk membuka anggota BNI Taplus hanya satu, kita harus 
 Keunggulan dari tabungan BNI Taplus Anggota adalah suku bunga yang menarik. Berikut adalah daftar yang tercantum dalam tabel, sehingga mudah untuk kita pahami:
 
 | Saldo di akun BNI Tappa | Suku bunga yang didapat per tahun |
-| :-------------------- : | :-------------------------------: |
+| :---: | :---: |
 | Saldo lebih Rp1 juta | 0,00% |
 | Saldo diantara Rp1 juta - Rp10 juta | 0,25% |
 | Saldo diantara Rp10 juta - Rp50 juta | 0,50% |
 | Saldo lebih Rp50 juta-Rp100 juta | 0,75% |
 | Saldo lebih dari Rp100 juta | 1,00% |
 
-11\. BNI TabunganKu
+## 12. BNI TabunganKu
 
-Dari macam macam tabungan BNI ada juga jenis TabunganKu BNI, dan jenis tabungan BNI tanpa potongan ini dapat ditemukan hampir di setiap bank. Karena bertujuan untuk memajukan budaya menabung di Indonesia, sekaligus untuk meningkatkan kesejahteraan masyarakat Indonesia. Untuk meyakinkan anda, berikut kelebihan dari jenis tabungan BNI TabunganKu.
+Dari macam macam tabungan BNI ada juga jenis [TabunganKu BNI](https://www.emakbloger.com/07232021/tabunganku-bni/), dan jenis tabungan BNI tanpa potongan ini dapat ditemukan hampir di setiap bank. Karena bertujuan untuk memajukan budaya menabung di Indonesia, sekaligus untuk meningkatkan kesejahteraan masyarakat Indonesia. Untuk meyakinkan anda, berikut kelebihan dari jenis tabungan BNI TabunganKu.
 
-Keunggulan
+#### Keunggulan
 
 Ada banyak kelebihan jenis tabungan BNI TabunganKu yang bisa kita nikmati, antara lain:
 
-Ini menawarkan saldo minimum kecil, Rp 20.000. Berbeda dengan produk tabungan lainnya minimal Rp50.000 atau Rp100.000
+* Ini menawarkan saldo minimum kecil, Rp 20.000. Berbeda dengan produk tabungan lainnya minimal Rp50.000 atau Rp100.000
+* Jumlah penarikan di teller adalah Rp100.000
+* Bebas biaya administrasi
+* Penarikan tunai, setor tunai dan pemindahbukuan dapat dilakukan di setiap teller yang ada di kantor cabang BNI.
 
-Jumlah penarikan di teller adalah Rp100.000
-
-Bebas biaya administrasi
-
-Penarikan tunai, setor tunai dan pemindahbukuan dapat dilakukan di setiap teller yang ada di kantor cabang BNI.
-
-Syarat TabunganKu BNI
+#### Syarat TabunganKu BNI
 
 Syarat yang berlaku untuk membuka BNI TabunganKu sangat mudah, kita hanya perlu:
 
-KTP asli (sebaiknya yang diubah menjadi KTP elektronik)
+* KTP asli (sebaiknya yang diubah menjadi KTP elektronik)
+* Sediakan uang tunai minimal Rp. 20.000 digunakan sebagai setoran awal.
 
-Sediakan uang tunai minimal Rp. 20.000 digunakan sebagai setoran awal.
-
-Fitur BNI TabunganKu
+#### Fitur BNI TabunganKu
 
 Berikut beberapa fitur yang ditawarkan oleh BNI TabunganKu:
 
-Setoran awal minimum untuk membuka rekening awal adalah Rp20.000
+* Setoran awal minimum untuk membuka rekening awal adalah Rp20.000
+* Perolehan harta dalam bentuk buku atas nama TabunganKu
+* Tidak ada biaya administrasi bulanan atau biaya penggantian untuk buku TabunganKu saya
+* Penarikan dapat dilakukan melalui money changer di setiap cabang BNI maksimal dua kali dalam sebulan.
 
-Perolehan harta dalam bentuk buku atas nama TabunganKu
-
-Tidak ada biaya administrasi bulanan atau biaya penggantian untuk buku TabunganKu saya
-
-Penarikan dapat dilakukan melalui money changer di setiap cabang BNI maksimal dua kali dalam sebulan.
-
-12\. BNI Giro
+## 13. BNI Giro
 
 Macam macam tabungan BNI selanjutnya adalah Tabungan BNI Giro. Tabungan ini memberikan keleluasaan dan kemudahan untuk setiap transaksi bisnis. BNI Giro melayani sektor tunggal dan non-one-off. Dengan cara ini anda bisa mendapatkan beberapa manfaat dari penghematan tersebut.
 
-Keunggulan
+## Keunggulan
 
 Ada banyak keuntungan yang bisa kita nikmati dari BNI Giro yaitu:
 
-Anda akan mendapatkan rincian booming rekening giro setiap bulan, atau kapan pun kami membutuhkannya. Hal ini memudahkan kita untuk memantau transaksi yang terjadi
+* Anda akan mendapatkan rincian booming rekening giro setiap bulan, atau kapan pun kami membutuhkannya. Hal ini memudahkan kita untuk memantau transaksi yang terjadi
+* Ada banyak pilihan mata uang, baik rupee dolar, euro, dan pound sterling
+* Memberikan layanan giro dengan sistem perhitungan bunga harian yang kompetitif dan meningkat. Jadi semakin tinggi saldo di rekening kita, semakin banyak Giro yang bisa kita dapatkan
+* Tidak diblacklist oleh Bank Indonesia, sehingga sangat aman dan terpercaya
 
-Ada banyak pilihan mata uang, baik rupee dolar, euro, dan pound sterling
-
-Memberikan layanan giro dengan sistem perhitungan bunga harian yang kompetitif dan meningkat. Jadi semakin tinggi saldo di rekening kita, semakin banyak Giro yang bisa kita dapatkan
-
-Tidak diblacklist oleh Bank Indonesia, sehingga sangat aman dan terpercaya
-
-Syarat Buka Tabungan GIRO
+#### Syarat Buka Tabungan GIRO
 
 Berikut beberapa syarat yang harus kita patuhi untuk membuka rekening giro, yaitu:
 
-Isi formulir aplikasi dan dokumen lainnya
+* Isi formulir aplikasi dan dokumen lainnya
+* Melampirkan fotokopi KTP, NPWP, Anggaran Dasar, Anggaran Dasar dan perubahannya, SIUP dan surat referensi.
+* Menyerahkan setoran awal sesuai ketentuan
 
-Melampirkan fotokopi KTP, NPWP, Anggaran Dasar, Anggaran Dasar dan perubahannya, SIUP dan surat referensi.
-
-Menyerahkan setoran awal sesuai ketentuan
-
-Fitur BNI Giro
+#### Fitur BNI Giro
 
 Banyak juga fitur dan fasilitas yang bisa kita nikmati dari BNI Giro, untuk individu Giro akan mendapatkan fitur dan fasilitas sebagai berikut:
 
-Kartu Debit BNI (Silver, Gold dan Platinum)
+* Kartu Debit BNI (Silver, Gold dan Platinum)
+* Sistem Transfer Otomatis (Sweep Account Online)
+* saluran elektronik
+* Untuk BNI Giro non-tunggal, kita bisa mendapatkan fitur-fitur berikut:
+* Kartu Tunai BNI (hanya opsional)
+* sistem transfer otomatis
+* BNIDirect atau Internet Banking
+* diskon otomatis
+* Rekening BNI virtual yang dapat digunakan untuk transaksi debit atau kredit
 
-Sistem Transfer Otomatis (Sweep Account Online)
-
-saluran elektronik
-
-Untuk BNI Giro non-tunggal, kita bisa mendapatkan fitur-fitur berikut:
-
-Kartu Tunai BNI (hanya opsional)
-
-sistem transfer otomatis
-
-BNIDirect atau Internet Banking
-
-diskon otomatis
-
-Rekening BNI virtual yang dapat digunakan untuk transaksi debit atau kredit
-
-13\. BNI Taplus Tappa
-
-Ada juga jenis Tabungan BNI untuk Pegawai atau yang biasa disebut dengan Anggota Tapplus (Tappa). Tappa adalah tabungan yang diperuntukkan bagi pegawai atau anggota suatu perusahaan, korporasi, perkumpulan atau organisasi profesi yang bekerja sama dengan BNI. Selain berfungsi sebagai tabungan, kartu ini juga berfungsi sebagai kartu identitas anggota.
-
-Keuntungan
-
-Beberapa manfaat dan kelebihan tabungan BNI Tappa akan sangat bermanfaat dan memudahkan kita, mari kita lihat daftarnya di bawah ini:
-
-Memberikan kartu pegawai/kartu anggota suatu perusahaan, perkumpulan dan organisasi yang dapat digunakan sebagai kartu identitas
-
-Dapat membawa kebanggaan di tempat kerja dengan memiliki kartu karyawan atau kartu anggota
-
-Kartu pegawai atau kartu anggota dapat digunakan untuk memenuhi berbagai kebutuhan, dan juga dapat digunakan untuk memenuhi kebutuhan berbagai transaksi di berbagai jaringan ATM BNI dan ATM Bersama.
-
-Syarat BNI Tappa
-
-Untuk dapat membuka tabungan jenis ini, kita harus terlebih dahulu terdaftar dan menjadi pegawai atau anggota dari suatu perusahaan, korporasi, asosiasi atau organisasi yang telah bekerjasama dengan BNI. Jika tidak, kami tidak dapat mengikuti program tabungan ini. Karena ini adalah batas tabungan bagi yang mengikutinya.
-
-Fitur
-
-Berikut fitur menarik dari jenis tabungan ini, yaitu suku bunga yang menarik dan aman. Tingkat bunga tahunan bervariasi untuk setiap saldo yang dimiliki. Berikut adalah tabel suku bunga untuk jenis tabungan BNI ini:
-
-| Saldo BNI Tappa | Suku bunga per tahun |
-| :---: | :---: |
-| Saldo lebih Rp1 juta | 0,00% |
-| Saldo diantara Rp1 juta-Rp10 juta | 0,25% |
-| Saldo diantara Rp10 juta-Rp50 juta | 0,50% |
-| Saldo lebih Rp50 juta-Rp100 juta | 0,75% |
-| Saldo lebih dari Rp100 juta | 1,00% |
-
-14\. BNI Deposito
+## 14. BNI Deposito
 
 Macam macam tabungan BNI yang terakhir adalah BNI Deposito. Tabungan simpanan BNI ini dapat memberikan kemudahan, terutama bagi anda yang ingin mempersiapkan sesuatu di kemudian hari. Karena BNI Deposito adalah tabungan yang bisa menjadi tabungan anda.
 
 Deposito yang sangat aman dengan suku bunga menarik. Selain itu banyak juga keuntungan dan kelebihan dari BNI Deposito ini, bagi yang penasaran bisa langsung melihat daftar kelebihannya di bawah ini.
 
-Keunggulan
+#### Keunggulan
 
 Berikut beberapa keuntungan dan kelebihan simpanan BNI yang dapat menjadi pertimbangan bagi kita untuk mengikuti program tabungan jenis ini:
 
-Suku bunga yang kompetitif dan menarik dapat diperoleh
+* Suku bunga yang kompetitif dan menarik dapat diperoleh
+* Kami dapat menggunakannya sebagai jaminan kredit
+* Dijamin oleh Lembaga Penjamin Simpanan (syarat dan ketentuan berlaku)
+* Tersedia dalam berbagai pilihan ruang kelas sesuai dengan kebutuhan kita, baik 1,3,6,12 atau 24 bulan.
 
-Kami dapat menggunakannya sebagai jaminan kredit
-
-Dijamin oleh Lembaga Penjamin Simpanan (syarat dan ketentuan berlaku)
-
-Tersedia dalam berbagai pilihan ruang kelas sesuai dengan kebutuhan kita, baik 1,3,6,12 atau 24 bulan.
-
-Syarat Buka Tabungan
+#### Syarat Buka Tabungan
 
 Berikut syarat-syarat untuk bisa mengikuti BNI Deposito, baca dan perhatikan baik-baik, khusus untuk Sedulur yang berminat untuk ikutan:
 
-Isi formulir permintaan pembukaan rekening
+* Isi formulir permintaan pembukaan rekening
+* Tunjukkan KTP asli (KTP/SIM/Passport) atau komersil/badan hukum (Bukti keabsahan) dan kirimkan juga copy KTP asli
+* Setoran awal harus dilakukan untuk membuka akun (persyaratan jumlah setoran bervariasi, dapat berubah sesuai dengan perkembangan yang berlaku)
 
-Tunjukkan KTP asli (KTP/SIM/Passport) atau komersil/badan hukum (Bukti keabsahan) dan kirimkan juga copy KTP asli
-
-Setoran awal harus dilakukan untuk membuka akun (persyaratan jumlah setoran bervariasi, dapat berubah sesuai dengan perkembangan yang berlaku)
-
-Fitur
+#### Fitur
 
 Berikut adalah beberapa fitur menarik yang bisa kita nikmati di deposito BNI;
 
