@@ -93,7 +93,7 @@ Download aplikasi BNI Mobile terbaru, jika sudah memiliki aplikasi BNI Mobile se
 
 Pastikan smartphone Anda mendukung aplikasi Mobile Banking. Versi minimum android 5.0.0 (Lollipop) ke atas. Jika ponsel cerdas Anda menggunakan versi andsoid 4 atau kurang, Anda tidak dapat menggunakan aplikasi ini.
 
-### 7. Hp Bebesa dari Root
+### 7. Hp Bebes dari Root
 
 BNI Mobile tidak mengizinkan Hp dengan kondisi root, jadi jika smartphone Anda terindikasi root, Anda harus unroot terlebih dahulu. supaya tidak terjadi aktivasi mobile banking BNI gagal terus.
 
