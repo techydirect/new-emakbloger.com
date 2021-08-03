@@ -15,7 +15,7 @@ paginate = 8
   # Default Thumnail
   default = "asset/default.png"
   # Tagline
-  tagLine = "Review Asuransi, Pijaman Online, Keuangan Parenting"
+  tagLine = "Review Asuransi, Pijaman Online, Keuangan dan Parenting"
   description = "Emakbloger.com merupakan blog yang membahas seputar Finansial, Asuransi, Pinjaman online, Parenting dan dan tips lainnya yang dirangkum dari berbagai sumber terpercaya"
   og_image = "/asset/finantku.jpg"
   # sosmed
