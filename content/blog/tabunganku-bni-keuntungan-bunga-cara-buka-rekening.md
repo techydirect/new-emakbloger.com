@@ -21,6 +21,12 @@ Sama seperti produk tabungan lainnya yang ditawarkan oleh BNI, BNI TabunganKu ju
 
 Saldo harian di atas Rp 500.000 - Rp 1 juta dengan bunga 0,25% per tahun. Untuk saldo harian di atas Rp 1 juta, Anda akan mendapatkan bunga 1% per tahun.
 
+**Terkait:**
+
+* [**BNI Taplus: Jenis, Syarat dan Biaya Admin**](https://www.emakbloger.com/bni-taplus/08032021/)
+* [**Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!**](https://www.emakbloger.com/aktivasi-mobile-banking-bni-gagal-terus/08012021/)
+* [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
+
 ## Apa Manfaat TabunganKu BNI?
 
 TabunganKu BNI merupakan jenis tabungan yang banyak digandrungi saat ini, karena berbagai manfaat dan keunggulan yang di tawarkannya. Contohnya seperti:

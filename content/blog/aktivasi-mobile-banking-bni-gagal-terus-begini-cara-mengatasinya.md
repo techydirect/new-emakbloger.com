@@ -46,6 +46,7 @@ Oleh karena itu, cara aktivasi BNI Mobile ini bisa Anda lakukan secara mandiri a
 
 * [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
 * [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
+* [**BNI Taplus: Jenis, Syarat dan Biaya Admin**](https://www.emakbloger.com/bni-taplus/08032021/)
 
 ## Penyebab Aktivasi Mobile Banking BNI gagal terus
 
