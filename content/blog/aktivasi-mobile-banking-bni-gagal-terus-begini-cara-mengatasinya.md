@@ -11,6 +11,7 @@ tags = ["bni", "mobile banking bni", "aktivasi m banking bni"]
 title = "Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!"
 
 +++
+
 [**Emakbloger.com**](/) - Bagi Anda yang menggunakan Bank BNI dan melakukan aktivasi BNI Mobile, Anda mungkin pernah mengalami kegagalan aktivasi BNI Mobile. Untuk itu kami akan memberikan cara untuk mengatasi aktivasi mobile banking BNI gagal terus.
 
 Saat ini dunia perbankan telah memberikan kemudahan dalam mengakses transaksi perbankan online yang dapat mempermudah dan juga mempersingkat waktu. Layanan BNI Mobile Banking ini juga dapat digunakan untuk transaksi di luar negeri. Berbagai aktivitas perbankan dapat Anda lakukan hanya dengan menggunakan Hp.
@@ -21,32 +22,32 @@ Sebelum dapat menggunakan BNI Mobile, Anda diharuskan untuk melakukan aktivasi t
 
 Sebelum Anda mengetahui cara mengatasi aktivasi mobile banking BNI gagal terus, Anda perlu mengetahui terlebih dahulu cara aktivasi BNI Mobile yang benar. Karena ada kemungkinan aktivasi m-banking BNI gagal karena salah aktivasi. Nah, berikut ini cara aktivasi BNI Mobile yang benar:
 
-* Datang ke cabang BNI terdekat dan jangan lupa download BNI Mobile di Play Store atau App Store.
-* Buka aplikasi BNI Mobile, lalu pilih menu registrasi
-* Maka akan muncul syarat dan ketentuan penggunaan BNI Mobile, centang kolom persetujuan lalu pilih Setuju
-* Siapkan nomor rekening, tanggal lahir, email dan ID/KTP untuk persyaratan yang harus diisi di BNI Mobile App. Kemudian isi data sesuai yang diminta oleh BNI Mobile.
-* BNI Mobile akan mengirimkan kode melalui email, cek email Anda
-* Kembali ke BNI Mobile dan buat user ID dan kode registrasi yang dikirim melalui email
+- Datang ke cabang BNI terdekat dan jangan lupa download BNI Mobile di Play Store atau App Store.
+- Buka aplikasi BNI Mobile, lalu pilih menu registrasi
+- Maka akan muncul syarat dan ketentuan penggunaan BNI Mobile, centang kolom persetujuan lalu pilih Setuju
+- Siapkan nomor rekening, tanggal lahir, email dan ID/KTP untuk persyaratan yang harus diisi di BNI Mobile App. Kemudian isi data sesuai yang diminta oleh BNI Mobile.
+- BNI Mobile akan mengirimkan kode melalui email, cek email Anda
+- Kembali ke BNI Mobile dan buat user ID dan kode registrasi yang dikirim melalui email
 
 Ini cara daftar BNI Mobile yang benar, setelah registrasi, berikut cara aktivasinya:
 
-* Buka aplikasi BNI Mobile
-* Setelah itu pilih Aktifkan
-* Maka akan muncul syarat dan ketentuan penggunaan BNI Mobile, centang kolom persetujuan lalu pilih Setuju
-* Masukkan ID pengguna
-* Masukkan nomor kartu debit/ATM Anda.
-* Pilih negara lokasi (contoh: Indonesia).
-* Masukkan kode OTP. Kode OTP akan dikirimkan ke nomor telepon pribadi yang Anda gunakan di BNI Mobile. Ingatlah bahwa token OTP tidak boleh dibagikan kepada siapa pun, bahkan dengan BNI CS.
-* Masukkan MPIN (gunakan minimal 6 karakter, kombinasi huruf dan angka yang mudah Anda ingat).
-* Selanjutnya buat password yang terdiri dari delapan sampai 12 kombinasi angka dan huruf.
+- Buka aplikasi BNI Mobile
+- Setelah itu pilih Aktifkan
+- Maka akan muncul syarat dan ketentuan penggunaan BNI Mobile, centang kolom persetujuan lalu pilih Setuju
+- Masukkan ID pengguna
+- Masukkan nomor kartu debit/ATM Anda.
+- Pilih negara lokasi (contoh: Indonesia).
+- Masukkan kode OTP. Kode OTP akan dikirimkan ke nomor telepon pribadi yang Anda gunakan di BNI Mobile. Ingatlah bahwa token OTP tidak boleh dibagikan kepada siapa pun, bahkan dengan BNI CS.
+- Masukkan MPIN (gunakan minimal 6 karakter, kombinasi huruf dan angka yang mudah Anda ingat).
+- Selanjutnya buat password yang terdiri dari delapan sampai 12 kombinasi angka dan huruf.
 
 Oleh karena itu, cara aktivasi BNI Mobile ini bisa Anda lakukan secara mandiri atau Anda harus mencari bantuan BNI CS di kantor cabang BNI terdekat. Juga, jangan lupa untuk menyiapkan akun email aktif jika Anda akan mengubah kata sandi/PIN Anda kapan saja.
 
 **Terkait:**
 
-* [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
-* [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
-* [**BNI Taplus: Jenis, Syarat dan Biaya Admin**](https://www.emakbloger.com/bni-taplus/08032021/)
+- [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
+- [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
+- [**BNI Taplus: Jenis, Syarat dan Biaya Admin**](https://www.emakbloger.com/bni-taplus/08032021/)
 
 ## Penyebab Aktivasi Mobile Banking BNI gagal terus
 
@@ -116,12 +117,12 @@ Ketika Anda mengalami kegagalan aktivasi BNI Mobile Banking, Anda akan mendapatk
 
 Hp anda sudah terdeteksi root, demi keamanan rekening bank BNI mobile anda coba unroot handphone anda. Jadi pastikan smartphone Anda bukan ponsel yang di-root alias pengaturan pabrik.
 
-| Kode error | Penjelasan |
-| :---: | :---: |
-| MBANK 51 | Sebaiknya cek data diri Anda di kantor cabang BNI terdekat |
-| MBANK 50 | Reset SSN melalui customer service BNI terdekat |
+| Kode error       | Penjelasan                                                                                             |
+| ---------------- | ------------------------------------------------------------------------------------------------------ |
+| MBANK 51         | Sebaiknya cek data diri Anda di kantor cabang BNI terdekat                                             |
+| MBANK 50         | Reset SSN melalui customer service BNI terdekat                                                        |
 | MBANK 18, 36, 37 | BNI Mobile Anda diblokir, jadi Anda harus segera menelepon dan memberi tahu cs untuk membuka blokirnya |
-| MBANK error | Ini adalah bug di BNI mobile banking versi apk, jadi harus install aplikasi terbaru atau harus update |
-| MBANK 1 | kunjungi bank BNI terdekat |
+| MBANK error      | Ini adalah bug di BNI mobile banking versi apk, jadi harus install aplikasi terbaru atau harus update  |
+| MBANK 1          | kunjungi bank BNI terdekat                                                                             |
 
 Nah, itulah beberapa penyebab dan cara mengatasi aktivasi mobile banking BNI gagal terus yang dapat anda terapkan. Semoga berhasil dan dapat menambah wawasan anda. :)

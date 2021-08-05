@@ -11,6 +11,7 @@ tags = ["jenis tabungan BNI", "Bank BNI", "Saldo Minimum BNI"]
 title = "BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal"
 
 +++
+
 [**Emakbloger.com**](/) - Ada banyak jenis tabungan BNI yang bisa dipilih sesuai kebutuhan Anda, seperti BNI Taplus, BNI Pandai, BNI Tapenas, BNI Dollar, BNI Haji, BNI Tabungan Pelajar dan BNI Deposito. Di antara semua jenis tabungan tersebut, BNI Taplus merupakan tabungan utama yang ditawarkan oleh BNI.
 
 BNI Taplus sendiri terdiri dari Taplus, Taplus Bisnis, Taplus Muda, Taplus Anak, dan Taplus pegawai atau anggota. Penasaran apa saja manfaat dan syarat dan biaya admin BNI Taplus? Simak rangkuman Emakbloger.com di bawah ini.
@@ -21,33 +22,33 @@ Suku bunga tabungan BNI Taplus sangat menarik, berkisar antara 0,7% hingga 2%. U
 
 #### Syarat, Biaya Admin, dan Saldo Minimum
 
-* WNI bawa KTP dan WNA bawa KITAS
-* Jika kantor cabang BNI yang ditunjuk tidak sesuai dengan alamat KTP, calon nasabah wajib melampirkan surat keterangan kerja atau domisili.
-* Setoran awal minimal Rp 500.000 untuk Jabodetabek dan Rp 250.000 di luar Japoditapek.
-* Setoran selanjutnya minimal Rp 5.000.
-* Rata-rata saldo minimum Rp 150.000.
-* Denda Rp 5.000 jika saldo kurang dari rata-rata minimum yang dipersyaratkan.
-* Biaya admin BNI taplus Rp 11000 per bulan
-* Biaya penggantian buku Rp 1500
-* Biaya penutupan rekening Rp 10.000
+- WNI bawa KTP dan WNA bawa KITAS
+- Jika kantor cabang BNI yang ditunjuk tidak sesuai dengan alamat KTP, calon nasabah wajib melampirkan surat keterangan kerja atau domisili.
+- Setoran awal minimal Rp 500.000 untuk Jabodetabek dan Rp 250.000 di luar Japoditapek.
+- Setoran selanjutnya minimal Rp 5.000.
+- Rata-rata saldo minimum Rp 150.000.
+- Denda Rp 5.000 jika saldo kurang dari rata-rata minimum yang dipersyaratkan.
+- Biaya admin BNI taplus Rp 11000 per bulan
+- Biaya penggantian buku Rp 1500
+- Biaya penutupan rekening Rp 10.000
 
 #### Suku Bunga
 
 Nah, untuk rincihan bunga dari jenis rekening Taplus ini, kami telah merangkumnya seperti tabel dibawah ini:
 
-| Saldo | Suku Bunga Tahunan |
-| :---: | :---: |
-| < Rp1.000.000 | 0,00% |
-| Rp1.000.000 - Rp50.000.000 | 0,25% |
-| > Rp50.000.000 - Rp500.000.000 | 0,25% |
-| > Rp500.000.000 - Rp1.000.000.000 | 1,00% |
-| > Rp1.000.000.000 | 1,50% |
+| Saldo                             | Suku Bunga Tahunan |
+| --------------------------------- | ------------------ |
+| < Rp1.000.000                     | 0,00%              |
+| Rp1.000.000 - Rp50.000.000        | 0,25%              |
+| > Rp50.000.000 - Rp500.000.000    | 0,25%              |
+| > Rp500.000.000 - Rp1.000.000.000 | 1,00%              |
+| > Rp1.000.000.000                 | 1,50%              |
 
 **Terkait:**
 
-* [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
-* [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
-* [**Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!**](https://www.emakbloger.com/aktivasi-mobile-banking-bni-gagal-terus/08012021/)
+- [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
+- [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
+- [**Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!**](https://www.emakbloger.com/aktivasi-mobile-banking-bni-gagal-terus/08012021/)
 
 ## 2. Tabungan BNI Taplus Bisnis
 
@@ -57,27 +58,27 @@ Untuk penghematan tersebut, tersedia kartu debit bermerk MasterCard Gold atau Pl
 
 #### Syarat, Biaya Admin, dan Saldo Minimum
 
-* WNI membawa KTP sendiri dan WNA membawa KITAS
-* Badan usaha membawa SIUP
-* Setoran awal minimum adalah Rp 1.000.000 dan kemudian Rp 5.000
-* Saldo rata-rata minimum per bulan Rp1.000.000
-* Biaya administrasi per bulan Rp 10.000
-* Pengajuan Kartu Debit Gold dikenakan biaya sebesar Rp15.000
-* Pengajuan Kartu Debit Platinum dikenakan biaya sebesar Rp 20.000
-* Penukaran Kartu Debit Emas dikenakan biaya Rp. 20000
-* Penggantian Kartu Debit Platinum dikenakan biaya sebesar Rp25.000
-* Denda Rp20.000 jika saldo di bawah rata-rata minimum yang dipersyaratkan
+- WNI membawa KTP sendiri dan WNA membawa KITAS
+- Badan usaha membawa SIUP
+- Setoran awal minimum adalah Rp 1.000.000 dan kemudian Rp 5.000
+- Saldo rata-rata minimum per bulan Rp1.000.000
+- Biaya administrasi per bulan Rp 10.000
+- Pengajuan Kartu Debit Gold dikenakan biaya sebesar Rp15.000
+- Pengajuan Kartu Debit Platinum dikenakan biaya sebesar Rp 20.000
+- Penukaran Kartu Debit Emas dikenakan biaya Rp. 20000
+- Penggantian Kartu Debit Platinum dikenakan biaya sebesar Rp25.000
+- Denda Rp20.000 jika saldo di bawah rata-rata minimum yang dipersyaratkan
 
 #### Suku Bunga
 
 Untuk rincihan bunga BNI Taplus Bisnis yang didapat oleh nasabah, berikut kami telah merangkumnya pada tabel dibawah ini:
 
-| Saldo | Suku Bunga Tahunan |
-| :---: | :---: |
-| < Rp5.000.000 | 0,00% |
-| Rp5.000.000 - Rp100.000.000 | 1,00% |
-| > Rp100.000.000 - Rp1.000.000.000 | 1,25% |
-| > Rp 1.000.000.000 | 2,15% |
+| Saldo                             | Suku Bunga Tahunan |
+| --------------------------------- | ------------------ |
+| < Rp5.000.000                     | 0,00%              |
+| Rp5.000.000 - Rp100.000.000       | 1,00%              |
+| > Rp100.000.000 - Rp1.000.000.000 | 1,25%              |
+| > Rp 1.000.000.000                | 2,15%              |
 
 ## 3. Tabungan BNI Taplus Muda
 
@@ -85,31 +86,31 @@ Tabungan BNI Taplus muda diperuntukkan bagi calon nasabah yang berusia antara 17
 
 #### Syarat, Biaya Admin, dan Saldo Minimum
 
-* WNI bawa KTP dan WNA bawa paspor
-* Setoran awal minimal Rp100.000 lalu Rp10.000
-* Biaya administrasi Rp 5000 per bulan
-* Biaya penutupan rekening Rp 50.000
-* Buat kartu debit reguler gratis
-* Pembuatan kartu debit pribadi dikenakan biaya sebesar Rp25.000
-* Penggantian kartu karena kehilangan atau kerusakan dikenakan biaya sebesar Rp25.000
+- WNI bawa KTP dan WNA bawa paspor
+- Setoran awal minimal Rp100.000 lalu Rp10.000
+- Biaya administrasi Rp 5000 per bulan
+- Biaya penutupan rekening Rp 50.000
+- Buat kartu debit reguler gratis
+- Pembuatan kartu debit pribadi dikenakan biaya sebesar Rp25.000
+- Penggantian kartu karena kehilangan atau kerusakan dikenakan biaya sebesar Rp25.000
 
 #### Limit Transaksi Taplus Muda
 
 Namun, Taplus Muda memiliki limit transaksi perharinya. Berdasarkan yang kami kutip dari laman resmi BNI, berikut rincihan lengkapnya seperti dibawah ini:
 
-* Batas penarikan tunai maksimal Rp 5.000.000 per hari
-* Belanja maksimal Rp10.000.000 per hari
-* Transfer ke BNI atau bank lain max Rp10.000.000 per hari
+- Batas penarikan tunai maksimal Rp 5.000.000 per hari
+- Belanja maksimal Rp10.000.000 per hari
+- Transfer ke BNI atau bank lain max Rp10.000.000 per hari
 
 #### Suku Bunga
 
-| Saldo | Suku Bunga Tahunan |
-| :---: | :---: |
-| < Rp 1.000.000	0,00% |  |
-| Rp 1.000.000 - Rp10.000.000 | 0,50% |
-| > Rp10.000.000 - Rp50.000.000 | 0,75% |
-| > Rp50.000.000 - Rp100.000.000 | 1,00% |
-| > Rp100.000.000 | 1,25% |
+| Saldo                          | Suku Bunga Tahunan |
+| ------------------------------ | ------------------ |
+| < Rp 1.000.000 0,00%           |                    |
+| Rp 1.000.000 - Rp10.000.000    | 0,50%              |
+| > Rp10.000.000 - Rp50.000.000  | 0,75%              |
+| > Rp50.000.000 - Rp100.000.000 | 1,00%              |
+| > Rp100.000.000                | 1,25%              |
 
 ## 4. Tabungan BNI Taplus Anak
 
@@ -119,18 +120,18 @@ Kartu diskon Taplus Anak bahkan bisa didesain menggunakan foto anak lho. Selain 
 
 #### Syarat dan Biaya Admin
 
-* Setoran awal minimal Rp100.000 dan selanjutnya minimal Rp10.000
-* Tidak ada biaya administrasi
-* Limit transaksi belanja per hari adalah Rp 500.000
-* Pembukaan rekening bersama orang tua dengan membawa KTP anak, baik itu kartu pelajar, akte kelahiran atau paspor dan KTP orang tua
+- Setoran awal minimal Rp100.000 dan selanjutnya minimal Rp10.000
+- Tidak ada biaya administrasi
+- Limit transaksi belanja per hari adalah Rp 500.000
+- Pembukaan rekening bersama orang tua dengan membawa KTP anak, baik itu kartu pelajar, akte kelahiran atau paspor dan KTP orang tua
 
 #### Suku Bunga
 
-| Saldo | Suku Bunga Tahunan |
-| :---: | :---: |
-| < Rp100.000 | 0,00% |
-| Rp100.000 - Rp5.000.000 | 1,00% |
-| > Rp5.000.000 | 1,50% |
+| Saldo                   | Suku Bunga Tahunan |
+| ----------------------- | ------------------ |
+| < Rp100.000             | 0,00%              |
+| Rp100.000 - Rp5.000.000 | 1,00%              |
+| > Rp5.000.000           | 1,50%              |
 
 ## 5. Tabungan BNI Taplus Tappa
 
@@ -138,18 +139,18 @@ Jenis tabungan ini ditujukan khusus untuk pegawai perusahaan atau organisasi yan
 
 #### Syarat dan Biaya Admin
 
-* WNI bawa KTP dan WNA bawa KITAS
-* Rekening tabungan hanya dapat dibuka oleh pegawai perusahaan atau organisasi yang bekerja sama dengan BNI
-* Seluruh perusahaan dan organisasi dapat bekerjasama dengan BNI sesuai dengan syarat dan ketentuan yang berlaku
+- WNI bawa KTP dan WNA bawa KITAS
+- Rekening tabungan hanya dapat dibuka oleh pegawai perusahaan atau organisasi yang bekerja sama dengan BNI
+- Seluruh perusahaan dan organisasi dapat bekerjasama dengan BNI sesuai dengan syarat dan ketentuan yang berlaku
 
 #### Suku Bunga
 
-| Saldo | Suku Bunga Tahunan |
-| :---: | :---: |
-| Di bawah Rp1 juta | 0,00% |
-| Rp1 juta Rp10 juta | 0,25% |
-| Rp10 juta Rp50 juta | 0,50 |
-| Rp50 juta Rp100 juta | 0,75% |
-| Di atas Rp100 juta | 1.00% |
+| Saldo                | Suku Bunga Tahunan |
+| -------------------- | ------------------ |
+| Di bawah Rp1 juta    | 0,00%              |
+| Rp1 juta Rp10 juta   | 0,25%              |
+| Rp10 juta Rp50 juta  | 0,50               |
+| Rp50 juta Rp100 juta | 0,75%              |
+| Di atas Rp100 juta   | 1.00%              |
 
 Nah itulah pembahasan singkat dari kami mengenai jenis BNI Taplus, suku bunga, biaya adminstrasi, dan persyaratan untuk buka rekening tabungan. Semoga bermanfaat dan dapat menambah wawasan anda.
