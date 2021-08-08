@@ -5,3 +5,25 @@ table {
     line-height: 2em !important;
     color: #494848 !important;
 }
+
+.tombol button {
+    font-family: 'Pt Serif', serif;
+    font-size: 16px;
+    background: #045704;
+    border: none;
+    border-radius: 5px;
+}
+
+.tombol button:hover {
+    background: #056905;
+}
+
+.tombol button a {
+    padding: 0 10px;
+    color: #cac6c6;
+    display: block;
+}
+
+.tombol button a:hover {
+    color: #fff;
+}
