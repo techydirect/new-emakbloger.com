@@ -14,7 +14,6 @@ tinggi = "1500"
 title = "Cara Mendidik Anak Supaya Disiplin Tanpa Perlu Kekerasan"
 
 +++
-
 [**Emakbloger.com**](/) - [Cara mendidik anak yang baik](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak/) agar iya menjadi disiplin bukan juga harus dilakukan dengan kekerasan, atau selalu menasehati anak dengan nada tinggi. Masih ada kok, pola asuh yang baik tanpa kekerasan yang bisa kamu terapkan pada Anak.
 
 Dampak yang dirasakan jika mendidik anak dengan kekerasan akan sangat buruk bagi mereka. Salah satunya si Anak bisa jadi melawan pada orang tua, berprilaku buruk, tidak percaya diri, dan bahkan juga hal negatif akan terjadi pada perkembangan dan juga sikologis anak.
@@ -79,4 +78,4 @@ Dengan cara ini, anak akan sadar dan mengerti akan tindakan mana yang salah, dan
 
 Nah, itulah [5 cara mendidik anak supaya disiplin](/tags/parenting) tanpa kekerasan yang bisa mom terapkan. Semoga bermanfaat yang mom :)
 
-Baca juga artikel lainnya dari kemi mengenai [Ide Parenting Lainnya](https://www.emakbloger.com/categories/pola-asuh).
+Baca juga artikel lainnya dari kemi mengenai [Ide Parenting Lainnya](https://www.emakbloger.com/categories/parenting).

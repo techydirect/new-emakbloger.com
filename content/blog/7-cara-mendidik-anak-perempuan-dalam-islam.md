@@ -14,7 +14,6 @@ tinggi = "1500"
 title = "7 Cara Mendidik Anak Perempuan Dalam Islam"
 
 +++
-
 [**Emakbloger.com**](/) - Anak adalah anugerah indah dari Tuhan Yang Maha Esa. Oleh karena itu, setiap orang tua berkewajiban untuk mendidik dan merawatnya. Namun, [cara mendidik anak perempuan](/tags/parenting-islami) cenderung mendapat perhatian lebih, terutama dalam Islam.
 
 Bukan tanpa alasan, mengutip Dalamislam.com, menurut sebuah hadits otentik, anak perempuan bisa menjadi penolong bagi orang tuanya. "Siapapun yang diuji dengan putrinya dan berbuat baik untuk mereka, mereka akan menjadi penghalang dari Neraka." (Bukhari dan Muslim).
@@ -75,4 +74,4 @@ Apapun profesi seorang perempuan, ketika dia menjadi seorang istri, dia bertangg
 
 Ketika seorang perempuan tumbuh besar, dia memiliki kewajiban dan tanggung jawab untuk mendidik dan membesarkan anak-anaknya. Karakter yang termasuk dalam masa kanak-kanak tanpa disadari akan berubah menjadi dewasa.
 
-Itulah pembahasan singkat dari kami mengenai [cara mendidik anak perempuan](/categories/pola-asuh) berdasarkan islam, semoga bermanfaat ya mom.
+Itulah pembahasan singkat dari kami mengenai [cara mendidik anak perempuan](/categories/parenting) berdasarkan islam, semoga bermanfaat ya mom.

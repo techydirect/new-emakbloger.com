@@ -14,7 +14,6 @@ tinggi = "1500"
 title = "Cara Mendidik Anak Usia 5 Tahun agar Memiliki Kepribadian Baik"
 
 +++
-
 [**Emakbloger.com**](/) - Semakin hari, usia anak pun kian bertambah, dan kamu sebagai orang tua perlu mengetahui tentang apa saja perkembangan yang sudah terjadi pada si Anak. Terutama jika iya sudah menginjak usia 5 tahun, merekapun semakin antusias dengan hal-hal baru. Dan [cara mendidik anak di usia 5 tahun](#) agar mereka memiliki kepribadian yang baik perlu mom terapkan.
 
 Perlum mom sadari, karakteristik si [anak di usia 5 tahun](/tags/anak-usia-5-tahun) ini akan semakin terlihat. Salah satu contohnya dengan keaktifan anak, ekplorasi dilingkungkungan sekitarnya, bahkan juga saat dirumah.
@@ -41,11 +40,11 @@ Mom bisa mulai mengajarkan anak mengenai kecerdasan spiritual mulai dari cara be
 
 Cara mendidik anak usia 5 tahun seperti inilah juga yang di anjurkan menurut Islam. Ketika anak sudah memahami hal ini sedikit demi sedikit, ia akan mampu memberikan berbagai manfaat positif, contohnya seperti dibawah ini:
 
-- [x] Lebih peka terhadap batin dan jiwa.
-- [x] Menjadikan anak berprilaku dan memiliki akhlakul mulia.
-- [x] Empati, simpati dan mempunyai belas kasihan pada orang di sekitarnya.
-- [x] Dapat memahami kemampuan yang ada pada dirinya dan memaksimalkannya.
-- [x] Anak akan mendapat wawasan baru.
+* \[x\] Lebih peka terhadap batin dan jiwa.
+* \[x\] Menjadikan anak berprilaku dan memiliki akhlakul mulia.
+* \[x\] Empati, simpati dan mempunyai belas kasihan pada orang di sekitarnya.
+* \[x\] Dapat memahami kemampuan yang ada pada dirinya dan memaksimalkannya.
+* \[x\] Anak akan mendapat wawasan baru.
 
 > **Baca Juga:** [**Cara Mendidik Anak Menurut Islam Sesuai Ajaran Nabi**](https://www.emakbloger.com/2021/april/18/cara-mendidik-anak-menurut-islam/)
 
@@ -75,4 +74,4 @@ Cara sederhana yang bisa mom lakukan untuk mengasah kemampuan kognitif anak adal
 
 Mom bisa mulai mengajarkan membaca secara perlahan, misalnya mengajarkannya menghafal alfabet, belajar berhitung meskipun itu hanya sampai bilangan 10 saja. Dengan rutin dan perlahan mengajarkan anak, ia akan mulai bisa menghafalnya.
 
-Mungkin itu saja pembahasan singkat dari kami mengenai [cara mendidik anak](/tags/mendidik-anak) di usia 5 tahun yang dapat mom contoh. Jika mom masih mau mencari ide lainnya mengenai pola asih anak, Mom bisa menemukannya di [blog Emakbloger.com](/categories/pola-asuh).
+Mungkin itu saja pembahasan singkat dari kami mengenai [cara mendidik anak](/tags/mendidik-anak) di usia 5 tahun yang dapat mom contoh. Jika mom masih mau mencari ide lainnya mengenai pola asih anak, Mom bisa menemukannya di [blog Emakbloger.com](/categories/parenting).
