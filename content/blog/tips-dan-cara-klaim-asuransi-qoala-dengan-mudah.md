@@ -12,9 +12,12 @@ tags = ["asuransi qoala", "asuransi jiwa", "asuransi kesehatan", "asuransi mobil
 title = "Tips dan Cara Klaim Asuransi Qoala dengan Mudah"
 
 +++
+
 [**Emakbloger.com**](/) - Memilih layanan asuransi terbaik memang menjadi keharusan yang perlu Anda pertimbangkan, salah satunya Asuransi Qoala. Selain cara kalim asuransi Qoala yang terbilang mudah, produk yang ditawarkan juga bermaca - macam. Mulai dari asuransi Mobil, Jiwa, Kesehatan, dan masih banyak lagi.
 
 Pentingya memulai kepemilikan asuransi juga dapat meringankan beban Anda jika terjadi risiko sakit, kehilangan barang berharga, kebakaran, kecelakaan, dan hal lain yang tidak pernah kita ketahui dalam keidupan. Dengan adanya asuransi, mereka akan membantu dan melindungi nasabah dari berbagai macam hal tadi.
+
+{{< toc >}}
 
 Nah, bagi Anda pengguna layanan asuransi Qoala dan belum mengerahui cara ajukan klaimnya. Kebetulan sekali, kali ini tim Emakbloger.com sedang mengulas cara klaim asuransi Qoala, selengkapnya bisa Anda simak dibawah ini:
 
@@ -28,16 +31,16 @@ Sama seperti asuransi lainnya, asuransi kesehatan juga dapat menjadi solusi bagi
 
 Namun, sebelum Anda mengajukan klaim asuransi kesehatan Qoala, pastikan Anda telah mengikuti prosedur seperti yang tertara dibawah ini:
 
-* Pastikan polis asuransi kesehatan yang kamu gunakan masih aktif dan tidak ada tunggakan pembayaran premi.
-* Pastikan bahwa penyakit tidak seperti: Penyakit HIV/AIDS.
-* Biaya yang ditanggung tidak termasuk keperluan pribadi seperi: suplemen, vitamin tambahan, dan biaya non obat lainnya.
+- Pastikan polis asuransi kesehatan yang kamu gunakan masih aktif dan tidak ada tunggakan pembayaran premi.
+- Pastikan bahwa penyakit tidak seperti: Penyakit HIV/AIDS.
+- Biaya yang ditanggung tidak termasuk keperluan pribadi seperi: suplemen, vitamin tambahan, dan biaya non obat lainnya.
 
 Jika telah sesuai dengan prosedur yang ada diatas, Anda bisa langsung menghubungi agen Asuransi Qoala untuk menginformasikan bahwa Anda sedang sakit dan dirawat. Pada tahap selanjutnya Anda akan diberikan informasi oleh agen terkait prihal apa saja yang perlu Anda lakukan selanjutnya.
 
 Jika sudah melalui beberapa prosedur diatas, Anda harus mempunyai bukti seperti tanda bayar transaksi pengobatan dan simpan. Bukti tersebut akan sangat dibutuhkan saat proses klaim asuransi kesehatan. Langkah selanjutnya ajukan klaim dengan menyertakan bukti tadi. Adapun dua cara klaim asuransi Qoala yang bisa anda lakukan, yakni:
 
-* Mengirim formulir klaim asli serta dokumen yang tertara semua bukti secara manual ke kantor perusahaan Qoala.
-* Cara kedua bisa langsung melalui laman resmi Qoala dan mengunggah formulir serta dokumen yang sudah tertara bukti.
+- Mengirim formulir klaim asli serta dokumen yang tertara semua bukti secara manual ke kantor perusahaan Qoala.
+- Cara kedua bisa langsung melalui laman resmi Qoala dan mengunggah formulir serta dokumen yang sudah tertara bukti.
 
 Setalah menyajukan klaim melalui proses seperti diatas, pihak Qoala akan segera menygecek kelengkapan dokumen. Pada tahap ini, jika pengajuan klaim asuransi kesehatan Qoala telah dikonfirmasi, perusahanaa akan segera membayar biaya pengobatan sesuai dengan manfaat perlindungan yang tertara dalam polis asuransi.
 
@@ -63,9 +66,9 @@ Produk asuransi Qoala seperti asuransi jiwa unit link merupakan jenis asuransi y
 
 Nah, setelah mengetahui 4 produk asuransi jiwa diatas, Anda juga wajib mengetahui cara klaim asuransi Qoala pada jenis asuransi jiwa. Yuk, simak selengkapnya seperti ulasan kami dibawah ini:
 
-* Anda merupakan pihak yang terkait atau ahli waris, dan menghubungi pihak asuransi Qoala serta menginformasikan bahwa pihak tertanggung meninggal dunia.
-* Siapkan sejumlah dokumen seperti surat kematian, dokumen polis untuk melengkapi laporan Anda.
-* Selanjutnya ahli waris akan di interview oleh pihak jasa asuransi mengenai kebenaran kabar meninggalnya pihak tertanggung.
+- Anda merupakan pihak yang terkait atau ahli waris, dan menghubungi pihak asuransi Qoala serta menginformasikan bahwa pihak tertanggung meninggal dunia.
+- Siapkan sejumlah dokumen seperti surat kematian, dokumen polis untuk melengkapi laporan Anda.
+- Selanjutnya ahli waris akan di interview oleh pihak jasa asuransi mengenai kebenaran kabar meninggalnya pihak tertanggung.
 
 Setelah melalui beberapa proses diatas, serta penyerahan dokumen lengkap seperti surat keterangan meninggal dari dokter, fotocopy KTP identitas penerima. Pihak asuransi akan menginfokan melalui agen terkait pengajuan klaim asuransi jiwa ditolak atau terverifikasi.
 
@@ -87,9 +90,9 @@ Contohnya seperti kehilangan mobil akibat tindak kejahatan atau hal lain sebagai
 
 Nah, setelah mengetahui dua jenias asuransi mobil yang ada di atas. Penting juga untuk Anda ketahui mengenai cara klaim asuransi Qoala pada produk asuransi mobil:
 
-* Pertama, laporkan perihal yang terjadi pada mobil Anda dengan menyertakan foto.
-* Selanjutnya menyiapkan dokumen lengkap seperti STNK mobil, SIM, dan surat ketengan dari kepolisian jika krusakan mobil melebihi 70% serta dokumen polis mobil.
-* Anda bisa mengirim laporan dokumen melalui laman resmi Qoala atau mengirimnya langsung ke kantor cabang terdekat.
+- Pertama, laporkan perihal yang terjadi pada mobil Anda dengan menyertakan foto.
+- Selanjutnya menyiapkan dokumen lengkap seperti STNK mobil, SIM, dan surat ketengan dari kepolisian jika krusakan mobil melebihi 70% serta dokumen polis mobil.
+- Anda bisa mengirim laporan dokumen melalui laman resmi Qoala atau mengirimnya langsung ke kantor cabang terdekat.
 
 Setelah survei dilakukan pihak asuransi dan dinyatakan terverifikasi, mobil yang Anda miliki akan segera dibawa ke bengkel dan akan diantar kembali ke lokasi yang Anda inginkan.
 

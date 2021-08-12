@@ -18,6 +18,8 @@ title = "7 Cara Mendidik Anak yang Keras Kepala"
 
 Jika orang tua tidak mengizinkan, akan sering timbul perdebatan dan Mama akan mulai merasa bahwa anak tersebut memiliki sifat keras kepala. Mengutip dari buku parenting cara mendidik anak, sifat keras kepala sebenarnya bisa menjadi ciri khas yang dimunculkan oleh anak bahkan sejak masa kanak-kanak.
 
+{{< toc >}}
+
 Penting untuk dipahami bahwa sikap keras kepala adalah bagian dari kepribadian beberapa anak, tetapi pada orang lain sifat ini sebenarnya adalah cara untuk menegaskan keinginan mereka.
 
 Untuk menghadapi anak yang keras kepala, mama perlu melakukan beberapa trik dengan benar. Jika tidak demikian, maka hubungan komunikasi antara ibu dan anak bisa jadi perdebatan.

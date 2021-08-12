@@ -20,6 +20,8 @@ blogquote = "Dalam mendidik anak secara islami, Sering-seringlah berkata sayang 
 
 Dengan [menerapkan pola asuh yang baik](https://www.emakbloger.com/cara-mendidik-anak-dengan-pola-asuh-yang-benar/) menurut ajaran islam pada si anak, tentu nantinya si kecil akan menjadi anak yang sholeh dan sholeha. Dan tidak hanya itu saja si anak juga diharapkan akan mempunyai pribadi yang baik dan akhlak yang mulia.
 
+{{< toc >}}
+
 Adapun beberapa [cara mendidik anak menurut ajaran islam](/tags/parenting-islami) yang dapat Moms terapkan pada si kecil, seperti yang Emak Bloger rangkum dibawah ini:
 
 ## Cara Mendidik Anak Berdasarkan Ajaran Islam

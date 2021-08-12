@@ -11,9 +11,12 @@ tags = ["asuransi jiwa", "daftar asuransi jiwa", "asuransi jiwa indonesia", "asu
 title = "12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021"
 
 +++
+
 [**Emakbloger.com**](/) - Membandingkan pilihan asuransi jiwa terbaik dan terpercaya di Indonesia memang sebuah keharusan yang perlua anda lakukan sebelum membeli asuransi tersebut. Pada dasarnya, setiap asuransi jiwa pasti memiliki kelebihan dan juga kekurangan masing - masing. Entah itu mengenai cara klaim, pelayanan, dan masih banyak lagi.
 
 Lalu, apa itu asuransi jiwa dan apa saja manfaat yang di dapat ketika memiliki asuransi tersebut? Nah, supaya anda lebih paham dan tidak bingung lagi, disini Emakbloger.com akan berusahan memberikan penjelasanya untuk Anda.
+
+{{< toc >}}
 
 ## Apa itu Asuransi Jiwa?
 
@@ -35,9 +38,9 @@ Untuk itu Prudential wajib masuk dalam jajaran asuransi jiwa terbaik di Indonesi
 
 **Terkait:**
 
-* [**Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim**](https://www.emakbloger.com/07212021/asuransi-jiwa-axa-mandiri/)
-* [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
-* [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
+- [**Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim**](https://www.emakbloger.com/07212021/asuransi-jiwa-axa-mandiri/)
+- [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
+- [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
 
 ### a). Asuransi Jiwa PRUCinta
 
@@ -65,7 +68,7 @@ Namun, pertanggungan akan tetap dibayarkan pada akhir pertanggungan asuransi jik
 
 **Terkait:**
 
-* [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
+- [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
 
 ## 2. Asuransi Jiwa Terbaik Allianz
 
@@ -137,12 +140,12 @@ Menariknya, AIA Life Insurance yang sebelumnya bernama AIG Life merupakan perusa
 
 Bancassurance merupakan produk asuransi yang ditawarkan bekerja sama dengan perbankan. Melalui kerjasama ini, nasabah diuntungkan oleh bank karena tidak perlu lagi mencari asuransi jiwa terbaik dan terpercaya. Beberapa bank tersebut antara lain:
 
-* BCA: Maximum Protection from Critical Illness (PRMA), Maximum Protection (Perlindungan Jiwa), dan Maximum Insurance (Perlindungan Jiwa)
-* BJB : Happy Fruit Heart (melindungi jiwa) dan Happy Optima (melindungi jiwa)
-* Bukobin: B Investa Proteksi.
-* CIMB Niaga: Fortuna Critical Protection dan Fortuna Wealth Assurance, dengan Fortuna Future Assurance, Fortuna X-Tra Protection dan Fortuna Infinite Prime Assurance.
-* Citibank: Jaminan Prosperity Plan, Perlindungan Prime-Link Optimal, Signature Life dan Assurance Plus.
-* BRI: Provetara Ultima Link
+- BCA: Maximum Protection from Critical Illness (PRMA), Maximum Protection (Perlindungan Jiwa), dan Maximum Insurance (Perlindungan Jiwa)
+- BJB : Happy Fruit Heart (melindungi jiwa) dan Happy Optima (melindungi jiwa)
+- Bukobin: B Investa Proteksi.
+- CIMB Niaga: Fortuna Critical Protection dan Fortuna Wealth Assurance, dengan Fortuna Future Assurance, Fortuna X-Tra Protection dan Fortuna Infinite Prime Assurance.
+- Citibank: Jaminan Prosperity Plan, Perlindungan Prime-Link Optimal, Signature Life dan Assurance Plus.
+- BRI: Provetara Ultima Link
 
 ### Kelebihan AIA Finansial
 
@@ -164,9 +167,9 @@ Keunggulan dari Asuransi Jiwa Simaz adalah solvabilitas yang tinggi sehingga wan
 
 Namun ada beberapa kekurangan dari produk asuransi ini, yaitu informasi mengenai produk asuransi yang kurang transparan sehingga seringkali menimbulkan kekecewaan bagi nasabah. Asuransi jiwa sinarmas terdiri dari 4 jenis produk yaitu asuransi jiwa individu, asuransi jiwa kelompok, asuransi jiwa forensik dan asuransi kesehatan.
 
-* Contoh asuransi jiwa individu antara lain Smart Investa Link, Simas Maxi Pro SiJi Fixed Link, Simas Protection Complete, Simas Jiwa Smart Save, Simas Jiwa Legacy, Simas Dana Pasti dan Simas 1 Link.
-* Contoh asuransi jiwa kelompok antara lain DPLK, asuransi jiwa fidusia, asuransi kematian alami, asuransi jiwa tabungan, asuransi jiwa kelompok, dan asuransi kecelakaan diri kelompok.
-* Sedangkan contoh asuransi jiwa syariah antara lain Simas Investa Link Syariah dan Simas Maxi Pro Syariah. Terakhir, asuransi kesehatan Sinarmas mencakup perawatan penuh Simas dan Demam Berdarah Simas.
+- Contoh asuransi jiwa individu antara lain Smart Investa Link, Simas Maxi Pro SiJi Fixed Link, Simas Protection Complete, Simas Jiwa Smart Save, Simas Jiwa Legacy, Simas Dana Pasti dan Simas 1 Link.
+- Contoh asuransi jiwa kelompok antara lain DPLK, asuransi jiwa fidusia, asuransi kematian alami, asuransi jiwa tabungan, asuransi jiwa kelompok, dan asuransi kecelakaan diri kelompok.
+- Sedangkan contoh asuransi jiwa syariah antara lain Simas Investa Link Syariah dan Simas Maxi Pro Syariah. Terakhir, asuransi kesehatan Sinarmas mencakup perawatan penuh Simas dan Demam Berdarah Simas.
 
 Setiap produk asuransi jiwa yang ditawarkan akan memberikan perlindungan pada saat nasabah atau tertanggung meninggal dunia baik karena kecelakaan maupun bukan, dengan tambahan investasi berupa nilai polis. Jangka waktu yang tepat untuk mengcover setiap produk berbeda-beda, disesuaikan dengan kebutuhan.
 

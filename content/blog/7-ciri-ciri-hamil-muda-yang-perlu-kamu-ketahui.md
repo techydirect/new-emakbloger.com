@@ -20,6 +20,8 @@ title = "7 Ciri Ciri Hamil Muda Yang Perlu Kamu Ketahui"
 
 Salah satu cara menjaga rahim dengan baik adalah dengan mendeteksi kehamilan secepatnya. Bukan tanpa alasan, mengetahui kehamilan lebih awal bisa menghindari bahaya hal-hal yang membahayakan ibu dan janin. Bahkan mengetahui kehamilan sejak awal dapat menjaga kesehatan rahim Anda hingga saat persalinan.
 
+{{< toc >}}
+
 Oleh karena itu, sang ibu harus bisa mengenali ciri-ciri hamil muda yang dialaminya. Biasanya di awal kehamilan, ibu mengalami menstruasi yang terlambat atau juga merasa mual dan muntah yang mengganggu. Namun kenyataannya, ciri-ciri hamil muda tidak sebatas terlambat haid atau gejala mual dan muntah. Masih banyak lagi [ciri-ciri hamil muda](/tags/hamil-muda) yang bisa menjadi pertanda bahwa seseorang sedang mengandung bayi.
 
 Berikut kami rangkum ciri-ciri hamil muda yang perlu moms ketahui:

@@ -19,6 +19,8 @@ title = "Cara Mendidik Anak Usia 5 Tahun agar Memiliki Kepribadian Baik"
 
 Perlum mom sadari, karakteristik si [anak di usia 5 tahun](/tags/anak-usia-5-tahun) ini akan semakin terlihat. Salah satu contohnya dengan keaktifan anak, ekplorasi dilingkungkungan sekitarnya, bahkan juga saat dirumah.
 
+{{< toc >}}
+
 Dan tak jarang, hal ini terkadang membuat mom merasa kesulitan untuk mengatur si anak. Nah, di artikel kali ini kami akan berbagi tips dan [cara mendidik anak](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak/) di usia 5 tahun supaya mereka memiliki kepribadian yang baik.
 
 > **Baca Juga:** [**Cara Mendidik Anak Supaya Nurut sama Orang tua**](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak/)

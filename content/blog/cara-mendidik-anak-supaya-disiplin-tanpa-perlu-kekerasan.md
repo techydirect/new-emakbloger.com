@@ -19,6 +19,8 @@ title = "Cara Mendidik Anak Supaya Disiplin Tanpa Perlu Kekerasan"
 
 Dampak yang dirasakan jika mendidik anak dengan kekerasan akan sangat buruk bagi mereka. Salah satunya si Anak bisa jadi melawan pada orang tua, berprilaku buruk, tidak percaya diri, dan bahkan juga hal negatif akan terjadi pada perkembangan dan juga sikologis anak.
 
+{{< toc >}}
+
 Dalam hal menerapakan [pola asuh pada anak](/tags/parenting) agar ia disiplin, ada cara lain yang cukup efektif yang bisa mom terapkan pada anak tanpa kekerasan. Berikut tipsnya dari [emakbloger.com](/) yang kami kutip dari berbagai sumber:
 
 ## 1. Jangan Terlalu Memanjakan Anak

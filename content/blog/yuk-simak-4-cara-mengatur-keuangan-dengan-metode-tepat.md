@@ -11,9 +11,12 @@ tags = ["menejement keuangan", "tips mengatur keuangan", "tata cara keuangan"]
 title = "Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat "
 
 +++
+
 [**Emakbloger.com**](/) - Manajemen pendapatan adalah keterampilan penting yang harus dimiliki setiap orang. Salah satu aspek pengelolaan keuangan yang sering diabaikan adalah menabung. Lalu, bagaimana cara mengatur keuangan dengan metode yang tepat?
 
 Anda bisa menggunakan prinsip 50%, 30%, dan 20% untuk mengatur uang bulanan Anda, terutama agar Anda tetap bisa menabung untuk kebutuhan mendesak atau tabungan di hari tua.
+
+{{< toc >}}
 
 Berdaarkan yang kami rangkum dari berbagai sumber, cara mengatur keuangan dengan prinsip diatas sudah lama digunakan dan dipupolerkan oleh Senator Elizabeth Warren dan putrinya Amelia Warren Tyagi, dalam All Your Worth: The Ultimate Lifetime Money Plan.
 
@@ -21,9 +24,9 @@ Nah, Aturan praktis yang perlu anda terapkan adalah membagi pendapatan setelah p
 
 **Terkait:**
 
-* [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-* [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
-* [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
+- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
+- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
+- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
 
 ## 1. Menghitung Penghasilan Bulanan
 
@@ -49,8 +52,8 @@ Dari 20 peren selanjutnya termasuk tabungan untuk dana darurat, dan mulai berinv
 
 **Terkait:**
 
-* [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-* [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
+- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
+- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
 
 ## 3. Perencanaan Anggaran
 

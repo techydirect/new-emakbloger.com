@@ -19,6 +19,8 @@ key = "doa sehari hari untuk anak"
 
 [Doa ](/tags/doa-sehari-hari)juga disebut sebagai kebutuhan ruhiyah setiap manusia dalam hidupnya. Doa ialah sarana untuk memohon pertolongan kepada Allah SWT. Kunci hidup bahagia di dunia maupun diakhirat adalah selalu berdoa menghadirkan Allah disetiap kehidupan kita.
 
+{{< toc >}}
+
 Allah SWT berfirman dalam surat Al-Baqarah ayat: 186
 
 > وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ

@@ -11,7 +11,10 @@ tags = ["asuransi syariah", "asuransi konvensional"]
 title = "7 Perbedaan Asuransi Syariah dan Asuransi Konvensional"
 
 +++
+
 [**Emakbloger.com**](/) - Tahukah Anda apa itu [asuransi syariah](/tags/asuransi-syariah) dan [konvensional](/tags/asuransi-konvensional)? Untuk menyiapkan perlindungan diri, tentunya Anda sebagai nasabah harus paham betul dengan pilihan jenis dan bentuk produk yang asuransi yang ada. Agar tidak teperdaya, ketahui dulu apa itu perbedaan asuransi syariah dan konvensional manfaat keduanya.
+
+{{< toc >}}
 
 ## Pengertian Asuransi Syariah & Konvensional
 

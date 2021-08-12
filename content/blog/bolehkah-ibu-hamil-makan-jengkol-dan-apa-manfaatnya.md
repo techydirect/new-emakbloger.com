@@ -16,6 +16,8 @@ title = "Bolehkah Ibu Hamil Makan Jengkol, dan Apa Manfaatnya?"
 
 [**Emakbloger.com**](/) - Pertanyaan mengenai ibu hamil makan jengkol boleh atau tidak menjadi topik menarik untuk dibahas. Kandungan dalam bahan satu ini sebagian besar baik untuk tubuh meski aromanya cukup menyengat. Namun Anda bisa mengakalinya menerapkan beberapa cara khusus.
 
+{{< toc >}}
+
 ## Apakah Aman Mengkonsumsi Jengkol Saat Hamil?
 
 Saat kehamilan, seorang ibu tentu akan melakukan berbagai hal untuk melindungi janinnya agar tidak sampai mengalami gangguan serta gizinya terpenuhi. Namun bukan berarti Anda harus menghindari semua makanan termasuk jengkol. Lalu pertanyaannya apakah bahan makanan ini aman?

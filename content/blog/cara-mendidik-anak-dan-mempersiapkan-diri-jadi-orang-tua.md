@@ -20,6 +20,8 @@ title = "Cara Mendidik Anak dan Mempersiapkan Diri jadi Orang Tua"
 
 Di artikel kali ini kami akan membahas tentang [menjadi orang tua yang baik](/tags/peran-orang-tua) dengan [cara mendidik anak](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak/) dengan benar. Kami akan berbagi tentang 2 hal, yaitu: pemahaman dasar mengenai anak, dan kedua, apa saja sih yang harus di persiapkan untuk menjadi orang tua nantinya.
 
+{{< toc >}}
+
 ### Apa sih yang Harus Dipahami Sebelum Menjadi Orang Tua?
 
 ![pahami hal ini sebelum menjadi orang tua](/uploads/menjadi-orang-tua-yang-baik.jpg)

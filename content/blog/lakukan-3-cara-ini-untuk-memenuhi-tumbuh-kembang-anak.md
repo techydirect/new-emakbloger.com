@@ -19,6 +19,8 @@ title = "Lakukan 3 Cara Ini Untuk Memenuhi Tumbuh Kembang Anak"
 
 Menurut Dr. Cynthia Utami, bermain penting untuk tumbuh kembang anak. Apalagi jika kita memperhitungkan bahwa usia anak merupakan usia emas. Pada usia 6 tahun, otak telah mengembangkan 9/10 bagian. Sedangkan sisanya, otak hanya mengembangkan 1/10 dari bagian tersebut. Oleh karena itu, sayang sekali jika [tumbuh kembang anak](/tags/tumbuh-kembang-anak) terabaikan.
 
+{{< toc >}}
+
 ## Tugas Utama Orang Tua Dalam Tumbuh Kembang Anak
 
 Jelas terlihat bahwa peran dominan orang tua adalah memenuhi kebutuhan putra putri mereka.

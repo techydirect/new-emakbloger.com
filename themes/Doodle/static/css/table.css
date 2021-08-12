@@ -27,3 +27,34 @@ table {
 .tombol button a:hover {
     color: #fff;
 }
+
+/* css table of Content */
+
+.toc .judul-toc {
+    display: flex;
+    width: 350px;
+    background: #f8eded;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+#TableOfContents {
+    font-size: 8px !important;
+}
+
+.judul-toc button {
+    margin: 3px;
+    background: #f8eded;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.Show {
+    background: #fafafa;
+    width: 350px;
+    padding: 5px;
+}
+
+.Hide {
+    display: none;
+}

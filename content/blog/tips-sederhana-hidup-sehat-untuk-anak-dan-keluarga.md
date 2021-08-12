@@ -18,6 +18,8 @@ title = "Tips Sederhana Hidup Sehat Untuk Anak Dan Keluarga"
 
 [**Emakbloger.com**](/) - Membina keluarga tidak selalu mudah. Anda sibuk, begitu pula anak-anak Anda. Ada banyak hal yang harus dilakukan dalam waktu singkat. Saat ini, banyak anak yang kelebihan berat badan atau obesitas. [Gaya hidup sehat dan aktif](/tags/tips-sehat) dapat membantu menjaga berat badan. Selain itu juga dapat mencegah masalah kesehatan, seperti diabetes, penyakit jantung, asma, dan tekanan darah tinggi.
 
+{{< toc >}}
+
 ### Tips Sehat Untuk Anak dan Keluarga
 
 Penting untuk menciptakan [kebiasaan sehat](/tags/belajar-hidup-sehat) sejak dini. Ini akan membantu Anda membuat pilihan \[cerdas untuk keluarga\](/tags/keluarga-sehat) Anda. Anak-anak meniru orang tua mereka, jadi penting untuk memberi contoh yang baik. Tips di bawah ini bisa membantu keluarga Anda menjadi sehat dan bahagia.

@@ -19,6 +19,8 @@ title = "Bayi Sering Kaget Saat Tidur: Lakukan 5 Hal Ini Untuk Mengatasinya"
 
 Saat menggigil, umumnya si bayi mengangkat tangan secara tiba-tiba. saat ia mulai tenang, ia akan menurunkan tangannya dan meletakkannya di sisinya. Perlu moms ketahui apakah anak sedang mengalami syok, berbeda dengan gejala epilepsi atau kejang. Gerakan syok pada anak hanya terjadi saat anak sedang tertidur, dan bahkan tidak terkait dengan gangguan neurologis.
 
+{{< toc >}}
+
 Meski tergolong kondisi normal, kondisi anak yang mengalami kaget saat tidur tetap menjadi perhatian moms. Nah, ada lima tips yang bisa moms lakukan seperti yang dirangkum [Emakbloger.com](/) untuk mengatasi bayi yang kerap mengalami kaget saat tidur.
 
 ## 1. Jangan Membedong Bayi Terlalu Erat

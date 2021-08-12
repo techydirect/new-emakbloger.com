@@ -19,6 +19,8 @@ title = "Rumah Tangga Mulai Membosankan? Lakukan 7 Cara Ini Untuk Mengatasinya!"
 
 Kebanyakan dari mereka mungkin bosan karena keduanya lelah dengan rutinitas satu sama lain, tidak punya waktu bersama dan perlu melakukan perubahan sederhana dalam kehidupan sehari-hari sambil menjalankan aktifitas di rumah.
 
+{{< toc >}}
+
 Jika aktivitas sehari-hari menghambat Moms, cobalah membuat keputusan bersama untuk menciptakan momen berbeda bersama. Jika diterapkan secara konsisten, Moms akan merasakan perubahan dan hubungan akan semakin akrab.
 
 Berdasarkan yang kami rangkum dari para ahli, Lakukan 7 hal ini untuk mengatasi Rumah Tangga kamu yang mulai membosankan.

@@ -19,6 +19,8 @@ title = "Manfaat dan Kandungan Susu Kambing Untuk Bayi"
 
 Selain susu sapi, jenis susu hewani lain yang sangat populer dikonsumsi anak-anak adalah susu kambing. Jadi, bisakah bayi minum susu kambing? Bagaimana kandungan gizi susu kambing dan kapan waktu yang tepat untuk mengonsumsinya, apa manfaat susu kambing untuk bayi? [Emakbloger.com](/) telah merangkum informasi yang dikutip dari liputan6.com:
 
+{{< toc >}}
+
 ## Kandungan Nutrisi Susu Kambing
 
 ![Kandungan Nutrisi Susu Kambing](/uploads/kandungan-nutrisi-susu-kambing.jpg "Kandungan Nutrisi Susu Kambing")

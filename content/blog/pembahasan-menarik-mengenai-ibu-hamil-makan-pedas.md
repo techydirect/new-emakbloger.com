@@ -17,6 +17,8 @@ title = "Pembahasan Menarik Mengenai Ibu Hamil Makan Pedas"
 
 [**Emakbloger.com**](/) - Pembahasan mengenai ibu hamil makan pedas menjadi pembahasan penting yang perlu Anda ketahui untuk mengurangi dampak buruk nantinya supaya ibu dan bayi selamat serta dalam keadaan sehat. Pengetahuan dasar terkait memang terbilang cukup vital untuk menunjang kelahiran.
 
+{{< toc >}}
+
 ## Apakah Ibu Hamil Boleh Makan Pedas?
 
 Umumnya masyarakat Indonesia memiliki kecenderungan terhadap makanan pedas. Oleh karenanya ketika tidak menikmatinya meski dalam satu hari saja maka akan terasa ada yang kurang. Namun bagaimana jika dikonsumsi oleh wanita hamil, apakah mengganggu kesehatan kandungan / sebaliknya,

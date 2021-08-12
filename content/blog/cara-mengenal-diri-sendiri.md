@@ -20,6 +20,8 @@ blogquote = "Mengenal diri akan akan membuat kamu lebih mengetahui power dan kek
 
 Cepatnya dunia dan adanya sosial media, kadang membuat kita lebih sering melihat keluar dan lupa bahwa diri kita juga butuh untuk dilihat, dipahami, dan diselami. Kamu boleh jadi pernah ikut ratusan motivasi, konsul dengan motivasi-motivasi ternama, tapi ketika kamu ngelakuin itu semua tanpa [mengenal diri kamu sendiri](/tags/mengenal-diri), maka semua hal itu akan useless.
 
+{{< toc >}}
+
 Ibarat nimba air nih, tapi ember yang kamu pakek itu boco, atau ibaratnya kamu membangun sebuah apartment dengan pondasi yang lapuk yang sewaktu-waktu bisa roboh lagi.
 
 ## Apakah Penting Untuk Mengenal Diri?

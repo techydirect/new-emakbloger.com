@@ -16,6 +16,8 @@ title = "Kumpulan Doa untuk Orang Sakit yang Sering Diungkapkan"
 
 [**Emakbloger.com**](/) - Anda perlu mengetahui berbagai kumpulan doa untuk orang sakit supaya dapat memberikan dukungan. Selain itu dikatakan bahwa [doa ](/tags/cara-doa)merupakan salah satu senjata umat Islam yang memiliki kekuatan besar. apalagi ketika terus mengulanginya serta Anda iringi dengan ketulusan hati.
 
+{{< toc >}}
+
 ## Manfaat Mendoakan Orang Sakit
 
 Saat teman atau keluarga ada yang sedang terserang suatu penyakit baik ringan maupun berat, salah satu hal yang dapat membantunya untuk sembuh adalah doa. Meski terlihat remeh, namun kekuatannya seringkali dapat mengubah ketidakmungkinan menjadi terwujud. Simak penjelasannya:

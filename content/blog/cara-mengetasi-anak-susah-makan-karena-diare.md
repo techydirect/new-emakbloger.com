@@ -19,6 +19,8 @@ key = "cara mengatasi anak susah makan"
 
 Tidak hanya itu, si kecil juga terlihat lemas dan sesekali tidak mau minum. Hal ini tentu saja membuat cemas ayah dan bunda, khawatir si kecil akan mengalami gizi buruk.
 
+{{< toc >}}
+
 Nah buat kamu Ayah dan Bunda, kali ini kami akan berbagi cara mengatasi [anak susah makan karena diare](/tags/anak-susah-makan):
 
 ### Cara Mengatasi Anak Susah Makan Karena Diare

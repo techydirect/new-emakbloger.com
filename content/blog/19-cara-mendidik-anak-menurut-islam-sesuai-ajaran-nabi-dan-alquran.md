@@ -19,6 +19,8 @@ title = "19 Cara Mendidik Anak Menurut Islam Sesuai Ajaran Nabi dan Alquran"
 
 Para tokoh muslim terdahulu telah mengajarkan [cara mendidik anak](/tags/mendidik-anak) dengan baik. Seperti menyayangi anak mereka yang dilakukan sesuai dengan perkembangan usia anak.
 
+{{< toc >}}
+
 Berikut ini [Emakbloger.com](/) telah merangkum tentang cara mendidik anak menurut Islam yang sesuai dalam Alquran dan anjuran para Nabi dari berbagai sumber:
 
 ## 1. Selalu Memperdengarkan Lantunan Ayat Suci Alquran

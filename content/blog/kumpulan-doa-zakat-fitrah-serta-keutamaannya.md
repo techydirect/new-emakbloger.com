@@ -16,6 +16,8 @@ title = "Kumpulan Doa Zakat Fitrah serta Keutamaannya"
 
 [**Emakbloger.com**](/) - Bagi para amal zakat tentu penting untuk mengetahui kumpulan doa zakat fitrah supaya nantinya lebih mudah dalam menjalani prosesnya. Kegiatan satu ini selalu dijalankan oleh umat Islam setiap memasuki bulan Ramadhan. Setiap individu berkewajiban mengeluarkannya meskipun anak baru lahir.
 
+{{< toc >}}
+
 ## Apa itu Zakat Fitrah?
 
 [Zakat fitrah](/tags/zakat-fitrah) sendiri merupakan harta yang harus Anda keluarkan berupa beras setiap tahunnya satu kali dengan syarat dan rukun tertentu. Anda perlu memahami nya secara terperinci supaya tidak terjadi kesalahan fatal. Sebab bayi yang baru lahir pun bisa berkewajiban melakukan ibadah tersebut.

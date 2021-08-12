@@ -19,6 +19,8 @@ title = "8 Cara Menghilangkan Lubang Bekas Jerawat Yang Terbukti Berhasil"
 
 Lubang bekas jerawat biasanya paling sering disebabkan karena kebiasaan anda yang sering memegang dan memencet jerawat ketika sedang aktif di kulit anda.
 
+{{< toc >}}
+
 Hal tersebut lah yang menyebabkan jerawat pecah dan akan membentuk cekungan di kulit wajah anda. Unruk mengatasinya, berikut [cara menghilangkan bekas jerawat](https://www.emakbloger.com/2021/april/27/cara-menghilangkan-bekas-jerawat) dengan mudah dan alami.
 
 ## Cara Menghilangkan Lubang Bekas Jerawat

@@ -11,9 +11,12 @@ tags = ["asuransi jiwa", "asuransi axa mandiri", "asuransi jiwa terbaik"]
 title = "Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim"
 
 +++
+
 [**Emakbloger.com**](/) - Dalam situasi yang tidak menentu ini, memiliki asuransi tentunya menjadi pilihan yang tepat. [Asuransi jiwa AXA Mandiri](/07212021/asuransi-jiwa-axa-mandiri) contohnya. Seperti yang kita ketahui, asuransi merupakan hal yang sangat vital karena mampu memberikan kenyamanan dan perlindungan dalam hidup jika terjadi hal-hal yang tidak diinginkan.
 
 Pasalnya, ketika terjadi risiko seperti sakit atau kematian, perusahaan asuransi akan menanggung risiko tersebut dalam bentuk jumlah yang dijamin atau ganti rugi. Hal inilah yang menjadi alasan munculnya banyak perusahaan asuransi yang menawarkan beragam produk [asuransi jiwa](/tags/asuransi-jiwa).
+
+{{< toc >}}
 
 Salah satunya adalah Asuransi Jiwa AXA Mandiri. Perlu Anda ketahui bahwa aplikasi AXA Mandiri lebih fokus memberikan perlindungan jiwa, meskipun perusahaan ini juga memiliki produk asuransi atau proteksi lainnya.
 
@@ -43,10 +46,10 @@ Nah, supaya lebih jelasnya lagi mengenai produk asuransi AXA Mandiri, Berikut ad
 
 Mandiri Legacy Platinum Insurance merupakan salah satu produk asuransi jiwa terbaik dari AXA Mandiri dan cocok untuk melindungi diri Anda dan keluarga. Asuransi AXA Mandiri memberikan banyak manfaat, antara lain:
 
-* Perlindungan terhadap kematian atau cacat akibat kecelakaan.
-* Perlindungan kematian akibat kecelakaan penerbangan nasional.
-* Asuransi tambahan seperti penyakit kritis dan kesehatan.
-* Bonus alokasi investasi dan bonus loyalitas.
+- Perlindungan terhadap kematian atau cacat akibat kecelakaan.
+- Perlindungan kematian akibat kecelakaan penerbangan nasional.
+- Asuransi tambahan seperti penyakit kritis dan kesehatan.
+- Bonus alokasi investasi dan bonus loyalitas.
 
 Jenis asuransi ini membebankan premi mulai dari Rp 50 juta per tahun dengan nilai pertanggungan awal Rp 3 miliar, bonus loyalitas hingga 75%, dan jatah investasi 1,5% dari premi yang dibayarkan.
 
@@ -62,9 +65,9 @@ Untuk Mandiri Legacy Plan Titanium Insurance, premi yang akan dikeluarkan mulai 
 
 Produk selanjutnya dari asuransi jiwa AXA Mandiri Life Insurance adalah Mandiri Life Protection Sejahtera. Asuransi ini memberikan perlindungan kepada nasabah apabila terjadi risiko kematian karena sebab apapun. Manfaat asuransi ini antara lain:
 
-* perlindungan jiwa hingga usia 100 tahun.
-* jumlah asuransi maksimal sesuai kebutuhan keluarga.
-* serta bonus loyalitas seumur hidup mulai tahun ketujuh hingga usia 100 tahun.
+- perlindungan jiwa hingga usia 100 tahun.
+- jumlah asuransi maksimal sesuai kebutuhan keluarga.
+- serta bonus loyalitas seumur hidup mulai tahun ketujuh hingga usia 100 tahun.
 
 Premi yang harus dibayar untuk perlindungan asuransi ini adalah Rp 3,6 juta per tahun dengan usia masuk mulai dari 18 tahun hingga 70 tahun.
 
@@ -92,9 +95,9 @@ Asuransi tambahan sesuai kebutuhan keluarga dan fleksibilitas dalam menentukan s
 
 Asuransi Mandiri Elite Plan Syariah adalah asuransi jiwa AXA Mandiri yang memberikan santunan pokok 100% apabila nasabah meninggal dunia selama masa asuransi sesuai dengan prinsip syariah tanpa bunga. Beberapa manfaat dari asuransi jiwa ini antara lain:
 
-* menawarkan bonus loyalitas, pengambilalihan tarif yang kompetitif.
-* santunan tambahan sebesar 100% dari asuransi dasar jika tertanggung meninggal dunia saat melaksanakan umrah/haji.
-* serta surplus underwriting. Besaran iuran untuk mendapatkan semua manfaat tersebut adalah Rp 25 juta per tahun.
+- menawarkan bonus loyalitas, pengambilalihan tarif yang kompetitif.
+- santunan tambahan sebesar 100% dari asuransi dasar jika tertanggung meninggal dunia saat melaksanakan umrah/haji.
+- serta surplus underwriting. Besaran iuran untuk mendapatkan semua manfaat tersebut adalah Rp 25 juta per tahun.
 
 ### 8. Asuransi Mandiri Elite Plan
 
@@ -118,31 +121,31 @@ Perlindungan dan kompensasi penuh dan komprehensif; Mendapatkan perlindungan jiw
 
 **Baca Juga:** [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
 
-* Usia pertanggungan yang panjang; Dapatkan perlindungan dan proteksi hingga usia 100 tahun.
-* Pilihan produk yang beragam; Berbagai macam produk asuransi dan premium yang dapat disesuaikan dengan kebutuhan dan kemampuan Anda.
-* Nilai investasi tambahan; Ada nilai investasi yang nilainya disesuaikan dengan kondisi pasar.
-* Pembayaran Mudah; Terdapat pilihan metode untuk sistem pembayaran yang mudah dan lengkap.
-* Layanan penasihat keuangan; Ketersediaan financial advisor tersebar dan menjangkau seluruh Indonesia.
-* Klaim mudah dan cepat; Proses klaim asuransi yang ditawarkan AXA Mandiri mudah dan cepat untuk setiap jenis pertanggungan yang dipilih sesuai polis yang telah disepakati.
-* Layanan Call Center AXA Mandiri; Layanan call center AXA Mandiri, siap setiap saat untuk menjawab pertanyaan dan jawaban seputar asuransi dari AXA Mandiri.
+- Usia pertanggungan yang panjang; Dapatkan perlindungan dan proteksi hingga usia 100 tahun.
+- Pilihan produk yang beragam; Berbagai macam produk asuransi dan premium yang dapat disesuaikan dengan kebutuhan dan kemampuan Anda.
+- Nilai investasi tambahan; Ada nilai investasi yang nilainya disesuaikan dengan kondisi pasar.
+- Pembayaran Mudah; Terdapat pilihan metode untuk sistem pembayaran yang mudah dan lengkap.
+- Layanan penasihat keuangan; Ketersediaan financial advisor tersebar dan menjangkau seluruh Indonesia.
+- Klaim mudah dan cepat; Proses klaim asuransi yang ditawarkan AXA Mandiri mudah dan cepat untuk setiap jenis pertanggungan yang dipilih sesuai polis yang telah disepakati.
+- Layanan Call Center AXA Mandiri; Layanan call center AXA Mandiri, siap setiap saat untuk menjawab pertanyaan dan jawaban seputar asuransi dari AXA Mandiri.
 
 ## Syarat pengajuan
 
 Jika anda masih bingun mengenai syarat untuk pengajuan dari asuransi jiwa AXA mandiri, berikut ini emakbloger.com telah merangkumnya:
 
-* Warga negara Indonesia, dibubuhi identitas seperti KTP atau paspor
-* Berusia minimal 18 tahun dan tidak lebih dari 70 tahun.
-* Usia tertanggung dapat dimulai dari usia 15 hari sampai dengan 70 tahun.
-* Lengkapi dokumen yang diperlukan dan data pribadi.
-* Membayar biaya awal atau cicilan awal sesuai pilihan produk yang dipilih dan ketentuan polis yang disepakati.
+- Warga negara Indonesia, dibubuhi identitas seperti KTP atau paspor
+- Berusia minimal 18 tahun dan tidak lebih dari 70 tahun.
+- Usia tertanggung dapat dimulai dari usia 15 hari sampai dengan 70 tahun.
+- Lengkapi dokumen yang diperlukan dan data pribadi.
+- Membayar biaya awal atau cicilan awal sesuai pilihan produk yang dipilih dan ketentuan polis yang disepakati.
 
 ## Cara membeli asuransi jiwa AXA Mandiri
 
 Setelah mengetahui syarat menjadi pelanggan asuransi jiwa AXA Mandiri, Anda juga perlu mengetahui cara membeli asuransi AXA Mandiri. Cara membeli asuransi jiwa dari AXA Mandiri dapat dilakukan secara online maupun offline.
 
-* Buka website resmi AXA Mandiri yaitu [https://axa-mandiri.co.id/home,](https://axa-mandiri.co.id/home, "https://axa-mandiri.co.id/home,") lalu daftar.
-* Masukkan data dan informasi pribadi lengkap Anda, lalu login.
-* Setelah itu, Anda bisa langsung membeli produk asuransi yang diinginkan sesuai dengan kebutuhan Anda.
+- Buka website resmi AXA Mandiri yaitu [https://axa-mandiri.co.id/home,](https://axa-mandiri.co.id/home, "https://axa-mandiri.co.id/home,") lalu daftar.
+- Masukkan data dan informasi pribadi lengkap Anda, lalu login.
+- Setelah itu, Anda bisa langsung membeli produk asuransi yang diinginkan sesuai dengan kebutuhan Anda.
 
 Nantinya, Anda juga bisa mengecek saldo AXA Mandiri Anda melalui website. Selain itu, Anda juga dapat meninggalkan data pribadi Anda di halaman website untuk dihubungi lebih lanjut oleh AXA Mandiri.
 

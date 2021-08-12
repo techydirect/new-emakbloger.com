@@ -16,6 +16,8 @@ title = "Yuk Pahami Jenis & Macam Macam Tabungan BNI"
 
 Pada kesempatan kali ini kami akan menjelaskan beberapa jenis tabungan BNI yang bisa anda pilih dan sesuaikan dengan kebutuhan dan kemampuan anda. Aspek kenyamanan dan keyakinan juga penting bagi anda, termasuk dalam memilih jenis tabungan BNI.
 
+{{< toc >}}
+
 Ada macam macam tabungan BNI, mulai dari jenis tabungan BNI Syariah, tabungan untuk pekerja dan pengusaha hingga jenis tabungan untuk pelajar dan mahasiswa. Namun, tidak banyak yang mengetahui persyaratan dan biaya pembukaan rekening BNI.
 
 Pada setiap penjelasan jenis tabungan BNI yang akan dibahas oleh tim EmakBloger di bawah ini akan dijelaskan manfaat, syarat dan ketentuan serta segala sesuatu yang berhubungan dengan tabungan. Informasi tentang manfaat tabungan BNI harus kita pahami sebagai calon nasabah. Tanpa basa-basi lagi, mari kita simak pembahasannya di bawah ini.

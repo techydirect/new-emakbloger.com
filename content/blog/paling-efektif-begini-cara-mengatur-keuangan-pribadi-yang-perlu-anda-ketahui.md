@@ -11,9 +11,12 @@ tags = ["keuangan pribadi", "cara berhemat", "manajemen keuangan"]
 title = "Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui"
 
 +++
-[**Emakbloger.com**](/) - Cerdas dalam mengetur keuangan memang perkara penting dalam kehidupan, entah itu keungan rumah tangga, pribadi, dan keuangan bisnis. Nah, seperti yang sering kita dengan kalimat "Jika ingin kaya, maka anda harus mengetahui cara mengatur keuangan pribadi". Ya, kalimat tersebut memang patut untuk kita benarkan. 
+
+[**Emakbloger.com**](/) - Cerdas dalam mengetur keuangan memang perkara penting dalam kehidupan, entah itu keungan rumah tangga, pribadi, dan keuangan bisnis. Nah, seperti yang sering kita dengan kalimat "Jika ingin kaya, maka anda harus mengetahui cara mengatur keuangan pribadi". Ya, kalimat tersebut memang patut untuk kita benarkan.
 
 Tentu setiap orang mengharapkan penghasilan yang besar, namun tahukah Anda bahwa yang terpenting adalah Anda bisa menikmatinya, bukan? Sangat menyedihkan jika anda memiliki gaji atau pendapatan yang besar, seumpama lebih dari Rp 20 juta, tetapi hutang dan tagihan yang anda miliki melebihi dari 70% dari pendapatan anda perbulannya.
+
+{{< toc >}}
 
 Tidak ada jumlah pendapatan yang akan menjamin kesejahteraan hidup kita jika kita tidak mebegtahui cara mengatur keuangan pribadi dengan baik. Bahkan orang kaya akan mengalami stres dan frustrasi jika mereka tidak mengelola keuangan mereka dan mengelola pendapatan dan pengeluaran mereka.
 
@@ -23,9 +26,9 @@ Mengutip dari berbagai sumer, ada beberapa cara mengatur keuangan pribadi yang p
 
 **Terkait:**
 
-* [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-* [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-* [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
+- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
+- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
+- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
 
 ## 1. Memiliki Catatan Keungan Pribadi
 
@@ -41,10 +44,10 @@ Misalnya, jika anda memiliki tujuan keuangan dalam lima tahun ke depan untuk mem
 
 Mengatur anggaran pengeluaran bulanan juga merupakan salah satu cara mengatur keuangan pribadi paling efektif. Anda bisa menerapkan metode 40 persen, 30 persen, 20 persen, dan 10 persen pendapatan bulanan anda. Anda bisa menyimak contoh beirkut ini:
 
-* 40 persen penghasilan Anda untuk pengeluaran sehari-hari, seperti biaya tagihan bulanan untuk kebutuhan belanja sehari-hari.
-* 30 persen dari penghasilan Anda untuk melunasi pembayaran utang jika Anda memilikinya.
-* 20 persen dari pendapatan Anda berikutnya untuk tabungan investasi masa depan finansial yang lebih baik.
-* Dan 10 persen dari penghasilan Anda untuk sumbangan seperti zakat atau zakat fitrah.
+- 40 persen penghasilan Anda untuk pengeluaran sehari-hari, seperti biaya tagihan bulanan untuk kebutuhan belanja sehari-hari.
+- 30 persen dari penghasilan Anda untuk melunasi pembayaran utang jika Anda memilikinya.
+- 20 persen dari pendapatan Anda berikutnya untuk tabungan investasi masa depan finansial yang lebih baik.
+- Dan 10 persen dari penghasilan Anda untuk sumbangan seperti zakat atau zakat fitrah.
 
 ## 3. Mengelola Pengeluaran dengan Bijak
 
@@ -62,8 +65,8 @@ Dana darurat merupakan dana yang sangat penting untuk mengantisipasi keadaan dar
 
 **Terkait:**
 
-* [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-* [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
+- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
+- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
 
 ## 5. Miliki Asuransi Kesehatan & Jiwa
 

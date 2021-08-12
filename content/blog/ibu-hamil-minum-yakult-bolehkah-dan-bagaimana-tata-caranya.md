@@ -17,6 +17,8 @@ title = "Ibu Hamil Minum Yakult, Bolehkah dan Bagaimana Tata Caranya?"
 
 [**Emakbloger.com**](/) - Sebenarnya bahaya atau tidak ketika ibu hamil minum Yakult? mengenai hal ini penting untuk Anda ketahui. meskipun sebenarnya termasuk ke dalam produk probiotik, namun di dalamnya terdapat bakteri _Lactobacillus casei shirota strain_ untuk menyehatkan saluran pencernaan.
 
+{{< toc >}}
+
 ## Apa Sebenarnya Manfaat Yakult?
 
 Dalam Yakult terdapat bakteri bernama _Lactobacillus casei shirota strain_ yang bermanfaat untuk mencegah dan mengobati masalah pencernaan. Setidaknya dalam satu kemasan terdapat 6,5 miliar. Oleh karenanya ada aturan untuk setiap kali mengkonsumsinya agar tidak sampai berlebihan.

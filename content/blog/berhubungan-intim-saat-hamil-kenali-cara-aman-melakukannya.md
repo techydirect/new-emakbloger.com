@@ -20,6 +20,8 @@ title = "Berhubungan Intim Saat Hamil: Kenali Cara Aman Melakukannya"
 
 Berhubungan intim saat hamil sebenarnya aman, jadi Moms tidak perlu khawatir jika ingin melakukannya. Namun, ada banyak faktor yang seringkali menyebabkan ibu hamil mengalami penurunan gairah [bercinta](tags/bercinta).
 
+{{< toc >}}
+
 Hal ini bisa terjadi karena berbagai perubahan kondisi tubuh di awal kehamilan, seperti perubahan hormonal, nyeri tekan dan sensitif pada payudara, morning sickness, perasaan tidak stabil, dan kelelahan.
 
 Selain itu, seiring bertambahnya usia rahim, ukuran rahim dan janin akan bertambah. Hal ini bisa membuat ibu hamil merasakan keluhan tertentu, seperti sakit punggung, sehingga ia merasa tidak nyaman saat berhubungan intim.

@@ -19,6 +19,8 @@ title = "Kumpulan Hadis Pendek yang Dapat Moms Ajarkan pada Anak"
 
 Ada banyak [kumpulan hadits pendek](/tags/hadits-pendek) yang dapat moms ajarkan pada si anak, dan tentunya ini juga bisa di amalkan oleh si Anak. Selain itu, mengejarkan anak bacaan-bacaan hadits juga memiliki keutamaan. Seperti yang diriwayatkan dalam HR. Tirmidzi, Abu Daud dan Ibnu Majah dari Zaid bin Tsabit ra yang artinya:
 
+{{< toc >}}
+
 "Semoga Allah menjadikan berseri-seri wajah seseorang yang mendengar dari kami hadits lalu dia menghafalkannya kemudian menyampaikannya kepada orang lain"
 
 Lalu, [hadits](/tags/kumpulan-hadits) apa saja yang bisa di ajarkan Moms pada si Anak? Simak kumpulan bacaan hadits pendek yang kami rangkum berikut ini:

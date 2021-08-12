@@ -12,9 +12,12 @@ tags = ["asuransi umum", "asuransi syariah", "asuransi konvensional"]
 title = "Perbedaan Antara Asuransi Umum dengan Asuransi Syariah"
 
 +++
+
 [**Emakbloger.com**](/) - Anda mungkin pernah di suguhkan dengan produk asuransi syariah maupun non syariah, namun masih bingung dan belum paham mengenai perbedaan antara asuransi umum dengan asuransi syariah. Perlu Anda ketahui bahwa asuransi adalah suatu hal yang sangat penting bagi kehidupan, entah itu asuransi mobil, jiwa, kesehatan, dll.
 
 Di kehidupan ini memang banyak sesuatu yang diluar dugaan kita, misalnya ketika mengalami kecelakaan mobil, ataupun hal lain yang mungkin diluar dugaan Anda. Disitulah pentingnya membeli layanan asuransi terbaik untuk menjadi solusi tepat bagi permasalahan seperti ini.
+
+{{< toc >}}
 
 Pada layanan asuransi ada dua tipe yakni asuransi umum (non-syariah) dan asuransi syariah. Lalu, apakah ada perbedaan antara asuransi umum dengan asuransi syariah ?, bagi Anda yang masih bingung mengenai hal ini, yuk simak ulasan selengkapnya dari Emakbloger.com dibawah ini:
 
@@ -44,7 +47,7 @@ Selain perbedaan dasar asuransi umum dan asuransi syariah yang telah kita bahas 
 
 ### 1. Perjanjian dan Kontrak
 
-Pada asuransi syariah, perjanjian dan kontark lebih kepada "hibah" sebagai bentuk ta'awwun atau saling menolong risiko yang terjadi pada peserta lain yang disesuaikan dengan syariat agama Islam. Sedangkan asuransu umum (konvensional), perusahaan jasa asuransi memiliki  kontrak pertanggungan terhadap peserta asuransi sebagai pihak tertanggung.
+Pada asuransi syariah, perjanjian dan kontark lebih kepada "hibah" sebagai bentuk ta'awwun atau saling menolong risiko yang terjadi pada peserta lain yang disesuaikan dengan syariat agama Islam. Sedangkan asuransu umum (konvensional), perusahaan jasa asuransi memiliki kontrak pertanggungan terhadap peserta asuransi sebagai pihak tertanggung.
 
 ### 2. Kepemilikan Dana
 

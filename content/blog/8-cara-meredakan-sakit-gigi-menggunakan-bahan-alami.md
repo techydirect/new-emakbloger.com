@@ -19,6 +19,8 @@ title = "8 Cara Meredakan Sakit Gigi Menggunakan Bahan Alami"
 
 Rasa nyeri ini dapat terasa terus menerus atau muncul menghilang. Bukan hanya sekitar gigi, terkadang area rahang dan telinga juga bisa mengalami nyeri akibat sakit gigi yang timbul. Beberapa orang juga bisa mengalami bengkak pada area gigi dan gusi, pusing dan demam.
 
+{{< toc >}}
+
 Ada banyak penyebab dari munculnya sakit gigi. Mulai dari gigi berlubang, infeksi, akar gigi yang terbuka, masalah gusi, kelainan sendi rahang dan sebagainya. Sakit gigi tentu tidak bisa dibiarkan begitu saja. Nyeri yang ditimbulkan bukan hanya menimbulkan ketidaknyamanan namun juga bisa membuat aktivitas terhambat.
 
 ## Cara Meredakan Sakit Gigi Secara Alami

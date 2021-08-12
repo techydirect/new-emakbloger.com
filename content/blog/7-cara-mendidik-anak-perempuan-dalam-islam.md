@@ -19,6 +19,8 @@ title = "7 Cara Mendidik Anak Perempuan Dalam Islam"
 
 Bukan tanpa alasan, mengutip Dalamislam.com, menurut sebuah hadits otentik, anak perempuan bisa menjadi penolong bagi orang tuanya. "Siapapun yang diuji dengan putrinya dan berbuat baik untuk mereka, mereka akan menjadi penghalang dari Neraka." (Bukhari dan Muslim).
 
+{{< toc >}}
+
 Anak perempuan juga memiliki kebajikan yang berbeda dari anak laki-laki. Karena dari rahim seorang wanita akan lahir generasi penerus orang-orang cerdas.
 
 Perempuan juga memiliki tanggung jawab untuk mengajari anak-anaknya sopan santun. Jika seorang perempuan belajar dengan menanamkan nilai-nilai keislaman, Insya Allah akan menjadi penopang bagi orang tuanya di akhirat. Oleh karena itu, [cara mendidik anak perempuan](/tags/pola-asuh-muslim) dalam islam perlu kamu terapkan mulai dini.

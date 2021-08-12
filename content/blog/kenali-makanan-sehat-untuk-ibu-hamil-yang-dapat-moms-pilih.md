@@ -19,6 +19,8 @@ title = "Kenali Makanan Sehat untuk Ibu Hamil yang Dapat Moms Pilih"
 
 Penting bagi setiap ibu hamil untuk selalu memenuhi [kebutuhan nutrisi selama masa kehamilan](/tags/nutrisi-ibu-hamil) dengan cara mengkonsumsi makanan sehat untuk ibu hamil. Misalnya asam folat untuk mencegah cacat lahir, kalsium dan protein untuk membentuk jaringan dan tulang janin, serta zat besi untuk mencegah anemia selama kehamilan.
 
+{{< toc >}}
+
 Kebutuhan nutrisi tersebut dapat diperoleh dari berbagai macam makanan yang berbeda. Oleh karena itu, penting bagi ibu hamil untuk mengetahui jenis makanan sehat untuk ibu hamil guna menjaga asupan gizinya.
 
 ## Makanan Sehat untuk Ibu Hamil

@@ -20,6 +20,8 @@ blogquote = "Dengan selalu memberikan makanan yang sehat untuk si anak, resiko t
 
 Selain [Kesehatan](/tags/makanan-sehat), kecerdasan anak juga sama pentingnya. Di artikel kali ini Emak Bloger akan memberitahukan makanan apa saja yang mempengaruhi kecerdasan Si kecil. Berikut 5 jenis makanan yang direkomendasikan para ahli nutrisi untuk menambah kecerdasan anak:
 
+{{< toc >}}
+
 ## 5 Jenis Makanan yg Membantu Kecerdasan Anak
 
 ### Ikan

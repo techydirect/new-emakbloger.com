@@ -11,9 +11,12 @@ tags = ["bisnis rumahan", "bisnis modal kecil", "tips berbisnis"]
 title = "12 Bisnis Rumahan yang Menjanjikan Tanpa Modal Besar"
 
 +++
+
 [**Emakbloger.com**](/) - Apakah Anda seorang ibu rumah tangga yang ingin mendapatkan penghasilan tambahan? Memulai usaha kecil-kecilan bisa menjadi salah satu cara yang tepat. Jenis pekerjaan yang cocok untuk ibu rumah tangga adalah bisnis rumahan yang menjanjikan. Anda tidak harus keluar rumah tetapi pekerjaan tetap berjalan.
 
 Bisnis rumahan dapat memberi Anda keuntungan. Karena dapat mengerjakan pekerjaan rumah dengan baik sambil menjalankan pekerjaan utama. Sudahkah Anda memutuskan jenis bisnis apa yang akan Anda jalankan? Jika belum, berikut referensi dari Emakbloger tentang peluang bisnis rumahan untuk ibu rumah tangga yang bisa menginspirasi Anda.
+
+{{< toc >}}
 
 ## 1. Jual BPOB
 

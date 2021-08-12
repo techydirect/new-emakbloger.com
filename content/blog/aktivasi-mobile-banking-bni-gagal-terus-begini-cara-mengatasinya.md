@@ -16,6 +16,8 @@ title = "Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!"
 
 Saat ini dunia perbankan telah memberikan kemudahan dalam mengakses transaksi perbankan online yang dapat mempermudah dan juga mempersingkat waktu. Layanan BNI Mobile Banking ini juga dapat digunakan untuk transaksi di luar negeri. Berbagai aktivitas perbankan dapat Anda lakukan hanya dengan menggunakan Hp.
 
+{{< toc >}}
+
 Sebelum dapat menggunakan BNI Mobile, Anda diharuskan untuk melakukan aktivasi terlebih dahulu. Karena jika Anda tidak mengaktifkannya, Anda tidak dapat menggunakan aplikasi tersebut.
 
 ## Cara Aktivasi M-Banking BNI

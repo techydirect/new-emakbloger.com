@@ -17,6 +17,8 @@ title = "Kumpulan Doa Sehari Hari Lengkap dengan Penjelasannya"
 
 [**Emakbloger.com**](/) - Agar terhindar dari gangguan syaitan yang terkutuk, maka Anda perlu mengetahui [kumpulan ](/tags/kumpulan)doa sehari hari. Meskipun singkat, namun ketika mengamalkannya maka akan mendapatkan berbagai macam keberuntungan asalkan memohon dengan segala kesungguhan layaknya hamba.
 
+{{< toc >}}
+
 ## Berbagai Kumpulan Doa Sehari Hari
 
 Sebagian besar umat Islam mempercayai bahawa doa merupakan senjata paling kuat. sebab dengan kekuatan Allah SWT maka akan dapat mengubah sesuatu yang awalnya tidak mungkin menjadi kenyataan. Catatan pentingnya adalah menerapkan adab sesuai anjuran. Berilkut ulasannya:

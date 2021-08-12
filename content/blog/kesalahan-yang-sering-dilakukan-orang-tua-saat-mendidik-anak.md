@@ -19,6 +19,8 @@ key = "kesalahan mendidik anak"
 
 Karena saking banyaknya tanggung jawab yang harus dipikul orang tua, terkadang mereka melakukan [kesalahan saat mendidik anak](/tags/kesalahan-mendidik-anak) mereka, salah satu contohnya dengan terlalu memanjakan anak, berusaha menjadi teman baik, dan hal lainnya yang terkadang mereka lupa bahwa ini akan berdampak buruk terhadap anak mereka nantinya.
 
+{{< toc >}}
+
 Dalam sebuah artikel yang [Emak Bloger](/) kutip yang berjudul "Three Common Mistakes in Parenting" yang ditulis oleh Thomas Lickona, Ph.D, mengatakan bahwa mendidik anak tidak bisa luput dari kesalahan. Dan terkadang hal ini yang dilakukan orang tua tanpa mereka sadari.
 
 Dalam artikel ini kami akan membahas tentang [3 kesalahan yang sering kali dilakukan orang tua saat mendidik anak](/tags/kesalahan-pola-asuh-anak), dan kamu sebagai orang tua harus memperhatikan hal ini.

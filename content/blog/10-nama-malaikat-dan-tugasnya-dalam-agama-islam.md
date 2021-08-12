@@ -20,6 +20,8 @@ blogquote = "Malaikat merupakan makhluk ciptaan Allah SWT yang di ciptakan dari 
 
 Dalam ajran Islam, malaikat diciptakan dari cahaya dan umut muslim wajib untuk mengimaniya. Malaikat juga merupakan mahkluk ciptaan Allah yang taat terhadap perintah-perintahnya. Berikut 10 malaikat dan tugasnya yang perlu Moms ajarkan pada si Anak.
 
+{{< toc >}}
+
 ## 10 Malaikat Beserta Tugasnya
 
 ![nama malaikat dan tugasnya](/uploads/nama-malaikan-dan-tugasnya.jpg)

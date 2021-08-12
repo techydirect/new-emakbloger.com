@@ -19,6 +19,8 @@ title = "Cara Mendidik Anak Dalam Ajaran Islam Sesuai Umur"
 
 Selain menciptakan pribadi [anak yang sholeh dan sholeha](/tags/pola-asuh-islami), cara mendidik anak dalam islam sesuai umur juga akan menjadi limpahan pahala buat kamu mom. Sebab, anak sholeh yang mendoakan kedua orang tuanya akan menjadi ladang pahala yang tak pernah putus, bahkan sampai orangnya meninggal dunia.
 
+{{< toc >}}
+
 Seperti yang dijelaskan dalam hadits sabna Nabi Muhammad SAW yang artinya: "Jika orang tua meninggal dunia, maka terputuslah amalannya kecuali 3 perkara (1) sedekah jariah (2) ilmu yang bermanfaat (3) dan [Doa anak sholeh](https://www.emakbloger.com/hadits-hadits-pendek/)" (HR. Muslim no. 1631).
 
 Bukankah sebelumnya kita telah diberi contoh oleh pendahulu kita, yakni Nabi dan Rasul tentag cara mendidik anak supaya menjadi anak yang sholeh, berbakti, berguna bagi agam, bangsa, dan negara.

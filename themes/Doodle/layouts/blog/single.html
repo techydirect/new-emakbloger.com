@@ -74,7 +74,7 @@
                                                         <div id="mvp-content-body" class="left relative">
                                                             <div id="mvp-content-body-top" class="left relative">
                                                                 <div id="mvp-content-main" class="left relative entry-content">
-                                                                    {{ replace .Content "<!-- ads -->" (partial "plugin/ads/single.html" .) | safeHTML }}
+                                                                    {{ .Content }}
                                                                     <br>
                                                                     {{ if .Params.stt2 }}
                                                                     <h5>Incoming Search Term:</h5>

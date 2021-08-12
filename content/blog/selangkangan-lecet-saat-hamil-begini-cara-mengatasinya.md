@@ -21,6 +21,8 @@ type = "blog"
 
 Banyak [Ibuhamil](/tags/bumil) mengalami lecet ini. Moms mungkin tidak dapat mengontrol atau menghindari perubahan pada tubuh selama kehamilan. Tapi jangan khawatir, banyak hal yang bisa dilakukan Moms untuk mencegah dan mengatasinya.
 
+{{< toc >}}
+
 Apa itu luka selangkangan dan bagaimana cara menghindarinya? Untuk bantuan ekstra, mencegah timbulnya jerawat di paha selama kehamilan dengan melakukan beberapa hal. Yuk, simak ulasan berikut di [Emakbloger.com](/) mengenai [cara mencegah selangkangan lecet saat hamil](/tags/mengatasi-selangkangan-lecet):
 
 ## Bagaimana Selangangan Lecet Bisa Terjadi saat Hamil?

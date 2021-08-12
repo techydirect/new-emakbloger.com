@@ -11,17 +11,20 @@ tags = ["keuangan rumah tangga", "cara berhemat", "manajemen keuangan"]
 title = "8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta"
 
 +++
+
 [**Emakbloger.com**](/) - Cara mengatur keuangan rumah tannga dengan gaji 3 juta memang tidak mudah. Tapi dengan mempunyai perencanaan keuangan yang baik, apapun benar-benar bisa dilakukan! Cari tahu lebih lanjut tentang mengelola keuangan dengan gaji terbatas di artikel ini.
 
 Mengelola keuangan bukanlah hal yang mudah, apalagi jika Anda sudah berkeluarga. Uang gaji yang tidak dikelola dengan baik dapat habis dan tidak dapat ditabung. Padahal, menabung adalah cara terbaik untuk memiliki simpanan di masa depan.
+
+{{< toc >}}
 
 Lalu bagaimana cara mengatur keuangan yang tepat jika gaji Anda terbatas?Simak tips dan cara mengatur keuangan rumah tangga dengan gaji 3 juta perbulan berikut ini!
 
 **Terkait:**
 
-* [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-* [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-* [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
+- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
+- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
+- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
 
 ## Cara mengatur keuangan rumah tangga gaji 3 juta
 
@@ -57,8 +60,8 @@ Dari pada membeli barang-barang tersebut, lebih baik membiasakan diri menabung d
 
 **Terkait:**
 
-* [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-* [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
+- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
+- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
 
 ### 6. Mencari Penghasilan Tambahan
 

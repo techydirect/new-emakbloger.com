@@ -19,6 +19,8 @@ title = "Ibu Hamil Makan Durian, Aman atau Berbahaya?"
 
 Dari cerita orang terdahulu juga banyak menyebutkan bahwa durian merupakan buah yang tidak disarankan dikonsumsi saat hamil, karena dapat memicu berbagai dampak buruk seperti keguguran, cacat lahir, hingga pendarahan vagina.
 
+{{< toc >}}
+
 Lalu bagaimana dengan pendapat dokter apakah aman bagi janin jika [ibu hamil makan durian](https://www.emakbloger.com/05/07/2021/ibu-hamil-makan-durian)? Yuk simak apa saja kandungan pada durian.
 
 ## Kandungan Gizi Pada Buah Durian

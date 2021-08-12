@@ -19,6 +19,8 @@ title = "9 Cara Mendidik Anak yang Baik Dalam Keluarga"
 
 Ada banyak hal penting yang perlu diberikan orang tua kepada anaknya. Mereka perlu mendidik anak dengan kasih sayang, kejujuran, dan tanggung jawab. Masih banyak cara untuk mengajari Papa dan Mama.
 
+{{< toc >}}
+
 Berikut 9 [cara mendidik anak](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak/) yang baik dalam sebuah keluarga yang dikutip Emakbloger.com dari berbagai sumber.
 
 ## 1. Menumbuhkan Kasih Dalam diri Anak

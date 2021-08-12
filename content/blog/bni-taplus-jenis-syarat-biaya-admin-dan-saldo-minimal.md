@@ -16,6 +16,8 @@ title = "BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal"
 
 BNI Taplus sendiri terdiri dari Taplus, Taplus Bisnis, Taplus Muda, Taplus Anak, dan Taplus pegawai atau anggota. Penasaran apa saja manfaat dan syarat dan biaya admin BNI Taplus? Simak rangkuman Emakbloger.com di bawah ini.
 
+{{< toc >}}
+
 ## 1. Tabungan BNI Taplus
 
 Suku bunga tabungan BNI Taplus sangat menarik, berkisar antara 0,7% hingga 2%. Untuk tabungan ini, BNI menyediakan kartu debit BNI taplus berlogo MasterCard untuk memudahkan transaksi di luar negeri. Berikut syarat dan ketentuan pembukaan rekening BNI Taplus:

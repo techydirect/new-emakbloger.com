@@ -19,6 +19,8 @@ key = "doa untuk ibu hamil"
 
 Meskipun kehamilan adalah sebuah anugrah dan kebahagiaan, namun ada juga hal yang akan dilewati oleh ibu hamil, salah satu contohnya adalah perubahan emosional dan berntuk tubuh seperti lengkungan kaki menjadi rata dan lebih lebar.
 
+{{< toc >}}
+
 Maka dari itu, di ajaran Islam memberikan petunjuk agar [ibu hamil](/tags/ibu-hamil) bisa menerima rasa sakit menjadi bentuk syukur agar tidak memberatkan masa kehamilan. Selain itu juga di anjurkan untuk tidak selalu lupa untuk mengucapkan rasa syukur, mengamalkan doa-doa agar diberikan kemudahan saat persalinan juga membuat sibayi menjadi anak sholeh dan sholeha nantinya.
 
 ## Kumpulan Doa dan Amalan Untuk Ibu Hamil

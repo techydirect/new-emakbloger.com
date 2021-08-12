@@ -19,6 +19,8 @@ title = "9 Cara Menghilangkan Bau Mulut Tak Sedap Dengan Ampuh"
 
 Tahukah anda apa yang menyebabkan bau mulut? Banyak faktor yang bisa menjadi penyebab munculnya kondisi ini, mulai dari mulut yang kurang bersih, kebiasaan yang kurang baik hingga indikasi penyakit tertentu.
 
+{{< toc >}}
+
 Berdasarkan penelitian yang dilakukan hingga saat ini sebagian besar bau mulut terjadi karena adanya masalah gusi atau masalah gigi seperti gigi berlubang.
 
 ## Cara Menghilangkan Bau Mulut Secara Alami

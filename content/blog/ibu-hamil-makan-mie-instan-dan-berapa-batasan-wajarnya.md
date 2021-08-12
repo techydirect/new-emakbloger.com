@@ -17,6 +17,8 @@ title = "Ibu Hamil Makan Mie Instan dan Berapa Batasan Wajarnya?"
 
 [**Emakbloger.com**](/) - Pembahasan mengenai [ibu hamil](/tags/bumil) makan mie instan sering menarik perhatian banyak orang terutama ayah dan ibu baru. Hal ini dikarenakan ada beberapa kandungan berbahaya jika Anda mengkonsumsinya secara berlebihan. Salah satunya yakni MSG (_monosodium glutamat_).
 
+{{< toc >}}
+
 ## Bolehkah Ibu Hamil Mengkonsumsi Mie Instan?
 
 Mie instan merupakan produk yang sering menjadi rujukan ketika merasa lapar pada jam-jam genting. Sebenarnya komponen utamanya adalah terigu dengan tambahan berupa zat besi, Vitamin A dan B, asam folat, zinc, serta besi. Dengan begitu perut akan terasa lebih kenyang lebih lama.

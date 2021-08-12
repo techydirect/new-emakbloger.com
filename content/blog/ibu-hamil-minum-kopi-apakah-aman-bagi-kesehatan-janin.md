@@ -19,6 +19,8 @@ title = "Ibu Hamil Minum Kopi, Apakah Aman Bagi kesehatan Janin?"
 
 Untuk megetahui lebih jelasnya, kamipun telah merangkum dari berbagai sumber mengenai dampak serta risiko apa saja yang dapat ditimbulkan jika ibu hamil minum [kopi](/tags/kopi).
 
+{{< toc >}}
+
 ## Apakah boleh minum kopi saat hamil muda?
 
 ![Apakah boleh minum kopi saat hamil muda](/uploads/apakah-boleh-minum-kopi-saat-hamil-muda-2021-05-04.jpg "Apakah boleh minum kopi saat hamil muda")

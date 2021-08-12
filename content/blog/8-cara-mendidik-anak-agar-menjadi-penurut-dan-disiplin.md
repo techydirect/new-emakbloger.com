@@ -19,6 +19,8 @@ title = "8 Cara Mendidik Anak agar Menjadi Penurut dan Disiplin"
 
 Tidak jarang anak-anak berperilaku sebaliknya. Namun, Moms sebaiknya tidak membiarkannya terus berlanjut, karena kebiasaan ini bisa terbawa hingga dewasa. Anak bisa menjadi manja dan tidak disiplin serta merasa bahwa semua kebutuhannya harus dipenuhi.
 
+{{< toc >}}
+
 Jadi, bagaimana cara mendidik anak agar penurut dan disiplin serta mendengar apa yang Moms dan Papa katakan?
 
 [Emakbloger.com](/) berikut ini akan memberikan nasehat mengenai cara mendidik anak agar anak dapat tumbuh menjadi anak yang disiplin dan penurut. Yuk, simak caranya di bawah ini!

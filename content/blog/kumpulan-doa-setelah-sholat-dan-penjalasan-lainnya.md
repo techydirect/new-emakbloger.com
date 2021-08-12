@@ -16,6 +16,8 @@ title = "Kumpulan Doa Setelah Sholat dan Penjalasan Lainnya"
 
 [**Emakbloger.com**](/) - Kumpulan [doa ](/tags/doa-amalan)setelah sholat dapat menjadi referensi dan Anda terapkan setiap harinya. Meskipun sebenarnya Islam memberikan kemudahan, namun sebagai seorang hamba tentu sudah menjadi kewajiban untuk melakukan usaha semaksimal mungkin agar dapat mendekatkan diri kepada Allah SWT.
 
+{{< toc >}}
+
 ## Keutamaan Berdoa Setelah Shalat
 
 Setelah shalat sendiri merupakan waktu yang dipercaya mustajab untuk berdoa. Beberapa adab yang harus Anda terapkan misalnya saja membaca basmalah dan bersholawat atas Nabi Muhammad. Jika sudah selesai maka lafazkan hamdalah. Berikut beberapa manfaatnya:

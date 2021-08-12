@@ -11,9 +11,12 @@ tags = ["asuransi jiwa", "asuransi seumur hidup", "manfaat asuransi"]
 title = "Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup"
 
 +++
+
 [**Emakbloger.com**](/) - Manfaat asuransi jiwa seumur hidup sangat memberikan banyak kuntungan bagi setiap nasabah. Meski demikian, jenis asuransi jiwa sumur hidup seperti ini masih belum terlalu familiar di kalangan masyarakat karena minimnya informasi mengenai asuransi jiwa.
 
 Ada empat jenis asuransi jiwa yang perlu Anda ketahui, yaitu asuransi jiwa berjangka, Dwiguna, Unit Link, dan asuransi jiwa seumur hidup. Lalu apa itu asuransi jiwa seumur hidup dan apa saja manfaatnya? Yuk pahami lebih lanjut seperti ulasan Emakbloger.com dibawah ini.
+
+{{< toc >}}
 
 ## Apa Itu Asuransi Jiwa Seumur Hidup?
 
@@ -25,10 +28,10 @@ Selain itu, manfaat Asuransi jiwa seumur hidup juga tidak hanya membagikan nilai
 
 **Terkait:**
 
-* [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
-* [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
-* [**12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021**](https://www.emakbloger.com/07212021/asuransi-jiwa-terbaik-dan-terpercaya/)
-* [**Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim**](https://www.emakbloger.com/07212021/asuransi-jiwa-axa-mandiri/)
+- [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
+- [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
+- [**12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021**](https://www.emakbloger.com/07212021/asuransi-jiwa-terbaik-dan-terpercaya/)
+- [**Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim**](https://www.emakbloger.com/07212021/asuransi-jiwa-axa-mandiri/)
 
 ## Jenis Polis Suransi Jiwa Seumur Hidup
 
