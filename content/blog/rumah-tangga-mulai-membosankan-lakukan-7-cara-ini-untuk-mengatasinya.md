@@ -14,7 +14,6 @@ tinggi = "1500"
 title = "Rumah Tangga Mulai Membosankan? Lakukan 7 Cara Ini Untuk Mengatasinya!"
 
 +++
-
 [**Emakbloger.com**](/) - Jangan panik atau khawatir jika hubungan [rumah tangga](/tags/rumah-tangga) kamu mulai membosankan. Masih banyak cara yang bisa dilakukan, agar hubungan dengan pasangan kembali menyenangkan.
 
 Kebanyakan dari mereka mungkin bosan karena keduanya lelah dengan rutinitas satu sama lain, tidak punya waktu bersama dan perlu melakukan perubahan sederhana dalam kehidupan sehari-hari sambil menjalankan aktifitas di rumah.
@@ -27,7 +26,7 @@ Berdasarkan yang kami rangkum dari para ahli, Lakukan 7 hal ini untuk mengatasi 
 
 ![cara mengatasi rumah tangga yang membosankan](/uploads/merawat-kecantikan-untuk-menghindari-rumah-tangga-yang-membosankan.jpg "cara mengatasi rumah tangga yang membosankan")
 
-Jika kamu bosan, bukan berarti itu salah [pasangan ](/pasutri)kamu. Mungkinkah itu hanya kebosanan umum? Saat mencoba tahap ini, cobalah berpikir sejenak. Lalu, apakah kamu juga bisa berpikir jika ada yang perlu dilakukan untuk mengubah diri kamu?
+Jika kamu bosan, bukan berarti itu salah pasangan kamu. Mungkinkah itu hanya kebosanan umum? Saat mencoba tahap ini, cobalah berpikir sejenak. Lalu, apakah kamu juga bisa berpikir jika ada yang perlu dilakukan untuk mengubah diri kamu?
 
 Terkadang, seorang pria bisa bosan karena dia tidak berusaha untuk mengeksplorasi dirinya sendiri, bahkan hubungannya dengan pasangannya. Jika Moms memiliki waktu luang, cobalah mencari waktu untuk mengurus diri sendiri agar pasangan kamu menyadari bahwa ada perubahan dalam diri kamu.
 
