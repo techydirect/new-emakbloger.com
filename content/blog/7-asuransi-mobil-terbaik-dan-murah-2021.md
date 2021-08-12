@@ -21,7 +21,7 @@ Nah, disini kami mempunyai rekomendasi [asuransi mobil](/tags/asuransi-mobil) te
 
 ## 1. Jasaraharja
 
-Anda pasti sering mendengar yang namanya Jasaraharja, karena jasa asuransi ini sangat familiar dengan asuransi kecelakaan ketika kita naik kendaraan umum, seperti bus, kereta api atau pesawat. Selain itu, juga merupakan salah satu penyedia [layanan asuransi mobil](tags/layanan-asuransi) terbaik dan murah di Indonesia dengan menawarkan layanan profersional.
+Anda pasti sering mendengar yang namanya Jasaraharja, karena jasa asuransi ini sangat familiar dengan asuransi kecelakaan ketika kita naik kendaraan umum, seperti bus, kereta api atau pesawat. Selain itu, juga merupakan salah satu penyedia [layanan asuransi mobil](/tags/layanan-asuransi) terbaik dan murah di Indonesia dengan menawarkan layanan profersional.
 
 Ada dua cakupan tanggung jawab yang diberikan oleh JP-ASTOR, yaitu TLO dan All Risk. Semuanya memiliki biaya premi yang relatif lebih murah dibandingkan perusahaan asuransi lainnya, sehingga tidak salah menyebutnya sebagai asuransi mobil terbaik di Indonesia.
 
