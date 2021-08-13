@@ -1,10 +1,11 @@
 <div class="toc">
-    <div class="judul-toc">
+    <div class="heading-toc">
         <h6>Daftar Isi</h6>
-        <button onmouseup='fncShowHideList()'
-        id='idClickIt'> = </button>
+        <button onclick="toc()">
+            <img src="https://img.icons8.com/material-outlined/24/000000/list.png"/>
+        </button>
     </div>
-    <div id='myList' class='Hide'>
+    <div class="tocList hilang">
         {{ .Page.TableOfContents }}
     </div>
 </div>

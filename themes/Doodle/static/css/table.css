@@ -31,38 +31,47 @@ table {
 /* css table of Content */
 
 .toc {
-    width: 50%;
+    width: 350px;
 }
 
-.judul-toc {
+.heading-toc {
     display: flex;
-    background: #f8eded;
-    padding: 0 5px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    background: #2C2E43;
     border-radius: 5px;
+    padding: 0 10px;
 }
 
-#TableOfContents {
-    font-size: 8px !important;
+.heading-toc h6 {
+    color: #fff;
 }
 
-.judul-toc button {
-    margin: 3px;
-    background: #f8eded;
-    border-radius: 3px;
+.heading-toc button {
     cursor: pointer;
 }
 
-.Show {
-    background: #fafafa;
-    padding: 5px;
+.tocList {
+    background: #B2B1B9;
+    padding: 10px;
+    width: 100%;
 }
 
-.Hide {
+.tocList a {
+    color: #000;
+}
+
+.tocList a:hover {
+    color: #fff;
+}
+
+.hilang {
     display: none;
 }
 
 @media (max-width: 560px) {
     .toc {
-        width: 90%;
+        width: 80%;
     }
 }
