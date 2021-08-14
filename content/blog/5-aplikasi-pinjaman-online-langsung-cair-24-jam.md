@@ -11,7 +11,6 @@ tags = []
 title = "5 Aplikasi Pinjaman Online Langsung Cair 24 Jam"
 
 +++
-
 [**Emakbloger.com**](/) - Anda butuh uang cepat? aplikasi pinjaman online langsung cair tanpa ribet dalam 24 jam dapat menjadi solusi yang tepat untuk anda, dan bisa anda penuhi kebutuhan tanpa harus memberikan bukti slip gaji yang paling mudah dan paling gampang!
 
 Pada umumnya slip gaji merupakan salah satu syarat yang harus dipenuhi untuk dapat mengajukan pinjol pada aplikasi pinjaman online bunga rendah. Pasalnya, slip gaji diperlukan sebagai bukti dan kriteria kesanggupan seseorang dalam melunasi Kredit Tanpa Agunan (KTA).
@@ -36,7 +35,7 @@ DanaRupiah adalah penyedia kredit tanpa agunan yang didirikan oleh PT Jasa Keuan
 
 Jumlah uang yang dapat dipinjamkan oleh aplikasi pinjaman online bunga ringan DanaRupiah mulai dari Rp. 400 ribu rupiah hingga 8 juta dengan jangka waktu pelunasan atau masa tenor hingga dua bulan.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=id.danarupiah.weshare.jiekuan&hl=en&gl=US" text="Instal"" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.danarupiah.weshare.jiekuan&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Syarat dan Bunga
 
@@ -57,7 +56,7 @@ Aplikasi pinjaman online langsung cair selanjutnya adalah DanaBijak. Aplikasi pi
 
 Fitur lain dari DanaBijak adalah fitur gamification yang memberikan bonus kepada debitur jika riwayat peminjamannya lancar. Semakin banyak poin yang terkumpul, semakin tinggi peluang debitur mendapatkan plafon yang lebih tinggi.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.danabijak2.mobile&hl=en&gl=US" text="Instal"" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.danabijak2.mobile&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Syarat dan Bunga
 
@@ -79,7 +78,7 @@ Tunaiku adalah aplikasi pinjaman online langsung cair tepat bagi anda yang menen
 
 Sedangkan jika anda masih ragu untuk mengajukan pinjaman online pada aplikasi tersebut, ada cara mengetahui pinjol terdaftar ojk. Yaitu dengan mengunjungi langsung laman resmi OJK.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikumobile.app&hl=en&gl=US" text="Instal"" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikumobile.app&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Syarat dan Bunga
 
@@ -101,7 +100,7 @@ Kredit Pintar adalah aplikasi pinjaman online langsung cair yang mudah dan tidak
 
 Dari daftar pinjol legal ojk diatas, Kredit pintar memiliki syarat berbeda dari yang lainnya, yakni Semakin banyak uang yang kita pinjam, semakin tinggi plafon pinjaman.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal"" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Syarat dan Bunga
 
@@ -121,7 +120,7 @@ Dan yang terakhir dari aplikasi pinjaman online langsung cair ada KTA Kilat. Sal
 
 KTA Kilat menawarkan dua jenis pinjaman, yaitu pinjaman berjangka 7 hari dan 30 hari. Kedua sistem kredit tersebut dikenakan bunga dan biaya tambahan yang sama. Dari daftar fintech legal ojk 2021 seperti KTA Kilat anda bisa simak syarat dan bunganya.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.ktakilat.loan&hl=en&gl=US" text="Instal"" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.ktakilat.loan&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Syarat dan Bunga
 
