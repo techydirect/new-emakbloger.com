@@ -1,31 +1,44 @@
-table {
-    text-align: left !important;
-    font-size: 16px !important;
-    font-family: 'Pt Serif', serif !important;
-    line-height: 2em !important;
-    color: #494848 !important;
+/* shortcode Tombol Button pada artikel */
+button {
+    border: none !important;
+    padding: 7px 10px !important;
+    font-size: 14px !important;
+    display: inline-block;
+    border-radius: 7px;
+    cursor: pointer;
 }
 
-.tombol button {
-    font-family: 'Pt Serif', serif;
-    font-size: 16px;
-    background: #045704;
-    border: none;
-    border-radius: 5px;
+button a {
+    color: #fff !important;
 }
 
-.tombol button:hover {
-    background: #056905;
+button a:hover {
+    background: none !important;
+    color: brown !important;
 }
 
-.tombol button a {
-    padding: 0 10px;
-    color: #cac6c6;
-    display: block;
+.black {
+    background: #11052C;
 }
 
-.tombol button a:hover {
-    color: #fff;
+.blue {
+    background: #001E6C;
+}
+
+.gray {
+    background: #595260;
+}
+
+.green {
+    background: #007944;
+}
+
+.orange {
+    background: #DF711B;
+}
+
+.red {
+    background: #BD1616;
 }
 
 /* css table of Content */
