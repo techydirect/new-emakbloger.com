@@ -3,9 +3,8 @@ author = "Amanda"
 author_image = "/author/amanda.jpg"
 categories = "pinjol"
 date = 2021-08-14T13:45:53Z
-description = ""
-draft = true
-image = ""
+description = "Selain memilih aplikasi pinjaman online bunga rendah, memperhatikan lebih teliti apakah pinjaman online terebut sudah terdaftar di ojk merupakan keharusan yang harus anda lakukan agar tidak terjadi hal yang tidak diinginkan"
+image = "/wp-image/aplikasi-pinjaman-online-bunga-rendah-2021-08-14.jpg"
 slug = "/aplikasi-pinjaman-online-bunga-rendah/08142021"
 stt2 = ""
 tags = []
@@ -28,11 +27,17 @@ Agar anda terhindar dari hal-hal buruk mengenai pinjaman online, kami mempunyai 
 
 ### 1. Kredivo
 
+![aplikasi pinjaman online bunga rendah](/wp-image/aplikasi-pinjaman-online-bunga-rendah-kredivo-2021-08-14.jpg "aplikasi pinjaman online bunga rendah")
+
 Dari aplikasi pinjaman online bunga rendah, Kredivo menjadi salah satu diantaranya yang dapat anda pilih untuk mengajukan pinjaman online. Dengan hanya satu menit untuk menguangkan, Kredivo telah menjadi sangat populer di Indonesia.
 
 Anda hanya perlu menyiapkan KTP untuk mengajukan pinjol resmi bunga rendah ini. Mungkin jika ada survei di bank sebelum mengambil pinjaman, maka dengan Kredivo Anda tidak akan pernah mengalami proses ini. Jadi Anda juga tidak perlu mengatur waktu khusus untuk bertemu dengan surveyor.
 
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.finaccel.android&hl=en&gl=US" text="Install Aplikasi">}}
+
 ### 2. Pinjam Yuk
+
+![aplikasi pinjaman online bunga rendah](/wp-image/aplikasi-pinjaman-online-bunga-rendah-pinjam-yuk-2021-08-14.jpg "aplikasi pinjaman online bunga rendah")
 
 Jika Anda meminjam dari Pinjam Yuk, Anda perlu mengisi formulir pengajuan aplikasi dan hanya menunggu 2 jam untuk audit berlangsung. Pinjam Yuk juga merupakan salah satu aplikasi pinjaman online bunga rendah, bahkan pencairannya snagat mudah hanya 24 jam saja.
 
@@ -40,7 +45,11 @@ Ketika dana untuk aplikasi pinjol bunga rendah ini diterima, mereka juga akan la
 
 Pinjaman online ini menerapkan bunga yang ditetapkan, biasanya bunga harian. Jika Anda akan mengajukan pinjaman ini secara online, Anda harus berusia 18 tahun ke atas, warga negara Indonesia, memiliki penghasilan sendiri dan memiliki rekening bank.
 
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kkii&hl=en&gl=US" text="Install Aplikasi">}}
+
 ### 3. Julo
+
+![julo pinjaman online](/wp-image/julo-2021-08-14.jpg "julo pinjaman online")
 
 Penyedia aplikasi pinjaman online bunga rendah berikutnya adalah Julo, yang menawarkan dua produk aplikasi pinjaman online bunga ringan, Julo Mini dan Julo Cicil. Untuk Julo Mini, batasnya hanya Rp 1 juta dengan periode pembayaran satu bulan.
 
@@ -48,31 +57,47 @@ Sedangkan Cicilan Julo memiliki limit pinjaman hingga Rp 8 juta dengan jangka wa
 
 Anda akan memenuhi syarat untuk mengajukan pinjol resmi ojk bunga rendah ini jika Anda berusia 21-60 tahun, pegawai pemerintah atau swasta, dan memiliki penghasilan minimal Rp 2 juta per bulan.
 
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Install Aplikasi">}}
+
 ### 4. UangMe
+
+![uang me pinjol ojk](/wp-image/uang-me-2021-08-14.jpg "uang me pinjol ojk")
 
 UangMe masuk dalam daftar penyedia aplikasi pinjaman online bunga rendah yang dapat diandalkan. UangMe menawarkan pinjaman mulai dari Rp. 400.000 rupiah. 4.000.000.00 dan jangka waktu tertentu 3 sampai dengan 4 bulan. Bunga yang ditawarkan oleh UangMe adalah bunga 0,07% per hari dan biaya layanan 0,2% per hari.
 
 Untuk mengajukan pinjaman pada aplikasi pinjaman online tercepat UangMe, Anda harus berusia di atas 21 tahun dan memiliki penghasilan dan rekening bank.
 
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.cmcm.uangme&hl=en&gl=US" text="Install Aplikasi">}}
+
 ### 5. Tunai Kita
+
+![aplikasi pinjaman online langsung cair](/wp-image/tunai-kita-2021-08-14.jpg "aplikasi pinjaman online langsung cair")
 
 Dari daftar fintech legal ojk 2021 berikutnya adalah Tunai Kita yang menyediakan pinjaman jangka pendek dengan dua pilihan. Limit pinjaman di Tunai Kita mulai dari Rp 1 juta hingga Rp 5 juta dan jangka waktu pengembalian 10 hingga 30 hari.
 
 Tunai Kita menerapkan biaya layanan harian sebesar 0,95% per hari dan juga biaya administrasi satu kali mulai dari Rp 15.000 hingga Rp 35.000. Jika kedapatan menunggak, maka akan dikenakan denda Rp 20.000 sehari. Daftar pinjol legal ojk Tunai Kita hanya untuk anda yang tinggal di Jabodetabek.
 
-{{< btn-green link="/" text="Install Aplikasi">}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikita.cashloan&hl=en&gl=ID" text="Install Aplikasi">}}
 
 ### 6. Dana Rupiah
+
+![pinjol bunga rendah ojk](/wp-image/dana-rupiah-2021-08-14.jpg "pinjol bunga rendah ojk")
 
 Dana Rupiah adalah aplikasi pinjaman online bunga rendah terpercaya yang menawarkan limit pinjaman mulai dari Rp 400.000 hingga Rp 8.000.000 untuk jangka waktu 21 hari hingga 90 hari.
 
 Dengan modal KTP dan memiliki rekening bank, Anda bisa mendapatkan pinjaman uang ini secara online. Pada tanggal jatuh tempo, Dana Rupiah akan mengirimkan SMS reminder untuk pembayaran cicilan. Bunga yang diberikan oleh pinjaman online yang masuk bi checking Dana Rupiah adalah 1% per hari.
 
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.danarupiah.weshare.jiekuan&hl=en&gl=US" text="Install Aplikasi">}}
+
 ### 7. Uang Teman
+
+![uang teman](/wp-image/uang-teman-2021-08-14.jpg "uang teman")
 
 Uang Teman adalah aplikasi berikutnya yang masuk dalam daftar penyedia pinjaman online bunga rendah terpercaya saat ini. Uang Teman memberikan limit pinjaman sebesar Rp2 juta dan biaya layanan harian sebesar 0,75% hingga 1%.
 
 Berbeda dengan daftar pinjol ojk terbaru lainnya, Uang Teman tidak menggunakan sistem cicilan. Anda akan segera kembali dengan pembayaran satu kali ditambah biaya layanan.
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Install Aplikasi">}}
 
 ## Tips Memilih Pinjaman Online
 
