@@ -1,3 +1,10 @@
+.mvp-post-soc-out p a:hover,
+.mvp-post-soc-out ol li a:hover,
+.mvp-post-soc-out ul li a:hover {
+    background: none !important;
+    color: #2C2E43 !important;
+}
+
 /* bagian css Tabel */
 table {
     text-align: left !important;
