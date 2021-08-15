@@ -5,7 +5,7 @@ categories = "pinjol"
 date = 2021-08-15T08:51:58Z
 description = "sebelum mengajukan pinjaman online, patutlah anda mencaritahu daftar pinjol bunga rendah ojk mana yang sesuai dengan kemampuan bayar anda, serta aman dan terpercaya"
 draft = true
-image = ""
+image = "/wp-image/pinjol-bunga-rendah-ojk-2021-08-15.jpg"
 slug = "/pinjol-bunga-rendah-ojk/08152021"
 stt2 = ""
 tags = []
@@ -36,10 +36,10 @@ Untuk mengajukan pinjaman, cukup unduh aplikasi pinjaman online terpercaya bunga
 
 Adapun beberapa fitur yang ditawarkan oleh Kredit Pintar, yaitu sebagai berikut:
 
-* Pinjaman hingga Rp2,3 juta 
+* Pinjaman hingga Rp2,3 juta
 * Tenor pinjaman dari 60 sampai 90 hari.
 * Proses pencairan dana pinjaman di Kredit Pintar sangat mudah.
-* biaya layanan sebesar 10-15 persen dari total pinjaman. 
+* biaya layanan sebesar 10-15 persen dari total pinjaman.
 * Biaya keterlambatan: 1 persen/hari.
 * Proses pelunasan dan pembayaran cicilan yang mudah bisa dilakukan via transfer lewat ATM, M-Banking, BluePay dan di semua cabang Alfa Group.
 
@@ -115,8 +115,8 @@ Bagi yang berusia minimal 18 tahun, memiliki KTP dan memberikan bukti penghasila
 Sebagai pinjaman online yang sudah terpercaya, tentu Dompet Kilat memiliki fitur unggulan yang ditawarkannya. Selengkapnya sebagai berikut:
 
 * Plafon pinjaman hingga Rp2 juta.
-* Tenor pinjaman sampai 30 hari. 
-* Pencairan dana kilat, kurang dari 10 menit. 
+* Tenor pinjaman sampai 30 hari.
+* Pencairan dana kilat, kurang dari 10 menit.
 * Bunga kompetitif yaitu 0,1% per hari.
 
 {{< btn-green link="" text="Instal Aplikasi" >}}
@@ -161,7 +161,7 @@ Jika pengajuan pinjaman di pinjol resmi bunga rendah MauCash disetujui, maka pen
 #### Fitur
 
 * Pinjaman yang diberikan mulai dari Rp500 ribu hingga Rp10 juta.
-* Kemudahan pinjaman uang yang bisa dicicil dengan tenor yang cukup panjang, yaitu 4 bulan sampai 6 bulan. 
+* Kemudahan pinjaman uang yang bisa dicicil dengan tenor yang cukup panjang, yaitu 4 bulan sampai 6 bulan.
 * Maksimal bunga per tahun sebesar 125 persen.
 
 {{< btn-green link="" text="Instal Aplikasi" >}}
@@ -250,7 +250,7 @@ Langkah mengajukan pinjaman di pinjol resmi ojk bunga rendah Finmas adalah menga
 
 * Plafon pinjaman terbagi dua yaitu Rp200 ribu sampai Rp500 ribu dan Rp1 juta hingga Rp1,5 juta.
 * Tenor yang diberikan dibagi menjadi 2, yaitu 20 hari untuk pinjaman Rp200 ribu hingga Rp500 ribu dan 30 hari untuk pinjaman Rp1 juta hingga Rp1,5 juta.
-* Bunga hingga 0,47 persen per hari. 
+* Bunga hingga 0,47 persen per hari.
 * Pencairan pinjaman dalam 1×24 jam.
 
 {{< btn-green link="" text="Instal Aplikasi" >}}
@@ -294,7 +294,7 @@ Persyaratan untuk mengajukan Pinjaman Tunai Danamas Online adalah berusia minima
 
 #### Fitur
 
-* Pinjaman dana tunai hingga Rp7,5 juta. 
+* Pinjaman dana tunai hingga Rp7,5 juta.
 * Jangka waktu mulai dari 90 hari hingga 1 tahun.
 * Bunga pinjaman sesuai dengan pendapatan pelaku usaha.
 * Pencairan dana akan ditransfer 1×24 jam setelah persetujuan.
@@ -313,7 +313,7 @@ Persyaratan untuk mengajukan Pinjaman Tunai Danamas Online adalah berusia minima
 
 Pilihan daftar pinjol legal ojk terbaik berikutnya adalah Rupiah Cepat. Proses pinjaman tunai online melalui aplikasi Rapid Rupiah dilakukan seluruhnya melalui perangkat mobile. Data pribadi dijamin aman dan privasi juga terjaga berkat kecerdasan buatan dan teknologi big data.
 
-Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi skor Anda, semakin banyak opsi pinjaman yang dapat Anda nikmati. Untuk mengajukan pinjaman, cukup unduh aplikasi Rupiah Fast dan ajukan langsung ke ponsel Anda. 
+Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi skor Anda, semakin banyak opsi pinjaman yang dapat Anda nikmati. Untuk mengajukan pinjaman, cukup unduh aplikasi Rupiah Fast dan ajukan langsung ke ponsel Anda.
 
 #### Fitur
 
@@ -348,7 +348,7 @@ Berdasarkan bukti invoice invoice, Alami akan menawarkan kepada calon pemodal pe
 #### Alamat dan Kontak
 
 * Lokasi gedung: Plaza 89, Kav. X7,
-* Jln. H.R. Rasuna Said No. 6, Kel. Karet Kuningan, Kec. Setiabudi, 
+* Jln. H.R. Rasuna Said No. 6, Kel. Karet Kuningan, Kec. Setiabudi,
 * Jakarta Selatan, DKI Jakarta
 * Telepon: (021) 311 161 91 | 0819-9898-7191 (Whatsapp chat)
 * Email: -
