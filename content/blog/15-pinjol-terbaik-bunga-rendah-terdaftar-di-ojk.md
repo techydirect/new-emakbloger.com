@@ -4,7 +4,6 @@ author_image = "/author/amanda.jpg"
 categories = "pinjol"
 date = 2021-08-15T08:51:58Z
 description = "sebelum mengajukan pinjaman online, patutlah anda mencaritahu daftar pinjol bunga rendah ojk mana yang sesuai dengan kemampuan bayar anda, serta aman dan terpercaya"
-draft = true
 image = "/wp-image/pinjol-bunga-rendah-ojk-2021-08-15.jpg"
 slug = "/pinjol-bunga-rendah-ojk/08152021"
 stt2 = ""
@@ -28,6 +27,8 @@ Hingga April 2021, terdapat 46 perusahaan fintech pinjol resmi bunga rendah yang
 
 ### 1. Kredit Pintar
 
+![pinjol bunga rendah ojk](/wp-image/kredit-pintar-2021-08-15.jpg "pinjol bunga rendah ojk")
+
 Kredit Pintar adalah penyedia layanan pinjol bunga rendah ojk langsung cair 24 jam berbasis aplikasi online yang dapat menjadi alternatif dan solusi di saat dibutuhkan dan darurat. Dari segi keamanan, aplikasi Kredit Pintar aman karena proses verifikasi ganda sehingga dana pinjaman Anda tetap terlindungi dari penipuan.
 
 Untuk mengajukan pinjaman, cukup unduh aplikasi pinjaman online terpercaya bunga rendah Kredit Pintar dari Play Store lalu ikuti syarat dan ketentuannya. Persyaratan pengajuan pinjaman online di Kredit Pintar dengan dua tanda pengenal, misalnya KTP dan NPWP, serta dilampirkan dengan dokumen resmi lainnya sudah cukup.
@@ -43,7 +44,7 @@ Adapun beberapa fitur yang ditawarkan oleh Kredit Pintar, yaitu sebagai berikut:
 * Biaya keterlambatan: 1 persen/hari.
 * Proses pelunasan dan pembayaran cicilan yang mudah bisa dilakukan via transfer lewat ATM, M-Banking, BluePay dan di semua cabang Alfa Group.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -54,6 +55,8 @@ Sebagai penyedia aplikasi pinjol bunga rendah terpercaya, tentu Kredit Pintar me
 * Email: cs@kreditpintar.com
 
 ### 2. CashWagon
+
+![pinjol bunga rendah ojk](/wp-image/cashwagon-2021-08-15.jpg "pinjol bunga rendah ojk")
 
 CashWagon adalah pinjol bunga rendah OJK melalui aplikasi dengan prosedur sederhana dan cepat yang dapat diterapkan kapan saja dan di mana saja. Dalam hal keamanan, CashWagon menggunakan Artificial Intelligence, juga dikenal sebagai AI, pembelajaran mesin, dan data besar yang mampu mendeteksi skema kejahatan penipuan dan menemukan aplikasi yang dijalankan sindikat mencurigakan untuk penipuan.
 
@@ -68,7 +71,7 @@ Lalu, apa saja fitur yang ditawarkan pinjol resmi ojk bunga rendah Cashwagon ter
 * Pencairan dalam 7 menit.
 * Bunga pinjaman 1 persen per hari.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=ph.cashwagon.mobile&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -79,6 +82,8 @@ Anda tidak perlu ragu untuk mengajukan pinjaman pada Cashwagon karena pinjaman o
 * Email: customercare@cashwagon.id
 
 ### 3. DanaBijak
+
+![pinjol bunga rendah ojk](/wp-image/danabijak-2021-08-15.jpg "pinjol bunga rendah ojk")
 
 Produk yang ditawarkan DanaBijak adalah Kredit Tanpa Agunan (KTA) yang dikelola oleh PT. Digital Micro Indonesia, pinjol bunga rendah OJK ini berkantor pusat di Jakarta. DanaBijak juga resmi terdaftar di Otoritas Jasa Keuangan (OJK). Peminjan yang baik diberikan poin untuk penyelesaian. Semakin tinggi levelnya, semakin tinggi plafon pinjaman dan semakin rendah tingkat bunganya.
 
@@ -94,7 +99,7 @@ Bukan hanya itu saja, adapun beberapa fitur yang ditawarkan oleh DanaBijak yakni
 * Waktu pemrosesan pinjaman 48 jam.
 * Dana dicairkan pada hari yang sama dengan hari persetujuan permohonan pinjaman.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.danabijak2.mobile&hl=in&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -105,6 +110,8 @@ Memiliki izin di OJK dan dapat dikatakan sebagai pinjaman online terbaik, DanaBi
 * Email: support@danabijak.com
 
 ### 4. Dompet Kilat
+
+![aplikasi pinjaman online bunga rendah](/wp-image/dompet-kilat-2021-08-15.jpg "aplikasi pinjaman online bunga rendah")
 
 Pinjol bunga rendah OJK lainnya adalah Dompet Kelat. Keunggulan Dompet Kilat dibandingkan pinjaman online dan KTA lainnya adalah tersedianya banyak pilihan jenis pembiayaan yang Anda butuhkan. Mulai dari bantuan pelunasan hutang, kredit motor, modal usaha, biaya pengobatan, biaya renovasi rumah, biaya pendidikan, biaya hidup hingga biaya pernikahan.
 
@@ -119,7 +126,7 @@ Sebagai pinjaman online yang sudah terpercaya, tentu Dompet Kilat memiliki fitur
 * Pencairan dana kilat, kurang dari 10 menit.
 * Bunga kompetitif yaitu 0,1% per hari.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.dompetkilat&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -130,6 +137,8 @@ Nah, untuk detai alamat dan kontak dari layanan aplikasi pinjaman online bunga r
 * Email: hello@dompetkilat.co.id
 
 ### 5. Uang Teman
+
+![aplikasi pinjaman online langsung cair](/wp-image/uang-teman-2021-08-15.jpg "aplikasi pinjaman online langsung cair")
 
 Dari daftar pinjol bunga rendah ojk, Uangteman juga salah satu diantaranya. Ada tiga produk pinjaman UangTeman yang bisa dipilih, yaitu one-time payment, cicilan, dan cicilan ringan. Setiap produk menawarkan batasan, durasi, dan tingkat bunga yang berbeda.
 
@@ -143,7 +152,7 @@ Untuk UangTeman, adapaun beberapa fitur yang ditawarkan aplikasi pinjaman online
 * Durasi pinjaman maksimal 70 hari untuk Sekali Bayar dan 6 bulan untuk Cicilan dan Cicilan Ringan.
 * Bunga 9-18%.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -153,6 +162,8 @@ Jika adan masih bingung mengenai pinjaman online UangTeman, anda tidak perlu kha
 * Email: cs@uangteman.com
 
 ### 6. MauCash
+
+![pinjol resmi bunga rendah](/wp-image/maucash-2021-08-15.jpg "pinjol resmi bunga rendah")
 
 Pinjol bunga rendah OJK terbaik selanjutnya adalah MauCash. MauCash adalah produk Astra dan WeLab yang terdaftar dan diawasi oleh OJK sehingga keamanan data Anda terjamin. Jika Anda ingin mengajukan pinjaman MauCash, Anda hanya perlu mengunduh aplikasi MauCash di Play Store lalu mengisi data diri Anda dan melengkapi dokumen yang diperlukan.
 
@@ -164,7 +175,7 @@ Jika pengajuan pinjaman di pinjol resmi bunga rendah MauCash disetujui, maka pen
 * Kemudahan pinjaman uang yang bisa dicicil dengan tenor yang cukup panjang, yaitu 4 bulan sampai 6 bulan.
 * Maksimal bunga per tahun sebesar 125 persen.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.maucash.app" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -175,6 +186,8 @@ Jika pengajuan pinjaman di pinjol resmi bunga rendah MauCash disetujui, maka pen
 * Email: halo@maucash.id
 
 ### 7. PinjamanGo
+
+![pinjaman online terpercaya bunga rendah](/wp-image/pinjamango-2021-08-15.jpg "pinjaman online terpercaya bunga rendah")
 
 KreditGo adalah produk layanan pinjol bunga rendah ojk berbasis Fintech dari Sinar Mas yang menyatukan peminjam dan pemberi pinjaman dalam platform online dan menawarkan layanan keuangan yang dapat dinikmati oleh semua pengguna. Semua pinjam meminjam dilakukan secara digital sehingga dapat menghemat waktu dan mencapai biaya yang wajar untuk semua pengguna.
 
@@ -187,7 +200,7 @@ KreditGo adalah produk layanan pinjol bunga rendah ojk berbasis Fintech dari Sin
 
 PinjamanGo termasuk pinjaman online terpercaya bunga rendah terbaik yang cepat cair karena proses pencairannya hanya butuh satu hari saja, jadi kamu bisa mengharapkan dapat jawaban jauh lebih cepat.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.pinjamango&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -196,6 +209,8 @@ PinjamanGo termasuk pinjaman online terpercaya bunga rendah terbaik yang cepat c
 * Telepon: (021) 3003-3039
 
 ### 8. Julo
+
+![aplikasi pinjol bunga rendah](/wp-image/julo-2021-08-15.jpg "aplikasi pinjol bunga rendah")
 
 Aplikasi pinjol bunga rendah cepat dan aman berikutnya adalah Julo berbasis aplikasi smartphone. Di tengah persaingan bisnis saat ini, Julo selama ini menjadi salah satu pinjaman online berbunga rendah. Selanjutnya, tentukan risiko kredit Anda menggunakan teknologi big data, machine learning, dan algoritme terbaru untuk menguji kelayakan kredit Anda.
 
@@ -210,7 +225,7 @@ Cara mengajukan pinjaman dari Julo Cukup unduh aplikasi kami di Google Play Stor
 
 Keunggulan dari Julo sebagai salah satu fintech pinjaman online terbaik adalah kemudahan pinjaman uang yang bisa dicicil dengan bunga 0% untuk bulan pertama. Jadi pengenaan bunga cicilan baru akan diberlakukan pada bulan kedua dan seterusnya.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -220,6 +235,8 @@ Keunggulan dari Julo sebagai salah satu fintech pinjaman online terbaik adalah k
 * Email: cs@julo.co.id
 
 ### 9. Indodana
+
+![aplikasi pinjaman online bunga ringan](/wp-image/indodana-2021-08-15.jpg "aplikasi pinjaman online bunga ringan")
 
 Indodana yang merupakan pinjol bunga rendah ojk tanpa kartu kredit. Menariknya, di Indodana kamu akan mendapatkan banyak reward menarik mulai dari pulsa gratis atau voucher belanja jika bisa membayar cicilan tepat waktu.
 
@@ -232,7 +249,7 @@ Persyaratan pinjam uang pribadi melalui aplikasi pinjaman online bunga ringan in
 * Pencairan pinjaman yang cepat.
 * Suku bunga yang kompetitif.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -241,6 +258,8 @@ Persyaratan pinjam uang pribadi melalui aplikasi pinjaman online bunga ringan in
 * Email: cs@indodana.com
 
 ### 10. Finmas
+
+![pinjol resmi ojk bunga rendah](/wp-image/finmas-2021-08-15.jpg "pinjol resmi ojk bunga rendah")
 
 Finmas termasuk dalam daftar pinjol bunga rendah ojk cepat cair karena proses pencairan dana hanya memakan waktu maksimal 24 jam. Selain unggul dalam kecepatan, Finmas juga unggul dalam kemudahan syarat pinjaman.
 
@@ -253,7 +272,7 @@ Langkah mengajukan pinjaman di pinjol resmi ojk bunga rendah Finmas adalah menga
 * Bunga hingga 0,47 persen per hari.
 * Pencairan pinjaman dalam 1×24 jam.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -266,6 +285,8 @@ Langkah mengajukan pinjaman di pinjol resmi ojk bunga rendah Finmas adalah menga
 
 ### 11. Pohon Dana
 
+![aplikasi pinjaman online tercepat](/wp-image/pohon-dana-2021-08-15.jpg "aplikasi pinjaman online tercepat")
+
 Pohon Dana adalah pinjol bunga rendah ojk FinTech dengan layanan P2P Lending yang mempertemukan pemberi pinjaman dan penerima pinjaman melalui online yang menyediakan akses pinjaman tanpa agunan. Proses pinjaman Pohon Dana mudah dan cepat karena memberlakukan proses verifikasi hingga credit scoring dengan teknologi artificial intelligence untuk proses kualifikasi dan analisis kredit.
 
 Pohon Dana memiliki empat produk pinjaman dana, yakni aplikasi pinjaman online tercepat untuk karyawan, pinjaman kesehatan (kerja sama dengan RS Mayapada), pinjaman pendidikan dan pinjaman permodalan UKM.
@@ -277,7 +298,7 @@ Pohon Dana memiliki empat produk pinjaman dana, yakni aplikasi pinjaman online t
 * bunga pinjaman 1,5 hingga 5 persen tanpa biaya lainnya.
 * Proses cepat 3 hari dan pencairan 2 jam setelah aplikasi disetujui.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.co.pohondana&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -287,6 +308,8 @@ Pohon Dana memiliki empat produk pinjaman dana, yakni aplikasi pinjaman online t
 * Email: customerservice@pohondana.id
 
 ### 12. Danamas
+
+![daftar fintech legal ojk 2021](/wp-image/danamas-2021-08-15.jpg "daftar fintech legal ojk 2021")
 
 Jika Anda membutuhkan pinjol bunga rendah ojk cepat untuk mengembangkan modal usaha produktif, Anda dapat mengajukan pinjaman Danamas. Danamas masuk dalam daftar fintech legal ojk 2021, perusahaan fintech P2P lending yang disponsori oleh Sinarmas Financial Service yang fokus memberikan bantuan permodalan kepada usaha kecil.
 
@@ -299,7 +322,7 @@ Persyaratan untuk mengajukan Pinjaman Tunai Danamas Online adalah berusia minima
 * Bunga pinjaman sesuai dengan pendapatan pelaku usaha.
 * Pencairan dana akan ditransfer 1×24 jam setelah persetujuan.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.co.danamasbor&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -311,6 +334,8 @@ Persyaratan untuk mengajukan Pinjaman Tunai Danamas Online adalah berusia minima
 
 ### 13. Rupiah Cepat
 
+![daftar pinjol legal ojk](/wp-image/rupiah-cepat-2021-08-15.jpg "daftar pinjol legal ojk")
+
 Pilihan daftar pinjol legal ojk terbaik berikutnya adalah Rupiah Cepat. Proses pinjaman tunai online melalui aplikasi Rapid Rupiah dilakukan seluruhnya melalui perangkat mobile. Data pribadi dijamin aman dan privasi juga terjaga berkat kecerdasan buatan dan teknologi big data.
 
 Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi skor Anda, semakin banyak opsi pinjaman yang dapat Anda nikmati. Untuk mengajukan pinjaman, cukup unduh aplikasi Rupiah Fast dan ajukan langsung ke ponsel Anda.
@@ -321,7 +346,7 @@ Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi sk
 * Tenor Pinjaman hingga 1 tahun.
 * Proses pengajuan cepat, dana langsung cair dalam waktu 15 menit.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -333,6 +358,8 @@ Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi sk
 
 ### 14. Alami
 
+![pinjaman online yang masuk bi checking](/wp-image/alami-2021-08-15.jpg "pinjaman online yang masuk bi checking")
+
 Jika Anda ingin mengajukan pinjaman pribadi di daftar pinjol ojk terbaru berbasis Syariah terbaik, Alami bisa menjadi pilihan. Alami adalah perusahaan pinjol bunga rendah ojk sesuai dengan hukum Islam, yang menyatukan perusahaan kecil dan menengah dan pemodal. Pinjaman di Alami Syariah berupa tagihan pembiayaan atau anjak piutang.
 
 Berdasarkan bukti invoice invoice, Alami akan menawarkan kepada calon pemodal penyediaan pembiayaan dengan kontrak keagenan sewa disertai dengan dana talangan dengan kontrak pinjaman. Jika Anda membutuhkan pinjaman online yang masuk bi checking untuk proyek yang tidak bertentangan dengan Islam dan telah berdiri setidaknya selama satu tahun dan berlokasi di Jabodetabek, Anda dapat memanfaatkan pinjaman Alami Syariah secara online.
@@ -343,7 +370,7 @@ Berdasarkan bukti invoice invoice, Alami akan menawarkan kepada calon pemodal pe
 * Nilai pembiayaan yang disalurkan didasarkan pada nilai invoice yang dimiliki calon penerima pembiayaan. ALAMI akan mendanai maksimal 80% dari nilai invoice yang dimiliki.
 * Tenor pembiayaan Invoice Financing adalah 1 bulan sampai maksimal 6 bulan.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.alami_funder&hl=en_US&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
@@ -354,6 +381,8 @@ Berdasarkan bukti invoice invoice, Alami akan menawarkan kepada calon pemodal pe
 * Email: -
 
 ### 15. KoinWorks
+
+![daftar pinjol ojk terbaru](/wp-image/koinworks-2021-08-15.jpg "daftar pinjol ojk terbaru")
 
 Terakhir, pinjol bunga rendah ojk yang paling bisa diandalkan adalah KoinWorks. Jika Anda sedang mencari pinjaman online berbunga rendah, Koinworks adalah jawabannya. Tidak hanya itu, KoinWorks juga membantu Anda mendapatkan uang tunai secara cepat untuk berbagai keperluan, mulai dari kebutuhan bisnis, kebutuhan pendidikan hingga kebutuhan pribadi (khususnya untuk karyawan).
 
@@ -372,7 +401,7 @@ Pinjaman dijamin karena bersertifikat ISO. Proses pendaftarannya juga mudah, dan
 * Pinjaman KoinGaji hingga 80 persen dari jumlah total gaji bulanan.
 * Bunga yang bakal dibebankan kepada peminjam berkisar dari 0,75 persen sampai 1,67 persen per bulan.
 
-{{< btn-green link="" text="Instal Aplikasi" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.koinworks.app&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
