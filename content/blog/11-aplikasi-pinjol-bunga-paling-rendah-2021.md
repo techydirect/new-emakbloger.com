@@ -100,7 +100,7 @@ Pinjaman online yang masuk dalam daftar pinjol legal ojk ini memiliki banyak pro
 * kredit hipotek atau kepemilikan real estat yang diberikan untuk pembelian rumah tinggal melalui pengembang yang bekerja sama dengan Aktivaku;
 * dan pembiayaan rantai pasokan (supply chain finance/SCF) yang diberikan kepada pihak-pihak dalam rantai pasokan untuk pekerjaan yang timbul dari pemberi kerja.
 
-{{< btn-green link="https://aktivaku.com/" text="Kunjungi Website" >}}
+{{< btn-green link="https://aktivaku.com/" text="Kunjungi Web" >}}
 
 ### 8. Amartha
 
