@@ -11,7 +11,6 @@ tags = ["tabungan bni", "saldo minimal", "keunggulan tabugan bni"]
 title = "Setoran awal Tabungan BNI untuk Semua Jenis"
 
 +++
-
 [**EmakBloger.com**](/) - Ada beberapa jenis tabungan BNI yang tentunya memberikan keunggulan tersendiri, dan tentunya juga setoran awal tabungan BNI berbeda untuk setiap jenis. Anda dapat memilih produk tabungan yang sesuai dengan kebutuhan Anda.
 
 Misalnya, ada tabungan yang dirancang khusus untuk anak-anak atau pelajar. Selanjutnya, BNI juga menawarkan tabungan haji, tabungan pensiun swasta, Tabunganku BNU, tabungan valas dan masih banyak lagi.
@@ -116,7 +115,6 @@ Berikut syarat dan ketentuan yang harus Anda pahami jika ingin membuka rekening 
 - Biaya pengelolaan adalah Rp 5.000 per bulan.
 - Biaya penutupan rekening Rp 50 ribu.
 - Biaya pembuatan kartu debit reguler gratis.
-
 - Biaya pembuatan kartu debit pribadi adalah Rp25.000.
 - Biaya penggantian kartu jika hilang atau rusak adalah Rp25.000.
 
