@@ -31,7 +31,11 @@ Dari daftar pinjol resmi OJK bunga rendah rekomendasi kami Indodana menjadi sala
 
 Selain itu, Indodana juga merupakan [pinjol resmi bunga rendah](https://www.emakbloger.com/pinjol-resmi-bunga-rendah/08152021/ "pinjol resmi bunga rendah") yang bisa kita katakan pencairannya cukup mudah, sedangkan bunga yang ditawarkannya masih kompetitif. Indodana dapat menjadi solusi bagi anda yang membutuhkan dana darurat cepat cair.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Fitur Indodana
 
@@ -63,7 +67,11 @@ Selain itu, Indodana juga merupakan [pinjol resmi bunga rendah](https://www.emak
 
 Selanjunya dari pinjol resmi OJK bunga rendah ada DanaFix yang dapat menjadi pilihan yang tepat buat anda. [Pinjaman online terpercaya bunga rendah](https://www.emakbloger.com/pinjaman-online-terpercaya-bunga-rendah/08162021/ "pinjaman online terpercaya bunga rendah") DanaFix menawarkan pelayanan keuangan dengan inovatif di Indonesia dengan tujuan membatu masyarakat yang sedang mencari pinjaman pencairan mudah, cepat dan terpercaya tanpa banyak persyaratan.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.danafix.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Produk Pinjaman
 
@@ -97,7 +105,11 @@ Selanjunya dari pinjol resmi OJK bunga rendah ada DanaFix yang dapat menjadi pil
 
 Apakah anda sedang mencari pinjol resmi OJK bunga rendah pencairan cepat? Atau Anda ingin kredit online tanpa jaminan? Kredit pintar adalah jawabannya. Nikmati [aplikasi pinjol bunga rendah](https://www.emakbloger.com/aplikasi-pinjol-bunga-rendah/08172021/ "aplikasi pinjol bunga rendah") tanpa jaminan dengan waktu pencairan yang cepat. Anda hanya perlu menyediakan KTP dan handphone untuk mendapatkan pinjaman tanpa syarat yang rumit.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Keunggulan Kredit Pintar
 
@@ -132,7 +144,11 @@ Apakah anda sedang mencari pinjol resmi OJK bunga rendah pencairan cepat? Atau A
 
 Berdiri sejak tahun 2016, pinjol resmi OJK bunga rendah PT. JULO Financial Technology (JULO) hadir dengan tujuan untuk mendorong inklusi keuangan di seluruh Indonesia, serta membantu masyarakat Indonesia dengan solusi keuangan yang diterapkan melalui [aplikasi pinjaman online bunga ringan](https://www.emakbloger.com/aplikasi-pinjaman-online-bunga-ringan/08192021/ "aplikasi pinjaman online bunga ringan").
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Keunggulan Julo
 
@@ -171,7 +187,11 @@ Kreditcepat adalah perusahaan pinjol resmi OJK bunga rendah jangka pendek berbas
 
 [Aplikasi pinjaman online tercepat](https://www.emakbloger.com/aplikasi-pinjaman-online-tercepat/08212021/ "aplikasi pinjaman online tercepat") seperti Kredit Cepat percaya bahwa kecepatan layanan pinjamannya tepat dan sesuai dengan kebutuhan dan harapan klien saat ini di dunia yang serba cepat.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.kreditcepat.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Keunggulan Kredit Cepat
 
@@ -213,7 +233,11 @@ Rupiah Cepat adalah [aplikasi pinjaman uang online](https://www.emakbloger.com/0
 
 Juga anda tidak perlu khawatir mengenai keamanan data diri anda karena Rupiah Cepat sudah masuk dalam daftar fintech legal ojk 2021. Tertarik untuk mengajukan pinjaman?
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Keunggulan Rupiah Cepat
 
@@ -249,7 +273,11 @@ Anda butuh pinjol resmi OJK bunga rendah dengan modal cukup KTP? Mungkin FINMAS 
 
 FINMAS adalah platform atau aplikasi yang masuk [daftar pinjol legal ojk](https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/ "daftar pinjol legal ojk") diterbitkan oleh PT Oriente Mas Sejahtera sebagai penyedia dan penyedia layanan peminjaman uang berbasis IT. FINMAS sendiri terdaftar dan diawasi oleh Otoritas Jasa Keuangan (S-56/NB.213/2018).
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Keunggulan Finmas
 
