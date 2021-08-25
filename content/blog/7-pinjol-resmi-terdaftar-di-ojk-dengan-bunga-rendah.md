@@ -132,7 +132,7 @@ Apakah anda sedang mencari pinjol resmi OJK bunga rendah pencairan cepat? Atau A
 
 Berdiri sejak tahun 2016, pinjol resmi OJK bunga rendah PT. JULO Financial Technology (JULO) hadir dengan tujuan untuk mendorong inklusi keuangan di seluruh Indonesia, serta membantu masyarakat Indonesia dengan solusi keuangan yang diterapkan melalui [aplikasi pinjaman online bunga ringan](https://www.emakbloger.com/aplikasi-pinjaman-online-bunga-ringan/08192021/ "aplikasi pinjaman online bunga ringan").
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
 
 #### Keunggulan Julo
 
