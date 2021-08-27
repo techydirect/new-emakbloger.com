@@ -34,7 +34,7 @@ Visi dan misi yang ingin dicapai AXA Mandiri bagi kliennya adalah memberikan per
 
 Untuk itu, AXA Mandiri terus fokus memberikan solusi kepada klien sesuai dengan kebutuhannya, baik dalam hal layanan keuangan, investasi maupun perlindungan jiwa dan aset.
 
-**Terkait:** [**12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021**](https://www.emakbloger.com/07212021/asuransi-jiwa-terbaik-dan-terpercaya/)
+{{< read judul="12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021" link="/07212021/asuransi-jiwa-terbaik-dan-terpercaya/" gambar="/wp-image/asuransi-jiwa-terbaik-dan-terpercaya-2021-07-21.jpg" >}}
 
 ## Produk Asuransi Jiwa AXA Mandiri
 
@@ -59,7 +59,7 @@ Mandiri Legacy Plan Titanium Insurance tetap menjadi induk dari Mandiri Legacy P
 
 Untuk Mandiri Legacy Plan Titanium Insurance, premi yang akan dikeluarkan mulai dari Rp 120 juta per tahun jumlah awal pertanggungan. Bonus loyalitas 5 miliar hingga 125%, dan jatah investasi 5% dari premi yang dibayarkan.
 
-**Baca Juga:** [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
+{{< read judul="Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup" link="/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup" gambar="/wp-image/manfaat-asuransi-jiwa-seumur-hidup-2021-07-17.jpg" >}}
 
 ### 3. Mandiri Perlindungan Sejahtera
 
@@ -83,7 +83,7 @@ Fitur yang ditawarkan oleh Mandiri Syariah Proteksi sejahtera hampir sama dengan
 
 Namun yang membedakan adalah adanya tambahan keuntungan penjaminan (sesuai ketentuan polis) selain manfaat wakaf pada Asuransi Perlindungan Sejahtera Mandiri Syariah karena mengelola asuransi jiwa sesuai prinsip Syariah.
 
-**Baca Juga:** [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
+{{< read judul="7 Perbedaan Asuransi Syariah dan Asuransi Konvensional" link="/07212021/perbedaan-asuransi-syariah-dan-konvesional/" gambar="/wp-image/perbedaan-asuransi-syariah-dan-konvensional-2021-07-20.jpg" >}}
 
 ### 6. Mandiri Investasi Prestige
 
@@ -119,7 +119,7 @@ Nah, jika Anda sudah mengetahui jenis produk asuransi dari AXA Mandiri, tentu ju
 
 Perlindungan dan kompensasi penuh dan komprehensif; Mendapatkan perlindungan jiwa dan santunan kematian yang disebabkan oleh sebab apapun, baik karena sakit maupun kecelakaan.
 
-**Baca Juga:** [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
+{{< read judul="Perbedaan Antara Asuransi Umum dengan Asuransi Syariah" link="/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/" gambar="/wp-image/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah-2021-07-16.jpg" >}}
 
 - Usia pertanggungan yang panjang; Dapatkan perlindungan dan proteksi hingga usia 100 tahun.
 - Pilihan produk yang beragam; Berbagai macam produk asuransi dan premium yang dapat disesuaikan dengan kebutuhan dan kemampuan Anda.
@@ -162,6 +162,8 @@ Pembayaran dengan debit otomatis dari rekening bank Mandiri. Biaya asuransi jiwa
 ### 2. Pembayaran Premi Lanjutan
 
 Pembayaran debit otomatis hanya untuk pembayaran premi lanjutan. Pastikan nomor rekening debet aktif yaitu 070-000-499999-6 a.n. taksi Bank Mandiri. Gatot Subroto - Jakarta atau 070-000-466666-0 a.n. taksi Bank Mandiri. Gatot Subroto - Jakarta.
+
+{{< read judul="Tips dan Cara Klaim Asuransi Qoala dengan Mudah" link="/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah/" gambar="/wp-image/cara-klaim-asuransi-qoala-2021-07-16.jpg" >}}
 
 ## Cara klaim asuransi jiwa AXA Mandiri
 

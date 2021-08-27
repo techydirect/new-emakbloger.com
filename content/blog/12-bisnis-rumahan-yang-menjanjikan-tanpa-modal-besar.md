@@ -30,6 +30,8 @@ Jika Anda memiliki pengalaman menjahit pakaian, coba gunakan untuk membuka bisni
 
 Pada hari kerja dan tidak banyak pesanan, Anda dapat memperbaiki pakaian atau make-up. Orang selalu mencari jasa kecantikan karena ukuran baju di toko seringkali tidak pas dengan tubuh pemakainya.
 
+{{< read judul="5 Usaha Grab Food Rumahan Paling Laris 2021" link="/usaha-grab-food-rumahan/07312021/" gambar="/wp-image/usaha-grab-food-rumahan-2021-07-31.jpg" >}}
+
 ## 3. Katering
 
 Kesibukan kerja sering menjadi penyebab makan tidak teratur. Pekerja jarang memiliki waktu luang untuk memasak. Akibatnya, mereka lebih suka memesan makanan. Nah, pekerjaan dengan menjaul katering juga merupakan bisnis rumahan yang menjanjikan dan mudah anda lakukan.
@@ -51,6 +53,8 @@ Apakah Anda memiliki mesin cuci di rumah? Manfaatkan alat ini sebagai modal awal
 Kunci sukses bisnis laundry adalah selalu memuaskan konsumen. Menjaga pakaian setiap pelanggan dalam kondisi baik. Cuci pakaian bersih, tertata rapi, dan wangi.
 
 Selain bisnis laundry kiloan, Anda juga bisa menjalankan bisnis laundry sepatu, apalagi anak muda zaman sekarang selalu ingin sepatunya terlihat bersih.
+
+{{< read judul="7 Ide Jualan Makanan Rumahan yang Menjanjikan" link="/07302021/ide-jualan-makanan-rumahan/" gambar="/wp-image/ide-jualan-makanan-rumahan-2021-07-29.jpg" >}}
 
 ## 6. Jasa pembukuan UMKM
 
@@ -74,6 +78,8 @@ Untuk pemasarannya bisa melalui media sosial dan mempresentasikannya langsung ke
 
 Anda bisa menggunakan marketplace seperti Tokopedia, Lazada, BukaLapak, Shopee atau bisa juga menggunakan media sosial untuk mempromosikan bisnis snack Anda.
 
+{{< read judul="9 Usaha Makanan Rumahan Online Paling Laris 2021" link="/07292021/usaha-makanan-rumahan-online/" gambar="/wp-image/usaha-makanan-rumahan-online-2021-07-28.jpg" >}}
+
 ## 9. Budidaya ikan hias
 
 Apakah Anda suka merawat ikan akuarium di rumah? Hobi ini bisa menjadi ladang pekerjaan yang menarik untuk ditekuni. Beberapa jenis ikan akuarium memiliki harga jual yang tinggi. Merawat ikan akuarium tidak terlalu rumit. Apalagi jika Anda sudah mempraktekkan hobi ini sejak lama. Tentunya Anda tidak akan kesulitan untuk mengelola sebuah proyek budidaya ikan hias.
@@ -91,6 +97,8 @@ Meski biaya servisnya tidak semahal di salon, Anda harus tetap memberikan pelaya
 Biasanya laki-laki mengoperasikan layanan telepon genggam. Tapi tak ada salahnya ibu rumah tangga seperti Anda menjalankan bisnis ini. Apalagi jika Anda sudah memiliki keterampilan perbaikan ponsel sebelumnya.
 
 Modal yang dibutuhkan untuk membuka layanan seluler tidak terlalu besar. Anda hanya perlu menyiapkan alat seperti obeng, pemanas, lem, dll. Adapun suku cadang, mereka dapat dibeli jika pelanggan membutuhkan. Tidak perlu menyediakan inventaris di awal bisnis.
+
+{{< read judul="12 Ide Usaha Toko Online Shop Terlaris 2021" link="/07272021/ide-toko-online/" gambar="/wp-image/ide-toko-online-2021-07-26.jpg" >}}
 
 ## 12. Toko kelontong
 

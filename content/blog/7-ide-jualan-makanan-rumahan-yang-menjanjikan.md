@@ -30,6 +30,8 @@ Katering bento bisa anda jadikan sebagai ide jualan makanan rumahan. Pekerjaan i
 
 Misalnya, mencetak nasi dalam bentuk binatang lalu menggunakan lauk pauk sebagai hiasan. Jangan lupa daftarkan usaha anda di go-food untuk mempermudah proses pengiriman.
 
+{{< read judul="5 Usaha Grab Food Rumahan Paling Laris 2021" link="/usaha-grab-food-rumahan/07312021/" gambar="/wp-image/usaha-grab-food-rumahan-2021-07-31.jpg" >}}
+
 ### 2. Rice Bowl
 
 Pilihan bisnis rumahan yang menjanjikan berikutnya adalah rice bowl. Konsepnya mirip dengan bento, hanya saja untuk usaha makanan simple untuk jualan ini Anda menggunakan mangkuk kertas dengan tutup transparan. Pilihan isinya juga berbeda, Anda bisa menyajikan nasi uduk, kuning, putih, merah dan lain-lain.
@@ -48,6 +50,8 @@ Selain ide jualan makanan rumahan diatas, Anda juga bisa mencoba bisnis makanan 
 
 Agar keripik yang Anda buat tidak terlalu umum, usahakan menggunakan bahan baku seperti ubi jalar. Pasalnya, tidak banyak yang menjual keripik ubi di pasaran.
 
+{{< read judul="9 Usaha Makanan Rumahan Online Paling Laris 2021" link="/07292021/usaha-makanan-rumahan-online/" gambar="/wp-image/usaha-makanan-rumahan-online-2021-07-28.jpg" >}}
+
 ### 5. Sambal Kemasan
 
 Percaya atau tidak, sambal dalam kemasan juga bisa menjadi bisnis makanan yang menjanjikan. Hal ini dikarenakan banyak orang Indonesia yang menyukai makanan pedas. Namun, tidak semua orang bisa membuat sambal sendiri.
@@ -63,6 +67,8 @@ Ide jualan makanan rumahan berikutnya adalah bisnis Donat kepang ala Korea. Dona
 Anda bisa menawarkan berbagai macam pilihan menu dessert yang akan memanjakan konsumen. Beberapa variasi menu makanan unik yang bisa anda buat adalah tiramisu, sponge cake with cream cheese, Banoffee, dan lain-lain.
 
 Selain mudah dalam pembuatannya, modal usaha ini juga tidak besar. Jadi Anda tidak perlu khawatir dengan modal awal.
+
+{{< read judul="12 Bisnis Rumahan yang Menjanjikan Tanpa Modal Besar" link="/07252021/bisnis-rumahan-yang-menjanjikan/" gambar="/wp-image/bisnis-rumahan-yang-menjanjikan-2021-07-24.jpg" >}}
 
 ## Tips Berbisnis Makanan Rumahan
 

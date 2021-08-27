@@ -32,6 +32,8 @@ Tips pertama jualan di Tokopedia tanpa modal adalah alasan dasar utama ketika An
 
 Sangat mudah untuk berjualan di Tokopedia, Lazada dan pasar lainnya. Hanya saja, seperti bisnis lainnya, Anda harus memulai dan menikmatinya. Anda harus benar-benar menemukan alasan yang tepat, sehingga anda pasti bisa melewati setiap rintangan yang datang kapan saja.
 
+{{< read judul="5 Usaha Grab Food Rumahan Paling Laris 2021" link="/usaha-grab-food-rumahan/07312021/" gambar="/wp-image/usaha-grab-food-rumahan-2021-07-31.jpg" >}}
+
 Ketika Anda mulai berjualan online, tentunya ada beberapa hal umum yang akan Anda temukan, seperti:
 
 - Ada komplain dari pembeli
@@ -53,6 +55,8 @@ Namun, menemukan pemasok yang benar-benar dapat diandalkan sangat sulit. Jika An
 - Supplier yang mempunyai barang kompetitif.
 - Stok barang supplier terbilang cukup lengkap dari kebanyakan yang orang cari.
 - Mendapat review dan ratting yang bagus
+
+{{< read judul="9 Usaha Makanan Rumahan Online Paling Laris 2021" link="/07292021/usaha-makanan-rumahan-online/" gambar="/wp-image/usaha-makanan-rumahan-online-2021-07-28.jpg" >}}
 
 ### 3. Mulai Berjualan
 

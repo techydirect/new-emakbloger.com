@@ -28,6 +28,8 @@ Salah satu peluang usaha makanan rumahan online yang bisa dijadikan sebagai bisn
 
 Anda bisa memodifikasi jajanan tradisional seperti telur gabus, jualan pisang, lontong, kacang goreng, dll. Kemudian Anda dapat memberikan rasa baru untuk membedakan produk Anda dari orang lain.
 
+{{< read judul="7 Ide Jualan Makanan Rumahan yang Menjanjikan" link="/07302021/ide-jualan-makanan-rumahan/" gambar="/wp-image/ide-jualan-makanan-rumahan-2021-07-29.jpg" >}}
+
 ## 2. Aneka Keripik
 
 Meskipun kripik merupakan makanan simple untuk jualan, namun sangat digemari oleh semua kalangan, dari muda hingga tua. Anda bisa menjual keripik singkong, pisang, tempe, atau keripik kentang yang sebelumnya tidak ada. Anda bisa memberikan beberapa jenis rasa agar keripik buatan Anda tidak terlihat seperti yang lainnya.
@@ -43,6 +45,8 @@ Anda dapat memodifikasi bentuk, warna atau rasa. Selain itu, Anda juga bisa mema
 Makanan beku di Indonesia sangat berkembang saat ini. Makanan ini biasanya dibuat dengan olahan, ayam beku, daging sapi, atau ikan kemudian dibuang. Perdagangan makanan beku atau yang lebih dikenal dengan frezen food sudah tidak asing lagi di Indonesia. Contoh makanan beku antara lain sosis, nugget, pangsit, dan kentang goreng.
 
 Kini, freezer juga memiliki varian rasa dan pengolahan yang berbeda. Salah satunya bisa dicampur dengan sayuran. Untuk membuka bisnis rumahan online jenis ini harus memiliki lemari es agar makanan tetap beku dan sesuai dengan waktu kadaluarsanya.
+
+{{< read judul="5 Usaha Grab Food Rumahan Paling Laris 2021" link="/usaha-grab-food-rumahan/07312021/" gambar="/usaha-grab-food-rumahan-2021-07-31.jpg" >}}
 
 ## 5. Cemilan Sehat
 
@@ -65,6 +69,8 @@ Mereka tidak sempat keluar kantor untuk memesan makanan. Jika Anda bisa memasak 
 ## 8. Bakso
 
 Bakso dengan kuah biasanya disajikan dengan sayuran atau mie, namun trennya berbeda sekarang, dan bakso juga bisa dijadikan makanan ringan. Bahkan bakso saat ini menjadi usaha makanan paling laris saat ini. Jenis usaha makanan rumahan online seperti ini dapat anda jadikan peluang bisnis yang menjanjikan.
+
+{{< read judul="12 Bisnis Rumahan yang Menjanjikan Tanpa Modal Besar" link="/07252021/bisnis-rumahan-yang-menjanjikan/" gambar="/wp-image/bisnis-rumahan-yang-menjanjikan-2021-07-24.jpg" >}}
 
 ## 9. Makaroni Kering atau Basah
 

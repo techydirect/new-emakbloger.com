@@ -26,6 +26,8 @@ Cara berbisnis online yang pertama adalah dengan melakukan kajian kecil terhadap
 
 Caranya, lakukan saja pengecekan terhadap barang yang saat ini dibutuhkan atau disukai pasar. Selain mengecek kebutuhan pasar, jangan lewatkan kesempatan untuk menentukan tujuan bisnis Anda atau dalam perekonomian sering disebut segmentasi pasar. Anda hanya perlu menentukan tujuan Anda, misalnya dari indikator gender hingga usia calon pelanggan produk Anda.
 
+{{< read judul="12 Bisnis Rumahan Tanpa Modal Besar & Menguntungkan" link="/07242021/bisnis-rumahan-modal-kecil/" gambar="/wp-image/bisnis-rumahan-tanpa-modal-besar-2021-07-24.jpg" >}}
+
 ## 2. Membandingkan Harga Pasar
 
 Langkah selanjutnya mengenai cara berbisnis online adalah membandingkan harga produk di pasaran. Cara kerja online tanpa modal berguna untuk memberikan patokan harga produk Anda.
@@ -53,6 +55,8 @@ Jangan lupa sertakan cara pemesanan dan pembayaran produk yang akan dibeli. Jika
 Sekarang, Anda siap untuk mempromosikan produk andalan Anda. Anda bisa memulai bisnis online tanpa modal dengan berbagi produk yang akan ditawarkan. Unggah gambar produk sebaik mungkin. Ini hanya bertujuan untuk menarik minat calon pelanggan.
 
 Jangan lupa untuk memberikan deskripsi yang menarik dan cukup jelas tentang detail produk Anda. Hindari membuat deskripsi produk yang berbeda dari produk Anda yang sebenarnya. Hal ini secara tidak langsung akan berdampak pada keberlangsungan bisnis yang Anda bangun.
+
+{{< read judul="12 Ide Usaha Toko Online Shop Terlaris 2021" link="/07272021/ide-toko-online/" gambar="/wp-image/ide-toko-online-2021-07-26.jpg" >}}
 
 ## 6. Berikan promosi yang menarik
 

@@ -28,6 +28,8 @@ Membuka toko online memang mudah, namun Anda tetap harus memikirkan sistem opera
 
 Sebelum memantapkan diri untuk memulai ide jualan online shop, sebaiknya pikirkan produk yang akan dijual. Tidak perlu bingung mencari ide toko online, berikut 12 produk yang terbukti banyak dibeli orang secara online. Sudah siapkan anda membangun usaha online shop terlaris?
 
+{{< read judul="Mudah! 5 Cara Dropship di Tokopedia" link="/07252021/cara-dropship-di-tokopedia/" gambar="/wp-image/cara-dropship-di-tokopedia-2021-07-25.jpg" >}}
+
 ### 1. Busana muslim
 
 Permintaan pasar terhadap busana muslim semakin meningkat, terutama menjelang hari raya Idul Fitri. Belum lagi Indonesia merupakan negara dengan penduduk muslim terbesar di dunia, maka tidak heran jika penjualan busana muslim secara online baik untuk pria maupun wanita menjadi prospek bisnis online yang sangat menggiurkan. Anda dapat memanfaatkan ini sebagai ide toko online anda.
@@ -48,6 +50,8 @@ Apalagi produk kecantikan yang dijual secara online juga lebih beragam, mulai da
 
 Kebanyakan ide toko online seperti kecantikan menjadi usaha online shop terlaris dan banyak peminatnya, anda dapat mencoba jenis bisnis online shop yang satu ini.
 
+{{< read judul="Cara Mudah Jualan di TokoPedia Tanpa Modal" link="/07252021/jualan-di-tokopedia-tanpa-modal/" gambar="/wp-image/jualan-di-tokopedia-tanpa-modal-2021-07-25.jpg" >}}
+
 ### 4. Sepatu
 
 Masuk ke kategori fashion, sepatu menjadi ide toko online yang banyak diminati saat ini. Dari sepatu hak tinggi hingga sepatu kets, semakin banyak merek domestik dan internasional yang mulai membuka toko online. Namun, masih ada peluang bisnis bagi Anda untuk memanfaatkan ide jualan online, terutama jika Anda berencana untuk menjual sepatu kets.
@@ -65,6 +69,8 @@ Seorang wanita akan membutuhkan lebih dari dua tas, untuk bekerja dan bepergian.
 Sesuai dengan ide jualan online modal kecil sebelumnya, satu gadget berisi beberapa ekstensi. Dia menyebutnya pengisi daya, headphone, kasing, dan kaca tempered. Ada juga aksesori lain untuk mendukung penggunaan, seperti pinset dan dudukan telepon untuk mobil.
 
 Sebenarnya aksesoris handphone biasanya disertakan dengan gadget yang dibeli, namun banyak juga yang rusak setelah digunakan beberapa kali. Seiring dengan meningkatnya kebutuhan akan gadget, kebutuhan akan aksesoris handphone tentunya juga terus meningkat. Ide toko online ini sangat cocok untuk anda jalani.
+
+{{< read judul="12 Bisnis Rumahan Tanpa Modal Besar & Menguntungkan" link="/07242021/bisnis-rumahan-modal-kecil/" gambar="/wp-image/bisnis-rumahan-tanpa-modal-besar-2021-07-24.jpg" >}}
 
 ### 7. Perlengkapan bayi
 
@@ -84,6 +90,8 @@ Kalau biasanya beli jam tangan harus datang langsung ke tokonya, sekarang ini bi
 
 Menonton tren berubah setiap tahun, menjadikannya aksesori yang harus dimiliki pria dan wanita. Berbicara tentang keuntungan, tidak diragukan lagi. Jam tangan bisa dijual dengan harga tinggi, tergantung jenis dan mereknya.
 
+{{< read judul="7 Cara Berbisnis Online yang Patut Anda Coba" link="/07232021/cara-berbisnis-online/" gambar="/wp-image/cara-berbisnis-online-2021-07-23.jpg" >}}
+
 ### 10. Peralatan olahraga
 
 Daripada repot-repot mencari dari satu toko ke toko lainnya, lebih baik membelinya secara online. Inilah yang dipikirkan orang Indonesia saat ini, termasuk pembelian alat-alat olahraga. Semakin banyak orang yang menyadari pentingnya olahraga, maka dari itu kebutuhan akan alat olahraga semakin meningkat.
@@ -101,6 +109,8 @@ Dari sini, Anda harus pintar-pintar menonjolkan desain yang unik daripada fungsi
 Produk mainan adalah ide jualan online modal kecil yang sangat menggiurkan untuk dijadikan sebagai ide toko online anda. Permainan di sini tidak hanya permainan anak-anak, tetapi juga permainan yang disukai orang dewasa. Contohnya termasuk game Lego, konsol PlayStation dan Nintendo, antara lain.
 
 Anda juga dapat menjual game untuk konsol ini. Untuk mainan anak tentunya bisa menjual mainan seperti boneka, action figure, mainan edukatif, dan masih banyak lagi.
+
+{{< read judul="7 Ide Jualan Makanan Rumahan yang Menjanjikan" link="/07302021/ide-jualan-makanan-rumahan/" gambar="/wp-image/ide-jualan-makanan-rumahan-2021-07-29.jpg" >}}
 
 Keuntungan menjual game online adalah kemudahan dalam bertransaksi. Tidak perlu ke toko lagi, memudahkan orang tua untuk membeli mainan. Begitu juga dengan orang dewasa yang sibuk dengan aktivitasnya sehari-hari, masih bisa membeli konsol game favoritnya.
 

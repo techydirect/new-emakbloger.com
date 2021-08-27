@@ -34,6 +34,8 @@ Selain itu, Anda juga dapat memperhatikan produk-produk terlaris dengan mengunju
 
 Sekedar saran, jangan memilih produk musiman yang hanya habis terjual di waktu-waktu tertentu. Tidak hanya itu, sebaiknya Anda juga fokus hanya pada satu jenis produk saja misalnya produk pakaian jadi, produk elektronik, produk makanan atau lainnya.
 
+{{< read judul="12 Bisnis Rumahan Tanpa Modal Besar & Menguntungkan" link="/07242021/bisnis-rumahan-modal-kecil/" gambar="/wp-image/bisnis-rumahan-tanpa-modal-besar-2021-07-24.jpg" >}}
+
 ### 2. Pilih Supplier
 
 Setelah Anda berhasil mengidentifikasi produk yang akan dijual, langkah selanjutnya dalam cara dropship di tokopedia adalah mencari pemasok yang memiliki produk yang akan Anda jual. Pada titik ini, buat perbandingan antara pemasok, mana yang menurut Anda terbaik, dari segi kualitas produk, harga, dan layanan.
@@ -47,6 +49,8 @@ Setelah memilih produk dan supplier yang tepat, langkah selanjutnya dalam cara d
 Setelah berhasil mendaftarkan akun, langkah selanjutnya dalam cara dropship di tokopedia adalah membuat toko. Isi semua kolom form yang ada, mulai dari nama toko, logo dan deskripsi.
 
 Langkah selanjutnya adalah metode pengiriman. Di kolom ini, sesuaikan metode pengiriman apa pun yang mungkin dilakukan pemasok, karena pengiriman produk akan ditangani oleh pemasok. Berikutnya adalah opsi dukungan pembayaran. Setelah mengisi semua kolom formulir, klik Open Store untuk mengaktifkan. Sampai di sini, Anda telah berhasil membuat toko di Tokopedia.
+
+{{< read judul="12 Ide Usaha Toko Online Shop Terlaris 2021" link="/07272021/ide-toko-online/" gambar="/wp-image/ide-toko-online-2021-07-26.jpg" >}}
 
 ### 5. Tambahkan produk ke toko Anda
 

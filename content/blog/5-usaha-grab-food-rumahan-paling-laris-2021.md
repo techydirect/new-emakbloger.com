@@ -24,11 +24,7 @@ Banyaknya dan volume pesanan makanan yang masuk melalui aplikasi online juga men
 
 Nah, jika Anda tertarik untuk membuka bisnis kuliner dengan aplikasi grab food merchant online, Anda harus memutuskan terlebih dahulu jenis makanan apa yang paling baik dipesan di Go Food, Grab Food, atau aplikasi sejenis.
 
-**Terkait:**
-
-- [**7 Ide Jualan Makanan Rumahan yang Menjanjikan**](https://www.emakbloger.com/07302021/ide-jualan-makanan-rumahan/)
-- [**9 Usaha Makanan Rumahan Online Paling Laris 2021**](https://www.emakbloger.com/07292021/usaha-makanan-rumahan-online/)
-- [**12 Bisnis Rumahan Tanpa Modal Besar & Menguntungkan**](https://www.emakbloger.com/07242021/bisnis-rumahan-modal-kecil/)
+{{< read link="/07302021/ide-jualan-makanan-rumahan/" judul="7 Ide Jualan Makanan Rumahan yang Menjanjikan" gambar="/wp-image/ide-jualan-makanan-rumahan-2021-07-29.jpg" >}}
 
 ## Ide Usaha Grab Food Rumahan 2021
 
@@ -50,6 +46,8 @@ Usaha grab food rumahan paling laris lainnya adalah olahan ayam. Seperti ayam go
 
 Sangat mudah untuk menjalankan peluang bisnis makanan online ini, terutama bagi ibu rumah tangga yang suka dan pandai memasak di dapur. Olahan ayam sangat digemari oleh semua orang, termasuk mereka yang ingin mencari lauk untuk keluarga.
 
+{{< read judul="9 Usaha Makanan Rumahan Online Paling Laris 2021" link="/07292021/usaha-makanan-rumahan-online/" gambar="/wp-image/usaha-makanan-rumahan-online-2021-07-28.jpg" >}}
+
 ### 3. Beragam Jenis Mie
 
 Aneka mie juga menjadi salah satu usaha grab food rumahan paling laris setelah nasi dan ayam yang diawetkan. Mie sangat populer di masyarakat kita sebagai penyangga perut yang lapar atau pengganti nasi.
@@ -62,10 +60,7 @@ Siapa yang tidak mengenal Martabak? Semua orang tahu dan pernah mencicipinya. Ma
 
 Hal ini sangat wajar karena martabak manis memiliki rasa yang enak dengan cita rasa yang khas. Saat ini ada banyak varian rasa dalam masakan ini, seperti keju, kacang tanah, coklat, red velvet, Nutella, Oreo, matcha, dan lain-lain.
 
-**Terkait:**
-
-- [**12 Bisnis Rumahan yang Menjanjikan Tanpa Modal Besar**](https://www.emakbloger.com/07252021/bisnis-rumahan-yang-menjanjikan/)
-- [**12 Ide Usaha Toko Online Shop Terlaris 2021**](https://www.emakbloger.com/07272021/ide-toko-online/)
+{{< read judul="12 Bisnis Rumahan Tanpa Modal Besar & Menguntungkan" link="/07242021/bisnis-rumahan-modal-kecil/" gambar="/wp-image/bisnis-rumahan-tanpa-modal-besar-2021-07-24.jpg" >}}
 
 ## Cara daftar Grabfood Rumahan
 
@@ -86,6 +81,8 @@ Anda akan menerima email verifikasi Grabfood indonesia. Ikuti langkah selanjutny
 Anda akan diminta untuk mengisi informasi yang lengkap. Isi data sebagai penjaga toko dengan informasi rekening bank. Data ini digunakan untuk tujuan mentransfer pendapatan Anda.
 
 Kemudian lengkapi data informasi kontak untuk toko dan departemen keuangan. Data ini akan digunakan untuk mendapatkan informasi untuk menghubungi Anda. Setelah itu, isi data lengkap lainnya.
+
+{{< read judul="12 Bisnis Rumahan yang Menjanjikan Tanpa Modal Besar" link="/07252021/bisnis-rumahan-yang-menjanjikan/" gambar="/wp-image/bisnis-rumahan-yang-menjanjikan-2021-07-24.jpg" >}}
 
 ### 3. Aktivasi akun
 
