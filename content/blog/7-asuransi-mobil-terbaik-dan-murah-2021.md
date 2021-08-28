@@ -28,7 +28,7 @@ Anda pasti sering mendengar yang namanya Jasaraharja, karena jasa asuransi ini s
 
 Ada dua cakupan tanggung jawab yang diberikan oleh JP-ASTOR, yaitu TLO dan All Risk. Semuanya memiliki biaya premi yang relatif lebih murah dibandingkan perusahaan asuransi lainnya, sehingga tidak salah menyebutnya sebagai asuransi mobil terbaik di Indonesia.
 
-**Baca Juga:** [**Yuk Intip 5 Asuransi Mobil Terbaik 2021**](https://www.emakbloger.com/07/19/2021/asuransi-mobil-terbaik/)
+{{< read judul="Yuk Intip 5 Asuransi Mobil Terbaik 2021" link="/07/19/2021/asuransi-mobil-terbaik" gambar="/wp-image/asuransi-mobil-terbaik-2021-07-18.jpg" >}}
 
 ## 2. Asuransi Mobil SinarMas
 
@@ -53,6 +53,8 @@ Paket pertama adalah Allianz MobilKu Grand yang memberikan solusi terlengkap unt
 ## 5. Asuransi Mobil Adira
 
 Selain memberikan layanan keuangan berupa kredit sepeda motor atau mobil, Adira juga memiliki layanan asuransi mobil terbaik dan murah yang biasa kita kenal dengan sebutan "[Asuransi Mobil Autocilin](/tags/layanan-asuransi)". Asuransi mobil yang ditawarkan Adira tidak perlu diragukan lagi, karena anda akan mendapatkan pelayanan yang terbaik ketika terjadi kerusakan pada mobil anda.
+
+{{< read judul="Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?" link="/07/20/2021/asuransi-mobil-all-risk-dan-tlo/" gambar="/wp-image/perbedaan-asuransi-mobil-all-risk-dan-tlo-2021-07-19.jpg" >}}
 
 ## 6. Asuransi Mobil AXA
 

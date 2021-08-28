@@ -24,12 +24,6 @@ Masalah keuangan pasti akan membuat kepala pusing dan tidak bisa tidur. Sebelum 
 
 Mengutip dari berbagai sumer, ada beberapa cara mengatur keuangan pribadi yang perlu anda terapka mulai dini. Kenapa? ya kembali lagi ke pembahasan sebelumnya, memanajemen keunangan itu sangatlah penting jika anda menginginkan hidup yang tertata. Berikut Tipsnya:
 
-**Terkait:**
-
-- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
-
 ## 1. Memiliki Catatan Keungan Pribadi
 
 Cara mengatur keuangan pribadi yang pertama adalah dengan memiliki catatan keuangan. Catatan keuangan pribadi sangat berguna. Ini adalah langkah dasar yang perlu anda ambil. Jika langkah awal ini tidak kita lakukan dengan baik bahkan secara konsisten, keuangan pribadi anda akan tetap berantakan dan tidak teratur.
@@ -39,6 +33,8 @@ Dengan mencatat keuangan pribadi, anda dapat menentukan besaran pengeluaran yang
 Dari beberapa hal penting mengatur keuangan pribadi. Mencatat sumber keuangan pribadi juga sangat berguna dalam merancang tujuan keuangan, anda dapat mengetahui sampai seberapa waktu uang anda akan habis.
 
 Misalnya, jika anda memiliki tujuan keuangan dalam lima tahun ke depan untuk membeli rumah dengan hipotek sebesar Rp. 300 juta, maka bisa anda rencanakan mulai sekarang dengan memberikan uang muka minimal 30 persen yaitu Rp. 90 juta untuk jangka waktu tertentu sesuai kemampuan finansial.
+
+{{< read judul="8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta-2021-07-22.jpg" >}}
 
 ## 2. Atur Anggaran Pengeluaran
 
@@ -63,10 +59,7 @@ Oleh karena itu, sangat disarankan untuk berinvestasi melalui berbagai alat inve
 
 Dana darurat merupakan dana yang sangat penting untuk mengantisipasi keadaan darurat atau mendesak agar tidak mempengaruhi keadaan keuangan anda. Banyak kejadian atau bencana yang tidak bisa di prediksi, sehingga anda membutuhkan dana darurat.
 
-**Terkait:**
-
-- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
+{{< read judul="10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros" link="/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros-2021-07-22.jpg" >}}
 
 ## 5. Miliki Asuransi Kesehatan & Jiwa
 

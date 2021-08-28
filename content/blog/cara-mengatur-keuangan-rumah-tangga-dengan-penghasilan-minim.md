@@ -24,11 +24,7 @@ Bagi anda yang sudah menikah, mempersiapkan rencana keuangan keluarga sangat pen
 
 Jadi anda bisa mengatur keuangan untuk hal lain. Evaluasi premi lainnya, dan memprioritaskan premi untuk hal-hal penting, seperti rumah, kendaraan, dan hal-hal penting lainnya yang mendukung kehidupan rumah dan keluarga.
 
-**Terkait:**
-
-- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
+{{< read judul="Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif" link="/07232021/cara-mengatur-keuangan-rumah-tangga/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-1-2021-07-22.jpg" >}}
 
 ## 2. Perencanaan belanja bulanan
 
@@ -46,6 +42,8 @@ Salah satu cara mengelola keuangan rumah tangga dengan gaji minim adalah dengan 
 
 Bagi yang sering menggunakan kartu kredit, biasakan menggunakan kartu kredit dengan bijak, apalagi jika Anda menggunakan kartu kredit untuk membiayai keluarga. Karena jika anda tidak menggunakan kartu kredit dengan bijak, tagihan bulanan yang diterima anda bisa naik dan merugikan anda.
 
+{{< read judul="8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta-2021-07-22.jpg" >}}
+
 ## 6. Menghemat Pengeluaran
 
 Memiliki manajemen keuangan yang sederhana akan sangat mempengaruhi keuangan anda. Salah satu cara mengatur keuangan rumah tangga dengan pendapatan minim yang baik adalah dengan menghemat pengeluaran beberapa kegiatan. Kurangi kegiatan yang tidak terlalu penting, hal ini akan memungkinkan Sedulur untuk menyimpan uang, yang dapat digunakan untuk tujuan lain yang lebih bermanfaat, terutama untuk kepentingan keluarga dan rumah tangga.
@@ -54,16 +52,13 @@ Memiliki manajemen keuangan yang sederhana akan sangat mempengaruhi keuangan and
 
 Memiliki mobil bermotor sebenarnya sangat menguntungkan untuk kegiatan sehari-hari, namun kendaraan bermotor juga membutuhkan biaya, terutama biaya bensin untuk kendaraan. Salah satu cara mengelola keuangan yang paling efektif adalah dengan mengurangi penggunaan kendaraan bermotor, dan lebih berhati-hati dalam menggunakan transportasi umum.
 
-**Terkait:**
-
-- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
-- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-
 ## 8. Car penghasilan tambahan
 
 Salah satu jalan keluar yang baik dan juga cara mengatasi kesulitan keuangan adalah dengan mencari penghasilan tambahan. anda dapat memperoleh penghasilan tambahan dengan melakukan beberapa pekerjaan di luar pekerjaan utama. Terutama bagi anda yang memiliki hobi.
 
 Salah satu cara untuk mendapatkan penghasilan tambahan yang menguntungkan adalah dengan berdagang atau menjual. Kalaupun lancar, penghasilan dari usaha anda bisa lebih tinggi dari penghasilan yang Anda dapatkan dari pekerjaan utama Anda.
+
+{{< read judul="10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros" link="/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros-2021-07-22.jpg" >}}
 
 ## 9. Cobalah untuk menabung setiap bulan
 

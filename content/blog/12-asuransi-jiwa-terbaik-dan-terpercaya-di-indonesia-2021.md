@@ -36,11 +36,7 @@ Pada tahun 2007, Prudential memperkenalkan layanan asuransi berbasis Syariah yan
 
 Untuk itu Prudential wajib masuk dalam jajaran asuransi jiwa terbaik di Indonesia 2020 hingga sekarang (2021). Dari berbagai 3 produk asuransi jiwa yang di tawarkan Prudential meliputi:
 
-**Terkait:**
-
-- [**Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim**](https://www.emakbloger.com/07212021/asuransi-jiwa-axa-mandiri/)
-- [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
-- [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional/)
+{{< read judul="Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim" link="/07212021/asuransi-jiwa-axa-mandiri/" gambar="/wp-image/asuransi-jiwa-axa-mandiri-2021-07-21.jpg" >}}
 
 ### a). Asuransi Jiwa PRUCinta
 
@@ -66,9 +62,7 @@ PRU Critical Benefit 88 adalah jenis asuransi jiwa yang memberikan perlindungan 
 
 Namun, pertanggungan akan tetap dibayarkan pada akhir pertanggungan asuransi jika tertanggung masih hidup atau belum mengajukan klaim dalam salah satu dari 60 kondisi kritis dan selama polis masih aktif.
 
-**Terkait:**
-
-- [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
+{{< read judul="Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup" link="/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/" gambar="/wp-image/manfaat-asuransi-jiwa-seumur-hidup-2021-07-17.jpg" >}}
 
 ## 2. Asuransi Jiwa Terbaik Allianz
 
@@ -109,6 +103,8 @@ Salah satu jenis asuransi jiwa di Manulife adalah asuransi jiwa atau dikenal jug
 Ada juga asuransi jiwa berjangka protection yang dikeluarkan oleh Manulife yang memberikan perlindungan berdasarkan jangka waktu yang ditentukan. Beberapa contoh produk asuransi jenis ini antara lain Term Saving Protection, Proactive Plus, Life Protection Benefit, dan Manulife Persona Guard.
 
 Asuransi perlindungan seumur hidup ini menawarkan pengembalian premi 100 persen dari premi yang dibayarkan. Ada juga manfaat tambahan berupa diskon premi yang ditawarkan.
+
+{{< read judul="7 Perbedaan Asuransi Syariah dan Asuransi Konvensional" link="/07212021/perbedaan-asuransi-syariah-dan-konvesional" gambar="/wp-image/perbedaan-asuransi-syariah-dan-konvensional-2021-07-20.jpg" >}}
 
 ## 4. AXA Mandiri
 
@@ -154,6 +150,8 @@ Sebagai salah satu asuransi jiwa terbaik di Indonesia, AIA Financial tentunya me
 ### Kekurangan AIA Finansial
 
 Sedangkan kekurangannya antara lain kurangnya kinerja penjualan atau agen dalam menjelaskan produk, yang menyebabkan banyak keluhan dari pelanggan dan kinerja perusahaan yang agak buruk dalam lima tahun terakhir, banyak pelanggan yang kecewa.
+
+{{< read judul="Perbedaan Antara Asuransi Umum dengan Asuransi Syariah" link="/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/" gambar="/wp-image/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah-2021-07-16.jpg" >}}
 
 ## 6. Asuransi Jiwa Simas
 
@@ -209,6 +207,8 @@ Produk Kumpulan adalah asuransi yang diberikan kepada beberapa orang (kelompok) 
 
 Beberapa contoh produk BCA Life Group antara lain BCA Life Keluargaku, BCA Life Proteksi Diri, BCA Life Accident Protection, BCA Life Protection Guard, BCA Life Legacy Protection, dan BCA Credit Life Protection.
 
+{{< read judul="Tips dan Cara Klaim Asuransi Qoala dengan Mudah" link="/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah/" gambar="/wp-image/cara-klaim-asuransi-qoala-2021-07-16.jpg" >}}
+
 ## 8. Sequis Life
 
 Asuransi jiwa terbaik dan terpercaya adalah penawaran dari Sequis Life. Sequis Life merupakan perusahaan asuransi dengan pengalaman 36 tahun, sehingga tidak perlu diragukan lagi kinerja dan produk dari asuransi ini. Sequis Life memiliki banyak produk asuransi, mulai dari kesehatan dan pendidikan hingga jiwa.
@@ -256,6 +256,8 @@ Bumiputera telah melalui dan mengikuti banyak perubahan kebutuhan masyarakat, di
 ### a). Mitra Beasiswa
 
 Produk asuransi ini dirancang dengan visi untuk terus mendidik generasi muda ketika orang tuanya menghadapi risiko meninggal dunia atau cacat tetap total. Asuransi ini memberikan manfaat pertanggungan berupa Dana Belajar Berkelanjutan dengan sistem pembayaran bertahap dan sesuai dengan tingkat usia anak.
+
+{{< read judul="7 Asuransi Mobil Terbaik dan Murah 2021" link="/07212021/asuransi-mobil-terbaik-dan-murah/" gambar="/wp-image/asuransi-mobil-terbaik-dan-murah-2021-07-20.jpg" >}}
 
 ### b). Mitra Proteksi Mandiri
 

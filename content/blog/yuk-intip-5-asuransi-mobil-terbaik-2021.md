@@ -32,7 +32,7 @@ Asuransi mobil jenis All risk dan Total Loss Only (TLO) tentu mempunyai perbedaa
 - Usia masksimal Mobil: 12 Tahun.
 - Keuntungan: Mendapat ongkos taksi gratis selama mobil masih dalam perbaikan di bengkel.
 
-**Baca Juga:** [**Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?**](https://www.emakbloger.com/07/20/2021/asuransi-mobil-all-risk-dan-tlo/)
+{{< read judul="Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?" link="/07/20/2021/asuransi-mobil-all-risk-dan-tlo/" gambar="/wp-image/perbedaan-asuransi-mobil-all-risk-dan-tlo-2021-07-19.jpg" >}}
 
 ## 2. Asuransi Mobil Adira Syariah
 
@@ -56,7 +56,7 @@ Dari pilihan asuransi mobil terbaik, nama Adira Autocillin juga masuk dalam jaja
 - Usia mobil maksimal: 1o tahun
 - Keuntungan spesial: Gratis towing dan perpanjang STNK
 
-**Baca Juga:** [**7 Perbedaan Asuransi Syariah dan Asuransi Konvensional**](https://www.emakbloger.com/07212021/perbedaan-asuransi-syariah-dan-konvesional)
+{{< read judul="7 Perbedaan Asuransi Syariah dan Asuransi Konvensional" link="/07212021/perbedaan-asuransi-syariah-dan-konvesional" gambar="/wp-image/perbedaan-asuransi-syariah-dan-konvensional-2021-07-20.jpg" >}}
 
 ## 4. Asuransi Mobil Tugu Pratama
 
@@ -74,7 +74,7 @@ Pada poin terakhir, perlu anda perhatikan hal ini bisa saja berlaku jika tidak a
 
 Pada intinya, bengkel selain rekanan dari Tugu Pratama tidak semuanya bisa menerima cara klaim asuransi mobil dengan reimburse, kecuali bengkel yang telah direkomendasikan tadi. Dan juga pihak asuransi Tugu Pratama harus melakukan approval terlebih dahulu sebelum menerima cara klaim asuransi mobil reimburse yang anda ajukan.
 
-**Baca Juga:** [**7 Asuransi Mobil Terbaik dan Murah 2021**](https://www.emakbloger.com/07212021/asuransi-mobil-terbaik-dan-murah/)
+{{< read judul="7 Asuransi Mobil Terbaik dan Murah 2021" link="/07212021/asuransi-mobil-terbaik-dan-murah/" gambar="/wp-image/asuransi-mobil-terbaik-dan-murah-2021-07-20.jpg" >}}
 
 ## 5. Asuransi mobil ACA
 

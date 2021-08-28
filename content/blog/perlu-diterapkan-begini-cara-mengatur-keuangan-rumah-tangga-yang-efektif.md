@@ -22,11 +22,7 @@ Apa resikonya jika saya melakukan kesalahan dalam mengelola keuangan keluarga? D
 
 Lalu bagaimana cara mengatur keuangan rumah tangga dengan baik dan benar, adakah cara yang paling efektif untuk diterapkan? Berikut tips dan cara yang bisa Anda lakukan untuk mengelola keuangan rumah tangga secara efektif yang telah kami rangkum dari berbagai sumber.
 
-**Terkait:**
-
-- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
-- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
+{{< read judul="Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat" link="/07232021/cara-mengatur-keuangan" gambar="/wp-image/cara-mengatur-keuangan-2021-07-22.jpg" >}}
 
 ## 1. Bedakan Kebutuhan & Keinginan
 
@@ -54,6 +50,8 @@ Pengeluaran rumah tangga yang masuk dalam daftar prioritas antara lain biaya mak
 
 Selain membantu mengatur keuangan rumah tangga anda, daftar ini akan menjadi pengingat bahwa kebutuhan prioritas harus dipenuhi terlebih dahulu baru kemudian dapat dialokasikan untuk kebutuhan sekunder dan dan keinginan anda.
 
+{{< read judul="Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui" link="/07232021/cara-mengatur-keuangan-pribadi" gambar="/wp-image/cara-mengatur-keuangan-pribadi-2021-07-22.jpg" >}}
+
 ## 4. Mempersiapkan Dana Darurat
 
 Cara mengatur keuangan keluarga selanjutnya adalah dengan menyiapkan dana darurat. Dalam kehidupan berumah tangga, tidak semuanya bisa berjalan mulus sesuai rencana. Banyak hal terjadi secara tiba-tiba dan tidak direncanakan.
@@ -72,10 +70,7 @@ Sebagai saran, jika memang harus berhutang, gunakan untuk hal-hal yang merupakan
 
 Selain itu, yang harus Anda lakukan untuk mengelola keuangan yang baik adalah dengan menjaga rasio hutang Anda. Sebisa mungkin, pastikan komitmen pembayaran utang Anda tidak melebihi 30 persen dari penghasilan Anda. Lebih dari itu, keuangan rumah tangga Anda bisa terganggu.
 
-**Terkait:**
-
-- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
+{{< read judul="8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta-2021-07-22.jpg" >}}
 
 ## 6. Tabungan, Asuransi, dan Investasi
 

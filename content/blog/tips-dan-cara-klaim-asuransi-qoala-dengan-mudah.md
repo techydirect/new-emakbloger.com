@@ -44,6 +44,8 @@ Jika sudah melalui beberapa prosedur diatas, Anda harus mempunyai bukti seperti 
 
 Setalah menyajukan klaim melalui proses seperti diatas, pihak Qoala akan segera menygecek kelengkapan dokumen. Pada tahap ini, jika pengajuan klaim asuransi kesehatan Qoala telah dikonfirmasi, perusahanaa akan segera membayar biaya pengobatan sesuai dengan manfaat perlindungan yang tertara dalam polis asuransi.
 
+{{< read judul="12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021" link="/07212021/asuransi-jiwa-terbaik-dan-terpercaya/" gambar="/wp-image/asuransi-jiwa-terbaik-dan-terpercaya-2021-07-21.jpg" >}}
+
 ### 2. Cara Klaim Asuransi Jiwa Qoala
 
 Salah satu produk asuransi Qoala yang paling banyak di gunakan oleh masyarakat Indnesia adalah asuransi Jiwa. Dengan membeli asuransi jiwa, keluarga nasabah akan ditanggung oleh perusahaan asuransi dengan tujuan menanggung kerugian finansial seperti meninggalnya seorang nasabah yang menjadi tulang punggung keluarga. Adapun 4 pilihan produk asuransi jiwa Qoala, yaitu:
@@ -72,6 +74,8 @@ Nah, setelah mengetahui 4 produk asuransi jiwa diatas, Anda juga wajib mengetahu
 
 Setelah melalui beberapa proses diatas, serta penyerahan dokumen lengkap seperti surat keterangan meninggal dari dokter, fotocopy KTP identitas penerima. Pihak asuransi akan menginfokan melalui agen terkait pengajuan klaim asuransi jiwa ditolak atau terverifikasi.
 
+{{< read judul="Yuk Intip 5 Asuransi Mobil Terbaik 2021" link="/07/19/2021/asuransi-mobil-terbaik/" gambar="/wp-image/asuransi-mobil-terbaik-2021-07-18.jpg" >}}
+
 ### 3. Cara klaim asuransi mobil Qoala
 
 Selain asuransi jiwa, Asuransi mobil Qoala juga menjadi salan satu produk asuransi yang paling banyak digunakan masyarakan Indonesia. Selain itu, asuransi mobil juga dapat meminimalisasi kerugian finansial yang dialami nasabah.
@@ -93,6 +97,8 @@ Nah, setelah mengetahui dua jenias asuransi mobil yang ada di atas. Penting juga
 - Pertama, laporkan perihal yang terjadi pada mobil Anda dengan menyertakan foto.
 - Selanjutnya menyiapkan dokumen lengkap seperti STNK mobil, SIM, dan surat ketengan dari kepolisian jika krusakan mobil melebihi 70% serta dokumen polis mobil.
 - Anda bisa mengirim laporan dokumen melalui laman resmi Qoala atau mengirimnya langsung ke kantor cabang terdekat.
+
+{{< read judul="Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?" link="/07/20/2021/asuransi-mobil-all-risk-dan-tlo/" gambar="/wp-image/perbedaan-asuransi-mobil-all-risk-dan-tlo-2021-07-19.jpg" >}}
 
 Setelah survei dilakukan pihak asuransi dan dinyatakan terverifikasi, mobil yang Anda miliki akan segera dibawa ke bengkel dan akan diantar kembali ke lokasi yang Anda inginkan.
 

@@ -54,11 +54,7 @@ Sedangkan untuk KTP non DKI jakarta, hanya dapat anda gunakan untuk membuka reke
 
 Dengan persyaratan tersebut, Anda akan mendapatkan fasilitas BNI Taplus termasuk layanan transfer antar bank dan autodebit online yang akan membantu Anda dalam membayar berbagai tagihan rutin bulanan. Mulai tagihan air, listrik, telepon, ponsel, kartu kredit, atau lainnya secara otomatis setiap bulan sehingga Anda dapat menghindari keterlambatan pembayaran.
 
-**Terkait:**
-
-- [**Cara dan Syarat Bikin ATM TabunganKu BNI**](https://www.emakbloger.com/atm-tabunganku-bni/08092021/)
-- [**Biaya Membuat Kartu ATM BNI, Syarat, dan Jenis Tabungan**](https://www.emakbloger.com/biaya-membuat-atm-bni/08072021/)
-- [**Biaya administrasi Bank BNI untuk Semua Jenis Tabungan**](https://www.emakbloger.com/biaya-administrasi-bank-bni/08062021/)
+{{< read judul="Cara dan Syarat Bikin ATM TabunganKu BNI" link="/atm-tabunganku-bni/08092021/" gambar="/wp-image/atm-tabunganku-bni-2021-08-08.jpg" >}}
 
 ## 2. Biaya BNI Taplus Bisnis
 
@@ -98,6 +94,8 @@ Sejumlah keuntungan ditawarkan kepada Anda setelah menjadi nasabah BNI Taplus Bi
 Sebagai nasabah, Anda akan memiliki rincian transaksi tercetak lengkap di buku besar dengan informasi arus kas pada setiap akhir bulan serta rincihan biaya administrasi BNI taplus bisnis.
 
 Fasilitas pendukung lainnya antara lain notifikasi transaksi SMS, sistem transfer online otomatis (ATS Online/Sweep account) dan akses otomatis ke layanan perbankan elektronik BNI seperti ATM BNI, BNI SMS Banking, BNI Internet Banking dan BNI Phone Banking.
+
+{{< read judul="Biaya Membuat Kartu ATM BNI, Syarat, dan Jenis Tabungan" link="/biaya-membuat-atm-bni/08072021/" gambar="/wp-image/biaya-membuat-kartu-atm-bni-2021-08-06.jpg" >}}
 
 ## 3. Biaya BNI Taplus Muda
 
@@ -150,12 +148,6 @@ BNI Taplus Muda masih sub-branded BNI Taplus Muda. Setoran awal dan saldo minimu
 
 Co-brand BNI Taplus Muda diberikan kepada mahasiswa universitas atau perguruan tinggi yang bekerjasama dengan BNI sebagaimana tertuang dalam Perjanjian Kerjasama (PKS) antara BNI dengan Universitas atau Perguruan Tinggi. Perguruan tinggi atau universitas yang dapat ikut memiliki BNI Taplus Muda Co-Brand sesuai dengan syarat dan ketentuan yang berlaku di BNI.
 
-**Terkait:**
-
-- [**Setoran awal Tabungan BNI untuk Semua Jenis**](https://www.emakbloger.com/setoran-awal-bni/08052021/)
-- [**BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal**](https://www.emakbloger.com/bni-taplus/08032021/)
-- [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
-
 ## 4. Biaya BNI Taplus Anak
 
 Bagi Anda yang ingin mengajarkan anak-anak anda sejak dini untuk cinta menabung, tidak ada salahnya mendaftar sebagai nasabah BNI Taplus Anak. Produk perbankan ini menawarkan biaya yang wajar. Tabel berikut menunjukkan biaya administrasi BNI taplus Anak.
@@ -169,6 +161,8 @@ Bagi Anda yang ingin mengajarkan anak-anak anda sejak dini untuk cinta menabung,
 
 - Lengkapi Formulir Permintaan Informasi Klien Perorangan (CIF) dan Formulir Pembukaan Rekening yang ditandatangani oleh anak atau orang tua.
 - Melampirkan fotokopi akte kelahiran/kartu pelajar/paspor/kartu keluarga.
+
+{{< read judul="Biaya administrasi Bank BNI untuk Semua Jenis Tabungan" link="/biaya-administrasi-bank-bni/08062021/" gambar="/wp-image/biaya-administrasi-bank-bni-untuk-semua-jenis-tabungan-2021-08-05.jpg" >}}
 
 #### Persyaratan Khusu Orang tua
 

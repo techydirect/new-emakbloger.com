@@ -20,12 +20,6 @@ Jika gaji besar tidak dikelola dengan baik, akan sulit bagi Anda untuk menabung.
 
 Nah, berikut ini 10 cara mengatur keuangan rumah tangga agar tidak boros yang perlu anda terapkan.
 
-**Terkait:**
-
-- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
-
 ## 1. Penganggaran Biaya Bulanan
 
 Tips pertama, agar keuangan keluarga tidak boros, pastikan dengan matang menganggarkan biaya bulanan. Ingat, jangan hanya menghabiskan uang tanpa ada tujuannya. Itu bisa membuat Anda boros. Catat kebutuhan bulanan yang Anda butuhkan. Mulai dari kebutuhan pokok, kebutuhan mandi, listrik, pulsa, jatah liburan, dan lainnya. Kemudian perkirakan total kebutuhan tersebut.
@@ -39,6 +33,8 @@ Cara mengatur keuangan rumah tangga agar tidak boros selanjutnya dapat anda tepa
 Sebaiknya Anda tidak mencampurkan anggaran kebutuhan darurat dengan pengeluaran bulanan. Karena jika itu yang Anda lakukan, rencana keuangan yang telah anda terapkan akan menjadi tidak sehat lagi.
 
 Tetapkan anggaran terpisah antara dana bulanan dan darurat. Jika perlu, sediakan juga dana tambahan untuk kebutuhan hiburan. Misalnya untuk belanja, jalan-jalan, makan di luar dan kesenangan lainnya.
+
+{{< read judul="Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif" link="/07232021/cara-mengatur-keuangan-rumah-tangga/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-1-2021-07-22.jpg" >}}
 
 ## 3. Pelajari Cara Menabung
 
@@ -62,10 +58,7 @@ Cukup mudah, bukan? Masalahnya, fasilitas ini sering disalahgunakan untuk membua
 
 Anda harus bisa mengendalikannya. Khusus untuk barang-barang yang tidak Anda butuhkan, sebaiknya Anda tidak membelinya kecuali untuk kebutuhan darurat.
 
-**Terkait:**
-
-- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
-- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
+{{< read judul="Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim-2021-07-22.jpg" >}}
 
 ## 6. Hemat Listrik
 
@@ -96,6 +89,8 @@ Yang terpenting, usahakan untuk tidak terjerat utang. Baik itu utang dari bank, 
 Dalam tata cara mengatur keuangan rumah tangga agar tidak boros, anda perlu mencatat keuangan anda secara detai, baik itu penegeluaran, pemasukan. hal ini sangat berguna untuk anda agar mengetahui uang yang anda kuluarkan lebih jelas tujuannya.
 
 Adapun cara pencatatannya agar mudah dipahami sebaiknya disusun dalam bentuk tabel seperti aturan pembukuan akuntansi jika bingung bisa mencari contohnya di internet.
+
+{{< read judul="8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta-2021-07-22.jpg" >}}
 
 ## 10. Jangan Berhutang
 

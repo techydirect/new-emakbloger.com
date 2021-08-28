@@ -20,12 +20,6 @@ Mengelola keuangan bukanlah hal yang mudah, apalagi jika Anda sudah berkeluarga.
 
 Lalu bagaimana cara mengatur keuangan yang tepat jika gaji Anda terbatas?Simak tips dan cara mengatur keuangan rumah tangga dengan gaji 3 juta perbulan berikut ini!
 
-**Terkait:**
-
-- [**Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan)
-- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
-
 ## Cara mengatur keuangan rumah tangga gaji 3 juta
 
 Salah satu masalah yang sering dihadapi keluarga adalah bagaimana mengatur keuangan dengan gaji kecil. Namun nyatanya, hal tersebut bukan menjadi alasan ketidak mampuan mengelola keuangan. Berikut langkah - langkah yang bisa Anda lakukan.
@@ -35,6 +29,8 @@ Salah satu masalah yang sering dihadapi keluarga adalah bagaimana mengatur keuan
 Cara mengatur keuangan rumah tangga dengan gaji 3 juta, anda bisa melakukannya dengan mencatat keuangan. Jika Anda adalah seseorang yang terbiasa mencatat pengeluaran, lakukan hal itu. Namun, jika Anda belum terbiasa mencatat keuangan, coba biasakan mulai sekarang.
 
 Catatan keuangan ini bertujuan untuk mengetahui pemasukan dan pengeluaran Anda dalam satu bulan. Dengan mencatanya, Anda dapat memperkirakan anggaran yang tepat. Catatan keuangan ini juga berfungsi sebagai catatan pengeluaran keuangan anda, jadi Anda tahu untuk apa dan untuk apa uang itu digunakan.
+
+{{< read judul="Yuk Simak 4 Cara Mengatur Keuangan Dengan Metode Tepat" link="/07232021/cara-mengatur-keuangan/" gambar="/wp-image/cara-mengatur-keuangan-2021-07-22.jpg" >}}
 
 ### 2. Berhemat
 
@@ -52,16 +48,13 @@ Cara mengatur keuangan rumah tangga gaji minim selanjutnya adalah membuat rencan
 
 Uang darurat dan asuransi harus ada untuk mengantisipasi hal - hal yang tidak diinginkan, sehingga Anda tidak perlu berhutang saat berada dalam keadaan darurat.
 
+{{< read judul="Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim-2021-07-22.jpg" >}}
+
 ### 5. Menabung
 
 Jika Anda menerapkan poin dari 1 hingga 5, metode dan cara mengatur keunangan rumah tangga dengan gaji 3 juta selanjutnya adalah menabung. Mungkin, Anda biasanya membeli sesuatu yang sebenarnya tidak Anda butuhkan.
 
 Dari pada membeli barang-barang tersebut, lebih baik membiasakan diri menabung di bank. Buat rekening tabungan dan cobalah untuk tidak mengambilnya untuk hal - hal yang tidak ada dalam rencana. Tips penting lainnya usahakan rekening tabungan dan rekening belanja terpisah.
-
-**Terkait:**
-
-- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
 
 ### 6. Mencari Penghasilan Tambahan
 
@@ -74,6 +67,8 @@ Tentu saja, pekerjaan tambahan paruh waktu Anda harus menjadi pekerjaan yang tid
 Cara mengatur keungan rumah tangga dengan gaji 3 juta selanjutnya dapa anda terapkan dengan lebih sering memasak sendiri dirumah. Makan di kafe dan restoran boleh saja, tapi bisa menghabiskan banyak pengeluaran anda.
 
 Apalagi jika Anda sering melakukannya, pengeluaran untuk makan di luar bisa menghabiskan setengah dari gaji Anda per bulan. Untuk menyiasatinya, cobalah memasak dan membawa bekal sendiri. Memasak sendiri bisa menghemat anggaran pengeluaran makan Anda dalam satu bulan. Selain itu, menu dan rasanya juga dijamin lebih sehat dan nikmat.
+
+{{< read judul="10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros" link="/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros-2021-07-22.jpg" >}}
 
 ### 8. Menggunakan Mobil Pribadi
 

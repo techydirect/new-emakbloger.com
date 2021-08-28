@@ -31,6 +31,8 @@ Dana tabarru yang dikonribusiakan para peserta asuransi syariah hanya digunakan 
 
 Intinya, Asuransi Syariah menganut sistim kerja gotong royong (takaful) yang mana peserta asuransi dapat menolong peserta lain dalam memberikan rasa aman ketika terjadi hal yang tidak diinginkan seperti risiko pada peserta lain. Keuntungan asuransi syariah juga lebih kepada kepedulin terhadap sesama, memperkuat tali persaudaraan, dan saling berbagi dalam konsep sharing risk.
 
+{{< read judul="Jenis Produk Asuransi Jiwa AXA Mandiri: Cara Beli & Klaim" link="/07212021/asuransi-jiwa-axa-mandiri/" gambar="/wp-image/asuransi-jiwa-axa-mandiri-2021-07-21.jpg" >}}
+
 ## Apa itu Asuransi Umum?
 
 Asuransi umum (konvensional) merupakan asuransi yang menganut sistem pengelolaan dengan istilah Transfer Risk. Sistem penegelolaan seperti ini juga memberikan perlindungan seperti pengalihan risiko ekonomis atas hidup atau menginggalnya seseorang yang ditanggung perusahaan jasa asuransi tersebut.
@@ -49,6 +51,8 @@ Selain perbedaan dasar asuransi umum dan asuransi syariah yang telah kita bahas 
 
 Pada asuransi syariah, perjanjian dan kontark lebih kepada "hibah" sebagai bentuk ta'awwun atau saling menolong risiko yang terjadi pada peserta lain yang disesuaikan dengan syariat agama Islam. Sedangkan asuransu umum (konvensional), perusahaan jasa asuransi memiliki kontrak pertanggungan terhadap peserta asuransi sebagai pihak tertanggung.
 
+{{< read judul="Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup" link="/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/" gambar="/wp-image/manfaat-asuransi-jiwa-seumur-hidup-2021-07-17.jpg" >}}
+
 ### 2. Kepemilikan Dana
 
 Perbedaan antara asuransi umum dengan asuransi syariah juga meliputi kepemilikan dana. Pada asuransi syariah menerapkan sistim kepemilikan dana bersama dari dana para peserta asuransi, yang mana akan digunakan jika peserta mengalami musibah, maka peserta lain akan membantu memberikan santunan yang diambil dari dana "tabarru".
@@ -64,6 +68,8 @@ Perbedaan selanjutnya dapat Anda simak pada bagian "Surplus Underwriting". Pada 
 Berbeda jauh dengan asuransi umum atau konvensional. Perusahaan jasa asuransi syariah di haruskan memiliki Dewan Pengawas Syariah yang bertujuan untuk mengawasi dan menggenai prinsip - prinsip syariat islam pada kegiatan lembaga keuangan. Termasuk perlindungan syariah.
 
 Selain itu, fungsi dari Dewan Pengawas Syariah juga mengawasi keuangan yang dilarang dalam syariat Islam, seperti: Peruntungan - utangan, ketidak jelasan (Gahar), risywah dan riba (menyuap).
+
+{{< read judul="12 Asuransi Jiwa Terbaik dan Terpercaya di Indonesia 2021" link="/07212021/asuransi-jiwa-terbaik-dan-terpercaya/" gambar="/wp-image/asuransi-jiwa-terbaik-dan-terpercaya-2021-07-21.jpg" >}}
 
 ### 5. Prinsip Halal
 

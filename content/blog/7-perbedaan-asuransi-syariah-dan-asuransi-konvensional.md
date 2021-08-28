@@ -32,7 +32,7 @@ Prinsip dasar atau penerapan cara kerja merupakan salah satu perbedaan asuransi 
 
 Sedangkan pada [asuransi konvensional](/tags/asuransi-konvensional), pengembalian risiko dari peserta kepada perusahaan dengan sistim risk transfer secara penuh. Pihak asuransi akan menanggung risiko atas nasabah sebagai tertanggung, baik untuk harta, kesehatan maupun jiwa sesuai dengan kebijakan polis asuransi tersebut.
 
-**Baca Juga:** [**Perbedaan Antara Asuransi Umum dengan Asuransi Syariah**](https://www.emakbloger.com/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/)
+{{< read judul="Perbedaan Antara Asuransi Umum dengan Asuransi Syariah" link="/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/" gambar="/wp-image/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah-2021-07-16.jpg" >}}
 
 ### 2. Kesepakatan
 
@@ -48,7 +48,9 @@ Dalam [pengelolaan dana asuransi syariah](/tags/asuransi-syariah) dapat melibatk
 
 Sedangkan pada asuransi konvensional, premi harus dibayar oleh tertanggung, seperti halnya jual beli pada umumnya. Dana tersebut akan dikelola sesuai dengan kesepakatan. Misalnya sebagian dialihkan untuk biaya dan investasi, atau pertimbangan lain sesuai dengan jenis produk asuransi yang dipilih untuk memperoleh keuntungan yang maksimal.
 
-**Baca Juga:** [**Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?**](https://www.emakbloger.com/07/20/2021/asuransi-mobil-all-risk-dan-tlo/)
+{{< read judul="Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?" link="/07/20/2021/asuransi-mobil-all-risk-dan-tlo" gambar="/wp-image/perbedaan-asuransi-mobil-all-risk-dan-tlo-2021-07-19.jpg" >}}
+
+**Baca Juga:** [\*\*\*\*](https://www.emakbloger.com/)
 
 ### 4. Pengawasan dana
 
@@ -74,7 +76,9 @@ Zakat adalah harga khusus yang harus dibayarkan umat Islam kepada golongan yang 
 
 Namun, hal ini tidak ada aturan wakaf dan zakat dalam asuransi konvensional. Pembayaran dokumen dapat dilakukan kepada ahli waris sesuai dengan peraturan yang berlaku.
 
-**Baca Juga:** [**Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup**](https://www.emakbloger.com/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup/)
+{{< read judul="Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup" link="/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup" gambar="/wp-image/manfaat-asuransi-jiwa-seumur-hidup-2021-07-17.jpg" >}}
+
+**Baca Juga:** [\*\*\*\*](https://www.emakbloger.com/)
 
 ### 7. Klaim Asuransi
 

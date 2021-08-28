@@ -22,12 +22,6 @@ Berdaarkan yang kami rangkum dari berbagai sumber, cara mengatur keuangan dengan
 
 Nah, Aturan praktis yang perlu anda terapkan adalah membagi pendapatan setelah pajak dan menyisihkannya untuk dibelanjakan 50% untuk kebutuhan, 30% untuk keinginan, dan sisihkan 20% untuk ditabung. Inilah cara kerja prinsip 50 persen, 30 persen, 20 persen yang perlu anda terapkan.
 
-**Terkait:**
-
-- [**Perlu diterapkan! Begini Cara Mengatur Keuangan Rumah Tangga yang Efektif**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga)
-- [**Paling Efektif! Begini Cara Mengatur Keuangan Pribadi yang Perlu Anda Ketahui**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-pribadi)
-- [**8 Cara Mengatur Keuangan Rumah Tangga dengan Gaji 3 juta**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta)
-
 ## 1. Menghitung Penghasilan Bulanan
 
 Cara mengatur keuangan yang pertama yaitu dengan menghitung penghasilan bulanan Anda. Tambahkan jumlah yang Anda terima di rekening bank Anda setiap bulan. Jika Anda membayar taksiran pajak, kurangi jumlah pendapatan bulanan Anda.
@@ -37,6 +31,8 @@ Cara mengatur keuangan yang pertama yaitu dengan menghitung penghasilan bulanan 
 Pada tahap kedua, cara mengatur keuangan yang perlu anda terapkan adalah dengan menhitung batas pengeluaran untuk setiap kategori. Kalikan gaji Anda dengan 0.5 untuk kebutuhan, 0.3 untuk kebutuhan, dan 0.2 untuk tujuan keuangan.
 
 Hal ini perlu anda lakukan untuk mengetahui berapa banyak yang harus Anda belanjakan di setiap kategori. Seperti contohnya:
+
+{{< read judul="Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim" link="/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim-2021-07-22.jpg" >}}
 
 ### 50 Persen: kebutuhan
 
@@ -50,14 +46,11 @@ Pada dasarnya, keinginan adalah semua tambahan kecil yang Anda bayar dengan uang
 
 Dari 20 peren selanjutnya termasuk tabungan untuk dana darurat, dan mulai berinvestasi di reksa dana atau pasar saham. Anda harus memiliki tabungan darurat setidaknya selama tiga bulan jika Anda kehilangan pekerjaan atau terjadi hal yang tidak terduga.
 
-**Terkait:**
-
-- [**10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros)
-- [**Cara Mengatur Keuangan Rumah Tangga dengan Penghasilan Minim**](https://www.emakbloger.com/07232021/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim)
-
 ## 3. Perencanaan Anggaran
 
 Dalan tata cara mengatur keuangan, anda juga perlu merencanakan anggaran Anda berdasarkan batas pengeluaran. Buat daftar dan hitung pengeluaran bulanan Anda di bawah setiap kategori dan kalikan apakah pengeluaran Anda kurang dari sasaran bulanan yang Anda tetapkan di langkah sebelumnya.
+
+{{< read judul="10 Cara Mengatur Keuangan Rumah Tangga Agar Tidak Boros" link="/07232021/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros/" gambar="/wp-image/cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros-2021-07-22.jpg" >}}
 
 ## 4. Mengontrol Pengeluaran
 
