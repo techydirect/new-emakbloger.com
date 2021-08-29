@@ -11,6 +11,7 @@ tags = ["bank bni", "keuntungan Tabunganku bni"]
 title = "Cara dan Syarat Bikin ATM TabunganKu BNI"
 
 +++
+
 [**Emakbloger.com**](/) - Senang sekali membahas tentang rekening dan ATM TabunganKu BNI. Selain cara bikin atm TabunganKu BNI sangat mudah, setoran awal ringan, bahkan biaya administrasinya gratis, namun fasilitas yang ditawarkan tetap lengkap. Pengguna mendapatkan buku tabungan serta kartu debit atau yang biasa kita sebut dengan Kartu ATM.
 
 Pada tahun-tahun sebelumnya, rekening TabunganKu BNI tidak menerima kartu ATM. Tapi sekarang ya. Bahkan kartunya adalah GPN. Jadi Anda dapat membayar untuk berbelanja di EDC Anda. Transfer melalui ATM selanjutnya. Entah itu sasama bank atau antar bank, itu tidak menjadi masalah.
@@ -21,21 +22,17 @@ Hanya ada satu titik lemah. TabunganKu BNI tidak dapat menggunakan SMS banking, 
 
 Agar sesuai dengan target, persyaratan dipermudah untuk membuat ATM TabunganKu BNI. Calon nasabah tidak perlu mencantumkan NPWP (Nomor Pokok Wajib Pajak), anda hanya menuntaskan beberapa persyaratan seperti dibawah ini.
 
-* Kartu identitas KTP
-* Setoran awal
-* Tipe mandatory: Rp20.000,00
-* Tipe customized: Rp50.000,00
-* Mengisi formulir pendaftaran/buka rekening baru.
+- Kartu identitas KTP
+- Setoran awal
+- Tipe mandatory: Rp20.000,00
+- Tipe customized: Rp50.000,00
+- Mengisi formulir pendaftaran/buka rekening baru.
 
 Akun ini hanya untuk perorangan. Selain dibatasi untuk tidak memiliki dua, penggunaannya juga harus bersifat private (tidak bergabung). Badan usaha dan organisasi Silakan pilih jenis lain. Ada lebih dari 14 jenis rekening BNI. Anak-anak di bawah usia 17 tahun dapat membuka TabunganKu BNI.
 
 Namun, proses pembuatannya harus didampingi oleh orang tua/wali. Untuk rekening atas nama anak, bawalah akte kelahiran, kartu keluarga, atau kartu pelajar. Persyaratan lainnya sama seperti di atas.
 
-**Terkait:**
-
-* [**Biaya Membuat Kartu ATM BNI, Syarat, dan Jenis Tabungan**](https://www.emakbloger.com/biaya-membuat-atm-bni/08072021/)
-* [**Biaya administrasi Bank BNI untuk Semua Jenis Tabungan**](https://www.emakbloger.com/biaya-administrasi-bank-bni/08062021/)
-* [**Setoran awal Tabungan BNI untuk Semua Jenis**](https://www.emakbloger.com/setoran-awal-bni/08052021/)
+{{< read judul="Biaya Membuat Kartu ATM BNI, Syarat, dan Jenis Tabungan" link="/biaya-membuat-atm-bni/08072021/" gambar="/wp-image/biaya-membuat-kartu-atm-bni-2021-08-06.jpg" >}}
 
 ## Cara bikin rekening TabunganKu BNI
 
@@ -43,14 +40,14 @@ Saat ini belum tersedia cara buka rekening bni tabunganku online. Calon klien ha
 
 Kunjungi bank selama jam kerja. Jangan lupa bawa semua persyaratannya. Ambil nomor daftar antriam tunggu untuk layanan pelanggan. Jika Anda bingung karena baru pertama kali, jangan ragu untuk memintanya kepada penjaga keamanan. Anda dapat menyimak cara dibawah ini.
 
-* Tunggu di tempat duduk yang disediakan sampai nomor dipanggil untuk dilayani.
-* Saat diperkenalkan oleh Customer Service, katakan bahwa Anda ingin membuka rekening BNI TabunganKu.
-* Kemudian jelaskan lebih detail informasi akun tersebut.
-* Jika Anda memahami dan setuju, kirimkan persyaratan yang Anda hadiri.
-* Customer Service menyediakan formulir pendaftaran atau pembukaan rekening untuk Anda isi.
-* Setelah diisi lengkap dan ditandatangani di atas materai, kembalikan formulir tersebut ke CS.
+- Tunggu di tempat duduk yang disediakan sampai nomor dipanggil untuk dilayani.
+- Saat diperkenalkan oleh Customer Service, katakan bahwa Anda ingin membuka rekening BNI TabunganKu.
+- Kemudian jelaskan lebih detail informasi akun tersebut.
+- Jika Anda memahami dan setuju, kirimkan persyaratan yang Anda hadiri.
+- Customer Service menyediakan formulir pendaftaran atau pembukaan rekening untuk Anda isi.
+- Setelah diisi lengkap dan ditandatangani di atas materai, kembalikan formulir tersebut ke CS.
 
-Kemudian ia mencetak dan mengeluarkan buku besar (ditambah kartu ATM*) untuk Anda. Sampai titik ini berarti nomor rekening sudah siap. Anda diarahkan ke teller untuk melakukan setoran pertama Anda.
+Kemudian ia mencetak dan mengeluarkan buku besar (ditambah kartu ATM\*) untuk Anda. Sampai titik ini berarti nomor rekening sudah siap. Anda diarahkan ke teller untuk melakukan setoran pertama Anda.
 
 Mengisi formulir tidak sulit. Pertanyaannya hanya data pribadi. Antara lain nama, alamat sesuai KTP, nomor NIK, nama ibu kandung, nomor handphone, pekerjaan, jumlah penghasilan/gaji per bulan, dll. Sangat mudah bukan cara bikin ATM TabunganKu BNI.
 
@@ -60,43 +57,38 @@ Adapun beberapa biaya dari pembuatan rekening atau ATM TabunganKu BNI yang perlu
 
 **Pembuatan**
 
-| Keterangan | Biaya |
-| --- | --- |
-| Setoran awal: | Rp20.000,00 (mandatory) atau Rp50.000,00 (customized) |
-| Meterai: | Rp6.000,00 |
-| Cetak buku tabungan baru: | gratis |
-| Penerbitan kartu ATM/debit: | Rp22.000,00 |
+| Keterangan                  | Biaya                                                 |
+| --------------------------- | ----------------------------------------------------- |
+| Setoran awal:               | Rp20.000,00 (mandatory) atau Rp50.000,00 (customized) |
+| Meterai:                    | Rp6.000,00                                            |
+| Cetak buku tabungan baru:   | gratis                                                |
+| Penerbitan kartu ATM/debit: | Rp22.000,00                                           |
 
 **Penggunaan dan penggantian**
 
-| Keterangan | Biaya |
-| --- | --- |
-| Setoran berikutnya: | Rp10.000,00 (minimal) |
-| Biaya administrasi per bulan: | gratis |
-| Tarif pengelolaan kartu: | gratis |
-| Ganti buktab rusak/hilang/habis: | gratis |
-| Ganti kartu rusak/hilang/tertelan/kedaluwarsa: | Rp22.000,00 |
-| Biaya transfer sesama BNI: | gratis |
-| Biaya transfer ke BNI Syariah: | gratis |
-| Transfer ke bank lain via ATM: | Rp6.500,00 |
-| Tarik tunai di teller: | 2x pertama gratis, selanjutnya Rp1.000,00 (per bulan) |
-| Tarik tunai via ATM: | gratis tetapi ada limit (detail di bawah) |
-| Denda status dormant: | Rp20.000,00 |
+| Keterangan                                     | Biaya                                                 |
+| ---------------------------------------------- | ----------------------------------------------------- |
+| Setoran berikutnya:                            | Rp10.000,00 (minimal)                                 |
+| Biaya administrasi per bulan:                  | gratis                                                |
+| Tarif pengelolaan kartu:                       | gratis                                                |
+| Ganti buktab rusak/hilang/habis:               | gratis                                                |
+| Ganti kartu rusak/hilang/tertelan/kedaluwarsa: | Rp22.000,00                                           |
+| Biaya transfer sesama BNI:                     | gratis                                                |
+| Biaya transfer ke BNI Syariah:                 | gratis                                                |
+| Transfer ke bank lain via ATM:                 | Rp6.500,00                                            |
+| Tarik tunai di teller:                         | 2x pertama gratis, selanjutnya Rp1.000,00 (per bulan) |
+| Tarik tunai via ATM:                           | gratis tetapi ada limit (detail di bawah)             |
+| Denda status dormant:                          | Rp20.000,00                                           |
 
 **Penutupan**
 
-| Keterangan | Biaya |
-| --- | --- |
+| Keterangan                | Biaya       |
+| ------------------------- | ----------- |
 | Biaya penutupan rekening: | Rp20.000,00 |
 
 Memiliki rekening bank tidak harus menabung secara rutin. Nomor rekening masih aktif/belum expired. Namun, jika Anda tidak berurusan selama enam bulan berturut-turut, ATM Tabunganku BNI anda akan di nonaktifkan. Dikenakan denda sebesar Rp. 20.000,00 per bulan.
 
-**Terkait:**
-
-* [**BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal**](https://www.emakbloger.com/bni-taplus/08032021/)
-* [**Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!**](https://www.emakbloger.com/aktivasi-mobile-banking-bni-gagal-terus/08012021/)
-* [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
-* [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
+{{< read judul="Biaya administrasi Bank BNI untuk Semua Jenis Tabungan" link="/biaya-administrasi-bank-bni/08062021/" gambar="/wp-image/biaya-administrasi-bank-bni-untuk-semua-jenis-tabungan-2021-08-05.jpg" >}}
 
 ## Kelebihan dan Kekurangan
 
@@ -104,36 +96,36 @@ Memiliki rekening bank tidak harus menabung secara rutin. Nomor rekening masih a
 
 Anda dapat melihat daftar biaya ATM Tabunganku BNI di atas, banyak yang gratis. Beberapa dibayar, namun itu lebih kecil dari biaya potongan tabungan Bank lainnya. Meski murah, TabunganKu BNI tetap memberikan bunga. Jumlahnya ditunjukkan pada tabel berikut.
 
-| Nominal saldo | Bunga |
-| --- | --- |
-| Rp0 – Rp500 ribu | 0% |
+| Nominal saldo         | Bunga |
+| --------------------- | ----- |
+| Rp0 – Rp500 ribu      | 0%    |
 | Rp500 ribu – Rp1 juta | 0,25% |
-| Rp1 juta – ke atas | 1% |
+| Rp1 juta – ke atas    | 1%    |
 
 Di samping bunga, keuntungan lain dari TabunganKu BNI masih ada banyak. Di antaranya:
 
-* Setoran awal dan selanjutnya rendah
-* Syarat pembuatan gampang
-* Mendapat kartu debit/ATM
-* Gratis biaya administrasi bulanan
-* Kartu bisa transfer antarbank (TabunganKu bank lain belum tentu)
-* Kartu bisa dipakai pada mesin EDC
-* Dll.
+- Setoran awal dan selanjutnya rendah
+- Syarat pembuatan gampang
+- Mendapat kartu debit/ATM
+- Gratis biaya administrasi bulanan
+- Kartu bisa transfer antarbank (TabunganKu bank lain belum tentu)
+- Kartu bisa dipakai pada mesin EDC
+- Dll.
 
 **Kekurangan TabunganKu BNI**
 
-* Tidak difasilitasi e-channel (SMS banking, mobile banking, internet banking, dan SMS notifikasi)
-* Gratis tarik tunai di kantor cabang cuma 2x per bulan. Selebihnya bayar Rp1.000,00.
+- Tidak difasilitasi e-channel (SMS banking, mobile banking, internet banking, dan SMS notifikasi)
+- Gratis tarik tunai di kantor cabang cuma 2x per bulan. Selebihnya bayar Rp1.000,00.
 
 Transaksi terkait erat dengan limit. Di TabunganKu BNI tentunya kecil mengingat rekeningnya untuk kalangan menengah ke bawah. Saya tidak tahu apakah ini keuntungan atau kerugian. Harap dicatat dan menilai sendiri.
 
-| Jenis transaksi | Limit |
-| --- | --- |
-| Transfer ke sesama BNI | Rp1 juta per hari |
-| Transfer ke bank lain | Rp1 juta per hari |
-| Pembayaran atau pembelian | Rp1 juta per hari |
-| Tarik tunai di teller | Rp100 ribu minimum |
-| Saldo minimal Tabunganku BNI | Rp20 ribu |
+| Jenis transaksi              | Limit              |
+| ---------------------------- | ------------------ |
+| Transfer ke sesama BNI       | Rp1 juta per hari  |
+| Transfer ke bank lain        | Rp1 juta per hari  |
+| Pembayaran atau pembelian    | Rp1 juta per hari  |
+| Tarik tunai di teller        | Rp100 ribu minimum |
+| Saldo minimal Tabunganku BNI | Rp20 ribu          |
 
 ## FAQ
 
@@ -162,6 +154,8 @@ Kartu tersebut memiliki logo GPN di atasnya. Ini berarti bahwa mereka dapat digu
 Apakah kartu ATM TabunganKu dapat dipindahtangankan antara BNI dengan bank yang berbeda?
 
 Kartu tersebut berlogo GPN. Sistem ini dilengkapi dengan empat adapter: ATM Bersama, Prima, Link dan Alto. Artinya bisa digunakan untuk transfer. Belum lagi sesama BNI, beda cabang tidak masalah.
+
+{{< read judul="Setoran awal Tabungan BNI untuk Semua Jenis" link="/setoran-awal-bni/08052021/" gambar="/wp-image/setoran-awal-tabungan-bni-2021-08-05.jpg" >}}
 
 **Berapa limit transfer kartu ATM BNI TabunganKu?**
 

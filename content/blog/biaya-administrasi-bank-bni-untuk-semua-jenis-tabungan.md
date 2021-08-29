@@ -24,24 +24,18 @@ Merupakan produk tabungan dari BNI yang memberikan nilai tambah kepada nasabahny
 
 #### Syarat dan Biaya Administrasi BNI Taplus
 
-| Syarat dan Biaya administrasi                                           |
-| ----------------------------------------------------------------------- |
-| KTP/SIM/Paspor dan NPWP (Warga Negara Indonesia/WNI)                    |
-| Surat keterangan domisili (dalam hal pendaftaran di luar rumah)         |
-| Paspor disertai dengan KITAS/KIMS/KITAP/Referensi dan NPWP (WNA/WNA)    |
-| Setoran awal Rp 500.000 (Jabodetabek) dan Rp 250.000 (luar Jabodetabek) |
-| Saldo minimal Rp150.000                                                 |
-| Biaya administrasi: Rp 11.000 per bulan                                 |
-| Denda di bawah saldo minimum: Rp 5.000                                  |
-| Tunggakan Biaya Administrasi : Maksimal tunggakan 3X                    |
-| Tunggakan Denda <Saldo Minimum: Maksimal tunggakan 3X                   |
-| Tunggakan biaya pengurusan kartu: maksimal Rp 10.000                    |
-
-**Terkait:**
-
-- [**Setoran awal Tabungan BNI untuk Semua Jenis**](https://www.emakbloger.com/setoran-awal-bni/08052021/)
-- [**BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal**](https://www.emakbloger.com/bni-taplus/08032021/)
-- [**Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!**](https://www.emakbloger.com/aktivasi-mobile-banking-bni-gagal-terus/08012021/)
+| No. | Syarat dan Biaya administrasi                                           |
+| --- | ----------------------------------------------------------------------- |
+| 1.  | KTP/SIM/Paspor dan NPWP (Warga Negara Indonesia/WNI)                    |
+| 2.  | Surat keterangan domisili (dalam hal pendaftaran di luar rumah)         |
+| 3.  | Paspor disertai dengan KITAS/KIMS/KITAP/Referensi dan NPWP (WNA/WNA)    |
+| 4.  | Setoran awal Rp 500.000 (Jabodetabek) dan Rp 250.000 (luar Jabodetabek) |
+| 5.  | Saldo minimal Rp150.000                                                 |
+| 6.  | Biaya administrasi: Rp 11.000 per bulan                                 |
+| 7.  | Denda di bawah saldo minimum: Rp 5.000                                  |
+| 8.  | Tunggakan Biaya Administrasi : Maksimal tunggakan 3X                    |
+| 9.  | Tunggakan Denda < Saldo Minimum: Maksimal tunggakan 3X                  |
+| 10. | Tunggakan biaya pengurusan kartu: maksimal Rp 10.000                    |
 
 ## 2. BNI Taplus Bisnis
 
@@ -61,7 +55,7 @@ BNI Taplus Bisnis adalah jenis tabungan yang ditujukan bagi para pelaku bisnis y
 | Empty                                                                                                    | Bukti dari pemberi atau penerima kuasa.                                                                                                                                                                   |
 | Empty                                                                                                    | Data lain (Akta Pendirian, Surat Izin Usaha, NPWP, SITU, dll).                                                                                                                                            |
 | Empty                                                                                                    | Tunggakan Biaya Administrasi : Maksimal tunggakan 3X.                                                                                                                                                     |
-| Empty                                                                                                    | Tunggakan Denda <Saldo Minimum: Maksimal tunggakan 3X.                                                                                                                                                    |
+| Empty                                                                                                    | Tunggakan Denda < Saldo Minimum: Maksimal tunggakan 3X.                                                                                                                                                   |
 | Empty                                                                                                    | Tunggakan biaya pengurusan kartu: maksimal Rp 10.000.                                                                                                                                                     |
 
 ## 3. BNI Taplus Muda
@@ -70,70 +64,56 @@ BNI Taplus Muda adalah produk tabungan BNI yang ditujukan untuk anak muda berusi
 
 #### Syarat dan Biaya Administrasi
 
-| Syarat                                                                                             |
-| -------------------------------------------------------------------------------------------------- |
-| Dari 15 sampai di bawah 17 tahun, belum menikah dan tanpa ID:                                      |
-| Mengisi formulir pembukaan rekening yang juga ditandatangani oleh orang tua atau wali.             |
-| Melampirkan fotokopi akte kelahiran/kartu pelajar/paspor.                                          |
-| Lampirkan fotokopi bukti identitas salah satu orang tua atau wali.                                 |
-| Mengisi formulir pernyataan rekening elektronik.                                                   |
-| Pelanggan berusia 17-25 tahun atau 15-17 tahun yang sudah menikah dengan identitas diri            |
-| Mengisi formulir pembukaan rekening.                                                               |
-| Bawa bukti identitas asli dan lampirkan salinannya.                                                |
-| Isi formulir informasi donatur jika pekerjaan klien adalah pelajar, pelajar atau ibu rumah tangga. |
-| Mengisi formulir pernyataan rekening elektronik.                                                   |
-| Isi formulir layanan SMS (jika diperlukan).                                                        |
-
-| Biaya administrasi dan lainnya                                             |
-| -------------------------------------------------------------------------- |
-| Biaya administrasi: Rp 5.000.                                              |
-| Setoran Awal Minimum: Rp 100.000.                                          |
-| Minimum Deposit: Rp 10.000.                                                |
-| Saldo minimal: Rp 50.000.                                                  |
-| Kartu Debit Umum BNI Taplus Muda Edisi Awal: Gratis.                       |
-| Penerbitan awal Kartu Debit Pribadi BNI Taplus Muda: Rp25.000.             |
-| Penggantian Kartu Debit BNI Taplus Muda karena kehilangan/rusak: Rp25.000. |
-| Penutupan rekening: Rp 50.000.                                             |
-| Tunggakan Biaya Administrasi : Maksimal tunggakan 3X.                      |
-| Tunggakan Denda <Saldo Minimum: Maksimal tunggakan 3X.                     |
-| Tunggakan Biaya Pengurusan Kartu : Maksimal tunggakan 3X.                  |
+| Syarat                                                                                             | Biaya administrasi dan lainnya                                             |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Dari 15 sampai di bawah 17 tahun, belum menikah dan tanpa ID:                                      | Biaya administrasi: Rp 5.000.                                              |
+| Mengisi formulir pembukaan rekening yang juga ditandatangani oleh orang tua atau wali.             | Setoran Awal Minimum: Rp 100.000.                                          |
+| Melampirkan fotokopi akte kelahiran/kartu pelajar/paspor.                                          | Minimum Deposit: Rp 10.000.                                                |
+| Lampirkan fotokopi bukti identitas salah satu orang tua atau wali.                                 | Saldo minimal: Rp 50.000.                                                  |
+| Mengisi formulir pernyataan rekening elektronik.                                                   | Kartu Debit Umum BNI Taplus Muda Edisi Awal: Gratis.                       |
+| Pelanggan berusia 17-25 tahun atau 15-17 tahun yang sudah menikah dengan identitas diri            | Penerbitan awal Kartu Debit Pribadi BNI Taplus Muda: Rp25.000.             |
+| Mengisi formulir pembukaan rekening.                                                               | Penggantian Kartu Debit BNI Taplus Muda karena kehilangan/rusak: Rp25.000. |
+| Bawa bukti identitas asli dan lampirkan salinannya.                                                | Penutupan rekening: Rp 50.000.                                             |
+| Isi formulir informasi donatur jika pekerjaan klien adalah pelajar, pelajar atau ibu rumah tangga. | Tunggakan Biaya Administrasi : Maksimal tunggakan 3X.                      |
+| Mengisi formulir pernyataan rekening elektronik.                                                   | Tunggakan Denda < Saldo Minimum: Maksimal tunggakan 3X.                    |
+| Isi formulir layanan SMS (jika diperlukan).                                                        | Tunggakan Biaya Pengurusan Kartu : Maksimal tunggakan 3X.                  |
 
 ## 4. BNI Tappa
 
 BNI Tappa adalah produk tabungan BNI yang diperuntukan bagi pegawai perusahaan yang bekerjasama dengan BNI yang berfungsi sebagai kartu tabungan atau kartu tanda pengenal pegawai. Salah satu fasilitas dalam produk ini adalah dapat digunakan untuk memenuhi berbagai kebutuhan transaksi di seluruh jaringan BNI. Untuk biaya administrasi Bank BNI Tabungan Tappa, berikut selengkapnya.
 
-| Syarat dan Biaya Admin                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------- |
-| Tabungan pegawai diberikan kepada pegawai perusahaan yang bekerja sama dengan BNI yang diatur dalam Perjanjian Kerjasama (PKS). |
-| Lakukan setoran pertama Anda untuk membuka akun sesuai dengan PKS.                                                              |
-| Setoran selanjutnya minimal Rp 5.000.                                                                                           |
-| Pertahankan saldo minimum sesuai PKS.                                                                                           |
-| Biaya administrasi dan biaya lain-lain                                                                                          |
-| Biaya pengelolaan: Rp 3.000 per bulan.                                                                                          |
+### Syarat dan Biaya Admin
+
+- Tabungan pegawai diberikan kepada pegawai perusahaan yang bekerja sama dengan BNI yang diatur dalam Perjanjian Kerjasama (PKS).
+- Lakukan setoran pertama Anda untuk membuka akun sesuai dengan PKS.
+- Setoran selanjutnya minimal Rp 5.000.
+- Pertahankan saldo minimum sesuai PKS.
+- Biaya administrasi dan biaya lain-lain
+- Biaya pengelolaan: Rp 3.000 per bulan.
 
 ## 5. BNI Tapma
 
 BNI Taplus Siswa adalah tabungan khusus untuk mahasiswa yang bekerjasama dengan BNI, dan berfungsi untuk keperluan pembayaran SPP dan biaya lainnya. Dengan tabungan tersebut, nasabah atau pelajar akan memiliki kartu pelajar yang berfungsi sebagai kartu identitas untuk keperluan absensi, akses pintu, dan lain-lain. Untuk biaya administrasi Bank BNI Tabungan Tapma, berikut selengkapnya.
 
-| Syarat dan Biaya Admin                                                                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tabungan mahasiswa diberikan kepada mahasiswa perguruan tinggi yang bekerjasama dengan BNI sebagaimana diatur dalam Perjanjian Kerjasama (PKS) |
-| Lakukan setoran awal untuk membuka rekening sesuai PKS.                                                                                        |
-| Setoran selanjutnya minimal Rp 5.000.                                                                                                          |
-| Pertahankan saldo minimum sesuai PKS.                                                                                                          |
-| Biaya pengelolaan: Rp 1.000 per bulan.                                                                                                         |
+### Syarat dan Biaya Admin
+
+- Tabungan mahasiswa diberikan kepada mahasiswa perguruan tinggi yang bekerjasama dengan BNI sebagaimana diatur dalam Perjanjian Kerjasama (PKS)
+- Lakukan setoran awal untuk membuka rekening sesuai PKS.
+- Setoran selanjutnya minimal Rp 5.000.
+- Pertahankan saldo minimum sesuai PKS.
+- Biaya pengelolaan: Rp 1.000 per bulan.
 
 ## 6. BNI Haji
 
 Sesuai dengan namanya, tabungan haji BNI jenis ini diperuntukkan bagi calon nasabah untuk menyiapkan uang haji. Beberapa manfaat dari tabungan tersebut antara lain mempermudah penyiapan dana haji, bantuan perencanaan dana haji, dan mempermudah penyetoran dana melalui jaringan BNI. Untuk biaya administrasi Bank BNI Tabungan Haji, berikut selengkapnya.
 
-| Syarat dan Biaya Admin                                                          |
-| ------------------------------------------------------------------------------- |
-| Pembukaan rekening BNI Haji di seluruh cabang BNI sesuai dengan tempat tinggal. |
-| Lampirkan fotokopi KTP atau KTP Anda yang masih berlaku.                        |
-| Setoran awal minimum adalah Rp 500.000.                                         |
-| Setoran selanjutnya minimal Rp 5.000.                                           |
-| Manajemen akun gratis, biaya pembukaan dan penutupan.                           |
+### Syarat dan Biaya Admin
+
+- Pembukaan rekening BNI Haji di seluruh cabang BNI sesuai dengan tempat tinggal.
+- Lampirkan fotokopi KTP atau KTP Anda yang masih berlaku.
+- Setoran awal minimum adalah Rp 500.000.
+- Setoran selanjutnya minimal Rp 5.000.
+- Manajemen akun gratis, biaya pembukaan dan penutupan.
 
 ## 7. BNI Tapenas
 
@@ -149,11 +129,6 @@ BNI Tapenas adalah jenis tabungan untuk memudahkan perencanaan masa depan (Term 
 | Biaya pengelolaan/administrasi akun: Rp 18.000 per tahun atau USD 3 per tahun.                              |
 | Biaya Penutupan Rekening Sebelum Jatuh Tempo (PSJT): 1% dari saldo akhir (minimal Rp. 100.000 atau USD 10). |
 | Pajak: 20% dari bunga yang dibayarkan.                                                                      |
-
-**Terkait:**
-
-- [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
-- [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
 
 ## 8. BNI Taplus Anak
 
@@ -211,7 +186,7 @@ Produk tabungan BNI sebagai media transaksi giro. Beberapa kemudahan tabungan je
 | Biaya penutupan rekening: Rp25.000.                            |
 | Biaya penggantian kartu: Rp 15.000                             |
 | Tunggakan Biaya Administrasi : Maksimal tunggakan 3X.          |
-| Tunggakan Denda <Saldo Minimum: Maksimal tunggakan 3X.         |
+| Tunggakan Denda < Saldo Minimum: Maksimal tunggakan 3X.        |
 | Tunggakan biaya pengurusan kartu: maksimal Rp 10.000.          |
 
 ## 12. BNI Dollar

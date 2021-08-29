@@ -40,11 +40,11 @@ Berapa jumlah setoran awal untuk membuka rekening tabungan Mandiri? Ini adalah p
 
 Anda juga perlu mengetahui biaya tabungan Mandiri reguler. mengapa demikian? Jadi Anda tahu berapa biaya setiap bentuk transaksi di rekening tabungan Anda. Berikut beberapa biaya yang harus Anda keluarkan saat menjadi nasabah Tabungan Mandiri:
 
-* Biaya administrasi Bank Mandiri ; Biaya Administrasi Untuk jenis tabungan mandiri biaya Rp. 12500 per bulan.
-* Saldo akun denda dan negatif minimum. Jika saldo di rekening Anda kurang dari minimum, Anda akan dikenakan denda sebesar Rp 5.000 per bulan. Dan jika akun Anda langka atau bahkan tidak digunakan untuk transaksi, akan dikenakan biaya sebesar Rp 5.000 juga.
-* Biaya penutupan rekening. Jika ingin menutup akun akan dikenakan biaya Rp 50.000
-* Penggantian buku besar akun. Penggantian buku tabungan dibagi menjadi 3 kategori, yaitu penggantian pembukaan rekening secara penuh tanpa dipungut biaya, dan penggantian buku rekening yang rusak dikenakan biaya sebesar Rp. 5.000, dan penggantian buku rekening yang hilang dikenakan biaya sebesar Rp. 15.000.
-* Biaya penarikan tunai. Biaya tarik tunai Mandiri Tabungan akan dikenakan jika Anda melakukan penarikan tunai dari cabang yang berbeda, biaya melalui teller adalah Rp 2.500. Sementara itu, jika Anda menarik uang tunai kurang dari Rp10 juta, Anda akan dikenakan biaya Rp10.000.
+- Biaya administrasi Bank Mandiri ; Biaya Administrasi Untuk jenis tabungan mandiri biaya Rp. 12500 per bulan.
+- Saldo akun denda dan negatif minimum. Jika saldo di rekening Anda kurang dari minimum, Anda akan dikenakan denda sebesar Rp 5.000 per bulan. Dan jika akun Anda langka atau bahkan tidak digunakan untuk transaksi, akan dikenakan biaya sebesar Rp 5.000 juga.
+- Biaya penutupan rekening. Jika ingin menutup akun akan dikenakan biaya Rp 50.000
+- Penggantian buku besar akun. Penggantian buku tabungan dibagi menjadi 3 kategori, yaitu penggantian pembukaan rekening secara penuh tanpa dipungut biaya, dan penggantian buku rekening yang rusak dikenakan biaya sebesar Rp. 5.000, dan penggantian buku rekening yang hilang dikenakan biaya sebesar Rp. 15.000.
+- Biaya penarikan tunai. Biaya tarik tunai Mandiri Tabungan akan dikenakan jika Anda melakukan penarikan tunai dari cabang yang berbeda, biaya melalui teller adalah Rp 2.500. Sementara itu, jika Anda menarik uang tunai kurang dari Rp10 juta, Anda akan dikenakan biaya Rp10.000.
 
 ### Bunga
 
@@ -52,11 +52,7 @@ Anda juga perlu mengetahui manfaat menabung di Mandiri. Karena bunga tabungan pa
 
 Misalnya, nominal 1 crore - di bawah 500 juta rupee dikenakan tingkat bunga 0,25%, nominal 500 juta rupiah hingga 1 crore dengan tingkat bunga 1,00%, dan nominal di atas 1 crore menghasilkan tingkat bunga 1,50%.
 
-**Terkait:**
-
-* [**10 Daftar ATM yang tidak ada Potongan Tiap Bulan**](https://www.emakbloger.com/atm-yang-tidak-ada-potongan-tiap-bulan/08092021/)
-* [**Cara dan Syarat Bikin ATM TabunganKu BNI**](https://www.emakbloger.com/atm-tabunganku-bni/08092021/)
-* [**Biaya Membuat Kartu ATM BNI, Syarat, dan Jenis Tabungan**](https://www.emakbloger.com/biaya-membuat-atm-bni/08072021/)
+{{< read judul="Biaya Administrasi Rekening Tabungan BNI Taplus" link="/biaya-administrasi-bni-taplus/08122021/" gambar="/wp-image/biaya-administrasi-bni-taplus-2021-08-11.jpg" >}}
 
 ## 2. Tabungan Rencana Mandiri
 
@@ -72,10 +68,10 @@ Persyaratan tabungan untuk paket mandiri ini juga tidak rumit. Anda harus berusi
 
 Jenis tabungan mandiri rencana juga memiliki biaya yang dibebankan oleh Anda sebagai nasabah untuk jenis tabungan mandiri ini. Keuntungan dari jenis tabungan mandiri rencana adalah tidak ada biaya pengelolaan setiap bulannya. Berikut adalah beberapa penghematan biaya yang direncanakan sendiri untuk diketahui:
 
-* Biaya administrasi Bank Mandiri dari segi penarikan dana otomatis gagal karena saldo tidak mencukupi. Jika rekening penarikan otomatis tidak mencukupi, nasabah akan dikenakan biaya Rp 5.000 per transaksi.
-* Denda biaya penutupan rekening sebelum tanggal jatuh tempo. Jika Anda menutup akun Anda pada saat jatuh tempo, tidak ada biaya, sedangkan dikenakan untuk menutup akun Anda sebelum jatuh tempo 150.000. Selain itu, Anda juga akan dikenakan biaya penutupan rekening sebelum jatuh tempo sebesar Rp 5.000.
-* Biaya penarikan selama jangka waktu perjanjian. Jika Anda ingin melakukan penarikan selama periode perjanjian, Anda akan dikenakan biaya sebesar 0,50% dari jumlah nominal, biasanya maksimal Rp 100.000.
-* Biaya pengajuan giro, dikenakan biaya Rp 2.500 per saham.
+- Biaya administrasi Bank Mandiri dari segi penarikan dana otomatis gagal karena saldo tidak mencukupi. Jika rekening penarikan otomatis tidak mencukupi, nasabah akan dikenakan biaya Rp 5.000 per transaksi.
+- Denda biaya penutupan rekening sebelum tanggal jatuh tempo. Jika Anda menutup akun Anda pada saat jatuh tempo, tidak ada biaya, sedangkan dikenakan untuk menutup akun Anda sebelum jatuh tempo 150.000. Selain itu, Anda juga akan dikenakan biaya penutupan rekening sebelum jatuh tempo sebesar Rp 5.000.
+- Biaya penarikan selama jangka waktu perjanjian. Jika Anda ingin melakukan penarikan selama periode perjanjian, Anda akan dikenakan biaya sebesar 0,50% dari jumlah nominal, biasanya maksimal Rp 100.000.
+- Biaya pengajuan giro, dikenakan biaya Rp 2.500 per saham.
 
 ### Bunga
 
@@ -95,6 +91,8 @@ Persyaratan pembuatan tabungan haji mandiri sangat mudah. Cukup bawa KTP atau SI
 
 Biaya administrasi Bank Mandiri jenis tabungan rencana haji atau umroh tidak signifikan. Misalnya, jenis tabungan syariah-independen membebaskan biaya administrasi. Hanya saja jika buku besar rusak Rp 5.000 dan Rp 15.000 untuk buku tabungan hilang. Biaya penutupan akun juga dibebaskan.
 
+{{< read judul="BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal" link="/bni-taplus/08032021/" gambar="/wp-image/jenis-tabungan-bni-taplus-2021-08-03.jpg" >}}
+
 ## 4. Tabungan Bisnis Mandiri
 
 Jenis tabungan mandiri selanjutnya adalah tabungan bisnis Mandiri. Seperti namanya, tabungan bisnis mandiri ini bisa membantu memenuhi kebutuhan finansial bisnis Anda. Lalu apa yang membedakan tabungan bisnis mandiri ini dengan jenis tabungan mandiri lainnya?
@@ -109,11 +107,11 @@ Juga, jangan lupa izin usaha atau komersial. Selanjutnya, khusus untuk usaha non
 
 ### Biaya
 
-Seperti jenis tabungan mandiri lainnya, ada juga biaya administrasi Bank Mandiri untuk jenis tabungan bisnis yang perlua anda persiapakan,  contohnya sebagai berikut:
+Seperti jenis tabungan mandiri lainnya, ada juga biaya administrasi Bank Mandiri untuk jenis tabungan bisnis yang perlua anda persiapakan, contohnya sebagai berikut:
 
-* biaya administrasi Tabungan mandiri bisnis: Dikenakan biaya administrasi sebesar Rp 12.500 per bulan. Kemudian ada biaya admin dengan saldo kurang dari Rp. 10 juta rupiah. 25 ribu.
-* Biaya penutupan akun dan akun negatif. Dikenakan biaya penutupan rekening sebesar Rp 50.000, sedangkan jika rekening tabungan trading Anda tidak aktif atau tidak terpakai, Anda akan dikenakan biaya Rp 25.000 per bulan.
-* Biaya penggantian buku. Setiap penggantian buku benar-benar gratis. Namun, penggantian buku yang rusak dikenakan biaya Rp. 5000 dan penggantian buku yang hilang dikenakan biaya Rp. 15.000 di cabang manajemen, tetapi di cabang pelaksana biaya dibebaskan.
+- biaya administrasi Tabungan mandiri bisnis: Dikenakan biaya administrasi sebesar Rp 12.500 per bulan. Kemudian ada biaya admin dengan saldo kurang dari Rp. 10 juta rupiah. 25 ribu.
+- Biaya penutupan akun dan akun negatif. Dikenakan biaya penutupan rekening sebesar Rp 50.000, sedangkan jika rekening tabungan trading Anda tidak aktif atau tidak terpakai, Anda akan dikenakan biaya Rp 25.000 per bulan.
+- Biaya penggantian buku. Setiap penggantian buku benar-benar gratis. Namun, penggantian buku yang rusak dikenakan biaya Rp. 5000 dan penggantian buku yang hilang dikenakan biaya Rp. 15.000 di cabang manajemen, tetapi di cabang pelaksana biaya dibebaskan.
 
 ### Bunga
 
@@ -131,9 +129,9 @@ Dengan fitur tabungan TKI Mandiri, Anda secara otomatis telah mengikuti program 
 
 Syarat membuka tabungan TKI Mandiri adalah dengan melengkapi beberapa berkas sebagai berikut:
 
-* KTP calon TKI
-* Surat keterangan dari lembaga pengiriman TKI, seperti P3MI, BP2MI, BP3TKI, Depnaker, dll)
-* KTP keluarga TKI, Kartu Keluarga, atau buku nikah calok TKI.
+- KTP calon TKI
+- Surat keterangan dari lembaga pengiriman TKI, seperti P3MI, BP2MI, BP3TKI, Depnaker, dll)
+- KTP keluarga TKI, Kartu Keluarga, atau buku nikah calok TKI.
 
 ### Biaya
 
@@ -142,6 +140,8 @@ Biaya rekening tabungan mandiri ini sangat kecil. Biaya administrasi Bank Mandir
 ### Bunga
 
 Suku bunga tabungan Mandiri juga relatif kecil. Nominal Rp1 juta sampai kurang dari Rp500 juta, tingkat bunganya hanya 0,15%, sedangkan tingkat bunga nominal Rp500 juta sampai kurang dari Rp1 miliar adalah 0,60%, dan nominal bunga di atas Rp1 miliar adalah 1,25% .
+
+{{< read judul="Yuk Pahami Jenis & Macam Macam Tabungan BNI" link="/macam-macam-tabungan-bni/08012021/" gambar="/wp-image/macam-macam-tabungan-bni-2021-08-01.jpg" >}}
 
 ## 6. TabunganKu Mandiri
 
@@ -155,16 +155,10 @@ Persyaratan TabunganKu Mandiri sangat mudah. Bahkan jenis tabungan Mandiri ini b
 
 Hal yang menarik dari biaya administrasi Bank Mandiri Jenis rekening Tabunganku adalah bebas biaya pengelolaan bulanan. Namun, masih ada biaya lain, sebagai berikut:
 
-* Biaya penutupan rekening. Jika Anda ingin menutup rekening TabunganKu ini, dikenakan biaya sebesar Rp. 20.000. Selain itu, ada juga biaya akun negatif sebesar Rp 2.000.
-* Biaya penarikan tunai dan non tunai. Biaya penarikan tunai dan non tunai adalah Rp 5.000 per transaksi.
-* Biaya penggantian kartu. Jika kartu habis dan Anda ingin menggantinya, akan dikenakan biaya sebesar Rs. 15.000.
-* Biaya Penerbitan Ulang PIN. PIN ini biasanya diterbitkan kembali kepada orang yang telah memblokir ATM dan ingin membukanya kembali. Biayanya Rp. 5000.
-
-**Terkait:**
-
-* [**Biaya administrasi Bank BNI untuk Semua Jenis Tabungan**](https://www.emakbloger.com/biaya-administrasi-bank-bni/08062021/)
-* [**Setoran awal Tabungan BNI untuk Semua Jenis**](https://www.emakbloger.com/setoran-awal-bni/08052021/)
-* [**BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal**](https://www.emakbloger.com/bni-taplus/08032021/)
+- Biaya penutupan rekening. Jika Anda ingin menutup rekening TabunganKu ini, dikenakan biaya sebesar Rp. 20.000. Selain itu, ada juga biaya akun negatif sebesar Rp 2.000.
+- Biaya penarikan tunai dan non tunai. Biaya penarikan tunai dan non tunai adalah Rp 5.000 per transaksi.
+- Biaya penggantian kartu. Jika kartu habis dan Anda ingin menggantinya, akan dikenakan biaya sebesar Rs. 15.000.
+- Biaya Penerbitan Ulang PIN. PIN ini biasanya diterbitkan kembali kepada orang yang telah memblokir ATM dan ingin membukanya kembali. Biayanya Rp. 5000.
 
 ## 7. Tabungan Mandiri Valas
 
@@ -181,14 +175,16 @@ Klaim tabungan valas mandiri dapat dibuka atas nama dua orang secara bersamaan, 
 Biaya administrasi Bank Mandiri dan setoran awal tabungan Mandiri Valas tergantung jenis mata uang yang Anda inginkan. Contoh jenis mata uang adalah USD, setoran awal adalah USD 100 dan biaya pengelolaan bulanan sebesar USD 1 akan dikenakan. Kemudian Anda dapat melihat tabel di bawah ini untuk jenis mata uang asing dan biaya manajemen bulanan lainnya:
 
 | Jenis Valuta | Setoran Awal | Biaya Admin per Bulan |
-| --- | --- | --- |
-| SGD | SGD200 | SGD2 |
-| JPY | JPY10.000 | JPY100 |
-| EUR | EUR100 | EUR1 |
-| CHF | CHF100 | CHF1 |
-| GBP | GBP100 | GBP1 |
-| AUD | AUD100 | AUD1 |
-| HKD | HKD500 | HKD5 |
+| ------------ | ------------ | --------------------- |
+| SGD          | SGD200       | SGD2                  |
+| JPY          | JPY10.000    | JPY100                |
+| EUR          | EUR100       | EUR1                  |
+| CHF          | CHF100       | CHF1                  |
+| GBP          | GBP100       | GBP1                  |
+| AUD          | AUD100       | AUD1                  |
+| HKD          | HKD500       | HKD5                  |
+
+{{< read judul="Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!" link="/aktivasi-mobile-banking-bni-gagal-terus/08012021/" gambar="/wp-image/aktivasi-mobile-banking-bni-gagal-terus-2021-08-01.jpg" >}}
 
 ## 8. TabunganMu
 
@@ -206,11 +202,11 @@ Jika Anda membuka rekening tabungan di luar zona KTP, Anda perlu melampirkan ber
 
 Ada biaya administrasi Bank Mandiri yang perlu Anda perhatikan sebagai calon pelanggan untuk jenis tabungan yang satu ini, antara lain:
 
-* Saldo terakhir setiap akhir bulan minimal Rp 1.000.000. Jika saldo tidak sesuai dengan ketentuan bank ini, Anda akan dikenakan denda sebesar Rp. 5000.
-* Biaya administrasi bulanan dibagi menjadi dua jenis, yaitu:
-* Biaya administrasi rekening tabungan mitra bisnis bulanan sebesar Rp. 1500
-* Biaya administrasi kartu debit mitra bisnis bulanan Rp 1.000
-* Limit transaksi kartu debit mitra bisnis melalui mesin setor tunai adalah Rp 15 juta per hari.
+- Saldo terakhir setiap akhir bulan minimal Rp 1.000.000. Jika saldo tidak sesuai dengan ketentuan bank ini, Anda akan dikenakan denda sebesar Rp. 5000.
+- Biaya administrasi bulanan dibagi menjadi dua jenis, yaitu:
+- Biaya administrasi rekening tabungan mitra bisnis bulanan sebesar Rp. 1500
+- Biaya administrasi kartu debit mitra bisnis bulanan Rp 1.000
+- Limit transaksi kartu debit mitra bisnis melalui mesin setor tunai adalah Rp 15 juta per hari.
 
 ### Bunga
 
@@ -234,14 +230,16 @@ Jenis tabungan mandiri yang terakhir adalah Mandiri Tabungan Investor (MTI). Jen
 
 Nasabah tabungan ini tidak akan mendapatkan buku tabungan atau kartu ATM seperti jenis tabungan mandiri lainnya. Sebagai gantinya, nasabah akan mendapatkan fasilitas SMS banking dan codeless online banking.
 
+{{< read judul="Biaya administrasi Bank BNI untuk Semua Jenis Tabungan" link="/biaya-administrasi-bank-bni/08062021/" gambar="/wp-image/biaya-administrasi-bank-bni-untuk-semua-jenis-tabungan-2021-08-05.jpg" >}}
+
 ## Syarat
 
 Persyaratan pembukaan rekening tabungan tersendiri bagi investor adalah sebagai berikut:
 
-* Fotokopi KTP, seperti KTP bagi WNI.
-* Calon klien harus memiliki satu SID atau identitas investor.
-* Memiliki sub-rekening untuk sekuritas di Bursa Efek Kuwait
-* Lengkapi Formulir Pembukaan Akun Klien MTI
+- Fotokopi KTP, seperti KTP bagi WNI.
+- Calon klien harus memiliki satu SID atau identitas investor.
+- Memiliki sub-rekening untuk sekuritas di Bursa Efek Kuwait
+- Lengkapi Formulir Pembukaan Akun Klien MTI
 
 ### Biaya
 
@@ -251,12 +249,12 @@ Keuntungan lain dari jenis tabungan ini, Anda tidak akan dikenakan biaya adminis
 
 Tingkat bunga simpanan investor ini dapat dilihat pada tabel di bawah ini:
 
-| Nominal | Suku bunga % |
-| --- | --- |
-| 0 – < Rp1 Juta | 0.00 |
-| Rp1 Juta – < Rp50 Juta | 0.80 |
-| Rp50 Juta – <500 Juta | 1.05 |
-| Rp500 Juta – <Rp1 Miliar | 1.40 |
-| >Rp1 Miliar | 2.15 |
+| Nominal                   | Suku bunga % |
+| ------------------------- | ------------ |
+| 0 – < Rp1 Juta            | 0.00         |
+| Rp1 Juta – < Rp50 Juta    | 0.80         |
+| Rp50 Juta – < 500 Juta    | 1.05         |
+| Rp500 Juta – < Rp1 Miliar | 1.40         |
+| >Rp1 Miliar               | 2.15         |
 
 Jenis-jenis tabungan mandiri dan biaya administrasi Bank Mandiri dijelaskan dengan detail yang jelas, sehingga Anda tidak perlu lagi bingung memilih yang mana. Bahkan dalam 10 jenis tabungan mandiri di atas, juga disajikan keunggulan masing-masing jenis tabungan. Sesuaikan kebutuhan tabungan Anda di bank Mandiri.

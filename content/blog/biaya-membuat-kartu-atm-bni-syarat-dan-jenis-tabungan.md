@@ -22,12 +22,6 @@ Perlu diketahui bahwa BNI juga membuat ketentuan mengenai biaya atau tarif pembu
 
 Nah, pada kesempatan kali ini kami akan menjelaskan secara lengkap biaya membuat ATM BNI, mulai dari setoran awal dan biaya penerbitan kartu hingga diskon bulanan. Tanpa basa-basi lagi, langsung saja simak pembahasannya di bawah ini.
 
-**Terkait:**
-
-- [**Biaya administrasi Bank BNI untuk Semua Jenis Tabungan**](https://www.emakbloger.com/biaya-administrasi-bank-bni/08062021/)
-- [**Setoran awal Tabungan BNI untuk Semua Jenis**](https://www.emakbloger.com/setoran-awal-bni/08052021/)
-- [**BNI Taplus: Jenis, Syarat, Biaya Admin dan Saldo Minimal**](https://www.emakbloger.com/bni-taplus/08032021/)
-
 ## Jenis Kartu ATM BNI
 
 Sebelum membahas biaya membuat ATM BNI, ada baiknya mengetahui jenis-jenisnya terlebih dahulu. Sebagaimana dijelaskan di atas, setiap nasabah yang membuka rekening tabungan di Bank BNI akan mendapatkan fasilitas kartu ATM.
@@ -41,6 +35,8 @@ Sebelum membahas biaya membuat ATM BNI, ada baiknya mengetahui jenis-jenisnya te
 - ATM BNI SimPel
 - ATM BNI Pandai
 - ATM BNI Dollar
+
+{{< read judul="Biaya administrasi Bank BNI untuk Semua Jenis Tabungan" link="/biaya-administrasi-bank-bni/08062021/" gambar="/wp-image/biaya-administrasi-bank-bni-untuk-semua-jenis-tabungan-2021-08-05.jpg" >}}
 
 ## Biaya Bikin ATM BNI
 
@@ -92,15 +88,11 @@ Setelah mengetahui jenis-jenisnya, selanjutnya anda juga harus mengerti berapa b
 
 Selain biaya setoran awal, biaya penerbitan dan biaya administrasi bulanan untuk ATM BNI, nasabah juga diwajibkan untuk menyiapkan biaya penggantian materai. Saat ini, besaran penggantian bea meterai saat membuka ATM BNI sekitar Rp. 10.500.
 
+{{< read judul="Cara dan Syarat Bikin ATM TabunganKu BNI" link="/atm-tabunganku-bni/08092021/" gambar="/wp-image/atm-tabunganku-bni-2021-08-08.jpg" >}}
+
 ### Biaya Lainnya
 
 Bank BNI juga memiliki fitur tambahan seperti e-banking hingga mobile banking. Jika nasabah melakukan aktivasi BNI e-Banking, nasabah membutuhkan fitur tambahan seperti BNI e-Secure (token). Untuk mendapatkan alat tersebut, pelanggan perlu menyiapkan biaya mulai dari Rp. Dari 20.000 hingga Rp. 40.000.
-
-**Terkait:**
-
-- [**Aktivasi Mobile Banking BNI Gagal Terus: Begini Cara Mengatasinya!**](https://www.emakbloger.com/aktivasi-mobile-banking-bni-gagal-terus/08012021/)
-- [**Tabunganku BNI: Keuntungan, Bunga, & Cara Buka Rekening**](https://www.emakbloger.com/07232021/tabunganku-bni/)
-- [**Yuk Pahami Jenis & Macam Macam Tabungan BNI**](https://www.emakbloger.com/macam-macam-tabungan-bni/08012021/)
 
 ## Cara Bikin ATM BNI Online
 
@@ -128,6 +120,8 @@ Jika Anda masih bingung dengan biaya membuat ATM BNI, Anda juga bisa menanyakan 
 | Twitter :  | @BNI                   |
 | Facebook : | @BNI                   |
 | Website :  | https://www.bni.co.id/ |
+
+{{< read judul="Biaya Administrasi Rekening Tabungan BNI Taplus" link="/biaya-administrasi-bni-taplus/08122021/" gambar="/wp-image/biaya-administrasi-bni-taplus-2021-08-11.jpg" >}}
 
 ## Kesimpulan
 
