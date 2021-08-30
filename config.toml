@@ -45,12 +45,12 @@ paginate = 8
 [menu]
 # MENU NAVBAR
   [[menu.navbar]]
-  name = "Tentang"
+  name = "Tentang Kami"
   url = "/tentang"
   weight = 1
 
   [[menu.navbar]]
-  name = "Privasi"
+  name = "Privacy Policy"
   url = "/privasi"
   weight = 2
 

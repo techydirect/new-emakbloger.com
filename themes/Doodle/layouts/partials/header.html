@@ -21,11 +21,24 @@
         <nav class="mvp-fly-nav-menu left relative">
             <div class="menu-side-menu-new-container">
                 <ul id="menu-side-menu-new" class="menu">
+                    <h6 style="font-size: 20px; 
+                    font-family: 'Pt serif', serif;
+                    padding-bottom: 3px;
+                    margin-top: 10px;">Kategori</h6><hr>
                     {{ range $name, $items := .Site.Taxonomies.categories }}
                     <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-30635">
                         <a href="{{ printf "%s/%s" "categories" ($name | urlize | lower) | absURL }}">
                             {{ $name | humanize | title }}
                         </a>
+                    </li>
+                    {{ end }}
+                    <h6 style="font-size: 20px; 
+                    font-family: 'Pt serif', serif;
+                    padding-bottom: 3px;
+                    margin-top: 10px;">Halaman</h6><hr>
+                    {{ range .Site.Menus.navbar }}
+                    <li class="menu-item menu-item-type-custom">
+                        <a href="{{ .URL }}">{{ .Name }}</a>
                     </li>
                     {{ end }}
                 </ul>
@@ -149,9 +162,11 @@
                                                         <div class="mvp-nav-menu left">
                                                             <div class="menu-main-menu-new-container">
                                                                 <ul id="menu-main-menu-new" class="menu">
-                                                                    {{ range .Site.Menus.navbar }}
+                                                                    {{ range $name, $items := .Site.Taxonomies.categories }}
                                                                     <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-30629">
-                                                                        <a href="{{ .URL }}">{{ .Name }}</a>
+                                                                        <a href="{{ printf "%s/%s" "categories" ($name | urlize | lower) | absURL }}">
+                                                                            {{ $name | humanize | title }}
+                                                                        </a>
                                                                     </li>
                                                                     {{ end }}
                                                                 </ul>
