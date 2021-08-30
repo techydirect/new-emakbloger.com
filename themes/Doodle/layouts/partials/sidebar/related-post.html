@@ -1,8 +1,7 @@
-
-{{ if (isset .Params.related "true") }}
+{{ $terkait := .Params.Related }}
 {{ $related := .Site.RegularPages.RelatedIndices . "categories" | first 4 }}
 {{ with $related }}
-<div id="mvp-post-more-wrap" class="left relative">
+<div id="mvp-post-more-wrap" class="left relative" style="display: {{$terkait}};">
     <h3 class="mvp-widget-home-title">
         <span class="mvp-widget-home-title">Terkait</span>
     </h3>
@@ -26,37 +25,4 @@
         {{ end }}
     </ul>
 </div>
-{{ end }}
-{{ else if (isset .Params.sidebar "false") }}
-
-{{ else }}
-
-{{ $related := .Site.RegularPages.RelatedIndices . "categories" | first 4 }}
-{{ with $related }}
-<div id="mvp-post-more-wrap" class="left relative">
-    <h3 class="mvp-widget-home-title">
-        <span class="mvp-widget-home-title">Terkait</span>
-    </h3>
-    <ul style="box-sizing: border-box;" class="mvp-post-more-list left relative">
-        {{ range . }}
-        <a href="{{ .Permalink }}" rel="bookmark">
-            <li>
-                <div class="mvp-post-more-img left relative">
-                    <img style="width: 100%; height: 150px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="mvp-reg-img wp-post-image lazy" alt="{{ .Title }}"/>
-                    <img style="width: 100%; height: 80px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="mvp-mob-img wp-post-image lazy" alt="{{ .Title }}"/>
-                </div>
-                <div class="mvp-post-more-text left relative">
-                    <div class="mvp-cat-date-wrap left relative">
-                        <span class="mvp-cd-cat left relative">{{ .Params.Categories }}</span>
-                        <span class="mvp-cd-date left relative">{{ .Date.Format "January, 2006" }}</span>
-                    </div>
-                    <h4>{{ .Title }}</h4>
-                </div>
-            </li>
-        </a>
-        {{ end }}
-    </ul>
-</div>
-{{ end }}
-
 {{ end }}

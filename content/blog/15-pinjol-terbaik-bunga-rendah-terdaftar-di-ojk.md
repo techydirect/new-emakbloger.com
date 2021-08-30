@@ -11,6 +11,7 @@ tags = []
 title = "15 Pinjol Terbaik Bunga Rendah Terdaftar di OJK"
 
 +++
+
 [**Emakbloger.com**](/) - Pinjaman online terbaik harus memenuhi beberapa karakteristik khusus sebagai ciri khas perusahaan fintech yang handal. Pinjol bunga rendah OJK atau disebut juga dengan pinjaman terpercaya menjadi solusi bagi Anda yang membutuhkan bantuan dana cepat.
 
 Cara pendaftaran pinjaman yang mudah dan pencairan yang cepat menjadikan layanan keuangan ini menjadi andalan masyarakat. Namun, perlu diingat bahwa untuk mendapatkan aplikasi pinjaman online bunga rendah terbaik yang sesuai dengan kebutuhan Anda, pastikan perusahaan fintech pilihan Anda menawarkan bunga pinjaman yang lebih rendah.
@@ -37,12 +38,12 @@ Untuk mengajukan pinjaman, cukup unduh aplikasi pinjaman online terpercaya bunga
 
 Adapun beberapa fitur yang ditawarkan oleh Kredit Pintar, yaitu sebagai berikut:
 
-* Pinjaman hingga Rp2,3 juta
-* Tenor pinjaman dari 60 sampai 90 hari.
-* Proses pencairan dana pinjaman di Kredit Pintar sangat mudah.
-* biaya layanan sebesar 10-15 persen dari total pinjaman.
-* Biaya keterlambatan: 1 persen/hari.
-* Proses pelunasan dan pembayaran cicilan yang mudah bisa dilakukan via transfer lewat ATM, M-Banking, BluePay dan di semua cabang Alfa Group.
+- Pinjaman hingga Rp2,3 juta
+- Tenor pinjaman dari 60 sampai 90 hari.
+- Proses pencairan dana pinjaman di Kredit Pintar sangat mudah.
+- biaya layanan sebesar 10-15 persen dari total pinjaman.
+- Biaya keterlambatan: 1 persen/hari.
+- Proses pelunasan dan pembayaran cicilan yang mudah bisa dilakukan via transfer lewat ATM, M-Banking, BluePay dan di semua cabang Alfa Group.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -50,9 +51,9 @@ Adapun beberapa fitur yang ditawarkan oleh Kredit Pintar, yaitu sebagai berikut:
 
 Sebagai penyedia aplikasi pinjol bunga rendah terpercaya, tentu Kredit Pintar memiliki alamat kantor dan kontak yang lengkap. Detail alamat dan kontak Kredit Pintar sebagai berikut:
 
-* Lokasi gedung: District 8 Treasury Tower lt 53, Sudirman Central Business District (SCBD) Lot 28. Jl. Jend Sudirman Kav 52-54, Senayan, Kebayoran Baru Jakarta Selatan 12190
-* Telepon: (021) 50598882
-* Email: cs@kreditpintar.com
+- Lokasi gedung: District 8 Treasury Tower lt 53, Sudirman Central Business District (SCBD) Lot 28. Jl. Jend Sudirman Kav 52-54, Senayan, Kebayoran Baru Jakarta Selatan 12190
+- Telepon: (021) 50598882
+- Email: cs@kreditpintar.com
 
 ### 2. CashWagon
 
@@ -66,10 +67,10 @@ Untuk ajukan pinjam di aplikasi pinjaman online bunga ringan Cashwagon, cukup un
 
 Lalu, apa saja fitur yang ditawarkan pinjol resmi ojk bunga rendah Cashwagon tersebut? simak selengkapnya dibawah ini:
 
-* Plafon pinjaman hingga Rp5 juta.
-* Tenor hingga 180 hari.
-* Pencairan dalam 7 menit.
-* Bunga pinjaman 1 persen per hari.
+- Plafon pinjaman hingga Rp5 juta.
+- Tenor hingga 180 hari.
+- Pencairan dalam 7 menit.
+- Bunga pinjaman 1 persen per hari.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=ph.cashwagon.mobile&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -77,9 +78,9 @@ Lalu, apa saja fitur yang ditawarkan pinjol resmi ojk bunga rendah Cashwagon ter
 
 Anda tidak perlu ragu untuk mengajukan pinjaman pada Cashwagon karena pinjaman online tersebut sudah memiliki izin dari ojk dan pastinya memiliki alamat dan detail kontak yang jelas.
 
-* Lokasi gedung: Oleos 2 Building Jl. Kebagusan Jakarta 12520
-* Telepon: (021) 40337979
-* Email: customercare@cashwagon.id
+- Lokasi gedung: Oleos 2 Building Jl. Kebagusan Jakarta 12520
+- Telepon: (021) 40337979
+- Email: customercare@cashwagon.id
 
 ### 3. DanaBijak
 
@@ -93,11 +94,11 @@ Untuk mengajukan pinjaman di aplikasi pinjaman online tercepat DanaBijak, Anda h
 
 Bukan hanya itu saja, adapun beberapa fitur yang ditawarkan oleh DanaBijak yakni sebagai berikut:
 
-* Jumlah maksimum pinjaman awal Rp3 juta.
-* Tenor pinjaman 7 sampai 30 hari.
-* Bunga 7 persen.
-* Waktu pemrosesan pinjaman 48 jam.
-* Dana dicairkan pada hari yang sama dengan hari persetujuan permohonan pinjaman.
+- Jumlah maksimum pinjaman awal Rp3 juta.
+- Tenor pinjaman 7 sampai 30 hari.
+- Bunga 7 persen.
+- Waktu pemrosesan pinjaman 48 jam.
+- Dana dicairkan pada hari yang sama dengan hari persetujuan permohonan pinjaman.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.danabijak2.mobile&hl=in&gl=US" text="Instal Aplikasi" >}}
 
@@ -105,9 +106,9 @@ Bukan hanya itu saja, adapun beberapa fitur yang ditawarkan oleh DanaBijak yakni
 
 Memiliki izin di OJK dan dapat dikatakan sebagai pinjaman online terbaik, DanaBijak tidak perlu anda ragukan lagi untuk mengajukan pinjaman. DanaBijak memiliki alamat dan kontak sebagai berikut:
 
-* Alamat gedung: CoHive 101, Lt. 7, Jl. Mega Kuningan Barat Jl. DR. Ide Anak Agung Gde Agung No.1, RT.5/RW.2, Kuningan, Jakarta Selatan 12950
-* Telepon: +6221 3049 6181
-* Email: support@danabijak.com
+- Alamat gedung: CoHive 101, Lt. 7, Jl. Mega Kuningan Barat Jl. DR. Ide Anak Agung Gde Agung No.1, RT.5/RW.2, Kuningan, Jakarta Selatan 12950
+- Telepon: +6221 3049 6181
+- Email: support@danabijak.com
 
 ### 4. Dompet Kilat
 
@@ -121,10 +122,10 @@ Bagi yang berusia minimal 18 tahun, memiliki KTP dan memberikan bukti penghasila
 
 Sebagai pinjaman online yang sudah terpercaya, tentu Dompet Kilat memiliki fitur unggulan yang ditawarkannya. Selengkapnya sebagai berikut:
 
-* Plafon pinjaman hingga Rp2 juta.
-* Tenor pinjaman sampai 30 hari.
-* Pencairan dana kilat, kurang dari 10 menit.
-* Bunga kompetitif yaitu 0,1% per hari.
+- Plafon pinjaman hingga Rp2 juta.
+- Tenor pinjaman sampai 30 hari.
+- Pencairan dana kilat, kurang dari 10 menit.
+- Bunga kompetitif yaitu 0,1% per hari.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dompetkilat&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -132,9 +133,9 @@ Sebagai pinjaman online yang sudah terpercaya, tentu Dompet Kilat memiliki fitur
 
 Nah, untuk detai alamat dan kontak dari layanan aplikasi pinjaman online bunga rendah Dompet Kilat, berikut detai lengkapnya.
 
-* Lokasi gedung: Indosurya Plaza, Penthouse Floor, Jalan M.H. Thamrin Kav 8-9, Jakarta 10230.
-* Telepon: (021) 400-00855
-* Email: hello@dompetkilat.co.id
+- Lokasi gedung: Indosurya Plaza, Penthouse Floor, Jalan M.H. Thamrin Kav 8-9, Jakarta 10230.
+- Telepon: (021) 400-00855
+- Email: hello@dompetkilat.co.id
 
 ### 5. Uang Teman
 
@@ -148,9 +149,9 @@ Di UangTeman, Anda dapat mengajukan pinjaman kapan saja dengan mengunduh aplikas
 
 Untuk UangTeman, adapaun beberapa fitur yang ditawarkan aplikasi pinjaman online langsung cair ini. Anda dapat menyimaknya sebagai berikut:
 
-* Jumlah pinjaman maksimal Rp3 juta untuk Sekali Bayar, Rp5-20 juta untuk Cicilan, dan Rp3,5-10 juta untuk cicilan ringan.
-* Durasi pinjaman maksimal 70 hari untuk Sekali Bayar dan 6 bulan untuk Cicilan dan Cicilan Ringan.
-* Bunga 9-18%.
+- Jumlah pinjaman maksimal Rp3 juta untuk Sekali Bayar, Rp5-20 juta untuk Cicilan, dan Rp3,5-10 juta untuk cicilan ringan.
+- Durasi pinjaman maksimal 70 hari untuk Sekali Bayar dan 6 bulan untuk Cicilan dan Cicilan Ringan.
+- Bunga 9-18%.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -158,8 +159,8 @@ Untuk UangTeman, adapaun beberapa fitur yang ditawarkan aplikasi pinjaman online
 
 Jika adan masih bingung mengenai pinjaman online UangTeman, anda tidak perlu khawatir, berikut ini detail alamat dan kontak UangTeman yang dapat anda kunjungi dan hubungi.
 
-* Lokasi gedung: Gedung Perkantoran Pakuwon Tower. Kota Kasablanka Lt 28 Unit A-J, Jl. Casablanca Raya Kav 88, Menteng Dalam, Tebet, Jakarta Selatan 12870
-* Email: cs@uangteman.com
+- Lokasi gedung: Gedung Perkantoran Pakuwon Tower. Kota Kasablanka Lt 28 Unit A-J, Jl. Casablanca Raya Kav 88, Menteng Dalam, Tebet, Jakarta Selatan 12870
+- Email: cs@uangteman.com
 
 ### 6. MauCash
 
@@ -171,19 +172,19 @@ Jika pengajuan pinjaman di pinjol resmi bunga rendah MauCash disetujui, maka pen
 
 #### Fitur
 
-* Pinjaman yang diberikan mulai dari Rp500 ribu hingga Rp10 juta.
-* Kemudahan pinjaman uang yang bisa dicicil dengan tenor yang cukup panjang, yaitu 4 bulan sampai 6 bulan.
-* Maksimal bunga per tahun sebesar 125 persen.
+- Pinjaman yang diberikan mulai dari Rp500 ribu hingga Rp10 juta.
+- Kemudahan pinjaman uang yang bisa dicicil dengan tenor yang cukup panjang, yaitu 4 bulan sampai 6 bulan.
+- Maksimal bunga per tahun sebesar 125 persen.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.maucash.app" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung Menara FIF lt 16. Jl TB Simatupang
-* Kavling 15 Cilandak, Kota Jakarta Selatan
-* Daerah Ibukota Jakarta 12440
-* Telepon: 1500 396
-* Email: halo@maucash.id
+- Lokasi gedung Menara FIF lt 16. Jl TB Simatupang
+- Kavling 15 Cilandak, Kota Jakarta Selatan
+- Daerah Ibukota Jakarta 12440
+- Telepon: 1500 396
+- Email: halo@maucash.id
 
 ### 7. PinjamanGo
 
@@ -193,10 +194,10 @@ KreditGo adalah produk layanan pinjol bunga rendah ojk berbasis Fintech dari Sin
 
 #### Fitur
 
-* Jumlah pinjaman hingga Rp6 juta.
-* Tenor Pinjaman hingga 14 hari.
-* Suku bunga: 0,8 persen per hari.
-* Pelunasan mudah, bisa langsung pinjam lagi.
+- Jumlah pinjaman hingga Rp6 juta.
+- Tenor Pinjaman hingga 14 hari.
+- Suku bunga: 0,8 persen per hari.
+- Pelunasan mudah, bisa langsung pinjam lagi.
 
 PinjamanGo termasuk pinjaman online terpercaya bunga rendah terbaik yang cepat cair karena proses pencairannya hanya butuh satu hari saja, jadi kamu bisa mengharapkan dapat jawaban jauh lebih cepat.
 
@@ -204,9 +205,9 @@ PinjamanGo termasuk pinjaman online terpercaya bunga rendah terbaik yang cepat c
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Sinar Mas Land Plaza, Tower I, 9th floor
-* Jl. M.H. Thamrin No. 51, Jakarta 10350 – Indonesia
-* Telepon: (021) 3003-3039
+- Lokasi gedung: Sinar Mas Land Plaza, Tower I, 9th floor
+- Jl. M.H. Thamrin No. 51, Jakarta 10350 – Indonesia
+- Telepon: (021) 3003-3039
 
 ### 8. Julo
 
@@ -218,10 +219,10 @@ Cara mengajukan pinjaman dari Julo Cukup unduh aplikasi kami di Google Play Stor
 
 #### Fitur
 
-* Plafon Pinjaman hingga Rp8 juta
-* Tenor Pinjaman hingga 6 bulan
-* Bunga 0% untuk bulan pertama
-* Pencairan Pinjaman dalam 1-2 hari
+- Plafon Pinjaman hingga Rp8 juta
+- Tenor Pinjaman hingga 6 bulan
+- Bunga 0% untuk bulan pertama
+- Pencairan Pinjaman dalam 1-2 hari
 
 Keunggulan dari Julo sebagai salah satu fintech pinjaman online terbaik adalah kemudahan pinjaman uang yang bisa dicicil dengan bunga 0% untuk bulan pertama. Jadi pengenaan bunga cicilan baru akan diberlakukan pada bulan kedua dan seterusnya.
 
@@ -229,10 +230,10 @@ Keunggulan dari Julo sebagai salah satu fintech pinjaman online terbaik adalah k
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: 88@Kasablanka Tower A Lantai 5. Jl. Casablanca Raya Kav.88
-* Jakarta Selatan 12870
-* Telepon: -
-* Email: cs@julo.co.id
+- Lokasi gedung: 88@Kasablanka Tower A Lantai 5. Jl. Casablanca Raya Kav.88
+- Jakarta Selatan 12870
+- Telepon: -
+- Email: cs@julo.co.id
 
 ### 9. Indodana
 
@@ -244,18 +245,18 @@ Persyaratan pinjam uang pribadi melalui aplikasi pinjaman online bunga ringan in
 
 ### Fitur
 
-* Plafon pinjaman hingga Rp8 juta.
-* Tenor pinjaman mulai dari 3 bulan.
-* Pencairan pinjaman yang cepat.
-* Suku bunga yang kompetitif.
+- Plafon pinjaman hingga Rp8 juta.
+- Tenor pinjaman mulai dari 3 bulan.
+- Pencairan pinjaman yang cepat.
+- Suku bunga yang kompetitif.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Jalan Tomang Raya No. 38, Jatipulo, Palmerah, Jakarta Barat, 11430
-* Telepon: (021) 3950 0088
-* Email: cs@indodana.com
+- Lokasi gedung: Jalan Tomang Raya No. 38, Jatipulo, Palmerah, Jakarta Barat, 11430
+- Telepon: (021) 3950 0088
+- Email: cs@indodana.com
 
 ### 10. Finmas
 
@@ -267,21 +268,21 @@ Langkah mengajukan pinjaman di pinjol resmi ojk bunga rendah Finmas adalah menga
 
 #### Fitur
 
-* Plafon pinjaman terbagi dua yaitu Rp200 ribu sampai Rp500 ribu dan Rp1 juta hingga Rp1,5 juta.
-* Tenor yang diberikan dibagi menjadi 2, yaitu 20 hari untuk pinjaman Rp200 ribu hingga Rp500 ribu dan 30 hari untuk pinjaman Rp1 juta hingga Rp1,5 juta.
-* Bunga hingga 0,47 persen per hari.
-* Pencairan pinjaman dalam 1×24 jam.
+- Plafon pinjaman terbagi dua yaitu Rp200 ribu sampai Rp500 ribu dan Rp1 juta hingga Rp1,5 juta.
+- Tenor yang diberikan dibagi menjadi 2, yaitu 20 hari untuk pinjaman Rp200 ribu hingga Rp500 ribu dan 30 hari untuk pinjaman Rp1 juta hingga Rp1,5 juta.
+- Bunga hingga 0,47 persen per hari.
+- Pencairan pinjaman dalam 1×24 jam.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Gedung CoHive 101 lantai 16
-* Jl. Mega Kuningan Barat Blok E.4.7 Nomor 1
-* Kawasan Mega Kuningan
-* Kota Jakarta Selatan, DKI Jakarta 12950
-* Telepon: (021)509999 88
-* Email: cs@ﬁnmas.co.id
+- Lokasi gedung: Gedung CoHive 101 lantai 16
+- Jl. Mega Kuningan Barat Blok E.4.7 Nomor 1
+- Kawasan Mega Kuningan
+- Kota Jakarta Selatan, DKI Jakarta 12950
+- Telepon: (021)509999 88
+- Email: cs@ﬁnmas.co.id
 
 ### 11. Pohon Dana
 
@@ -293,19 +294,19 @@ Pohon Dana memiliki empat produk pinjaman dana, yakni aplikasi pinjaman online t
 
 #### Fitur
 
-* Jumlah pinjaman Rp1 juta sampai Rp15 juta.
-* Tenor hingga 24 bulan.
-* bunga pinjaman 1,5 hingga 5 persen tanpa biaya lainnya.
-* Proses cepat 3 hari dan pencairan 2 jam setelah aplikasi disetujui.
+- Jumlah pinjaman Rp1 juta sampai Rp15 juta.
+- Tenor hingga 24 bulan.
+- bunga pinjaman 1,5 hingga 5 persen tanpa biaya lainnya.
+- Proses cepat 3 hari dan pencairan 2 jam setelah aplikasi disetujui.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.pohondana&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Mayapada Tower I, Lantai 8
-* Jl. Jend. Sudirman kav. 28, Jakarta 12920
-* Telepon: 0818 189 660 / 0819 0113 9660 (Whatsapp)
-* Email: customerservice@pohondana.id
+- Lokasi gedung: Mayapada Tower I, Lantai 8
+- Jl. Jend. Sudirman kav. 28, Jakarta 12920
+- Telepon: 0818 189 660 / 0819 0113 9660 (Whatsapp)
+- Email: customerservice@pohondana.id
 
 ### 12. Danamas
 
@@ -317,20 +318,20 @@ Persyaratan untuk mengajukan Pinjaman Tunai Danamas Online adalah berusia minima
 
 #### Fitur
 
-* Pinjaman dana tunai hingga Rp7,5 juta.
-* Jangka waktu mulai dari 90 hari hingga 1 tahun.
-* Bunga pinjaman sesuai dengan pendapatan pelaku usaha.
-* Pencairan dana akan ditransfer 1×24 jam setelah persetujuan.
+- Pinjaman dana tunai hingga Rp7,5 juta.
+- Jangka waktu mulai dari 90 hari hingga 1 tahun.
+- Bunga pinjaman sesuai dengan pendapatan pelaku usaha.
+- Pencairan dana akan ditransfer 1×24 jam setelah persetujuan.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.danamasbor&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Roxy Square Lt 5 Blok B Nomor 1
-* Jl. Kyai Tapa No. 1, Grogol Petamburan
-* Jakarta Barat 11450
-* Telepon: 0800 1588 588 | 0882 2422 2001 / 0882 2422 2002 (Whatsapp)
-* Email: cs@danamas.co.id
+- Lokasi gedung: Roxy Square Lt 5 Blok B Nomor 1
+- Jl. Kyai Tapa No. 1, Grogol Petamburan
+- Jakarta Barat 11450
+- Telepon: 0800 1588 588 | 0882 2422 2001 / 0882 2422 2002 (Whatsapp)
+- Email: cs@danamas.co.id
 
 ### 13. Rupiah Cepat
 
@@ -342,19 +343,19 @@ Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi sk
 
 #### Fitur
 
-* Pinjaman hingga Rp20 juta.
-* Tenor Pinjaman hingga 1 tahun.
-* Proses pengajuan cepat, dana langsung cair dalam waktu 15 menit.
+- Pinjaman hingga Rp20 juta.
+- Tenor Pinjaman hingga 1 tahun.
+- Proses pengajuan cepat, dana langsung cair dalam waktu 15 menit.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Jl. Benyamin Suaeb Blok D7
-* Pademangan Timur, Pademangan
-* Jakarta Utara, DKI Jakarta
-* Telepon: 0815 5100 001
-* Email: cs@rupiahcepat.co.id
+- Lokasi gedung: Jl. Benyamin Suaeb Blok D7
+- Pademangan Timur, Pademangan
+- Jakarta Utara, DKI Jakarta
+- Telepon: 0815 5100 001
+- Email: cs@rupiahcepat.co.id
 
 ### 14. Alami
 
@@ -366,19 +367,19 @@ Berdasarkan bukti invoice invoice, Alami akan menawarkan kepada calon pemodal pe
 
 #### Fitur
 
-* Minimal pembiayaan yang dapat disalurkan adalah Rp50 juta hingga Rp2 milyar
-* Nilai pembiayaan yang disalurkan didasarkan pada nilai invoice yang dimiliki calon penerima pembiayaan. ALAMI akan mendanai maksimal 80% dari nilai invoice yang dimiliki.
-* Tenor pembiayaan Invoice Financing adalah 1 bulan sampai maksimal 6 bulan.
+- Minimal pembiayaan yang dapat disalurkan adalah Rp50 juta hingga Rp2 milyar
+- Nilai pembiayaan yang disalurkan didasarkan pada nilai invoice yang dimiliki calon penerima pembiayaan. ALAMI akan mendanai maksimal 80% dari nilai invoice yang dimiliki.
+- Tenor pembiayaan Invoice Financing adalah 1 bulan sampai maksimal 6 bulan.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.alami_funder&hl=en_US&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Plaza 89, Kav. X7,
-* Jln. H.R. Rasuna Said No. 6, Kel. Karet Kuningan, Kec. Setiabudi,
-* Jakarta Selatan, DKI Jakarta
-* Telepon: (021) 311 161 91 | 0819-9898-7191 (Whatsapp chat)
-* Email: -
+- Lokasi gedung: Plaza 89, Kav. X7,
+- Jln. H.R. Rasuna Said No. 6, Kel. Karet Kuningan, Kec. Setiabudi,
+- Jakarta Selatan, DKI Jakarta
+- Telepon: (021) 311 161 91 | 0819-9898-7191 (Whatsapp chat)
+- Email: -
 
 ### 15. KoinWorks
 
@@ -390,26 +391,26 @@ Pinjaman dijamin karena bersertifikat ISO. Proses pendaftarannya juga mudah, dan
 
 #### Produk
 
-* KoinBisnis untuk keperluan usaha.
-* KoinPintar untuk bantuan pinjaman biaya kuliah.
-* KoinGaji untuk kebutuhan karyawan.
+- KoinBisnis untuk keperluan usaha.
+- KoinPintar untuk bantuan pinjaman biaya kuliah.
+- KoinGaji untuk kebutuhan karyawan.
 
 #### Fitur
 
-* Limit pinjaman KoinBisnis hingga Rp2 miliar dan tenor hingga 2 (dua) tahun lamanya.
-* Limit KoinPintar disesuaikan dengan universitas dengan tenor pengembalian dana pendidikan non formal hingga 12 bulan, sedangkan pendidikan formal hingga 10 tahun lamanya.
-* Pinjaman KoinGaji hingga 80 persen dari jumlah total gaji bulanan.
-* Bunga yang bakal dibebankan kepada peminjam berkisar dari 0,75 persen sampai 1,67 persen per bulan.
+- Limit pinjaman KoinBisnis hingga Rp2 miliar dan tenor hingga 2 (dua) tahun lamanya.
+- Limit KoinPintar disesuaikan dengan universitas dengan tenor pengembalian dana pendidikan non formal hingga 12 bulan, sedangkan pendidikan formal hingga 10 tahun lamanya.
+- Pinjaman KoinGaji hingga 80 persen dari jumlah total gaji bulanan.
+- Bunga yang bakal dibebankan kepada peminjam berkisar dari 0,75 persen sampai 1,67 persen per bulan.
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.koinworks.app&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 #### Alamat dan Kontak
 
-* Lokasi gedung: Gedung Cyber 2 Lantai 35 Unit D-E
-* Jl. HR Rasuna Said, Blok X5 No 13
-* Kuningan, Setia Budi, Jakarta Selatan 12950
-* Telepon: (021) 2932 3996
-* Email: support@koinworks.com
+- Lokasi gedung: Gedung Cyber 2 Lantai 35 Unit D-E
+- Jl. HR Rasuna Said, Blok X5 No 13
+- Kuningan, Setia Budi, Jakarta Selatan 12950
+- Telepon: (021) 2932 3996
+- Email: support@koinworks.com
 
 ## Kesimpulan
 

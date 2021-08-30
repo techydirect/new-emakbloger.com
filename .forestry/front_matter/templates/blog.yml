@@ -2,175 +2,176 @@
 label: blog
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Judul Artikel
-- name: categories
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - asuransi
-    - keuangan
-    - bisnis
-    - pinjol
-    - tips
-    - parenting
-    - perbankan
-    source:
-      type: simple
-      section: ''
-      file: 
-      path: 
-  label: categories
-- name: description
-  type: text
-  config:
-    required: false
-  label: description
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
-- name: slug
-  type: text
-  config:
-    required: false
-  label: Permalink
-- name: author
-  type: select
-  default: Amanda
-  config:
-    required: false
-    options:
-    - Amanda
-    - Aji Pamungkas
-    - Febry
-    - Rindy Ariani
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: author
-- name: author_image
-  type: select
-  default: "/author/amanda.jpg"
-  config:
-    required: false
-    options:
-    - "/author/amanda.jpg"
-    - "/author/aji.jpg"
-    - "/author/febry.jpg"
-    - "/author/rindi.jpg"
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: author_image
-- name: stt2
-  type: text
-  config:
-    required: false
-  label: Kata kunci Terkait
-  description: Masukkan kata kunci sebanyak banyaknya pisahkan dengan "," (tanpa tanda
-    petik)
-- name: date
-  type: datetime
-  label: date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-  default: now
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: image
-- name: related
-  type: select
-  default: 'true'
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: related post
-  hidden: false
-- name: sidebar
-  type: select
-  default: 'true'
-  config:
-    required: false
-    options:
-    - 'true'
-    - 'false'
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: sidebar post
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Judul Artikel
+  - name: categories
+    type: select
+    default: ""
+    config:
+      required: false
+      options:
+        - asuransi
+        - keuangan
+        - bisnis
+        - pinjol
+        - tips
+        - parenting
+        - perbankan
+      source:
+        type: simple
+        section: ""
+        file:
+        path:
+    label: categories
+  - name: description
+    type: text
+    config:
+      required: false
+    label: description
+  - name: tags
+    type: tag_list
+    default: []
+    label: tags
+  - name: slug
+    type: text
+    config:
+      required: false
+    label: Permalink
+  - name: author
+    type: select
+    default: Amanda
+    config:
+      required: false
+      options:
+        - Amanda
+        - Aji Pamungkas
+        - Febry
+        - Rindy Ariani
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: author
+  - name: author_image
+    type: select
+    default: "/author/amanda.jpg"
+    config:
+      required: false
+      options:
+        - "/author/amanda.jpg"
+        - "/author/aji.jpg"
+        - "/author/febry.jpg"
+        - "/author/rindi.jpg"
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: author_image
+  - name: stt2
+    type: text
+    config:
+      required: false
+    label: Kata kunci Terkait
+    description:
+      Masukkan kata kunci sebanyak banyaknya pisahkan dengan "," (tanpa tanda
+      petik)
+  - name: date
+    type: datetime
+    label: date
+    description: ""
+    config:
+      required: false
+      date_format:
+      time_format:
+      display_utc: false
+    default: now
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: image
+  - name: related
+    type: select
+    default: "yes"
+    config:
+      required: false
+      options:
+        - "yes"
+        - "none"
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: related post
+    hidden: false
+  - name: sidebar
+    type: select
+    default: "yes"
+    config:
+      required: false
+      options:
+        - "yes"
+        - "none"
+      source:
+        type: simple
+        section:
+        file:
+        path:
+    label: sidebar post
 pages:
-- content/blog/10-cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros.md
-- content/blog/10-daftar-atm-yang-tidak-ada-potongan-tiap-bulan.md
-- content/blog/10-pinjaman-online-terpercaya-bunga-rendah-2021.md
-- content/blog/11-aplikasi-pinjol-bunga-paling-rendah-2021.md
-- content/blog/12-asuransi-jiwa-terbaik-dan-terpercaya-di-indonesia-2021.md
-- content/blog/12-bisnis-rumahan-tanpa-modal-besar-menguntungkan.md
-- content/blog/12-bisnis-rumahan-yang-menjanjikan-tanpa-modal-besar.md
-- content/blog/12-ide-usaha-toko-online-shop-terlaris-2021.md
-- content/blog/121-daftar-pinjol-legal-resmi-terdaftar-di-ojk.md
-- content/blog/15-pinjol-terbaik-bunga-rendah-terdaftar-di-ojk.md
-- content/blog/5-aplikasi-pinjaman-online-bunga-ringan-cepat-cair.md
-- content/blog/5-aplikasi-pinjaman-online-langsung-cair-24-jam.md
-- content/blog/5-aplikasi-pinjaman-online-pencairan-tercepat-dan-mudah.md
-- content/blog/5-daftar-pinjol-resmi-bunga-rendah-2021.md
-- content/blog/5-usaha-grab-food-rumahan-paling-laris-2021.md
-- content/blog/6-cara-mengecek-tiket-pesawat-yang-sudah-di-booking.md
-- content/blog/7-aplikasi-pinjaman-online-bunga-rendah-cepat-cair.md
-- content/blog/7-aplikasi-pinjaman-uang-online-2021.md
-- content/blog/7-asuransi-mobil-terbaik-dan-murah-2021.md
-- content/blog/7-cara-berbisnis-online-yang-patut-anda-coba.md
-- content/blog/7-ide-jualan-makanan-rumahan-yang-menjanjikan.md
-- content/blog/7-perbedaan-asuransi-syariah-dan-asuransi-konvensional.md
-- content/blog/7-pinjol-resmi-terdaftar-di-ojk-dengan-bunga-rendah.md
-- content/blog/8-cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta.md
-- content/blog/9-daftar-aplikasi-pinjaman-uang-online-terpercaya.md
-- content/blog/9-usaha-makanan-rumahan-online-paling-laris-2021.md
-- content/blog/aktivasi-mobile-banking-bni-gagal-terus-begini-cara-mengatasinya.md
-- content/blog/asuransi-mobil-all-risk-dan-tlo-apa-saja-perbedaannya.md
-- content/blog/biaya-administrasi-bank-bni-untuk-semua-jenis-tabungan.md
-- content/blog/biaya-administrasi-bank-mandiri-untuk-semua-jenis-tabungan.md
-- content/blog/biaya-administrasi-rekening-tabungan-bni-taplus.md
-- content/blog/biaya-membuat-kartu-atm-bni-syarat-dan-jenis-tabungan.md
-- content/blog/bni-taplus-jenis-syarat-biaya-admin-dan-saldo-minimal.md
-- content/blog/cara-dan-syarat-bikin-atm-tabunganku-bni.md
-- content/blog/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim.md
-- content/blog/cara-mudah-jualan-di-tokopedia-tanpa-modal.md
-- content/blog/cara-pinjam-di-julo-agar-mudah-cepat-cair.md
-- content/blog/jenis-produk-asuransi-jiwa-axa-mandiri-cara-beli-klaim.md
-- content/blog/keuntungan-bunga-dan-biaya-administrasi-bca-xpresi.md
-- content/blog/mudah-5-cara-dropship-di-tokopedia.md
-- content/blog/paling-efektif-begini-cara-mengatur-keuangan-pribadi-yang-perlu-anda-ketahui.md
-- content/blog/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah.md
-- content/blog/perlu-diterapkan-begini-cara-mengatur-keuangan-rumah-tangga-yang-efektif.md
-- content/blog/setoran-awal-tabungan-bni-untuk-semua-jenis.md
-- content/blog/tabunganku-bni-keuntungan-bunga-cara-buka-rekening.md
-- content/blog/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah.md
-- content/blog/yuk-intip-5-asuransi-mobil-terbaik-2021.md
-- content/blog/yuk-pahami-jenis-macam-macam-tabungan-bni.md
-- content/blog/yuk-pahami-manfaat-asuransi-jiwa-seumur-hidup.md
-- content/blog/yuk-simak-4-cara-mengatur-keuangan-dengan-metode-tepat.md
+  - content/blog/10-cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros.md
+  - content/blog/10-daftar-atm-yang-tidak-ada-potongan-tiap-bulan.md
+  - content/blog/10-pinjaman-online-terpercaya-bunga-rendah-2021.md
+  - content/blog/11-aplikasi-pinjol-bunga-paling-rendah-2021.md
+  - content/blog/12-asuransi-jiwa-terbaik-dan-terpercaya-di-indonesia-2021.md
+  - content/blog/12-bisnis-rumahan-tanpa-modal-besar-menguntungkan.md
+  - content/blog/12-bisnis-rumahan-yang-menjanjikan-tanpa-modal-besar.md
+  - content/blog/12-ide-usaha-toko-online-shop-terlaris-2021.md
+  - content/blog/121-daftar-pinjol-legal-resmi-terdaftar-di-ojk.md
+  - content/blog/15-pinjol-terbaik-bunga-rendah-terdaftar-di-ojk.md
+  - content/blog/5-aplikasi-pinjaman-online-bunga-ringan-cepat-cair.md
+  - content/blog/5-aplikasi-pinjaman-online-langsung-cair-24-jam.md
+  - content/blog/5-aplikasi-pinjaman-online-pencairan-tercepat-dan-mudah.md
+  - content/blog/5-daftar-pinjol-resmi-bunga-rendah-2021.md
+  - content/blog/5-usaha-grab-food-rumahan-paling-laris-2021.md
+  - content/blog/6-cara-mengecek-tiket-pesawat-yang-sudah-di-booking.md
+  - content/blog/7-aplikasi-pinjaman-online-bunga-rendah-cepat-cair.md
+  - content/blog/7-aplikasi-pinjaman-uang-online-2021.md
+  - content/blog/7-asuransi-mobil-terbaik-dan-murah-2021.md
+  - content/blog/7-cara-berbisnis-online-yang-patut-anda-coba.md
+  - content/blog/7-ide-jualan-makanan-rumahan-yang-menjanjikan.md
+  - content/blog/7-perbedaan-asuransi-syariah-dan-asuransi-konvensional.md
+  - content/blog/7-pinjol-resmi-terdaftar-di-ojk-dengan-bunga-rendah.md
+  - content/blog/8-cara-mengatur-keuangan-rumah-tangga-dengan-gaji-3-juta.md
+  - content/blog/9-daftar-aplikasi-pinjaman-uang-online-terpercaya.md
+  - content/blog/9-usaha-makanan-rumahan-online-paling-laris-2021.md
+  - content/blog/aktivasi-mobile-banking-bni-gagal-terus-begini-cara-mengatasinya.md
+  - content/blog/asuransi-mobil-all-risk-dan-tlo-apa-saja-perbedaannya.md
+  - content/blog/biaya-administrasi-bank-bni-untuk-semua-jenis-tabungan.md
+  - content/blog/biaya-administrasi-bank-mandiri-untuk-semua-jenis-tabungan.md
+  - content/blog/biaya-administrasi-rekening-tabungan-bni-taplus.md
+  - content/blog/biaya-membuat-kartu-atm-bni-syarat-dan-jenis-tabungan.md
+  - content/blog/bni-taplus-jenis-syarat-biaya-admin-dan-saldo-minimal.md
+  - content/blog/cara-dan-syarat-bikin-atm-tabunganku-bni.md
+  - content/blog/cara-mengatur-keuangan-rumah-tangga-dengan-penghasilan-minim.md
+  - content/blog/cara-mudah-jualan-di-tokopedia-tanpa-modal.md
+  - content/blog/cara-pinjam-di-julo-agar-mudah-cepat-cair.md
+  - content/blog/jenis-produk-asuransi-jiwa-axa-mandiri-cara-beli-klaim.md
+  - content/blog/keuntungan-bunga-dan-biaya-administrasi-bca-xpresi.md
+  - content/blog/mudah-5-cara-dropship-di-tokopedia.md
+  - content/blog/paling-efektif-begini-cara-mengatur-keuangan-pribadi-yang-perlu-anda-ketahui.md
+  - content/blog/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah.md
+  - content/blog/perlu-diterapkan-begini-cara-mengatur-keuangan-rumah-tangga-yang-efektif.md
+  - content/blog/setoran-awal-tabungan-bni-untuk-semua-jenis.md
+  - content/blog/tabunganku-bni-keuntungan-bunga-cara-buka-rekening.md
+  - content/blog/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah.md
+  - content/blog/yuk-intip-5-asuransi-mobil-terbaik-2021.md
+  - content/blog/yuk-pahami-jenis-macam-macam-tabungan-bni.md
+  - content/blog/yuk-pahami-manfaat-asuransi-jiwa-seumur-hidup.md
+  - content/blog/yuk-simak-4-cara-mengatur-keuangan-dengan-metode-tepat.md
