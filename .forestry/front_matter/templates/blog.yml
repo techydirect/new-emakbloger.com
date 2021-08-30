@@ -2,6 +2,44 @@
 label: blog
 hide_body: false
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Judul Artikel
+- name: categories
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - asuransi
+    - keuangan
+    - bisnis
+    - pinjol
+    - tips
+    - parenting
+    - perbankan
+    source:
+      type: simple
+      section: ''
+      file: 
+      path: 
+  label: categories
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Permalink
 - name: author
   type: select
   default: Amanda
@@ -34,16 +72,6 @@ fields:
       file: 
       path: 
   label: author_image
-- name: title
-  type: text
-  config:
-    required: false
-  label: Judul Artikel
-- name: description
-  type: text
-  config:
-    required: false
-  label: description
 - name: stt2
   type: text
   config:
@@ -51,11 +79,6 @@ fields:
   label: Kata kunci Terkait
   description: Masukkan kata kunci sebanyak banyaknya pisahkan dengan "," (tanpa tanda
     petik)
-- name: slug
-  type: text
-  config:
-    required: false
-  label: Permalink
 - name: date
   type: datetime
   label: date
@@ -66,34 +89,40 @@ fields:
     time_format: 
     display_utc: false
   default: now
-- name: categories
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - asuransi
-    - keuangan
-    - bisnis
-    - pinjol
-    - tips
-    - parenting
-    - perbankan
-    source:
-      type: simple
-      section: ''
-      file: 
-      path: 
-  label: categories
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - name: image
   type: file
   config:
     maxSize: 64
   label: image
+- name: related
+  type: select
+  default: 'true'
+  config:
+    required: false
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: related post
+  hidden: false
+- name: sidebar
+  type: select
+  default: 'true'
+  config:
+    required: false
+    options:
+    - 'true'
+    - 'false'
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: sidebar post
 pages:
 - content/blog/10-cara-mengatur-keuangan-rumah-tangga-agar-tidak-boros.md
 - content/blog/10-daftar-atm-yang-tidak-ada-potongan-tiap-bulan.md
