@@ -1,3 +1,5 @@
+{{ if (isset .Params.sidebar "true") }}
+
 <section id="mvp_tabber_widget-5" class="mvp-side-widget mvp_tabber_widget">
     <div class="mvp-widget-tab-wrap left relative">
         <div class="mvp-feat1-list-wrap left relative">
@@ -62,3 +64,74 @@
         </div>
     </div>
 </section>
+
+{{ else if (isset .Params.sidebar "false" ) }}
+
+{{ else }}
+
+<section id="mvp_tabber_widget-5" class="mvp-side-widget mvp_tabber_widget">
+    <div class="mvp-widget-tab-wrap left relative">
+        <div class="mvp-feat1-list-wrap left relative">
+            <div class="mvp-feat1-list-head-wrap left relative">
+                <ul class="mvp-feat1-list-buts left relative">
+                    <li class="mvp-feat-col-tab">
+                        <a href="#mvp-tab-col1">
+                            <span class="mvp-feat1-list-but">Trending</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#mvp-tab-col2">
+                            <span class="mvp-feat1-list-but">Random</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div id="mvp-tab-col1" class="mvp-feat1-list left relative mvp-tab-col-cont">
+                {{ range first 7 ( after 7 ( .Site.RegularPages ) ) }}
+                <a href="{{ .Permalink }}" rel="bookmark">
+                    <div class="mvp-feat1-list-cont left relative">
+                        <div class="mvp-feat1-list-out relative">
+                            <div class="mvp-feat1-list-img left relative">
+                                <img style="width: 100%; height: 80px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="attachment-mvp-small-thumb size-mvp-small-thumb lazy wp-post-image" alt="{{ .Title }}"/>
+                            </div>
+                            <div class="mvp-feat1-list-in">
+                                <div class="mvp-feat1-list-text">
+                                    <div class="mvp-cat-date-wrap left relative">
+                                        <span class="mvp-cd-cat left relative">{{ .Params.Categories }}</span>
+                                        <span class="mvp-cd-date left relative">{{ .Date.Format "January, 2006" }}</span>
+                                    </div>
+                                    <div>{{ .Title }}</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+            <div id="mvp-tab-col2" class="mvp-feat1-list left relative mvp-tab-col-cont">
+                {{ range first 7 ( after 14 ( .Site.RegularPages ) ) }}
+                <a href="{{ .Permalink }}" rel="bookmark">
+                    <div class="mvp-feat1-list-cont left relative">
+                        <div class="mvp-feat1-list-out relative">
+                            <div class="mvp-feat1-list-img left relative">
+                                <img style="width: 100%; height: 80px; object-fit: cover;" data-src="{{ .Params.Image | absURL }}" class="attachment-mvp-small-thumb lazy size-mvp-small-thumb wp-post-image" alt="{{ .Title }}"/>
+                            </div>
+                            <div class="mvp-feat1-list-in">
+                                <div class="mvp-feat1-list-text">
+                                    <div class="mvp-cat-date-wrap left relative">
+                                        <span class="mvp-cd-cat left relative">{{ .Params.Categories }}</span>
+                                        <span class="mvp-cd-date left relative">{{ .Date.Format "January, 2006" }}</span>
+                                    </div>
+                                    <div>{{ .Title }}</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}
