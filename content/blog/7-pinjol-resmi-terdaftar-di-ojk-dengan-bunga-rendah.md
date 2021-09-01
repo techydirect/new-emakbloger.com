@@ -38,7 +38,7 @@ Selain itu, Indodana juga merupakan [pinjol resmi bunga rendah](https://www.emak
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
 
 {{% /center %}}
 
@@ -78,7 +78,7 @@ Selanjunya dari pinjol resmi OJK bunga rendah ada DanaFix yang dapat menjadi pil
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=id.danafix.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.danafix.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
 
 {{% /center %}}
 
@@ -120,7 +120,7 @@ Apakah anda sedang mencari pinjol resmi OJK bunga rendah pencairan cepat? Atau A
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
 
 {{% /center %}}
 
@@ -210,7 +210,7 @@ Kreditcepat adalah perusahaan pinjol resmi OJK bunga rendah jangka pendek berbas
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=id.co.kreditcepat.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.co.kreditcepat.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
 
 {{% /center %}}
 
@@ -260,7 +260,7 @@ Juga anda tidak perlu khawatir mengenai keamanan data diri anda karena Rupiah Ce
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
 
 {{% /center %}}
 
@@ -304,7 +304,7 @@ FINMAS adalah platform atau aplikasi yang masuk [daftar pinjol legal ojk](https:
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
 
 {{% /center %}}
 
