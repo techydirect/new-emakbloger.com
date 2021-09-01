@@ -67,7 +67,6 @@
                                         <div id="mvp-post-content" class="left relative">
                                             <div id="mvp-post-feat-img" class="left relative mvp-post-feat-img-wide2">
                                                 <img style="width: 100%; height: aoto;" data-src="{{ .Params.Image | absURL}}" class="attachment- size- wp-post-image lazy" alt="{{ .Title }}"/>
-                                                {{ partial "plugin/ads/header.html" . }}
                                             </div>
                                             <div id="mvp-content-wrap" class="left relative">
                                                 <div class="mvp-post-soc-out right relative">
@@ -75,6 +74,7 @@
                                                         <div id="mvp-content-body" class="left relative">
                                                             <div id="mvp-content-body-top" class="left relative">
                                                                 <div id="mvp-content-main" class="left relative entry-content">
+                                                                    {{ partial "plugin/ads/header.html" . }}
                                                                     {{ .Content }}
                                                                     <br>
                                                                     {{ if .Params.stt2 }}
