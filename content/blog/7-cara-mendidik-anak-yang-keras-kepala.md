@@ -22,6 +22,8 @@ Jika orang tua tidak mengizinkan, akan sering timbul perdebatan dan Mama akan mu
 
 Penting untuk dipahami bahwa sikap keras kepala adalah bagian dari kepribadian beberapa anak, tetapi pada orang lain sifat ini sebenarnya adalah cara untuk menegaskan keinginan mereka.
 
+{{< ads1 >}}
+
 Untuk menghadapi anak yang keras kepala, mama perlu melakukan beberapa trik dengan benar. Jika tidak demikian, maka hubungan komunikasi antara ibu dan anak bisa jadi perdebatan.
 
 Berikut rangkuman mengenai [cara mendidik anak keras kepala](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak/) dari emakbloger.com:
@@ -47,6 +49,8 @@ Ketika mama [memaksakan keinginan pada anak](/tags/mendidik-anak), terutama hal-
 Misalnya, ketika anak bersikeras untuk menonton TV setelah waktu tidurnya, marah dan mematikan TV tidak akan membantu. Sebaliknya, duduklah bersamanya dan tunjukkan minat pada apa yang dilihat anak tersebut.
 
 Saat mama menunjukkan bahwa kamu peduli, anak akan tertarik untuk mendengarkannya. Ketika hubungan dan kepercayaan mulai terbangun, akan lebih mudah bagi anak-anak untuk menerima nasihat kamu. Untuk itulah dalam cara mendidik anak, pengting banget untuk tidak terlalu memaksakan kehendak kamu.
+
+{{< ads1 >}}
 
 > **Baca Juga:** [**Cara Mendidik Anak Yang Baik Dalam Keluarga**](https://www.emakbloger.com/2021/april/13/cara-mendidik-anak-yang-baik-dalam-keluarga/)
 
@@ -89,6 +93,8 @@ Jika perlu, mintalah juga masukan dari anak-anak tentang akibat yang akan terjad
 ![7 Cara Mendidik Anak yang Keras Kepala](/uploads/7-cara-mendidik-anak-yang-keras-kepala-5-2021-04-13.jpg "7 Cara Mendidik Anak yang Keras Kepala")
 
 [Cara mendidik](/tags/mendidik-anak) anak selanjutnya adalah jangan terburu-buru gugup saat berhadapan dengan anak yang keras kepala. Lihatlah masalahnya dari sudut pandang anak dan cobalah untuk memahami mengapa dia berperilaku seperti itu.
+
+{{< ads1 >}}
 
 Misalnya, jika mama berjanji akan mengajak si anak ke taman tetapi tiba-tiba hal itu tidak terjadi karena hujan, maka kamu perlu menjelaskannya secara detail kepada anak kamu. Karena meskipun alasannya jelas, kemungkinan besar anak hanya akan melihatnya sebagai janji. Sekarang, ketika mama perlahan bisa menjelaskan alasannya, anak mungkin akan lebih menerima ini dan tidak begitu marah.
 

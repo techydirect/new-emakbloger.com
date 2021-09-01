@@ -11,6 +11,7 @@ tags = []
 title = "11 Aplikasi Pinjol Bunga Paling Rendah 2021"
 
 +++
+
 [**Emakbloger.com**](/) - Kredit tanpa jaminan sulit cair? pinjaman online peer-to-peer lending atau aplikasi pinjol bunga rendah bisa menjadi jawabannya. Anda dapat meminjam sejumlah uang dalam hitungan hari, bahkan pada hari yang sama.
 
 Aplikasi pinjaman online bunga rendah juga sangat kompetitif dibandingkan dengan meminjam ke bank atau KTA. Namun, beberapa orang masih takut mencoba mengajukan pinjaman online. Apalagi banyak berita bahwa data pribadi peminjam dipublikasikan oleh pemberi pinjaman karena menunggak.
@@ -18,6 +19,8 @@ Aplikasi pinjaman online bunga rendah juga sangat kompetitif dibandingkan dengan
 {{< toc >}}
 
 Bagi yang memang ingin meminjam melalui aplikasi pinjol bunga rendah, pastikan perusahaan tersebut terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK). Per 1 Februari 2019, OJK telah menerbitkan daftar aplikasi pinjaman online langsung cair yang terdaftar dan berizin.
+
+{{< ads1 >}}
 
 ## Daftar Aplikasi Pinjol Bunga Rendah 2021
 
@@ -31,6 +34,8 @@ Pinjaman yang ditawarkan KoinWorks adalah aplikasi pinjol bunga rendah tanpa jam
 
 Pinjaman yang ditawarkan dan disetujui akan dikenakan bunga pinjaman rendah sebesar 0,75 hingga 1,67 persen per bulan tanpa biaya tersembunyi. Pembiayaan yang ditawarkan bisa sampai 250 juta rupiah. Tertarik dengan pinjol resmi bunga rendah ini?
 
+{{< ads1 >}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.koinworks.app&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 ### 2. Investree
@@ -42,6 +47,7 @@ Selanjutnya dari aplikasi pinjol bunga rendah ada Investree. Suku bunga pinjaman
 Sedangkan untuk pembiayaan penjual online, bunga pinjaman berkisar 0,9 persen per bulan dengan bunga maksimal 24 persen per tahun. Perhitungan bunga ini bisa berbeda-beda tergantung dari hasil penilaian masing-masing peminjam.
 
 Investree juga memiliki produk fasilitas pinjaman online terpercaya bunga rendah untuk karyawan dengan bunga berkisar antara 20 hingga 55% per tahun. Hal ini juga ditentukan dari hasil sistem credit scoring Investree.
+{{< ads1 >}}
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.investree&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -53,6 +59,8 @@ Modalku fokus menawarkan produk aplikasi pinjol bunga rendah kepada usaha kecil 
 
 Selain bunga, pinjol resmi ojk bunga rendah ini juga membebankan biaya administrasi sebesar 3 persen dari dana pinjaman. Plafon pinjaman berkisar antara Rp50 juta hingga Rp2 miliar. Keuntungan menggunakan Modalku adalah Anda dapat meminjam tanpa harus menggadaikan aset.
 
+{{< ads1 >}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.modalku.investor&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 ### 4. KlikACC
@@ -63,6 +71,8 @@ Total bunga yang ditawarkan KlikACC mulai dari 1 persen per bulan tergantung jen
 
 Aplikasi pinjaman online bunga ringan ini berfokus pada pembiayaan modal produktif bagi UMKM agar dapat mengembangkan usahanya. Jumlah pinjaman yang dapat ditawarkan KlikACC adalah Rp. 4 juta rupiah. 2 miliar.
 
+{{< ads1 >}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.klikacc.flutter&hl=en_US&gl=US" text="Instal Aplikasi" >}}
 
 ### 5. Akseleran
@@ -72,6 +82,8 @@ Aplikasi pinjaman online bunga ringan ini berfokus pada pembiayaan modal produkt
 Dengan meminjam dari Akseleran melalui aplikasi pinjaman online tercepat, Anda bisa mendapatkan pinjaman dengan bunga mulai dari 6,48 hingga 17 persen tetap per tahun. Setidaknya bunga bulanan adalah 0,5 persen hingga 1,4 persen.
 
 Akseleran dapat menyesuaikan jangka waktu pinjaman, jenis jaminan, dan frekuensi angsuran pinjaman sesuai dengan situasi peminjam. Aplikasi pinjol bunga rendah ini juga membebankan biaya sebesar 0,25 persen per bulan dari total pinjaman cair selain biaya notaris dan proses legal notaris.
+
+{{< ads1 >}}
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.akseleran.crowdfund&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -85,6 +97,8 @@ Jenis jaminan ini menentukan tingkat bunga yang dibebankan kepada peminjam. Bung
 
 Sedangkan Garansi Sepeda Motor BPKB dikenakan bunga flat sebesar 2 persen per bulan. Pembiayaan bisa mulai dari Rp 2 juta hingga Rp 500 juta dengan jangka waktu maksimal 3 hingga 12 bulan.
 
+{{< ads1 >}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.traveloka.tera&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 ### 7. Aktivaku
@@ -95,10 +109,12 @@ Aktivaku menawarkan tingkat pembukaan 14 hingga 21 persen per tahun, tergantung 
 
 Pinjaman online yang masuk dalam daftar pinjol legal ojk ini memiliki banyak produk yang dapat anda pilih, yaitu:
 
-* Perolehan kredit untuk proses pengalihan fasilitas kredit;
-* Pembiayaan proyek untuk membiayai kegiatan produksi yang akan menjadi sumber pembayaran peminjam;
-* kredit hipotek atau kepemilikan real estat yang diberikan untuk pembelian rumah tinggal melalui pengembang yang bekerja sama dengan Aktivaku;
-* dan pembiayaan rantai pasokan (supply chain finance/SCF) yang diberikan kepada pihak-pihak dalam rantai pasokan untuk pekerjaan yang timbul dari pemberi kerja.
+- Perolehan kredit untuk proses pengalihan fasilitas kredit;
+- Pembiayaan proyek untuk membiayai kegiatan produksi yang akan menjadi sumber pembayaran peminjam;
+- kredit hipotek atau kepemilikan real estat yang diberikan untuk pembelian rumah tinggal melalui pengembang yang bekerja sama dengan Aktivaku;
+- dan pembiayaan rantai pasokan (supply chain finance/SCF) yang diberikan kepada pihak-pihak dalam rantai pasokan untuk pekerjaan yang timbul dari pemberi kerja.
+
+{{< ads1 >}}
 
 {{< btn-green link="https://aktivaku.com/" text="Kunjungi Web" >}}
 
@@ -110,6 +126,8 @@ Amartha merupakan salah satu aplikasi pinjol bunga rendah yang secara khusus men
 
 Selain masuk dalm daftar pinjol ojk terbaru, Amarta menjembatani mitra yang mengajukan pinjaman untuk membuka warung makan atau mengembangkan usaha produksi tahu skala lokal. Jangka waktu pinjaman sekitar 50 minggu.
 
+{{< ads1 >}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.amartha.investor&hl=en&gl=US" text="Instal Aplikasi" >}}
 
 ### 9. Invoila
@@ -119,6 +137,8 @@ Selain masuk dalm daftar pinjol ojk terbaru, Amarta menjembatani mitra yang meng
 Pinjaman online yang masuk bi checking seperti Invoila diperuntukkan bagi badan usaha berbentuk PT atau CV yang membutuhkan modal usaha. Invoila menjanjikan tingkat bunga yang wajar untuk pinjaman yang disetujui, yaitu berkisar 1-1,7% per bulan.
 
 Caranya adalah dengan mendaftar online di website yang bisa dilakukan dengan cepat dan mudah. Plafon pinjaman mulai dari Rp8 juta hingga Rp400 juta. Persyaratan utama yang harus dipenuhi oleh peminjam, antara lain, telah beroperasi minimal satu tahun, memiliki NPWP pribadi atau komersial, dan berkedudukan di Jabodetabek dan Bandung.
+
+{{< ads1 >}}
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.solmitrafintec.solmitramobile&hl=en&gl=US" text="Instal Aplikasi" >}}
 
@@ -130,6 +150,8 @@ Aplikasi pinjol bunga rendah Danakini menawarkan bunga tetap 1 persen per bulan 
 
 Dengan layanan ini, peminjam dapat membeli barang konsumsi secara mencicil tanpa kartu. Pinjaman yang diberikan berkisar antara Rp. 2 juta rupiah. 100 juta per kategori dicicil. Selain itu, ada pula KiniFlexi yang khusus diperuntukkan bagi karyawan grup perusahaannya.
 
+{{< ads1 >}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dki.danakini&hl=in&gl=US" text="Instal Aplikasi" >}}
 
 ### 11. Modal rakyat
@@ -139,6 +161,8 @@ Dengan layanan ini, peminjam dapat membeli barang konsumsi secara mencicil tanpa
 Modal Rakyat memberikan pinjaman melalui aplikasi pinjol bunga rendah mulai dari Rp. 500.000 rupiah hingga 2 miliar. Bunga pinjaman mulai 10-30 persen per tahun. Besarnya bunga pinjaman tergantung pada tingkat risiko tertentu dari data yang Anda berikan.
 
 Biaya layanan yang dibebankan oleh Modal Rakyat adalah 3 persen dari jumlah pinjaman. Apakah anda tertarik untuk mengajukan pinjaman di Modal Rakyat, instal aplikasinya melalui link dibawah ini.
+
+{{< ads1 >}}
 
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.modalrakyat.android&hl=en_US&gl=US" text="Instal Aplikasi" >}}
 

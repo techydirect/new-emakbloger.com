@@ -24,6 +24,8 @@ Selain [Kesehatan](/tags/makanan-sehat), kecerdasan anak juga sama pentingnya. D
 
 ## 5 Jenis Makanan yg Membantu Kecerdasan Anak
 
+{{< ads1 >}}
+
 ### Ikan
 
 ![ikan salmon](/uploads/1.jpg "ikan salmon sebagai makanan yang membantu kecerdasan otak anak")
@@ -45,6 +47,8 @@ Jenis makanan ini sangat mudah dan murah, tetapi sangat bergizi. Putih telur mer
 Tomat, wortel, bayam atau labu adalah makanan yang kaya antioksidan. Makanan ini dipercaya dapat membantu mempertahankan kekuatan dan kesehatan membran sel. Semakin segar dan cerah warna sayuran, makin tinggi kandungan antioksidannya.
 
 Beberapa sayuran juga memiliki manfaat mencegah kanker lho, Moms.
+
+{{< ads2 >}}
 
 ### Kacang Hijau
 
