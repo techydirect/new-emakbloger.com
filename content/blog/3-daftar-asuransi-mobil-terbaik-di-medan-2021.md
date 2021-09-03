@@ -83,7 +83,7 @@ Selain itu, Asuransi ACA memiliki 1 kantor pusat, 2 kantor pusat operasional, da
 
 {{< ads2 >}}
 
-{{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/PT+Asuransi+Central+Asia+-+Perwakilan+Medan+Serdang,+Komplek+Serdang+Mas,+Jl.+Prof.+HM.+Yamin+Sh+A+No.1,+Sei+Kera+Hulu,+Kec.+Medan+Perjuangan,+Kota+Medan,+Sumatera+Utara+20233/@-2.0385022,95.6190229,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x303131bec450f24b:0xba9b5dd93818e8bc!2m2!1d98.6988661!2d3.5981718" Text="Cek Lokasi" >}} | {{< btn-blue link="https://www.aca.co.id/home" Text="Kunjungi Web" >}}
+{{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/PT+Asuransi+Central+Asia+-+Perwakilan+Medan+Serdang,+Komplek+Serdang+Mas,+Jl.+Prof.+HM.+Yamin+Sh+A+No.1,+Sei+Kera+Hulu,+Kec.+Medan+Perjuangan,+Kota+Medan,+Sumatera+Utara+20233/@-2.0385022,95.6190229,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x303131bec450f24b:0xba9b5dd93818e8bc!2m2!1d98.6988661!2d3.5981718" text="Cek Lokasi" >}} | {{< btn-blue link="https://www.aca.co.id/home" text="Kunjungi Web" >}}
 
 Sekilas tentang ACA, perusaan yang sudah berumur lebih dari setengah abad ini memang memiliki banyak keuntungan yang ditawarkannya. Selain itu pelayanan yang anda dapatkan juga pastinya memuaskan.
 
