@@ -54,6 +54,8 @@ Selain menjadi salah satu perusaan asuransi terbaik di Indonesia 2021, Asuransi 
 - Phone: 1 500 112
 - Email: cs@asuransiastra.com
 
+{{< ads1 >}}
+
 {{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/Asuransi+Astra+(Garda+Oto)+-+Branch+Medan,+Jl.+Imam+Bonjol+No.15+A,+Petisah+Tengah,+Medan+Petisah,+Medan+City,+North+Sumatra+20112/@-2.0383924,95.6064695,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x30313034a6d745d7:0xedfb7e517ed151e2!2m2!1d98.6750355!2d3.5843091" text="Cek Lokasi" >}} | {{< btn-blue link="https://www.gardaoto.com/" text="Kunjungi Web" >}}
 
 Ada begitu banyak keuntungan yang bisa anda dapatkan jika memilih dan membeli produk asuransi mobil Astra. Selain itu, cara klaim dan pembelian asuransi juga bisa anda lakukan melalui aplikasi secara online.
