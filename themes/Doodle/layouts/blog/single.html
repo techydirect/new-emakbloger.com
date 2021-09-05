@@ -22,9 +22,6 @@
                                         </a>
                                     </div>
                                     <h1 class="mvp-post-title left entry-title">{{ .Title }}</h1>
-                                    <span class="mvp-post-excerpt left">
-                                        <p>{{ .Params.Description }}</p>
-                                    </span>
                                     <div class="mvp-author-info-wrap left relative">
                                         <div class="mvp-author-info-thumb left relative">
                                             <img style="width: 40px; height: 40px; object-fit: cover;" alt="{{ .Params.Author }}" data-src="{{ or .Params.Author_image .Site.Params.default | absURL }}" class='avatar avatar-46 photo lazy'/>
