@@ -8,7 +8,7 @@ image = "/wp-image/asuransi-mobil-terbaik-di-medan-2021-09-03.jpg"
 related = "inherit"
 sidebar = "inherit"
 slug = "/asuransi-mobil-terbaik-di-medan/09/03/2021"
-stt2 = ""
+stt2 = "asuransi sinar mas medan, asuransi all risk garda oto, asuransi mobil kota medan"
 tags = ["garda oto", "asuransi central asia", "garda center"]
 title = "3 Daftar Asuransi Mobil Terbaik di Medan 2021"
 
