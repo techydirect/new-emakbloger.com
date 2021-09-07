@@ -63,7 +63,7 @@ Peminjam yang dapat meminjam dari [aplikasi pinjaman online bunga ringan](https:
 
 {{< ads1 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orage link="https://www.emakbloger.com/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
 
 ### 4. UangMe
 
