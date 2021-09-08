@@ -161,3 +161,9 @@ Memilih layanan asuransi mobil terbaik di medan memang menjadi acuan utama. Namu
 Itulah pembahasan singkat dari kami mengenai asuransi mobil terbaik di medan yang dapat anda jadikan referensi sebelum mengasuransikan mobil anda. Perlu di ingat, memilih asuransi mobil tentunya harus sesuai dengan kebutuhan anda. Juga, pertimbangkan biaya premi yang harus anda bayar.
 
 Semoga bermanfaat dan dapat menambah wawasan anda. :)
+
+## FAQ
+
+{{< faq judul="Apa saja keuntungan memiliki asuransi mobil di medan?" des="Ada akan mendapatkan beberapa keuntungan seperti: Perlindungan kendaraan maksimal, Ganti rugi kerugian, serta investasi perawatan mobil." >}}
+
+{{< faq2 judul="Apa saja jenis asuransi mobil di Medan?" des="seperti pada asuransi mobil di kota - kota lainnya, asuransi mobil di medan memiliki dua macam yaitu asuransi mobil TLO (total lost only) serta Asuransi mobil All risk" >}}
