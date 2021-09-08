@@ -3,18 +3,17 @@ author = "Febry"
 author_image = "/author/febry.jpg"
 categories = "asuransi"
 date = 2021-09-02T13:05:42Z
-description = "Ada beberapa asuransi mobil terbaik di kota medan yang bisa anda jadikan pilihan yang tepat untuk mengasuransikan mobil anda, salah satu diantaranya yaitu Garda Oto."
+description = "Ada beberapa asuransi mobil terbaik di medan yang bisa anda jadikan pilihan yang tepat untuk mengasuransikan mobil anda, salah satu diantaranya yaitu Garda Oto."
 image = "/wp-image/asuransi-mobil-terbaik-di-medan-2021-09-03.jpg"
 related = "inherit"
 sidebar = "inherit"
 slug = "/asuransi-mobil-terbaik-di-medan/09/03/2021"
-stt2 = ""
-tags = []
+stt2 = "asuransi sinar mas medan, asuransi all risk garda oto, asuransi mobil kota medan"
+tags = ["garda oto", "asuransi central asia", "garda center"]
 title = "3 Daftar Asuransi Mobil Terbaik di Medan 2021"
 
 +++
-
-[**Emakbloger.com**](/) - Semakin bertambahnya cumlah kendaraan di Indonesia membuat perusaan asuransi membangun beberapa cara di berbagai daerah yang ada di Indonesia, salah satunya ada Asuransi mobil terbaik di Medan 2021.
+[**Emakbloger.com**](/) - Semakin bertambahnya jumlah kendaraan di Indonesia membuat perusaan asuransi membangun beberapa cabang di berbagai daerah yang ada di Indonesia, salah satunya ada Asuransi mobil terbaik di Medan 2021.
 
 Dari berbagai asuransi mobil tersebut, tentunya yang mengisi dan menjadi teratas adalah perusahaan - perusahaan asuransi yang sudah lama berdiri di Indonesia, salah satunya Garda Oto.
 
@@ -30,9 +29,9 @@ Dari sekian banyaknya perusahaan asuransi mobil terbaik di Indonesia, tiga di an
 
 ### 1. Asuransi Astra (Garda Oto)
 
-![asuransi mobil terbaik di medan](/wp-image/1-2021-09-03.jpg "asuransi mobil terbaik di medan")
+![asuransi astra grada oto selalu menjadi terdepan jika berbicara soal asuransi mobil, dan saat ini telah membuka carabang medan dan menjadi salah dari perusaan asuransi mobil terbaik di medan](/wp-image/1-2021-09-03.jpg "asuransi mobil terbaik di medan")
 
-Garda Oto merupakan perusaan asuransi yang didirikan sejak 1995. Dan sekarang perusaan asuransi tersebut sudah memekarkan sayap di medan dengan tujuan memberi pelayanan perlindungan terbaik kepada masyarakat. Untuk itu kami memasukkan Asuransi Astra dalam list asurans mobil terbaik di medan.
+[Garda Oto](/tags/garda-oto) merupakan perusaan asuransi yang didirikan sejak 1995. Dan sekarang perusaan asuransi tersebut sudah memekarkan sayap di medan dengan tujuan memberi pelayanan perlindungan terbaik kepada masyarakat. Untuk itu kami memasukkan Asuransi Astra dalam list asurans mobil terbaik di medan.
 
 Bahkan Asuransi Astra (Garda Oto) tidak hanya melayani perlindungan untuk asuransi mobil saja, ada banyak produk yang bisa anda pilih. Mulai dari perlindungan mobil, Asuransi perjalanan, Asuransi rumah, asuransi diri, hingga asuransi pendidikan yang bisa anda pilih.
 
@@ -40,19 +39,19 @@ Bahkan Asuransi Astra (Garda Oto) tidak hanya melayani perlindungan untuk asuran
 
 Selain menjadi salah satu perusaan asuransi terbaik di Indonesia 2021, Asuransi Astra (Garda Oto) juga memiliki banyak keuntungan yang di dapat jika membeli produk asuransi mereka.
 
-- Terpercaya dan sudah terdaftar di Otoritas Jasa Keuangan (OJK).
-- Berbagai jenis pilihan proteksi. Proses cepat dan bisa dilakukan
-- secara online. Premi terjangkau dan disertai banyak promo
-- menarik. Jaringan luas dan memiliki banyak bengkel rekanan.
-- Bantuan darurat siap siaga hingga 24 jam.
-- Mendapatkan garansi perbaikan dan suku cadang mobil asli.
-- Mendapatkan mobil pengganti selama mobil nasabah dalam perbaikan.
+* Terpercaya dan sudah terdaftar di Otoritas Jasa Keuangan (OJK).
+* Berbagai jenis pilihan proteksi. Proses cepat dan bisa dilakukan
+* secara online. Premi terjangkau dan disertai banyak promo
+* menarik. Jaringan luas dan memiliki banyak bengkel rekanan.
+* Bantuan darurat siap siaga hingga 24 jam.
+* Mendapatkan garansi perbaikan dan suku cadang mobil asli.
+* Mendapatkan mobil pengganti selama mobil nasabah dalam perbaikan.
 
 #### Kontak & Alamat Cabang Medan
 
-- Alamat: Asuransi Astra (Garda Oto) - Branch Medan, Jl. Imam Bonjol No.15 A, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20112
-- Phone: 1 500 112
-- Email: cs@asuransiastra.com
+* Alamat: Asuransi Astra (Garda Oto) - Branch Medan, Jl. Imam Bonjol No.15 A, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20112
+* Phone: 1 500 112
+* Email: cs@asuransiastra.com
 
 {{< ads1 >}}
 
@@ -64,24 +63,24 @@ Ada begitu banyak keuntungan yang bisa anda dapatkan jika memilih dan membeli pr
 
 ![asuransi mobil terbaik di kota medan](/wp-image/2-2021-09-03.jpg "asuransi mobil terbaik di kota medan")
 
-Selanjutnya dari asuransi mobil terbaik di medan menurut versi Emakbloger.com ada Asuransi Central Asia (ACA). ACA sudah lama berdiri dan memberi pelayanan terbaik mereka sejak 29 Agustus 1956. Asuransi Central Asia (ACA) memang layak anda pertimbangkan untuk membeli produk asuransi mobil mereka.
+Selanjutnya dari asuransi mobil terbaik di medan menurut versi [Emakbloger.com](/) ada [Asuransi Central Asia (ACA)](/tags/asuransi-central-asia). ACA sudah lama berdiri dan memberi pelayanan terbaik mereka sejak 29 Agustus 1956. Asuransi Central Asia (ACA) memang layak anda pertimbangkan untuk membeli produk asuransi mobil mereka.
 
 Selain itu, Asuransi ACA memiliki 1 kantor pusat, 2 kantor pusat operasional, dan 43 kantor cabang salah satunya yang ada di Medan. ACA juga memiliki banyak keuntungan yang bisa anda dapatkan jika menjadi tertanggung dari perusaah tersebut.
 
 #### Keuntungan
 
-- Layanan Hotline hingga 24 jam yang siap melayani anda jika terjadi gangguan darurat atau kerusakan pada mobil anda.
-- Memiliki Kantor Cabang dan Perwakilan yang tersebar di seluruh wilayah Indonesia, termasuk di Medan.
-- Setiap pembelian produk asuransi ACA, nasabah akan mendapatkan poin reward yang dapat ditukarkan dengan merchandise menarik.
-- Memiliki banyak bengkel rekanan.
-- Memiliki mobil pengganti, sehingga Anda tetap bisa beraktifitas ketika mobil masuk bengkel.
-- Memiliki begitu banyak partner perusahaan besar yang mempercayakan perlindungan asuransinya kepada ACA.
+* Layanan Hotline hingga 24 jam yang siap melayani anda jika terjadi gangguan darurat atau kerusakan pada mobil anda.
+* Memiliki Kantor Cabang dan Perwakilan yang tersebar di seluruh wilayah Indonesia, termasuk di Medan.
+* Setiap pembelian produk asuransi ACA, nasabah akan mendapatkan poin reward yang dapat ditukarkan dengan merchandise menarik.
+* Memiliki banyak bengkel rekanan.
+* Memiliki mobil pengganti, sehingga Anda tetap bisa beraktifitas ketika mobil masuk bengkel.
+* Memiliki begitu banyak partner perusahaan besar yang mempercayakan perlindungan asuransinya kepada ACA.
 
 #### Alamat & Kontak Cabang Medan
 
-- Alamat: Komplek Serdang Mas, Jl. Prof. HM. Yamin Sh A No.1, Sei Kera Hulu, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20233.
-- Phone: 021-31999100
-- Email: cust-aca@aca.co.id
+* Alamat: Komplek Serdang Mas, Jl. Prof. HM. Yamin Sh A No.1, Sei Kera Hulu, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20233.
+* Phone: 021-31999100
+* Email: cust-aca@aca.co.id
 
 {{< ads2 >}}
 
@@ -93,7 +92,7 @@ Sekilas tentang ACA, perusaan yang sudah berumur lebih dari setengah abad ini me
 
 ![Asuransi Astra](/wp-image/3-2021-09-03.jpg "Asuransi Astra")
 
-Dan yang terakhir dari asuransi mobil terbaik di medan ada Asuransi Astra Garda Center. Beberapa dari Anda pasti memiliki aset seperti kendaraan bermotor yang tentunya tidak lepas dari resiko seperti kecelakaan lalu lintas, pencurian dll.
+Dan yang terakhir dari asuransi mobil terbaik di medan ada [Asuransi Astra Garda Center](/tags/garda-center). Beberapa dari Anda pasti memiliki aset seperti kendaraan bermotor yang tentunya tidak lepas dari resiko seperti kecelakaan lalu lintas, pencurian dll.
 
 Bagi Anda yang berencana mengasuransikan mobil Anda, sebaiknya Anda mengetahui terlebih dahulu jenis asuransi mobil Astra Garda Center yang dapat anda pilih, yaitu:
 
@@ -105,25 +104,25 @@ Secara definisi Total Loss Only (TLO) artinya “hanya kehilangan total”. Dala
 
 Comprehensive dapat diartikan keseluruhan risiko. Ini berarti perusahaan asuransi akan membayar klaim untuk semua jenis kerusakan, mulai dari yang ringan, rusak berat, hingga kehilangan. Agar perlindungan terhadap mobil lebih optimal, Anda bisa menambahkan perluasan jaminan dalam polis asuransi Anda. Perluasan jaminan ini diantaranya meliputi:
 
-- Kerusuhan, Huru-hara.
-- Angin topan, badai, banjir & tanah longsor.
-- Gempa bumi, tsunami, letusan gunung berapi.
-- Tanggung Jawab Hukum Pihak ke-3.
+* Kerusuhan, Huru-hara.
+* Angin topan, badai, banjir & tanah longsor.
+* Gempa bumi, tsunami, letusan gunung berapi.
+* Tanggung Jawab Hukum Pihak ke-3.
 
 #### Keuntungan Garda Center
 
 Sebagai perusaan yang sudah cukup ternama, Asuransi Astra Garda Center nemawarkan banyak keuntungan bagi nasabah mereka, yaitu:
 
-- Cara klaim asuransi sangat mudah dan bisa anda lakukan melalui aplikasi.
-- Memberikan akses pelayanan hingga 24 jam.
-- Layanan bantuan darurat.
-- Garansi hasil kerja bengkel dan suku cadang pergantian dengan suku cadang asli.
+* Cara klaim asuransi sangat mudah dan bisa anda lakukan melalui aplikasi.
+* Memberikan akses pelayanan hingga 24 jam.
+* Layanan bantuan darurat.
+* Garansi hasil kerja bengkel dan suku cadang pergantian dengan suku cadang asli.
 
 #### Alamat & Kontak Cabang Medan
 
-- Alamat: Asuransi Astra (Garda Center) - Brastagi Supermarket, Brastagi Supermarket Lantai GF samping, Jl. Gatot Subroto, Sei Putih Tengah, Medan Petisah, Medan City, North Sumatra 20112.
-- Phone: 1 500 112
-- Email: cs@asuransiastra.com
+* Alamat: Asuransi Astra (Garda Center) - Brastagi Supermarket, Brastagi Supermarket Lantai GF samping, Jl. Gatot Subroto, Sei Putih Tengah, Medan Petisah, Medan City, North Sumatra 20112.
+* Phone: 1 500 112
+* Email: cs@asuransiastra.com
 
 {{< ads3 >}}
 

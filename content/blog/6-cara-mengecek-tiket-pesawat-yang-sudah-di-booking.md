@@ -1,7 +1,7 @@
 +++
 author = "Amanda"
 author_image = "/author/amanda.jpg"
-categories = "tips"
+categories = "serba serbi"
 date = 2021-08-26T15:17:57Z
 description = "berikut beberapa cara mengecek tiket pesawat yang sudah di booking untuk semua maskapai penerbangan yang ada di Indonesia, selengkapnya bisa anda simak pada artikel dibawah ini."
 image = "/wp-image/cara-mengecek-tiket-pesawat-yang-sudah-di-booking-2021-08-26.jpg"
