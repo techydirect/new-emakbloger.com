@@ -1,0 +1,41 @@
+{{ $judul := .Get "judul" }}
+{{ $des := .Get "des" }}
+
+<style>
+    .faq3 {
+    width: 100%;
+}
+
+.faq3 .faq-heading3 {
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .faq3 .hilang {
+        display: none;
+        border: 1px #000 solid;
+    }
+    .faq3 button {
+        height: 25px;
+    }
+</style>
+
+<div class="faq3">
+    <div class="faq-heading3">
+        <h6>{{$judul}}</h6>
+        <button onclick="faq3()">
+            <img src="{{ "asset/arrow.png" | absURL }}" alt="">
+        </button>
+    </div>
+    <div class="faq-paragraf3 hilang">
+        <p>
+            {{$des}}
+        </p>
+    </div>
+</div>
+
+<script>
+    function faq3(){
+        document.querySelector('.faq-paragraf3').classList.toggle('hilang');
+    }
+</script>
