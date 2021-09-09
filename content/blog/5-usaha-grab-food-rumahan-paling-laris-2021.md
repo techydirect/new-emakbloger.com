@@ -122,4 +122,4 @@ Nah, itulah pembahasan singkat dari kami mengenai usaha Grab food rumahan paling
 
 {{< faq3 judul="Berapa lama proses pendaftaran Grab food?" des="Jika anda mendaftarkan usaha Grab food rumahan anda melalui laman resmi Grabfood, proses Verisikasi akan dikirim ke email yang anda daftarkan 5 sampai 8 hari kerja" >}}
 
-{{< faq4 judul="Apa saja syarat daftar Grabfood?" des="Syarat yang perlu anda lengkapi Yaitu:" list="- Informasi restoran anda. - Informasi data diri. Serta informasi pembayaran" >}}
+{{< faq4 judul="Apa saja syarat daftar Grabfood?" des="Syarat yang perlu anda lengkapi Yaitu:" list="- Informasi restoran anda. - Informasi data diri. - Serta informasi pembayaran" >}}
