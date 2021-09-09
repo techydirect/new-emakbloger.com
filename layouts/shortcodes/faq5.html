@@ -1,6 +1,6 @@
 {{ $judul := .Get "judul" }}
 {{ $des := .Get "des" }}
-
+{{ $list := .Get "list" }}
 <style>
     .faq5 {
     width: 100%;
@@ -28,9 +28,10 @@
         </button>
     </div>
     <div class="faq-paragraf5 hilang">
-        <p>
-            {{$des}}
-        </p>
+        <p>{{$des}}</p>
+        <ul>
+            {{ replace $list "." "<br>" | safeHTML }}
+        </ul>
     </div>
 </div>
 
