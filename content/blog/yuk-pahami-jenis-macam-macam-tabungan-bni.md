@@ -456,3 +456,13 @@ Bunga tersedia dan dapat ditransfer ke rekening tabungan, rekening giro atau pen
 Nah, itulah 14 jenis dan macam - macam tabungan BNI serta fitur dan keuntungannya yang dapat anda pilih sesuai kebutuhan anda. Apakah anda tertarik menabung di BNI?
 
 Semoga bermanfaat dan dapat menambah wawasan anda :)
+
+## FAQ
+
+{{< faq judul="Apa saja jenis Tabungan BNI?" des="Ada 14 jenis tabungan BNI, Yitu:" list="- BNI Taplus. - BNI Taplus - Bisnis. - BNI Taplus Muda. - BNI Taplus Anak. - BNI Pandai. - BNI Tapenas. - BNI Dollar. - BNI Haji. - BNI Tappa. - BNI Simpanan Pelajar. - BNI Tabunganku. - BNI Giro. - BNI Deposito." >}}
+
+{{< faq2 judul="Berapa potongan tabungan Bank BNI per bulan?" des="Biaya potongan administrasi tabungan Bank BNI tergantung dari jenis Rekening" >}}
+
+{{< faq3 judul="Apa saja syarat membuat ATM BNI?" des="E-KTP menjadi syarat utama untuk membuat ATM BNI" >}}
+
+{{< faq4 judul="Berapa bunga menabung di BNI?" des="Bunga yang bisa anda dapatkan tergantung dari jumlah saldo dan rekening yang anda miliki" >}}
