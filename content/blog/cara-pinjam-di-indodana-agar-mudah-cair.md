@@ -60,7 +60,7 @@ Sama halnya seperti [aplikasi pinjaman online tercepat](https://www.emakbloger.c
 * Memiliki rekening atas nama pribadi.
 * Tinggal atau berdomisili diarea layanan Indodana.
 
-### Wilayan Jangkauan Indodana
+### Wilayah Jangkauan Indodana
 
 Saat ini Indodana melayani [pinjaman online terpercaya bunga rendah](https://www.emakbloger.com/pinjaman-online-terpercaya-bunga-rendah/08162021/) cepat cair yang dapat anda ajukan pada wilayah yang merupakan operasional mereka, Berikut selengkapnya.
 
