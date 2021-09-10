@@ -49,6 +49,3 @@ package = "netlify-plugin-image-optim"
 		"bing",
 		"yandex"
 	]
-
-[[plugins]]
-package = "netlify-plugin-hashfiles"
