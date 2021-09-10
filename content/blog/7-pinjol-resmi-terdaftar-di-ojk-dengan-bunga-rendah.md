@@ -79,7 +79,7 @@ Selanjunya dari pinjol resmi OJK bunga rendah ada DanaFix yang dapat menjadi pil
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=id.danafix.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.danafix.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-danafix/09112021" text="Ajukan Pinjaman" >}}
 
 {{% /center %}}
 
