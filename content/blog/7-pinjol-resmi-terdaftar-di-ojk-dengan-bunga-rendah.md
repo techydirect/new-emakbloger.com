@@ -5,13 +5,14 @@ categories = "pinjol"
 date = 2021-08-19T20:46:04Z
 description = "Adanya Pinjol resmi OJK bunga rendah cukup membatu kita dalam hal kebutuhan finansial seperti dana mendesak. Selain faktor bunga yang ditawarkan rendah, proses pengajuanpun lebih mudah dibandingkan meminjam dana di Bank"
 image = "/wp-image/pinjol-resmi-ojk-bunga-rendah-2021-08-19.jpg"
+related = ""
+sidebar = ""
 slug = "/pinjol-resmi-ojk-bunga-rendah/08202021"
 stt2 = ""
 tags = []
 title = "7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah"
 
 +++
-
 [**Emakbloger.com**](/) - Semakin majunya teknologi seperti sekarang ini menjadi angin segar bagi anda penikmat teknologi. Bukti dari kemajuan teknologi tersebut dapat kita lihat pada contoh kecil seperti pinjol resmi OJK bunga rendah.
 
 Ya, adanya [aplikasi pinjaman online bunga rendah](https://www.emakbloger.com/aplikasi-pinjaman-online-bunga-rendah/08142021/ "aplikasi pinjaman online bunga rendah") semakin mempermudah kita dalam membutuhakn dana cepat dengan pencairan mudah. Pinjaman online semakin popoler saat ini jika dibandingkan dengan meminjam uang di Bank konvensional. Selain proses pencairan yang muda, syaratnya juga terbilang ringan.
@@ -38,33 +39,33 @@ Selain itu, Indodana juga merupakan [pinjol resmi bunga rendah](https://www.emak
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-indodana/09102021" text="Ajukan Pinjaman" >}}
 
 {{% /center %}}
 
 #### Fitur Indodana
 
-- Plafon Pinjaman hingga 8 juta rupiah
-- Tenor Pinjaman mulai dari 3 bulan
-- Pencairan Pinjaman yang cepat
-- Suku Bunga yang Kompetitif
+* Plafon Pinjaman hingga 8 juta rupiah
+* Tenor Pinjaman mulai dari 3 bulan
+* Pencairan Pinjaman yang cepat
+* Suku Bunga yang Kompetitif
 
 #### Syarat Pengajuan
 
-- Pendapatan minimum Rp3.500.000/bulan.
-- Usia pemohon harus diatas 21 tahun.
-- Usia pemohon dibawah 50 tahun pada saat masa pelunasan.
-- Memiliki KTP & NPWP.
-- Memiliki pekerjaan tetap.
-- Memiliki akun bank atas nama sendiri.
+* Pendapatan minimum Rp3.500.000/bulan.
+* Usia pemohon harus diatas 21 tahun.
+* Usia pemohon dibawah 50 tahun pada saat masa pelunasan.
+* Memiliki KTP & NPWP.
+* Memiliki pekerjaan tetap.
+* Memiliki akun bank atas nama sendiri.
 
 #### Dokumen yang di perlukan
 
-- Foto KTP.
-- Foto Selfie.
-- Akun BPJS.
-- Akun e-commerce.
-- Akun internet banking.
+* Foto KTP.
+* Foto Selfie.
+* Akun BPJS.
+* Akun e-commerce.
+* Akun internet banking.
 
 {{< read judul="7 Aplikasi Pinjaman Online Bunga Rendah cepat Cair" link="/aplikasi-pinjaman-online-bunga-rendah/08142021/" gambar="/wp-image/aplikasi-pinjaman-online-bunga-rendah-2021-08-14.jpg" >}}
 
@@ -84,29 +85,29 @@ Selanjunya dari pinjol resmi OJK bunga rendah ada DanaFix yang dapat menjadi pil
 
 #### Produk Pinjaman
 
-- Pinjaman uang cash online: Rp 500.000 - Rp 10.000.000
-- Jangka waktu pinjaman: 91-180 hari
-- Bunga rendah (maksimum) : 180% per tahun
-- Maximum Annual Percentage Rate (APR) - 180% per year
-- Area jangkauan: mencakup seluruh wilayah Indonesia
+* Pinjaman uang cash online: Rp 500.000 - Rp 10.000.000
+* Jangka waktu pinjaman: 91-180 hari
+* Bunga rendah (maksimum) : 180% per tahun
+* Maximum Annual Percentage Rate (APR) - 180% per year
+* Area jangkauan: mencakup seluruh wilayah Indonesia
 
 #### Fitur DanaFix
 
-- Plafon Pinjaman Rp500 ribu hingga Rp10 juta
-- Tenor pinjaman mulai dari 3 - 6 bulan
-- Pencairan pinjaman cepat (kurang dari sehari)
-- Proses pengajuan hanya 7 menit
-- Persyaratan: KTP saja
+* Plafon Pinjaman Rp500 ribu hingga Rp10 juta
+* Tenor pinjaman mulai dari 3 - 6 bulan
+* Pencairan pinjaman cepat (kurang dari sehari)
+* Proses pengajuan hanya 7 menit
+* Persyaratan: KTP saja
 
 #### Syarat Pinjaman
 
-- Warga Negara Indonesia.
-- Memiliki KTP.
-- Berusia minimal 18 tahun.
+* Warga Negara Indonesia.
+* Memiliki KTP.
+* Berusia minimal 18 tahun.
 
 #### Dokumen
 
-- Foto KTP.
+* Foto KTP.
 
 {{< read judul="5 Aplikasi Pinjaman Online Langsung Cair 24 Jam" link="/aplikasi-pinjaman-online-langsung-cair/08152021/" gambar="/wp-image/aplikasi-pinjaman-online-langsung-cair-2021-08-14.jpg" >}}
 
@@ -126,30 +127,30 @@ Apakah anda sedang mencari pinjol resmi OJK bunga rendah pencairan cepat? Atau A
 
 #### Keunggulan Kredit Pintar
 
-- Tanpa Agunan
-- Bunga dan Biaya Layanan Rendah
-- Cepat dan Praktis
-- KTA yang Aman
-- Pembayaran Mudah
-- Layanan Customer Service 24 Jam
-- Privasi dan Keamanan Terjamin
+* Tanpa Agunan
+* Bunga dan Biaya Layanan Rendah
+* Cepat dan Praktis
+* KTA yang Aman
+* Pembayaran Mudah
+* Layanan Customer Service 24 Jam
+* Privasi dan Keamanan Terjamin
 
 #### Fitur Kredit Pintar
 
-- Plafon Pinjaman hingga Rp20 juta
-- Tenor Pinjaman dari 91 sampai 360 hari
-- Pencairan Pinjaman dalam hitungan menit
+* Plafon Pinjaman hingga Rp20 juta
+* Tenor Pinjaman dari 91 sampai 360 hari
+* Pencairan Pinjaman dalam hitungan menit
 
 #### Syarat pengajuan
 
-- WNI.
-- Berusia minimal 18 Tahun.
-- Berdomisili di Indonesia.
+* WNI.
+* Berusia minimal 18 Tahun.
+* Berdomisili di Indonesia.
 
 #### Dokumen Pengajuan
 
-- KTP/e-KTP.
-- Rekening Bank atas nama Anda.
+* KTP/e-KTP.
+* Rekening Bank atas nama Anda.
 
 {{< read judul="15 Pinjol Terbaik Bunga Rendah Terdaftar di OJK" link="/pinjol-bunga-rendah-ojk/08152021/" gambar="/wp-image/pinjol-bunga-rendah-ojk-2021-08-15.jpg" >}}
 
@@ -169,32 +170,32 @@ Berdiri sejak tahun 2016, pinjol resmi OJK bunga rendah PT. JULO Financial Techn
 
 #### Keunggulan Julo
 
-- Limit Pinjaman Online Tinggi
-- Suku Bunga Rendah
-- Cashback Jika Bayar Cicilan Lebih Awal
-- Tenor Pinjaman hingga 6 Bulan
+* Limit Pinjaman Online Tinggi
+* Suku Bunga Rendah
+* Cashback Jika Bayar Cicilan Lebih Awal
+* Tenor Pinjaman hingga 6 Bulan
 
 #### Fitur Julo
 
-- Plafon Pinjaman hingga Rp8 juta
-- Tenor Pinjaman hingga 6 bulan
-- Pencairan Pinjaman dalam 1-2 hari
+* Plafon Pinjaman hingga Rp8 juta
+* Tenor Pinjaman hingga 6 bulan
+* Pencairan Pinjaman dalam 1-2 hari
 
 #### Syarat Pengajuan
 
-- Usia minimal 21 tahun.
-- Domisili di wilayah layanan pinjaman uang Julo.
-- Memiliki penghasilan tetap.
-- Memiliki rekening pribadi.
+* Usia minimal 21 tahun.
+* Domisili di wilayah layanan pinjaman uang Julo.
+* Memiliki penghasilan tetap.
+* Memiliki rekening pribadi.
 
 #### Dokumen
 
-- KTP.
-- Pemindaian wajah.
-- Verifikasi informasi bank.
-- Kartu tanda karyawan.
-- Informasi kontak keluarga/teman dekat/teman kantor.
-- Detail informasi bank.
+* KTP.
+* Pemindaian wajah.
+* Verifikasi informasi bank.
+* Kartu tanda karyawan.
+* Informasi kontak keluarga/teman dekat/teman kantor.
+* Detail informasi bank.
 
 {{< read judul="5 Daftar Pinjol Resmi Bunga Rendah 2021" link="/pinjol-resmi-bunga-rendah/08152021/" gambar="/wp-image/pinjol-resmi-bunga-rendah-2021-08-15.jpg" >}}
 
@@ -216,31 +217,31 @@ Kreditcepat adalah perusahaan pinjol resmi OJK bunga rendah jangka pendek berbas
 
 #### Keunggulan Kredit Cepat
 
-- Prosedur yang Cepat
-- Proses yang Mudah
-- Pinjaman Tanpa Agunan
-- Aman dan Terpercaya
+* Prosedur yang Cepat
+* Proses yang Mudah
+* Pinjaman Tanpa Agunan
+* Aman dan Terpercaya
 
 #### Fitur
 
-- Plafon Pinjaman hingga Rp8 juta
-- Tenor Pinjaman mulai 95 hingga 120 hari
-- Pencairan Pinjaman dalam 1 hari
+* Plafon Pinjaman hingga Rp8 juta
+* Tenor Pinjaman mulai 95 hingga 120 hari
+* Pencairan Pinjaman dalam 1 hari
 
 #### Syarat Pengajuan
 
-- Usia 21-55 tahun.
-- Memiliki E-KTP.
-- Berdomisili dan bekerja di Indonesia.
-- Memiliki dan dapat membuktikan pendapata bulanan (slip gaji).
+* Usia 21-55 tahun.
+* Memiliki E-KTP.
+* Berdomisili dan bekerja di Indonesia.
+* Memiliki dan dapat membuktikan pendapata bulanan (slip gaji).
 
 #### Dokumen
 
-- Informasi pribadi.
-- Informasi Rekening Bank.
-- Informasi pekerjaan.
-- Informasi kontak.
-- Upload foto pribadi.
+* Informasi pribadi.
+* Informasi Rekening Bank.
+* Informasi pekerjaan.
+* Informasi kontak.
+* Upload foto pribadi.
 
 {{< read judul="10 Pinjaman Online Terpercaya Bunga Rendah 2021" link="/pinjaman-online-terpercaya-bunga-rendah/08162021/" gambar="/wp-image/pinjaman-online-terpercaya-bunga-rendah-2021-08-15.jpg" >}}
 
@@ -266,29 +267,29 @@ Juga anda tidak perlu khawatir mengenai keamanan data diri anda karena Rupiah Ce
 
 #### Keunggulan Rupiah Cepat
 
-- Tanpa Jaminan
-- Mudah dan Cepat
-- Pelayanan Berkualitas dan Cepat
-- Terpercaya
-- Aman dan Konfidensial
+* Tanpa Jaminan
+* Mudah dan Cepat
+* Pelayanan Berkualitas dan Cepat
+* Terpercaya
+* Aman dan Konfidensial
 
 #### Fitur Rupiah Cepat
 
-- Plafon Pinjaman hingga Rp10 juta
-- Tenor Pinjaman hingga 1 tahun
-- Suku Bunga Kompetitif
+* Plafon Pinjaman hingga Rp10 juta
+* Tenor Pinjaman hingga 1 tahun
+* Suku Bunga Kompetitif
 
 #### Syarat Pengajuan
 
-- WNI.
-- Berusia minimal 18 Tahun.
-- Berdomisili di Indonesia.
-- Memiliki KTP.
+* WNI.
+* Berusia minimal 18 Tahun.
+* Berdomisili di Indonesia.
+* Memiliki KTP.
 
 #### Dokumen
 
-- KTP/e-KTP.
-- Rekening Bank atas nama Anda.
+* KTP/e-KTP.
+* Rekening Bank atas nama Anda.
 
 {{< read judul="11 Aplikasi Pinjol Bunga Paling Rendah 2021" link="/aplikasi-pinjol-bunga-rendah/08172021/" gambar="/wp-image/aplikasi-pinjol-bunga-rendah-2021-08-16.jpg" >}}
 
@@ -310,32 +311,32 @@ FINMAS adalah platform atau aplikasi yang masuk [daftar pinjol legal ojk](https:
 
 #### Keunggulan Finmas
 
-- Mudah Diajukan dan Tanpa Jaminan
-- Pembayaran Mudah
-- Keamanan Data Terjamin
-- Cicilan  Barang   Tanpa Kartu Kredit
+* Mudah Diajukan dan Tanpa Jaminan
+* Pembayaran Mudah
+* Keamanan Data Terjamin
+* Cicilan  Barang   Tanpa Kartu Kredit
 
 #### Fitur Finmas
 
-- Plafon Pinjaman Hingga Rp5 Juta
-- Tenor Pinjaman dari 90 - 180 hari
-- Pencairan Pinjaman dalam 3 hari kerja
+* Plafon Pinjaman Hingga Rp5 Juta
+* Tenor Pinjaman dari 90 - 180 hari
+* Pencairan Pinjaman dalam 3 hari kerja
 
 #### Syarat Pengajuan
 
-- WNI.
-- Berusia minimal 21 Tahun.
-- Berdomisili di Indonesia.
-- Memilki pendapatan tetap.
+* WNI.
+* Berusia minimal 21 Tahun.
+* Berdomisili di Indonesia.
+* Memilki pendapatan tetap.
 
 #### Dokumen
 
-- KTP/e-KTP.
-- Slip Gaji atau Kartu Pegawai.
-- SIM/Paspor.
-- NPWP.
-- BPJS/KIS.
-- Rekening Bank atas nama Anda.
+* KTP/e-KTP.
+* Slip Gaji atau Kartu Pegawai.
+* SIM/Paspor.
+* NPWP.
+* BPJS/KIS.
+* Rekening Bank atas nama Anda.
 
 {{< read judul="5 Aplikasi Pinjaman Online Bunga Ringan Cepat Cair" link="/aplikasi-pinjaman-online-bunga-ringan/08192021/" gambar="/wp-image/aplikasi-pinjaman-online-bunga-ringan-2021-08-19.jpg" >}}
 
