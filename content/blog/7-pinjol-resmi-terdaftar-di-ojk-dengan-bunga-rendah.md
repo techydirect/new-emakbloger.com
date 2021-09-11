@@ -121,7 +121,7 @@ Apakah anda sedang mencari pinjol resmi OJK bunga rendah pencairan cepat? Atau A
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-kredit-pintar/09112021" text="Ajukan Pinjaman" >}}
 
 {{% /center %}}
 
