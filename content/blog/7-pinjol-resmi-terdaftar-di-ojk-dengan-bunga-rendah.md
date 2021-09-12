@@ -211,7 +211,7 @@ Kreditcepat adalah perusahaan pinjol resmi OJK bunga rendah jangka pendek berbas
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=id.co.kreditcepat.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=id.co.kreditcepat.mobile&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/pinjaman-online-kredit-cepat/09122021/" text="Ajukan Pinjaman" >}}
 
 {{% /center %}}
 
