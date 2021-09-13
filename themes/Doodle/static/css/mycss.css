@@ -44,7 +44,7 @@ img:not([src]):not([srcset]){visibility: hidden;}img{max-width: 100%;height: aut
   height: 28px;
   top: -28px;
   right: 0;
-  background-image: url("xxxxxxx/wp-content/uploads/2021/04/close.jpg");
+  background-image: url("https://img.icons8.com/windows/28/fa314a/macos-close.png");
   background-size: 13px 13px;
   background-position: 9px;
   background-color: #fff;
