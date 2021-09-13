@@ -11,7 +11,7 @@ img:not([src]):not([srcset]){visibility: hidden;}img{max-width: 100%;height: aut
     left: 0;
     width: 100%;
     z-index: 99999999;
-    max-height: 104px;
+    height: 80px;
     background-image: none;
     background-color: #fff;
     margin-bottom: 0;
@@ -61,11 +61,7 @@ img:not([src]):not([srcset]){visibility: hidden;}img{max-width: 100%;height: aut
   left: -20px;
   bottom: 0;
 }
-* {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
+
 :active,
 :focus {
   outline: 0
