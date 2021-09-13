@@ -14,7 +14,6 @@ img:not([src]):not([srcset]){visibility: hidden;}img{max-width: 100%;height: aut
     max-height: 104px;
     background-image: none;
     background-color: #fff;
-    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
     margin-bottom: 0;
     padding-top: 4px;
     transition: all .4s ease-in-out;
@@ -50,9 +49,7 @@ img:not([src]):not([srcset]){visibility: hidden;}img{max-width: 100%;height: aut
   background-position: 9px;
   background-color: #fff;
   background-repeat: no-repeat;
-  box-shadow: 0 -1px 1px 0 rgba(0, 0, 0, 0.2);
   border: none;
-  border-radius: 12px 0 0 0;
   cursor: pointer;
 }
 
