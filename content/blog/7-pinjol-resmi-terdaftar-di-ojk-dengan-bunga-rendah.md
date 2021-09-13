@@ -261,7 +261,7 @@ Juga anda tidak perlu khawatir mengenai keamanan data diri anda karena Rupiah Ce
 
 {{% center %}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-blue link="https://www.emakbloger.com/daftar-pinjol-legal-ojk/08252021/" text="Cek di OJK" >}} | {{< btn-orange link="https://www.emakbloger.com/cara-pinjam-di-rupiah-cepat/09132021" text="Ajukan Pinjaman" >}}
 
 {{% /center %}}
 
