@@ -9,7 +9,7 @@ related = ""
 sidebar = ""
 slug = "/pinjol-resmi-ojk-bunga-rendah/08202021"
 stt2 = ""
-tags = []
+tags = ["pinjol ojk", "pinjol resmi", "pinjol terbaik"]
 title = "7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah"
 
 +++
