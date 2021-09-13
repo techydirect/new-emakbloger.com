@@ -10,3 +10,49 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<!-- iklan Melayang di Bawah Untuk Mobile -->
+<style>
+     #lumeyah {
+         bottom: 0;
+         position: fixed;
+         width: 100%;
+         height: 15vh;
+         display: none;
+         text-align: center;
+     }
+     #lumeyah .iklan-google {
+         display: inline-block;
+         z-index: 9999999;
+     }
+     @media screen and (max-width:660px) {
+         #lumeyah {
+             display: inherit;
+             z-index: 9999999;
+         }
+     }
+ </style>
+ 
+ <div id="lumeyah">
+     <div class="close">
+         <a onclick="document.getElementById(&apos;lumeyah&apos;).style.display = &apos;none&apos;;" id="close-link">
+             <img src="https://img.icons8.com/windows/28/fa314a/macos-close.png"/>
+         </a>
+     </div>
+     <!-- komponen Iklan -->
+     <div class="iklan-google">
+         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5309219257065229"
+      crossorigin="anonymous"></script>
+ <!-- footer -->
+ <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-5309219257065229"
+      data-ad-slot="6817172407"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+ <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+ </script>
+     </div>
+     <!-- /komponen Iklan -->
+ <!-- /iklan Melayang di Bawah Untuk Mobile -->
