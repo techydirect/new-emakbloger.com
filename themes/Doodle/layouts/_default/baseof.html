@@ -3,10 +3,10 @@
 <head>
     {{ partial "head.html" . }}
     {{ block "meta" . }} {{ end }}
-    
-    {{ block "css" . }}
-        {{ partialCached "cache/style.html" . }}
-    {{ end }}
+    <link data-optimized="2" rel="stylesheet" href="{{ "/css/doodle.css" | absURL }}"/>
+    <link rel="stylesheet" href="{{ "/css/mycss.css" | absURL }}"/>
+    <link rel="stylesheet" href="{{ "/css/table.css" | absURL }}"/>
+    <link rel="stylesheet" id="mvp-fonts-css" href="{{ "/css/g-font.css" | absURL }}" type="text/css" media="all"/>
     <script type="text/javascript" src="{{ "/js/g-jquery.js" | absURL }}"></script>
     <link rel="apple-touch-icon" sizes="57x57" href="{{ "/fav/apple-icon-57x57.png" | absURL }}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{"/fav/apple-icon-60x60.png" | absURL }}">
