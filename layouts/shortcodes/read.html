@@ -1,19 +1,119 @@
 {{ $judul := .Get "judul" }}
 {{ $link := .Get "link" }}
 {{ $gambar := .Get "gambar" }}
-
-<div style="clear:both; margin-top:0em; margin-bottom:1em;">
-    <a href="{{$link}}" target="" rel="nofollow" class="IRPP_ruby">
-        <div class="postImageUrl" style="background-image:url({{$gambar}});"></div>
-            <div class="centered-text-area">
-                <div class="centered-text">
-                    <div class="IRPP_ruby-content">
-                        <div class="ctaText" style="float:left;">Baca Juga:</div>
-                        <div style="clear:both"></div>
-                        <div class="postTitle" style="float:left;">{{$judul}}</div>
-                    </div>
-                </div>
-            <div class="ctaButton"></div>
+<a href="{{$link}}" target="" rel="nofollow" class="IRPP_button">
+    <style>
+        .IRPP_button ,
+        .IRPP_button .postImageUrl ,
+        .IRPP_button .centered-text-area {
+            min-height: 86px;
+            position: relative;
+            }
+        .IRPP_button ,
+        .IRPP_button:hover ,
+        .IRPP_button:visited ,
+        .IRPP_button:active {
+            border:0!important;
+            }
+        .IRPP_button {
+            display: block;
+            transition: background-color 250ms;
+            webkit-transition: background-color 250ms;
+            width: 100%;
+            opacity: 1;
+            transition: opacity 250ms;
+            webkit-transition: opacity 250ms;
+            background-color: #141414;
+            }
+        .IRPP_button:active ,
+        .IRPP_button:hover {
+            opacity: 1;
+            transition: opacity 250ms;
+            webkit-transition: opacity 250ms;
+            }
+        .IRPP_button .postImageUrl {
+            background-position: center;
+            background-size: cover;
+            float: right;
+            margin: 0;
+            padding: 0;
+            width: 30%;
+            }
+        .IRPP_button .centered-text-area {
+            float: left;
+            width: 70%;
+            padding:0;
+            margin:0;
+            }
+        .IRPP_button .ctaText {
+            border-bottom: 0 solid #fff;
+            color: #FFFFFF;
+            font-size: 13px;
+            font-weight: bold;
+            letter-spacing: .125em;
+            margin: 0;
+            padding: 0;
+            }
+        .IRPP_button .postTitle {
+            color: #ECF0F1;
+            font-size: 16px;
+            font-weight: 600;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            }
+        .IRPP_button .ctaButton {
+            background: #1ABC9C;
+            color: #FFFFFF;
+            border: none;
+            border-radius: 3px;
+            box-shadow: none;
+            font-size: 14px;
+            font-weight: bold;
+            line-height: 26px;
+            margin: 18px 14px 18px 14px;
+            moz-border-radius: 3px;
+            padding: 12px 0;
+            text-align: center;
+            text-decoration: none;
+            text-shadow: none;
+            webkit-border-radius: 3px;
+            width: 80px;
+            position: absolute;
+            }
+        .IRPP_button:hover .ctaButton {
+            background: #16A085;
+            }
+        .IRPP_button .centered-text {
+            display: table;
+            height: 86px;
+            padding:0;
+            margin:0;
+            padding-left: 108px!important;
+            top: 0;
+            }
+        .IRPP_button .IRPP_button-content {
+            display: table-cell;
+            margin: 0;
+            padding: 0;
+            padding-right: 10px;
+            position: relative;
+            vertical-align: middle;
+            width: 100%;
+            }
+        .IRPP_button:after {
+            content: "";
+            display: block;
+            clear: both;
+            }
+    </style>
+    <div class="centered-text-area">
+        <div class="ctaButton" style="float: left;">Terkait:</div>
+        <div class="centered-text" style="float: left;">
+            <div class="IRPP_button-content">
+                <div class="postTitle">{{$judul}}</div>
+            </div>
         </div>
-    </a>
-</div>
+    </div>
+    <div class="postImageUrl" style="background-image:url({{$gambar}});"></div>
+</a>
