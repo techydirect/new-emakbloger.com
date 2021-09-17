@@ -28,6 +28,8 @@ Sedangkan plafon yang ditawarkan Finmas [aplikasi pinjol bunga rendah](https://w
 
 ## Syarat Pinjam di Finmas
 
+![Syarat Pinjam di Finmas](/wp-image/syarat-pinjam-di-finmas-2021-09-17.jpg "Syarat Pinjam di Finmas")
+
 Nah, sebelum kita lanjut ke pembahasan cara pinjam di Finmas, ada beberapa persyaratan yang perlu anda persiapkan untuk segera ajukan [pinjaman online terpercaya bunga rendah](https://www.emakbloger.com/pinjaman-online-terpercaya-bunga-rendah/08162021/) pada Finmas. Syaratnya utamanya yaitu KTP, namun Finmas juga menerima dokumen lain seperti:
 
 * Informasi pribadi, informasi kontak darurat dan informasi pekerjaan.
