@@ -4,7 +4,6 @@ author_image = "/author/febry.jpg"
 categories = "pinjol"
 date = 2021-09-17T12:35:03Z
 description = "Seperti pinjol resmi OJK bunga rendah yang telah kami ulas sebelumnya, cara pinjam di Finmas juga terbilang sangat mudah, bahkan tidak jauh berbeda dengan pinjaman online lainnya"
-draft = true
 image = "/wp-image/finmas-2021-08-15.jpg"
 related = "inherit"
 sidebar = "inherit"
@@ -64,7 +63,7 @@ Setelah anda mengetahui berapa bunga dan syarat untuk pinjam di Finmas, mari kit
 
 {{% center %}}
 
-{{< btn-green link="" text="Instal Aplikasi" >}} | {{< btn-orange link="" text="Cari Pinjaman Lain">}}
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/pinjol-resmi-ojk-bunga-rendah/08202021" text="Cari Pinjaman Lain">}}
 
 {{% /center %}}
 
