@@ -36,7 +36,13 @@ Pinjaman yang ditawarkan dan disetujui akan dikenakan bunga pinjaman rendah sebe
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.koinworks.app&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="5 Aplikasi Pinjaman Online Pencairan Tercepat dan Mudah" link="/aplikasi-pinjaman-online-tercepat/08212021/" gambar="/wp-image/aplikasi-pinjaman-online-tercepat-2021-08-20.jpg" >}}
 
 ### 2. Investree
 
@@ -47,9 +53,14 @@ Selanjutnya dari aplikasi pinjol bunga rendah ada Investree. Suku bunga pinjaman
 Sedangkan untuk pembiayaan penjual online, bunga pinjaman berkisar 0,9 persen per bulan dengan bunga maksimal 24 persen per tahun. Perhitungan bunga ini bisa berbeda-beda tergantung dari hasil penilaian masing-masing peminjam.
 
 Investree juga memiliki produk fasilitas pinjaman online terpercaya bunga rendah untuk karyawan dengan bunga berkisar antara 20 hingga 55% per tahun. Hal ini juga ditentukan dari hasil sistem credit scoring Investree.
+
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.investree&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 3. Modalku
 
@@ -61,7 +72,11 @@ Selain bunga, pinjol resmi ojk bunga rendah ini juga membebankan biaya administr
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.modalku.investor&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 4. KlikACC
 
@@ -73,7 +88,11 @@ Aplikasi pinjaman online bunga ringan ini berfokus pada pembiayaan modal produkt
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.klikacc.flutter&hl=en_US&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 5. Akseleran
 
@@ -85,7 +104,13 @@ Akseleran dapat menyesuaikan jangka waktu pinjaman, jenis jaminan, dan frekuensi
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.akseleran.crowdfund&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah" link="/pinjol-resmi-ojk-bunga-rendah/08202021/" gambar="/wp-image/pinjol-resmi-ojk-bunga-rendah-2021-08-19.jpg" >}}
 
 ### 6. Teralite
 
@@ -99,7 +124,11 @@ Sedangkan Garansi Sepeda Motor BPKB dikenakan bunga flat sebesar 2 persen per bu
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.traveloka.tera&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 7. Aktivaku
 
@@ -116,7 +145,11 @@ Pinjaman online yang masuk dalam daftar pinjol legal ojk ini memiliki banyak pro
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://aktivaku.com/" text="Kunjungi Web" >}}
+
+{{% /center %}}
 
 ### 8. Amartha
 
@@ -128,7 +161,11 @@ Selain masuk dalm daftar pinjol ojk terbaru, Amarta menjembatani mitra yang meng
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.amartha.investor&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 9. Invoila
 
@@ -140,7 +177,13 @@ Caranya adalah dengan mendaftar online di website yang bisa dilakukan dengan cep
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.solmitrafintec.solmitramobile&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="5 Aplikasi Pinjaman Online Bunga Ringan Cepat Cair" link="/aplikasi-pinjaman-online-bunga-ringan/08192021/" gambar="/wp-image/aplikasi-pinjaman-online-bunga-ringan-2021-08-19.jpg" >}}
 
 ### 10. DanaKini
 
@@ -152,7 +195,11 @@ Dengan layanan ini, peminjam dapat membeli barang konsumsi secara mencicil tanpa
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dki.danakini&hl=in&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 11. Modal rakyat
 
@@ -164,7 +211,11 @@ Biaya layanan yang dibebankan oleh Modal Rakyat adalah 3 persen dari jumlah pinj
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.modalrakyat.android&hl=en_US&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ## Kesimpulan
 

@@ -28,8 +28,6 @@ Selain itu, manfaat Asuransi jiwa seumur hidup juga tidak hanya membagikan nilai
 
 {{< read judul="Perbedaan Antara Asuransi Umum dengan Asuransi Syariah" link="/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah/" gambar="/wp-image/perbedaan-antara-asuransi-umum-dengan-asuransi-syariah-2021-07-16.jpg" >}}
 
-- [\*\*\*\*](https://www.emakbloger.com/)
-
 ## Jenis Polis Suransi Jiwa Seumur Hidup
 
 Adapun jenis - jenis polis asuransi jiwa seumur hidup. Di antara lain, polis jiwa langsung( straight life policy) yakni asuransi jiwa seumur hidup yang membayar premi hingga tertanggung meninggal dunia ataupun nasabah mencapai usia maksimal 1 abad.

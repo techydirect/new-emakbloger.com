@@ -13,6 +13,7 @@ tags = []
 title = "Cara Mudah Pinjam Uang di Finmas APK Pinjol"
 
 +++
+
 [**Emakbloger.com**](/) - Finmas adalah pinjaman tunai P2P online lending yang sudah memiliki izin OJK. Seperti [pinjol resmi OJK bunga rendah](https://www.emakbloger.com/pinjol-resmi-ojk-bunga-rendah/08202021/) yang telah kami ulas sebelumnya, cara pinjam di Finmas juga terbilang sangat mudah, bahkan tidak jauh berbeda dengan pinjaman online lainnya.
 
 Finmas merupakan kerjasama antara dua institusi yang memiliki keunggulan masing-masing, Oriente di sisi teknologi dan Sinarmas di sisi permodalan dan Network. Nah, sebelum anda hendak pinjam di [aplikasi pinjaman online tercepat](https://www.emakbloger.com/aplikasi-pinjaman-online-tercepat/08212021/) ini, ada beberapa persyaratan dan fitur yang perlu anda ketahui.
@@ -31,21 +32,23 @@ Sedangkan plafon yang ditawarkan Finmas [aplikasi pinjol bunga rendah](https://w
 
 Nah, sebelum kita lanjut ke pembahasan cara pinjam di Finmas, ada beberapa persyaratan yang perlu anda persiapkan untuk segera ajukan [pinjaman online terpercaya bunga rendah](https://www.emakbloger.com/pinjaman-online-terpercaya-bunga-rendah/08162021/) pada Finmas. Syaratnya utamanya yaitu KTP, namun Finmas juga menerima dokumen lain seperti:
 
-* Informasi pribadi, informasi kontak darurat dan informasi pekerjaan.
-* Rekening bank.
-* Surat Izin Mengemudi (SIM) atau Passport.
-* NPWP
-* Badan Penyelenggara Jaminan Sosial (BPJS) atau Kartu Indonesia Sehat (KIS).
-* Bukti kepegawaian atau Slip gaji.
-* Kartu Kredit atau Kartu Debit yang mencantumkan nama yang sesuai dengan nama Penerima Pinjaman yang tertera pada KTP.
+- Informasi pribadi, informasi kontak darurat dan informasi pekerjaan.
+- Rekening bank.
+- Surat Izin Mengemudi (SIM) atau Passport.
+- NPWP
+- Badan Penyelenggara Jaminan Sosial (BPJS) atau Kartu Indonesia Sehat (KIS).
+- Bukti kepegawaian atau Slip gaji.
+- Kartu Kredit atau Kartu Debit yang mencantumkan nama yang sesuai dengan nama Penerima Pinjaman yang tertera pada KTP.
+
+{{< read judul="Cara Pinjam di Julo Agar Mudah & Cepat Cair" link="/cara-pinjam-di-julo/18262021/" gambar="/wp-image/cara-pinjam-di-aplikasi-julo-2021-08-25.jpg" >}}
 
 ## Bunga Pinjaman Finmas
 
 Pada tahap selanjutnya jika anda ingin mengajukan pinjaman online, patutlah anda ketahui terlebih dahulu besar bunga yang di bebankan kepada nasabah. Nah, untuk Finmas sendiri membebenakan bunga kepada peminjam sebagai berikut.
 
-| Plafon | Tenor | Pelunasan | Bunga |
-| --- | --- | --- | --- |
-| 500,000 | 30 hari | 618,800 | 23,76% |
+| Plafon    | Tenor   | Pelunasan | Bunga  |
+| --------- | ------- | --------- | ------ |
+| 500,000   | 30 hari | 618,800   | 23,76% |
 | 1,000,000 | 30 hari | 1,220,800 | 22,08% |
 | 2,500,000 | 30 hari | 3,052,000 | 22,08% |
 | 3,000,000 | 3 bulan | 4,139,190 | 37,97% |
@@ -73,21 +76,21 @@ Setalah adan menginstal aplikasi [pinjol resmi bunga rendah](https://www.emakblo
 
 Data yang perlu diisi mencakup hal-hal yaitu:
 
-* Nama
-* Jenis Kelamin
-* Tanggal / Tempat Lahir
-* Email
-* Alamat Sesuai KTP
-* Status Perkawinan
-* Pekerjaan
-* Pendidikan
-* Agama
-* Alamat Tempat Tinggal Sekarang
-* Status Hunian (Milik Sendiri, Kontrak)
-* Durasi Menetap
-* Patokan Terdekat (untuk tempat tinggal sekarang)
-* Kepemilikan Aset
-* Penghasilan Bulanan
+- Nama
+- Jenis Kelamin
+- Tanggal / Tempat Lahir
+- Email
+- Alamat Sesuai KTP
+- Status Perkawinan
+- Pekerjaan
+- Pendidikan
+- Agama
+- Alamat Tempat Tinggal Sekarang
+- Status Hunian (Milik Sendiri, Kontrak)
+- Durasi Menetap
+- Patokan Terdekat (untuk tempat tinggal sekarang)
+- Kepemilikan Aset
+- Penghasilan Bulanan
 
 ### 2. Isi Data
 
@@ -97,12 +100,12 @@ Sejumlah data dan informasi harus dilengkapi dalam proses pengajuan di Finmas.
 
 Bagian ini perlu diisi dengan data pekerjaan yang lebih detail, yaitu:
 
-* Alamat Perusahaan
-* Email Kerja (tidak bisa menggunakan gmail atau yahoo)
-* Nomor Telepon Perusahaan
-* Tanggal Mulai Bekerja di Tempat Sekarang
-* Tanggal Gajian
-* Unggah foto bukti pekerjaan
+- Alamat Perusahaan
+- Email Kerja (tidak bisa menggunakan gmail atau yahoo)
+- Nomor Telepon Perusahaan
+- Tanggal Mulai Bekerja di Tempat Sekarang
+- Tanggal Gajian
+- Unggah foto bukti pekerjaan
 
 Tidak ada keterangan soal jenis bukti pekerjaan yang diterima oleh Finmas. Dugaan kami adalah dokumen yang bisa menunjukkan Anda kerja di perusahaan tersebut, seperti slip gaji, SK Pengangkatan atau Kartu Nama.
 
@@ -121,6 +124,8 @@ Cukup mengunggah KTP sebagai dokumen identitas. Tidak perlu mengambil foto selfi
 Informasi rekening yang terkait dengan nama rekening, nomor rekening dan bank harus diisi untuk pertukaran. Finmas akan segera mengecek keakuratan pengisian rekening dan meminta pihak peminjam untuk mengkonfirmasi kebenaran informasi rekening tersebut.
 
 {{< ads3 >}}
+
+{{< read judul="Cara Pinjam di Indodana Agar Mudah Cair" link="/cara-pinjam-di-indodana/09102021/" gambar="/wp-image/indodana-2021-08-15.jpg" >}}
 
 ### 3. Verifikasi Pengajuan
 

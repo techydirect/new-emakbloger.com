@@ -50,8 +50,6 @@ Sedangkan pada asuransi konvensional, premi harus dibayar oleh tertanggung, sepe
 
 {{< read judul="Asuransi Mobil All Risk dan TLO, Apa Saja Perbedaannya?" link="/07/20/2021/asuransi-mobil-all-risk-dan-tlo" gambar="/wp-image/perbedaan-asuransi-mobil-all-risk-dan-tlo-2021-07-19.jpg" >}}
 
-**Baca Juga:** [\*\*\*\*](https://www.emakbloger.com/)
-
 ### 4. Pengawasan dana
 
 Dari segi pengawasan dana asuransi sangat penting sifatnya. berikut perbedaan asuransi syariah dan konvensional mengenai pengawasan dana nasabah.
@@ -77,8 +75,6 @@ Zakat adalah harga khusus yang harus dibayarkan umat Islam kepada golongan yang 
 Namun, hal ini tidak ada aturan wakaf dan zakat dalam asuransi konvensional. Pembayaran dokumen dapat dilakukan kepada ahli waris sesuai dengan peraturan yang berlaku.
 
 {{< read judul="Yuk Pahami Manfaat Asuransi Jiwa Seumur Hidup" link="/07/17/2021/manfaat-asuransi-jiwa-seumur-hidup" gambar="/wp-image/manfaat-asuransi-jiwa-seumur-hidup-2021-07-17.jpg" >}}
-
-**Baca Juga:** [\*\*\*\*](https://www.emakbloger.com/)
 
 ### 7. Klaim Asuransi
 

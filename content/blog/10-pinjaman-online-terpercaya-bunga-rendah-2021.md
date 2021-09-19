@@ -34,7 +34,13 @@ Di pinjol bunga rendah ojk Tunaiku, Anda dapat menarik pinjaman online mulai dar
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikumobile.app&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="121 Daftar Pinjol legal Resmi Terdaftar di OJK" link="/daftar-pinjol-legal-ojk/08252021/" gambar="/wp-image/danafix-2021-08-19.jpg" >}}
 
 ### 2. Kredivo
 
@@ -46,7 +52,11 @@ Produk pinjol resmi bunga rendah yang ditawarkan diberikan dalam jangka waktu ci
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.finaccel.android&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 3. Akulaku
 
@@ -58,7 +68,11 @@ Selain itu, ada bunga bulanan sebesar 1,5 persen dari pokok pinjaman. Apakah and
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=io.silvrr.installment&hl=in&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 4. UangTeman
 
@@ -82,7 +96,13 @@ Anda dapat mengajukan pinjaman Rp 5 juta sampai Rp 20 juta dengan tenor atau mas
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="7 Aplikasi Pinjaman Uang Online 2021" link="/07232021/aplikasi-pinjaman-uang-online/" gambar="/wp-image/aplikasi-pinjaman-uang-online-2021-07-22.jpg" >}}
 
 ### 5. Julo
 
@@ -94,7 +114,11 @@ Tertarik mengajukan pinjol di aplikasi pinjaman online tercepat Julo? jika iya s
 
 {{< ads1 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} {{< btn-orange link="/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 ### 6. AdaKami
 
@@ -104,7 +128,11 @@ Dari daftar fintech legal ojk 2021 AdaKami menjadi salah satunya. Pinjol ini mem
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.adakami.dana.kredit.pinjaman&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 7. Tokopedia
 
@@ -116,7 +144,11 @@ Pinjaman online yang dapat diajukan dibatasi Rp 1 juta rupiah hingga 3 miliar. C
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.tokopedia.tkpd&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 8. Kredit Pintar
 
@@ -128,7 +160,11 @@ Tertarik mengajukan pinjol di pinjaman online yang masuk bi checking seperti Kre
 
 {{< ads1 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-kredit-pintar/09112021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 ### 9. Uang Me
 
@@ -138,7 +174,13 @@ Selain beberapa daftar pinjol ojk terbaru, Uang Me memiliki motto "Pinjam uang s
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.cmcm.uangme&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="7 Aplikasi Pinjaman Online Bunga Rendah cepat Cair" link="/aplikasi-pinjaman-online-bunga-rendah/08142021/" gambar="/wp-image/aplikasi-pinjaman-online-bunga-rendah-2021-08-14.jpg" >}}
 
 ### 10. Rupiah Cepat
 
@@ -150,7 +192,11 @@ Jika anda masih ragu mengenai pinjaman online Rupiah Cepat mengenai keamanannya,
 
 {{< ads1 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-rupiah-cepat/09132021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 ## Kesimpulan
 

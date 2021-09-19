@@ -56,7 +56,11 @@ Selain menjadi salah satu perusaan asuransi terbaik di Indonesia 2021, Asuransi 
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/Asuransi+Astra+(Garda+Oto)+-+Branch+Medan,+Jl.+Imam+Bonjol+No.15+A,+Petisah+Tengah,+Medan+Petisah,+Medan+City,+North+Sumatra+20112/@-2.0383924,95.6064695,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x30313034a6d745d7:0xedfb7e517ed151e2!2m2!1d98.6750355!2d3.5843091" text="Cek Lokasi" >}} | {{< btn-blue link="https://www.gardaoto.com/" text="Kunjungi Web" >}}
+
+{{% /center %}}
 
 Ada begitu banyak keuntungan yang bisa anda dapatkan jika memilih dan membeli produk asuransi mobil Astra. Selain itu, cara klaim dan pembelian asuransi juga bisa anda lakukan melalui aplikasi secara online.
 
@@ -87,7 +91,11 @@ Selain itu, Asuransi ACA memiliki 1 kantor pusat, 2 kantor pusat operasional, da
 
 {{< ads2 >}}
 
+{{% center %}}
+
 {{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/PT+Asuransi+Central+Asia+-+Perwakilan+Medan+Serdang,+Komplek+Serdang+Mas,+Jl.+Prof.+HM.+Yamin+Sh+A+No.1,+Sei+Kera+Hulu,+Kec.+Medan+Perjuangan,+Kota+Medan,+Sumatera+Utara+20233/@-2.0385022,95.6190229,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x303131bec450f24b:0xba9b5dd93818e8bc!2m2!1d98.6988661!2d3.5981718" text="Cek Lokasi" >}} | {{< btn-blue link="https://www.aca.co.id/home" text="Kunjungi Web" >}}
+
+{{% /center %}}
 
 Sekilas tentang ACA, perusaan yang sudah berumur lebih dari setengah abad ini memang memiliki banyak keuntungan yang ditawarkannya. Selain itu pelayanan yang anda dapatkan juga pastinya memuaskan.
 
@@ -112,6 +120,8 @@ Comprehensive dapat diartikan keseluruhan risiko. Ini berarti perusahaan asurans
 - Gempa bumi, tsunami, letusan gunung berapi.
 - Tanggung Jawab Hukum Pihak ke-3.
 
+{{< read judul="Perbedaan Asuransi Mobil All risk dan TLO" link="/07/20/2021/asuransi-mobil-all-risk-dan-tlo/" gambar="/wp-image/perbedaan-asuransi-mobil-all-risk-dan-tlo-2021-07-19.jpg" >}}
+
 #### Keuntungan Garda Center
 
 Sebagai perusaan yang sudah cukup ternama, Asuransi Astra Garda Center nemawarkan banyak keuntungan bagi nasabah mereka, yaitu:
@@ -129,7 +139,11 @@ Sebagai perusaan yang sudah cukup ternama, Asuransi Astra Garda Center nemawarka
 
 {{< ads3 >}}
 
+{{% center %}}
+
 {{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/Asuransi+Astra+(Garda+Center)+-+Brastagi+Supermarket,+Brastagi+Supermarket+Lantai+GF+samping,+Jl.+Gatot+Subroto,+Sei+Putih+Tengah,+Medan+Petisah,+Medan+City,+North+Sumatra+20112/@-2.0383924,95.6010878,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x30312e26012b8a2d:0x5ce37ae2978536ce!2m2!1d98.6631097!2d3.5919557" text="Cek Lokasi" >}} | {{< btn-blue link="https://www.asuransiastra.com/" text="Kunjungi Web" >}}
+
+{{% /center %}}
 
 Apakah anda tertarik untuk mengasuransikan mobil anda di Asuransi Astra Garda Center? ada banyak keungungan yang bisa anda dapatkan, selain itu ada banyak promo juga.
 
@@ -154,6 +168,8 @@ Bukti dari perusaan asuransi apakah mereka layak untuk anda pilih atau tidak yai
 Dari sekian banyaknya asuransi mobil terbaik di Indonesia, mungkin ada beberapa diantaranya yang terkadang sulit jika pengajuan klaim. Nah, agar anda tidak merasa dirugikan patutlah untuk melihat review dari asuransi mobil tersebut, apakah proses klaimnya termasuk mudah.
 
 {{< ads1 >}}
+
+{{< read judul="Cara Klaim Asuransi Qoala dengan Mudah" link="/tips-dan-cara-klaim-asuransi-qoala-dengan-mudah/" gambar="/wp-image/cara-klaim-asuransi-qoala-2021-07-16.jpg" >}}
 
 ### 5. Memiliki Pertner
 
