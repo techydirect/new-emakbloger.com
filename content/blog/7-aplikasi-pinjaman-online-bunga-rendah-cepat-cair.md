@@ -40,7 +40,13 @@ Anda hanya perlu menyiapkan KTP untuk mengajukan pinjol resmi bunga rendah ini. 
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.finaccel.android&hl=en&gl=US" text="Install Aplikasi">}}
+
+{{% /center %}}
+
+{{< read judul="7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah" link="/pinjol-resmi-ojk-bunga-rendah/08202021/" gambar="/wp-image/pinjol-resmi-ojk-bunga-rendah-2021-08-19.jpg" >}}
 
 ### 2. Pinjam Yuk
 
@@ -54,7 +60,11 @@ Pinjaman online ini menerapkan bunga yang ditetapkan, biasanya bunga harian. Jik
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.kkii&hl=en&gl=US" text="Install Aplikasi">}}
+
+{{% /center %}}
 
 ### 3. Julo
 
@@ -68,7 +78,13 @@ Anda akan memenuhi syarat untuk mengajukan pinjol resmi ojk bunga rendah ini jik
 
 {{< ads1 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Install Aplikasi">}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Install Aplikasi">}} | {{< btn-orange link="/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
+
+{{< read judul="15 Pinjol Terbaik Bunga Rendah Terdaftar di OJK" link="/pinjol-bunga-rendah-ojk/08152021/" gambar="/wp-image/pinjol-bunga-rendah-ojk-2021-08-15.jpg" >}}
 
 ### 4. UangMe
 
@@ -80,7 +96,11 @@ Untuk mengajukan pinjaman pada aplikasi pinjaman online tercepat UangMe, Anda ha
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.cmcm.uangme&hl=en&gl=US" text="Install Aplikasi">}}
+
+{{% /center %}}
 
 ### 5. Tunai Kita
 
@@ -92,7 +112,11 @@ Tunai Kita menerapkan biaya layanan harian sebesar 0,95% per hari dan juga biaya
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikita.cashloan&hl=en&gl=ID" text="Install Aplikasi">}}
+
+{{% /center %}}
 
 ### 6. Dana Rupiah
 
@@ -104,7 +128,11 @@ Dengan modal KTP dan memiliki rekening bank, Anda bisa mendapatkan pinjaman uang
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.danarupiah.weshare.jiekuan&hl=en&gl=US" text="Install Aplikasi">}}
+
+{{% /center %}}
 
 ### 7. Uang Teman
 
@@ -116,7 +144,13 @@ Berbeda dengan daftar pinjol ojk terbaru lainnya, Uang Teman tidak menggunakan s
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Install Aplikasi">}}
+
+{{% /center %}}
+
+{{< read judul="5 Aplikasi Pinjaman Online Langsung Cair 24 Jam" link="/aplikasi-pinjaman-online-langsung-cair/08152021/" gambar="/wp-image/aplikasi-pinjaman-online-langsung-cair-2021-08-14.jpg" >}}
 
 ## Tips Memilih Pinjaman Online
 
@@ -145,6 +179,8 @@ Karena secara logika kita akan meminjam uang, artinya kita membutuhkan uang, mem
 Memiliki customer service bisa menjadi acuan dan juga menjadi tolak ukur apakah aplikasi pinjaman online bunga rendah itu terpercaya atau tidak. Ini adalah salah satu persyaratan yang disarankan oleh OJK untuk verifikasi. Layanan pelanggan harus ada untuk melayani keluhan pelanggan. CS ini juga harus kolaboratif dan mudah dihubungi oleh calon debitur.
 
 Tetapi perlu diketahui juga bahwa beberapa hanya memberikan alamat email keluhan dan ternyata semacam mesin penjawab yang secara otomatis akan menjawab pertanyaan Anda. Sebaiknya pilih nomor dengan nomor telepon untuk dihubungi.
+
+{{< read judul="5 Daftar Pinjol Resmi Bunga Rendah 2021" link="/pinjol-resmi-bunga-rendah/08152021/" gambar="/wp-image/pinjol-resmi-bunga-rendah-2021-08-15.jpg" >}}
 
 ### 5. Pelajari situsnya
 

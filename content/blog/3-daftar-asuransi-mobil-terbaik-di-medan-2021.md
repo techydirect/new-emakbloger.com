@@ -13,6 +13,7 @@ tags = ["garda oto", "asuransi central asia", "garda center"]
 title = "3 Daftar Asuransi Mobil Terbaik di Medan 2021"
 
 +++
+
 [**Emakbloger.com**](/) - Semakin bertambahnya jumlah kendaraan di Indonesia membuat perusaan asuransi membangun beberapa cabang di berbagai daerah yang ada di Indonesia, salah satunya ada Asuransi mobil terbaik di Medan 2021.
 
 Dari berbagai asuransi mobil tersebut, tentunya yang mengisi dan menjadi teratas adalah perusahaan - perusahaan asuransi yang sudah lama berdiri di Indonesia, salah satunya Garda Oto.
@@ -39,25 +40,27 @@ Bahkan Asuransi Astra (Garda Oto) tidak hanya melayani perlindungan untuk asuran
 
 Selain menjadi salah satu perusaan asuransi terbaik di Indonesia 2021, Asuransi Astra (Garda Oto) juga memiliki banyak keuntungan yang di dapat jika membeli produk asuransi mereka.
 
-* Terpercaya dan sudah terdaftar di Otoritas Jasa Keuangan (OJK).
-* Berbagai jenis pilihan proteksi. Proses cepat dan bisa dilakukan
-* secara online. Premi terjangkau dan disertai banyak promo
-* menarik. Jaringan luas dan memiliki banyak bengkel rekanan.
-* Bantuan darurat siap siaga hingga 24 jam.
-* Mendapatkan garansi perbaikan dan suku cadang mobil asli.
-* Mendapatkan mobil pengganti selama mobil nasabah dalam perbaikan.
+- Terpercaya dan sudah terdaftar di Otoritas Jasa Keuangan (OJK).
+- Berbagai jenis pilihan proteksi. Proses cepat dan bisa dilakukan
+- secara online. Premi terjangkau dan disertai banyak promo
+- menarik. Jaringan luas dan memiliki banyak bengkel rekanan.
+- Bantuan darurat siap siaga hingga 24 jam.
+- Mendapatkan garansi perbaikan dan suku cadang mobil asli.
+- Mendapatkan mobil pengganti selama mobil nasabah dalam perbaikan.
 
 #### Kontak & Alamat Cabang Medan
 
-* Alamat: Asuransi Astra (Garda Oto) - Branch Medan, Jl. Imam Bonjol No.15 A, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20112
-* Phone: 1 500 112
-* Email: cs@asuransiastra.com
+- Alamat: Asuransi Astra (Garda Oto) - Branch Medan, Jl. Imam Bonjol No.15 A, Petisah Tengah, Medan Petisah, Medan City, North Sumatra 20112
+- Phone: 1 500 112
+- Email: cs@asuransiastra.com
 
 {{< ads1 >}}
 
 {{< btn-red link="https://www.google.com/maps/dir/-7.722834,110.3904599/Asuransi+Astra+(Garda+Oto)+-+Branch+Medan,+Jl.+Imam+Bonjol+No.15+A,+Petisah+Tengah,+Medan+Petisah,+Medan+City,+North+Sumatra+20112/@-2.0383924,95.6064695,5z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x30313034a6d745d7:0xedfb7e517ed151e2!2m2!1d98.6750355!2d3.5843091" text="Cek Lokasi" >}} | {{< btn-blue link="https://www.gardaoto.com/" text="Kunjungi Web" >}}
 
 Ada begitu banyak keuntungan yang bisa anda dapatkan jika memilih dan membeli produk asuransi mobil Astra. Selain itu, cara klaim dan pembelian asuransi juga bisa anda lakukan melalui aplikasi secara online.
+
+{{< read judul="5 Asuransi Mobil Terbaik 2021" link="/07/19/2021/asuransi-mobil-terbaik" gambar="/wp-image/asuransi-mobil-terbaik-2021-07-18.jpg" >}}
 
 ### 2. Asuransi Central Asia (ACA)
 
@@ -69,18 +72,18 @@ Selain itu, Asuransi ACA memiliki 1 kantor pusat, 2 kantor pusat operasional, da
 
 #### Keuntungan
 
-* Layanan Hotline hingga 24 jam yang siap melayani anda jika terjadi gangguan darurat atau kerusakan pada mobil anda.
-* Memiliki Kantor Cabang dan Perwakilan yang tersebar di seluruh wilayah Indonesia, termasuk di Medan.
-* Setiap pembelian produk asuransi ACA, nasabah akan mendapatkan poin reward yang dapat ditukarkan dengan merchandise menarik.
-* Memiliki banyak bengkel rekanan.
-* Memiliki mobil pengganti, sehingga Anda tetap bisa beraktifitas ketika mobil masuk bengkel.
-* Memiliki begitu banyak partner perusahaan besar yang mempercayakan perlindungan asuransinya kepada ACA.
+- Layanan Hotline hingga 24 jam yang siap melayani anda jika terjadi gangguan darurat atau kerusakan pada mobil anda.
+- Memiliki Kantor Cabang dan Perwakilan yang tersebar di seluruh wilayah Indonesia, termasuk di Medan.
+- Setiap pembelian produk asuransi ACA, nasabah akan mendapatkan poin reward yang dapat ditukarkan dengan merchandise menarik.
+- Memiliki banyak bengkel rekanan.
+- Memiliki mobil pengganti, sehingga Anda tetap bisa beraktifitas ketika mobil masuk bengkel.
+- Memiliki begitu banyak partner perusahaan besar yang mempercayakan perlindungan asuransinya kepada ACA.
 
 #### Alamat & Kontak Cabang Medan
 
-* Alamat: Komplek Serdang Mas, Jl. Prof. HM. Yamin Sh A No.1, Sei Kera Hulu, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20233.
-* Phone: 021-31999100
-* Email: cust-aca@aca.co.id
+- Alamat: Komplek Serdang Mas, Jl. Prof. HM. Yamin Sh A No.1, Sei Kera Hulu, Kec. Medan Perjuangan, Kota Medan, Sumatera Utara 20233.
+- Phone: 021-31999100
+- Email: cust-aca@aca.co.id
 
 {{< ads2 >}}
 
@@ -104,25 +107,25 @@ Secara definisi Total Loss Only (TLO) artinya “hanya kehilangan total”. Dala
 
 Comprehensive dapat diartikan keseluruhan risiko. Ini berarti perusahaan asuransi akan membayar klaim untuk semua jenis kerusakan, mulai dari yang ringan, rusak berat, hingga kehilangan. Agar perlindungan terhadap mobil lebih optimal, Anda bisa menambahkan perluasan jaminan dalam polis asuransi Anda. Perluasan jaminan ini diantaranya meliputi:
 
-* Kerusuhan, Huru-hara.
-* Angin topan, badai, banjir & tanah longsor.
-* Gempa bumi, tsunami, letusan gunung berapi.
-* Tanggung Jawab Hukum Pihak ke-3.
+- Kerusuhan, Huru-hara.
+- Angin topan, badai, banjir & tanah longsor.
+- Gempa bumi, tsunami, letusan gunung berapi.
+- Tanggung Jawab Hukum Pihak ke-3.
 
 #### Keuntungan Garda Center
 
 Sebagai perusaan yang sudah cukup ternama, Asuransi Astra Garda Center nemawarkan banyak keuntungan bagi nasabah mereka, yaitu:
 
-* Cara klaim asuransi sangat mudah dan bisa anda lakukan melalui aplikasi.
-* Memberikan akses pelayanan hingga 24 jam.
-* Layanan bantuan darurat.
-* Garansi hasil kerja bengkel dan suku cadang pergantian dengan suku cadang asli.
+- Cara klaim asuransi sangat mudah dan bisa anda lakukan melalui aplikasi.
+- Memberikan akses pelayanan hingga 24 jam.
+- Layanan bantuan darurat.
+- Garansi hasil kerja bengkel dan suku cadang pergantian dengan suku cadang asli.
 
 #### Alamat & Kontak Cabang Medan
 
-* Alamat: Asuransi Astra (Garda Center) - Brastagi Supermarket, Brastagi Supermarket Lantai GF samping, Jl. Gatot Subroto, Sei Putih Tengah, Medan Petisah, Medan City, North Sumatra 20112.
-* Phone: 1 500 112
-* Email: cs@asuransiastra.com
+- Alamat: Asuransi Astra (Garda Center) - Brastagi Supermarket, Brastagi Supermarket Lantai GF samping, Jl. Gatot Subroto, Sei Putih Tengah, Medan Petisah, Medan City, North Sumatra 20112.
+- Phone: 1 500 112
+- Email: cs@asuransiastra.com
 
 {{< ads3 >}}
 

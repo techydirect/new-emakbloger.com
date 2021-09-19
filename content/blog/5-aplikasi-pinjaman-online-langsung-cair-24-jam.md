@@ -26,6 +26,8 @@ Sayangnya, tidak semua orang mendapat slip gaji, atau tidak semua orang mendapat
 
 Masih ada penyedia layanan aplikasi pinjaman online langsung cair yang tidak memerlukan tanda slip gaji bulanan untuk dapat diterima dalam 24 jam. Apa saja? Berikut rekomendasi pinjaman online terpercaya bunga rendah tanpa repot yang dapat membantu kebutuhan finansial Anda!
 
+{{< read judul="7 Aplikasi Pinjaman Online Bunga Rendah cepat Cair" link="/aplikasi-pinjaman-online-bunga-rendah/08142021" gambar="/wp-image/aplikasi-pinjaman-online-bunga-rendah-2021-08-14.jpg" >}}
+
 ## Daftar Pinjol OJK langsung Cair
 
 Nah, untuk memilih aplikasi pinjaman online langsung cair dalam 24 jam, tidak hanya itu saja yang perlu anda perhatikan, melainkan juga apakah layanan pinjol tersebut terdaftar di OJK atau tidak. Pada artikel kali ini kami sedang mengulas beberapa aplikasi pinjol bunga rendah langsung cair, selengkapnya sebagai berikut.
@@ -40,7 +42,11 @@ Jumlah uang yang dapat dipinjamkan oleh aplikasi pinjaman online bunga ringan Da
 
 {{< ads2 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.danarupiah.weshare.jiekuan&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Syarat dan Bunga
 
@@ -63,7 +69,11 @@ Fitur lain dari DanaBijak adalah fitur gamification yang memberikan bonus kepada
 
 {{< ads3 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.danabijak2.mobile&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Syarat dan Bunga
 
@@ -77,6 +87,8 @@ Seperti yang telah kita singgung sebelumnya bahwa setiap pinjaman online memilik
 | Punya rekening bank aktif     | Biaya layanan terlambat: Rp10 ribu per hari          |
 | Tinggal di Jabodetabek        |                                                      |
 
+{{< read judul="5 Daftar Pinjol Resmi Bunga Rendah 2021" link="/pinjol-resmi-bunga-rendah/08152021" gambar="/wp-image/pinjol-resmi-bunga-rendah-2021-08-15.jpg" >}}
+
 ### 3. Tunaiku
 
 ![tunaiku](/wp-image/tunaiku-2021-08-14.jpg "tunaiku")
@@ -87,7 +99,11 @@ Sedangkan jika anda masih ragu untuk mengajukan pinjaman online pada aplikasi te
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikumobile.app&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Syarat dan Bunga
 
@@ -111,7 +127,11 @@ Dari daftar pinjol legal ojk diatas, Kredit pintar memiliki syarat berbeda dari 
 
 {{< ads2 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-kredit-pintar/09112021" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Syarat dan Bunga
 
@@ -133,7 +153,11 @@ KTA Kilat menawarkan dua jenis pinjaman, yaitu pinjaman berjangka 7 hari dan 30 
 
 {{< ads3 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.ktakilat.loan&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Syarat dan Bunga
 
@@ -146,6 +170,8 @@ Jika ada tertarik untuk mengajukan pinjaman online pada aplikasi KTA kilat, paha
 | Nomor ponsel aktif       | Biaya tagih: maksimal Rp35 ribu        |
 |                          | Biaya proses data: maksimal Rp42 ribu  |
 |                          | Biaya layanan: 0,2%                    |
+
+{{< read judul="7 Aplikasi Pinjaman Uang Online 2021" link="/07232021/aplikasi-pinjaman-uang-online" gambar="/wp-image/aplikasi-pinjaman-uang-online-2021-07-22.jpg" >}}
 
 ## Kesimpulan
 

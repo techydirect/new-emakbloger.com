@@ -20,6 +20,8 @@ Cara pendaftaran pinjaman yang mudah dan pencairan yang cepat menjadikan layanan
 
 Dan pastikan juga aplikasi pinjaman online langsung cair tersebut terdaftar resmi di Otoritas Jasa Keuangan (OJK) agar terhindar dari penipuan oleh perusahaan ilegal. Bagi yang sedang mencari jasa pinjam uang ada baiknya memahami terlebih dahulu pengertian pinjaman online dan rekomendasinya, termasuk cara menghindari pinjaman ilegal.
 
+{{< ads1 >}}
+
 ## 15 Pinjol Bunga Rendah OJK 2021
 
 Karena pinjaman online ini sangat rentan terhadap penipuan, maka ketika Anda mengambil pinjaman, hal pertama yang harus Anda perhatikan adalah apakah penyedia pinjaman tersebut terdaftar di Otoritas Jasa Keuangan (OJK) atau bisa kita sebut dengan pinjol bunga rendah OJK.
@@ -45,7 +47,11 @@ Adapun beberapa fitur yang ditawarkan oleh Kredit Pintar, yaitu sebagai berikut:
 - Biaya keterlambatan: 1 persen/hari.
 - Proses pelunasan dan pembayaran cicilan yang mudah bisa dilakukan via transfer lewat ATM, M-Banking, BluePay dan di semua cabang Alfa Group.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-kredit-pintar/09112021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -54,6 +60,8 @@ Sebagai penyedia aplikasi pinjol bunga rendah terpercaya, tentu Kredit Pintar me
 - Lokasi gedung: District 8 Treasury Tower lt 53, Sudirman Central Business District (SCBD) Lot 28. Jl. Jend Sudirman Kav 52-54, Senayan, Kebayoran Baru Jakarta Selatan 12190
 - Telepon: (021) 50598882
 - Email: cs@kreditpintar.com
+
+{{< read judul="121 Daftar Pinjol legal Resmi Terdaftar di OJK" link="/daftar-pinjol-legal-ojk/08252021/" gambar="/wp-image/danafix-2021-08-19.jpg" >}}
 
 ### 2. CashWagon
 
@@ -72,7 +80,11 @@ Lalu, apa saja fitur yang ditawarkan pinjol resmi ojk bunga rendah Cashwagon ter
 - Pencairan dalam 7 menit.
 - Bunga pinjaman 1 persen per hari.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=ph.cashwagon.mobile&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -100,7 +112,11 @@ Bukan hanya itu saja, adapun beberapa fitur yang ditawarkan oleh DanaBijak yakni
 - Waktu pemrosesan pinjaman 48 jam.
 - Dana dicairkan pada hari yang sama dengan hari persetujuan permohonan pinjaman.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.danabijak2.mobile&hl=in&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -127,7 +143,11 @@ Sebagai pinjaman online yang sudah terpercaya, tentu Dompet Kilat memiliki fitur
 - Pencairan dana kilat, kurang dari 10 menit.
 - Bunga kompetitif yaitu 0,1% per hari.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dompetkilat&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -136,6 +156,8 @@ Nah, untuk detai alamat dan kontak dari layanan aplikasi pinjaman online bunga r
 - Lokasi gedung: Indosurya Plaza, Penthouse Floor, Jalan M.H. Thamrin Kav 8-9, Jakarta 10230.
 - Telepon: (021) 400-00855
 - Email: hello@dompetkilat.co.id
+
+{{< read judul="10 Pinjaman Online Terpercaya Bunga Rendah 2021" link="/pinjaman-online-terpercaya-bunga-rendah/08162021/" gambar="/wp-image/pinjaman-online-terpercaya-bunga-rendah-2021-08-15.jpg" >}}
 
 ### 5. Uang Teman
 
@@ -153,7 +175,11 @@ Untuk UangTeman, adapaun beberapa fitur yang ditawarkan aplikasi pinjaman online
 - Durasi pinjaman maksimal 70 hari untuk Sekali Bayar dan 6 bulan untuk Cicilan dan Cicilan Ringan.
 - Bunga 9-18%.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -176,7 +202,11 @@ Jika pengajuan pinjaman di pinjol resmi bunga rendah MauCash disetujui, maka pen
 - Kemudahan pinjaman uang yang bisa dicicil dengan tenor yang cukup panjang, yaitu 4 bulan sampai 6 bulan.
 - Maksimal bunga per tahun sebesar 125 persen.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.maucash.app" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -201,13 +231,19 @@ KreditGo adalah produk layanan pinjol bunga rendah ojk berbasis Fintech dari Sin
 
 PinjamanGo termasuk pinjaman online terpercaya bunga rendah terbaik yang cepat cair karena proses pencairannya hanya butuh satu hari saja, jadi kamu bisa mengharapkan dapat jawaban jauh lebih cepat.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.pinjamango&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
 - Lokasi gedung: Sinar Mas Land Plaza, Tower I, 9th floor
 - Jl. M.H. Thamrin No. 51, Jakarta 10350 – Indonesia
 - Telepon: (021) 3003-3039
+
+{{< read judul="11 Aplikasi Pinjol Bunga Paling Rendah 2021" link="/aplikasi-pinjol-bunga-rendah/08172021/" gambar="/wp-image/aplikasi-pinjol-bunga-rendah-2021-08-16.jpg" >}}
 
 ### 8. Julo
 
@@ -226,7 +262,11 @@ Cara mengajukan pinjaman dari Julo Cukup unduh aplikasi kami di Google Play Stor
 
 Keunggulan dari Julo sebagai salah satu fintech pinjaman online terbaik adalah kemudahan pinjaman uang yang bisa dicicil dengan bunga 0% untuk bulan pertama. Jadi pengenaan bunga cicilan baru akan diberlakukan pada bulan kedua dan seterusnya.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-julo/18262021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -250,7 +290,11 @@ Persyaratan pinjam uang pribadi melalui aplikasi pinjaman online bunga ringan in
 - Pencairan pinjaman yang cepat.
 - Suku bunga yang kompetitif.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-indodana/09102021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -273,7 +317,11 @@ Langkah mengajukan pinjaman di pinjol resmi ojk bunga rendah Finmas adalah menga
 - Bunga hingga 0,47 persen per hari.
 - Pencairan pinjaman dalam 1×24 jam.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-finmas/09172021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -299,7 +347,11 @@ Pohon Dana memiliki empat produk pinjaman dana, yakni aplikasi pinjaman online t
 - bunga pinjaman 1,5 hingga 5 persen tanpa biaya lainnya.
 - Proses cepat 3 hari dan pencairan 2 jam setelah aplikasi disetujui.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.pohondana&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -323,7 +375,11 @@ Persyaratan untuk mengajukan Pinjaman Tunai Danamas Online adalah berusia minima
 - Bunga pinjaman sesuai dengan pendapatan pelaku usaha.
 - Pencairan dana akan ditransfer 1×24 jam setelah persetujuan.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=id.co.danamasbor&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -347,7 +403,11 @@ Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi sk
 - Tenor Pinjaman hingga 1 tahun.
 - Proses pengajuan cepat, dana langsung cair dalam waktu 15 menit.
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-rupiah-cepat/09132021/" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -356,6 +416,8 @@ Di Rubiah Fast, Anda dapat membangun riwayat kredit yang baik. Semakin tinggi sk
 - Jakarta Utara, DKI Jakarta
 - Telepon: 0815 5100 001
 - Email: cs@rupiahcepat.co.id
+
+{{< read judul="5 Aplikasi Pinjaman Online Pencairan Tercepat dan Mudah" link="/aplikasi-pinjaman-online-tercepat/08212021/" gambar="/wp-image/aplikasi-pinjaman-online-tercepat-2021-08-20.jpg" >}}
 
 ### 14. Alami
 
@@ -371,7 +433,11 @@ Berdasarkan bukti invoice invoice, Alami akan menawarkan kepada calon pemodal pe
 - Nilai pembiayaan yang disalurkan didasarkan pada nilai invoice yang dimiliki calon penerima pembiayaan. ALAMI akan mendanai maksimal 80% dari nilai invoice yang dimiliki.
 - Tenor pembiayaan Invoice Financing adalah 1 bulan sampai maksimal 6 bulan.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.alami_funder&hl=en_US&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 
@@ -402,7 +468,11 @@ Pinjaman dijamin karena bersertifikat ISO. Proses pendaftarannya juga mudah, dan
 - Pinjaman KoinGaji hingga 80 persen dari jumlah total gaji bulanan.
 - Bunga yang bakal dibebankan kepada peminjam berkisar dari 0,75 persen sampai 1,67 persen per bulan.
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.koinworks.app&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 #### Alamat dan Kontak
 

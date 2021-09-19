@@ -24,13 +24,15 @@ Jika dibandingkan dengan layanan pinjaman dari bank, ini memberikan pinjaman tek
 
 Nah, jika anda masih penasaran mengenai pinjaman online tersebut. Kali ini kami memberikan beberapa rekomendasi yang dapat anda jadikan pilihan yang tepat jika membutuhkan dana darurat.
 
+{{< read link="7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah" judul="7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah" gambar="/wp-image/pinjol-resmi-ojk-bunga-rendah-2021-08-19.jpg" >}}
+
 ## Daftar Aplikasi Pinjaman Online Tercepat
 
 Fintech lending di bawah ini berstatus resmi beroperasi di Indonesia dan sudah terdaftar di Otoritas jasa keuangan OJK. Lihat masing-masing fitur dan temukan yang paling sesuai dengan kebutuhan finansial Anda.
 
 ### 1. Kredit Pintar
 
-![](/wp-image/kredit-pintar-2021-08-15.jpg)
+![Kredit pintar](/wp-image/kredit-pintar-2021-08-15.jpg)
 
 Kredit Pintar adalah aplikasi pinjaman online tercepat tanpa agunan yang sudah ada sejak tahun 2017 dan saat ini berstatus resmi sebagai penyedia pinjaman online yang terdaftar dan diawasi oleh OJK.
 
@@ -38,11 +40,15 @@ Dengan Kredit Pintar, nasabah hanya perlu menyertakan foto KTP sebagai syarat me
 
 {{< ads2 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.kreditpintar&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-kredit-pintar/09112021" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 ### 2. IndoDana
 
-![](/wp-image/indodana-2021-08-15.jpg)
+![IndoDana](/wp-image/indodana-2021-08-15.jpg)
 
 IndoDana adalah aplikasi pinjaman online tercepat yang menyediakan layanan pinjaman tunai dan bayar kemudian, dalam satu aplikasi. Dalam layanan bayar nanti. IndoDana telah menjalin kerjasama dengan banyak merchant di Indonesia, seperti iStyle, Sepulsa dan lain-lain.
 
@@ -52,11 +58,17 @@ Untuk menikmati layanan yang disediakan dalam aplikasi, pelanggan harus memiliki
 
 {{< ads3 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.indodana.app" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-indodana/09102021" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
+
+{{< read judul="7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah" link="/pinjol-resmi-ojk-bunga-rendah/08202021" gambar="/wp-image/pinjol-resmi-ojk-bunga-rendah-2021-08-19.jpg" >}}
 
 ### 3. Julo
 
-![](/wp-image/julo-2021-08-14.jpg)
+![Julo](/wp-image/julo-2021-08-14.jpg)
 
 Julo adalah apliaksi pemberi pinjaman online tercepat yang resmi beroperasi di Indonesia. Dengan Julo, nasabah bisa mendapatkan pinjaman hingga 8 juta rupiah. Estimasi pencairan dana ke rekening setelah persetujuan diperoleh 2 x 24 jam.
 
@@ -64,11 +76,15 @@ Jika nasabah membayar cicilan/mengembalikan pinjaman lebih awal dari masa tengga
 
 {{< ads1 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-julo/18262021" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 ### 4. Koinworks
 
-![](/wp-image/koinworks-2021-08-15.jpg)
+![Koinworks](/wp-image/koinworks-2021-08-15.jpg)
 
 Sebagai aplikasi pinjaman online tercepat, Koinworks menyediakan dua jenis layanan berdasarkan kategori pengguna, yaitu bisnis dan pribadi. Bagi pengguna bisnis, persyaratan untuk mengajukan pinjaman berupa KTP pengelola/pemilik perusahaan, NPWP perusahaan, perubahan rekening 3 bulan terakhir, dan laporan keuangan.
 
@@ -78,16 +94,26 @@ Tidak hanya dapat mengajukan pinjaman, pelanggan Koinworks juga dapat menjadi in
 
 {{< ads2 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.koinworks.app&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="11 Aplikasi Pinjol Bunga Paling Rendah 2021" link="/aplikasi-pinjol-bunga-rendah/08172021" gambar="/wp-image/aplikasi-pinjol-bunga-rendah-2021-08-16.jpg" >}}
 
 ### 5. Rupiah Cepat
 
-![](/wp-image/rupiah-cepat-2021-08-15.jpg)
+![Rupiah Cepat](/wp-image/rupiah-cepat-2021-08-15.jpg)
 
 Rupiah Cepat adalah salah satu aplikasi pinjaman online tercepat yang telah memiliki lisensi dan pengawasan dari OJK, menjadikannya salah satu pemberi pinjaman keuangan yang resmi beroperasi di Indonesia. Aplikasi ini menawarkan aplikasi pinjaman hingga 20 juta dengan jangka waktu 3 bulan.
 
 {{< ads3 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.loan.cash.credit.easy.kilat.cepat.pinjam.uang.dana.rupiah&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 Itulah 5 rekomendasi aplikasi pinjaman online tercepat resmi di Indonesia yang telah memiliki izin dari OJK. Saat Anda membutuhkan dana cepat keluar, pastikan aplikasi pilihan Anda adalah aplikasi pinjaman online resmi untuk menghindari penipuan pinjaman online ilegal.

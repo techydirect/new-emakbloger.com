@@ -44,6 +44,8 @@ Julo menawarkan pinjaman mulai dari Rp 2.000.000 hingga Rp 8.000.000 dengan jang
 
 Selain itu, Julo juga memberikan cashback setiap pelanggan membayar premi dan mengadakan berbagai undian berhadiah menarik lho. Tak perlu khawatir, Julo resmi terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK).
 
+{{< read judul="Cara Pinjam di Julo Agar Mudah & Cepat Cair" link="/cara-pinjam-di-julo/18262021/" gambar="/wp-image/cara-pinjam-di-julo-2021-08-25.jpg" >}}
+
 ### 2. Kredit pintar
 
 Kredit Pintar merupakan salah satu aplikasi pinjaman uang online cepat cair yang berdiri sejak akhir tahun 2017. Sejauh ini, Kredit Pintar telah mencairkan dana pinjaman sekitar Rp 6 triliun dan memiliki 400.000 peminjam aktif.
@@ -61,6 +63,8 @@ Modalku menghubungkan UMKM dan pemodal potensial untuk mendukung pertumbuhan eko
 
 {{< ads1 >}}
 
+{{< read judul="7 Pinjol Resmi Terdaftar di OJK dengan Bunga Rendah" link="/pinjol-resmi-ojk-bunga-rendah/08202021/" gambar="/wp-image/pinjol-resmi-ojk-bunga-rendah-2021-08-19.jpg" >}}
+
 ### 4. Tunaiku
 
 Aplikasi pinjaman uang online pencairan cepat selanjutnya yang akan dibahas adalah Tunaiku. Tunaiku adalah pinjaman online cepat yang dibuat sejak tahun 2001. Dengan Tunaiku, Anda dapat mengajukan pinjaman hingga Rp20.000.000! Bunga yang ditawarkan Tunaiku Quick Loan Online adalah 3-4% per bulan. Anda dapat membayar kembali pinjaman Anda dari 6 bulan hingga 20 bulan.
@@ -70,6 +74,8 @@ Aplikasi pinjaman uang online pencairan cepat selanjutnya yang akan dibahas adal
 Saya masih belum memikirkan aplikasi pinjaman uang online cepat cair mana yang paling cocok? Masih ada beberapa pinjaman online pencairan cepat yang akan kita bahas. Dana Bijak adalah salah satunya.
 
 Dengan Wise Fund, Anda bisa meminjam hingga 3 juta rupiah dengan jangka waktu pengembalian hingga 30 hari. Jika Anda ingin meminjam dari Dana Bijak, Anda harus berusia di atas 21 tahun berwarga Negara Indonesia, memiliki buku tabungan dan rekening bank yang aktif, KTP, email, nomor telepon yang aktif, dan memiliki penghasilan minimal Rp 1.600.000 perbulannya.
+
+{{< read judul="121 Daftar Pinjol legal Resmi Terdaftar di OJK" link="/daftar-pinjol-legal-ojk/08252021/" gambar="/wp-image/danafix-2021-08-19.jpg" >}}
 
 ### 6. Cicil - Pinjaman Online Mahasiswa
 

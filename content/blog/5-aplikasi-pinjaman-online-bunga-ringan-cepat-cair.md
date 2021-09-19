@@ -36,7 +36,11 @@ Tak hanya itu, jangka waktu cicilannya juga panjang, yakni berkisar antara 6 hin
 
 {{< ads2 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.tunaikumobile.app&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
 
 ### 2. Uang Teman
 
@@ -48,7 +52,13 @@ Plafon pinjol resmi ojk bunga rendah yang ditawarkan mulai dari Rp 1 juta hingga
 
 {{< ads2 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.dai.uangteman&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="5 Aplikasi Pinjaman Online Langsung Cair 24 Jam" link="/aplikasi-pinjaman-online-langsung-cair/08152021" gambar="/wp-image/aplikasi-pinjaman-online-langsung-cair-2021-08-14.jpg" >}}
 
 ### 3. Finmas
 
@@ -60,7 +70,11 @@ Anda bisa melakukan pinjol di aplikasi pinjaman online tercepat Finmas ini mulai
 
 {{< ads3 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.oriente.finmas&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-finmas/09172021" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 ### 4. Kredivo
 
@@ -72,7 +86,13 @@ Dari daftar fintech legal ojk 2021 sebelumya, Kredivo menjadi salah satu yang pa
 
 {{< ads1 >}}
 
+{{% center %}}
+
 {{< btn-green link="https://play.google.com/store/apps/details?id=com.finaccel.android&hl=en&gl=US" text="Instal Aplikasi" >}}
+
+{{% /center %}}
+
+{{< read judul="7 Aplikasi Pinjaman Online Bunga Rendah cepat Cair" link="/aplikasi-pinjaman-online-bunga-rendah/08142021" gambar="/wp-image/aplikasi-pinjaman-online-bunga-rendah-2021-08-14.jpg" >}}
 
 ### 5. Julo
 
@@ -86,6 +106,10 @@ Anda juga tidak perlu khawatir karena Julo merupakan salah satu dari pinjaman on
 
 {{< ads2 >}}
 
-{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}}
+{{% center %}}
+
+{{< btn-green link="https://play.google.com/store/apps/details?id=com.julofinance.juloapp&hl=en&gl=US" text="Instal Aplikasi" >}} | {{< btn-orange link="/cara-pinjam-di-julo/18262021" text="Ajukan Pinjaman" >}}
+
+{{% /center %}}
 
 Dari daftar pinjol ojk terbaru di atas, Anda dapat memilih salah satu aplikasi pinjaman online yang paling sesuai dengan kebutuhan Anda. Apakah Anda mengajukan pinjaman di Tunaiku yang menawarkan cap besar dengan cicilan jangka panjang atau aplikasi pinjaman lainnya. Pastikan aplikasi yang Anda pilih terdaftar resmi di OJK dan menawarkan tingkat bunga yang rendah.
